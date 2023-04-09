@@ -139,7 +139,7 @@ cleaned_all_cities <- list.files(pattern='csv') %>%
   read_csv() %>% 
   bind_rows()
 ```
-The combined dataset is then exported to the the directory `../aggregated_data/` as the file [cleaned_all_cities.csv](data/aggregated_data/cleaned_all_cities.csv). 
+The combined dataset is then exported to the the directory `../aggregated_data/` as the file [cleaned_all_cities.csv](data/aggregated_data/cleaned_all_cities.csv).  Data for St. Louis has been omitted from this file, since the benchmarking data for St. Louis are not publicly available.  
 
 ## Analysis
 The R script `bps_data_analysis.R` replicates the analysis from the paper.
