@@ -1,0 +1,841 @@
+city,prop_id,facility_type,floor_area,site_eui
+Philadelphia,1,Multifamily Housing,78275,145.9
+Philadelphia,2,Multifamily Housing,878176,16.9
+Philadelphia,3,Multifamily Housing,171098,37
+Philadelphia,4,Office,79034,50.9
+Philadelphia,5,K-12 School,86394,40.9
+Philadelphia,6,Multifamily Housing,521968,34.9
+Philadelphia,7,Office,526472,72
+Philadelphia,8,Office,89150,52.7
+Philadelphia,9,Office,415482,73.5
+Philadelphia,10,Office,365000,78.6
+Philadelphia,11,Multifamily Housing,129330,52.9
+Philadelphia,12,Multifamily Housing,339779,62.2
+Philadelphia,13,K-12 School,70200,88.1
+Philadelphia,14,K-12 School,74885,44.7
+Philadelphia,15,Office,109842,57.3
+Philadelphia,16,Office,145375,115.7
+Philadelphia,17,K-12 School,184000,32.6
+Philadelphia,18,Multifamily Housing,98656,60.6
+Philadelphia,19,Multifamily Housing,134673,121.7
+Philadelphia,20,Office,136566,162.1
+Philadelphia,21,Office,191783,180.7
+Philadelphia,22,Office,808040,70.7
+Philadelphia,23,Multifamily Housing,73000,26.8
+Philadelphia,24,Multifamily Housing,50100,26.8
+Philadelphia,25,Multifamily Housing,83286,33.1
+Philadelphia,26,Multifamily Housing,79733,79.2
+Philadelphia,27,Office,70494,63.2
+Philadelphia,28,Office,470615,173.9
+Philadelphia,29,Multifamily Housing,83925,40.6
+Philadelphia,30,Multifamily Housing,55620,83.2
+Philadelphia,31,Multifamily Housing,82608,72.2
+Philadelphia,32,Multifamily Housing,58765,73.3
+Philadelphia,33,Multifamily Housing,61918,29.5
+Philadelphia,34,Office,135000,48.6
+Philadelphia,35,K-12 School,346000,59.9
+Philadelphia,36,K-12 School,89159,54.5
+Philadelphia,37,Multifamily Housing,106100,41.3
+Philadelphia,38,K-12 School,68235,196.1
+Philadelphia,39,Multifamily Housing,52000,23.4
+Philadelphia,40,Multifamily Housing,50997,7.8
+Philadelphia,41,Multifamily Housing,53591,84.5
+Philadelphia,42,Multifamily Housing,163400,77.4
+Philadelphia,43,Office,51024,46.2
+Philadelphia,44,Office,118036,75.8
+Philadelphia,45,Multifamily Housing,195399,44.8
+Philadelphia,46,Multifamily Housing,66000,49.1
+Philadelphia,47,Multifamily Housing,206391,33.7
+Philadelphia,48,K-12 School,185206,15
+Philadelphia,49,K-12 School,168259,15.8
+Philadelphia,50,Multifamily Housing,214097,66.4
+Philadelphia,51,K-12 School,67701,57.1
+Philadelphia,52,Multifamily Housing,248832,42.8
+Philadelphia,53,K-12 School,88000,55.6
+Philadelphia,54,K-12 School,118000,41.5
+Philadelphia,55,Multifamily Housing,150000,48.2
+Philadelphia,56,Office,759072,57
+Philadelphia,57,K-12 School,59000,98.9
+Philadelphia,58,Multifamily Housing,95134,57.5
+Philadelphia,59,Multifamily Housing,275068,65.8
+Philadelphia,60,K-12 School,85550,58.4
+Philadelphia,61,K-12 School,173550,126.8
+Philadelphia,62,Multifamily Housing,444600,59.1
+Philadelphia,63,Office,413228,65.5
+Philadelphia,64,K-12 School,283950,60.4
+Philadelphia,65,Multifamily Housing,120000,51.9
+Philadelphia,66,K-12 School,68000,92.4
+Philadelphia,67,Multifamily Housing,81616,39.5
+Philadelphia,68,K-12 School,58000,81.6
+Philadelphia,69,Multifamily Housing,39400,88.1
+Philadelphia,70,Multifamily Housing,60083,5.2
+Philadelphia,71,Multifamily Housing,53879,10.2
+Philadelphia,72,Multifamily Housing,69175,30.5
+Philadelphia,73,Multifamily Housing,67000,37.6
+Philadelphia,74,Office,143776,77.5
+Philadelphia,75,Office,70814,19.1
+Philadelphia,76,Office,52258,81.7
+Philadelphia,77,Multifamily Housing,19736,19.8
+Philadelphia,78,K-12 School,135208,40.5
+Philadelphia,79,Office,96847,39.9
+Philadelphia,80,Office,70000,35.3
+Philadelphia,81,Multifamily Housing,209437,60.3
+Philadelphia,82,Multifamily Housing,66619,23
+Philadelphia,83,K-12 School,55621,259.6
+Philadelphia,84,K-12 School,168259,237.8
+Philadelphia,85,Office,51676,72.4
+Philadelphia,86,Office,100572,73.3
+Philadelphia,87,Multifamily Housing,300000,49.7
+Philadelphia,88,Office,125000,52.4
+Philadelphia,89,Office,55784,39.8
+Philadelphia,90,Multifamily Housing,63728,6.3
+Philadelphia,91,Multifamily Housing,119128,76.4
+Philadelphia,92,Multifamily Housing,51000,23.6
+Philadelphia,93,Office,244109,87.5
+Philadelphia,94,K-12 School,232815,51.5
+Philadelphia,95,Office,90000,50.3
+Philadelphia,96,Office,50704,126.7
+Philadelphia,97,Office,714190,122.2
+Philadelphia,98,K-12 School,134000,122.6
+Philadelphia,99,Office,1094000,76.2
+Philadelphia,100,Multifamily Housing,93600,33.1
+Philadelphia,101,Multifamily Housing,175708,62.2
+Philadelphia,102,Multifamily Housing,90000,41.9
+Philadelphia,103,Office,98809,56.4
+Philadelphia,104,K-12 School,78110,51.7
+Philadelphia,105,Office,10764,105
+Philadelphia,106,Office,1111787,64.2
+Philadelphia,107,Office,60000,15
+Philadelphia,108,Multifamily Housing,137400,77.3
+Philadelphia,109,Multifamily Housing,318611,81.6
+Philadelphia,110,Office,1387438,63
+Philadelphia,111,Office,246310,48.9
+Philadelphia,112,Multifamily Housing,97350,119.7
+Philadelphia,113,Multifamily Housing,58236,43
+Philadelphia,114,K-12 School,70230,68.6
+Philadelphia,115,Multifamily Housing,242157,88.8
+Philadelphia,116,K-12 School,59300,58.9
+Philadelphia,117,Multifamily Housing,246000,55.5
+Philadelphia,118,Office,483853,75.1
+Philadelphia,119,K-12 School,52500,40.1
+Philadelphia,120,K-12 School,61900,43.1
+Philadelphia,121,Multifamily Housing,56280,18.6
+Philadelphia,122,Office,4716,16.8
+Philadelphia,123,Office,144680,58
+Philadelphia,124,Multifamily Housing,235115,61.8
+Philadelphia,125,Multifamily Housing,122728,64.1
+Philadelphia,126,Multifamily Housing,57178,97.1
+Philadelphia,127,Multifamily Housing,99722,67.9
+Philadelphia,128,Multifamily Housing,85328,40.4
+Philadelphia,129,K-12 School,72000,143.7
+Philadelphia,130,K-12 School,144000,57.1
+Philadelphia,131,Office,79883,125.8
+Philadelphia,132,Office,659185,93.2
+Philadelphia,133,Office,110000,25
+Philadelphia,134,Office,491000,91.5
+Philadelphia,135,Multifamily Housing,268565,91.7
+Philadelphia,136,Multifamily Housing,101827,82.6
+Philadelphia,137,Multifamily Housing,193113,35.2
+Philadelphia,138,Multifamily Housing,63665,57.9
+Philadelphia,139,Office,60000,95.7
+Philadelphia,140,Multifamily Housing,56200,59.7
+Philadelphia,141,Multifamily Housing,515912,37.4
+Philadelphia,142,Multifamily Housing,75000,15.9
+Philadelphia,143,Office,90085,45.1
+Philadelphia,144,Multifamily Housing,739800,46.3
+Philadelphia,145,Multifamily Housing,79800,72.2
+Philadelphia,146,Office,108000,66.3
+Philadelphia,147,Multifamily Housing,115000,107.4
+Philadelphia,148,Multifamily Housing,144137,87.2
+Philadelphia,149,Multifamily Housing,16800,44.4
+Philadelphia,150,Office,77472,63.5
+Philadelphia,151,Office,57220,60.1
+Philadelphia,152,K-12 School,56265,74.9
+Philadelphia,153,Office,83000,89.8
+Philadelphia,154,Office,58386,50.1
+Philadelphia,155,Multifamily Housing,100000,197.8
+Philadelphia,156,Office,500000,62.8
+Philadelphia,157,Office,325133,175.8
+Philadelphia,158,K-12 School,63000,112.2
+Philadelphia,159,Office,275468,113
+Philadelphia,160,Multifamily Housing,684898,39.6
+Philadelphia,161,Office,1162417,190.3
+Philadelphia,162,Office,2054184,70.5
+Philadelphia,163,K-12 School,58450,32.6
+Philadelphia,164,Multifamily Housing,140000,68.3
+Philadelphia,165,Office,523500,78.6
+Philadelphia,166,Multifamily Housing,58354,27.1
+Philadelphia,167,K-12 School,316000,69.2
+Philadelphia,168,Multifamily Housing,99815,53.5
+Philadelphia,169,Multifamily Housing,177067,138.4
+Philadelphia,170,Office,502000,95.6
+Philadelphia,171,Multifamily Housing,55000,58.3
+Philadelphia,172,Office,103560,74.7
+Philadelphia,173,Multifamily Housing,75000,56.7
+Philadelphia,174,Multifamily Housing,232318,67.8
+Philadelphia,175,Office,206625,67.1
+Philadelphia,176,Office,97811,92.9
+Philadelphia,177,Multifamily Housing,143600,48.7
+Philadelphia,178,Multifamily Housing,97964,87.5
+Philadelphia,179,Multifamily Housing,394548,84.3
+Philadelphia,180,Office,60158,33.9
+Philadelphia,181,Office,543134,65.1
+Philadelphia,182,Office,912254,53.3
+Philadelphia,183,K-12 School,123306,81.3
+Philadelphia,184,Multifamily Housing,134000,44.2
+Philadelphia,185,Office,1283937,64.7
+Philadelphia,186,K-12 School,310296,78.1
+Philadelphia,187,Multifamily Housing,99000,71.9
+Philadelphia,188,Office,54931,142.6
+Philadelphia,189,Office,710000,50.7
+Philadelphia,190,K-12 School,102143,62
+Philadelphia,191,Multifamily Housing,95000,39.9
+Philadelphia,192,Multifamily Housing,75000,65.1
+Philadelphia,193,K-12 School,211515,74.6
+Philadelphia,194,Multifamily Housing,74492,37
+Philadelphia,195,Multifamily Housing,547684,31.6
+Philadelphia,196,Office,110000,82.6
+Philadelphia,197,Office,797218,63.6
+Philadelphia,198,K-12 School,72000,56.5
+Philadelphia,199,Multifamily Housing,111890,55.9
+Philadelphia,200,Multifamily Housing,96980,516.9
+Philadelphia,201,Office,48129,88.5
+Philadelphia,202,Office,106698,137.6
+Philadelphia,203,Multifamily Housing,73712,74.7
+Philadelphia,204,Office,553349,86.6
+Philadelphia,205,Office,286585,92.8
+Philadelphia,206,Office,235000,79.4
+Philadelphia,207,Office,160661,298.7
+Philadelphia,208,K-12 School,105000,80.6
+Philadelphia,209,Multifamily Housing,67027,49
+Philadelphia,210,Office,1335092,56.5
+Philadelphia,211,K-12 School,59025,79
+Philadelphia,212,Multifamily Housing,97011,37
+Philadelphia,213,K-12 School,66000,78.3
+Philadelphia,214,K-12 School,83007,40.2
+Philadelphia,215,K-12 School,212097,108.8
+Philadelphia,216,Multifamily Housing,105550,64.5
+Philadelphia,217,Office,934085,71.4
+Philadelphia,218,Office,1538959,78.4
+Philadelphia,219,Office,305170,100.8
+Philadelphia,220,Office,66500,31.7
+Philadelphia,221,K-12 School,228957,105.2
+Philadelphia,222,K-12 School,81589,535.4
+Philadelphia,223,Multifamily Housing,156175,111.8
+Philadelphia,224,Multifamily Housing,54845,139
+Philadelphia,225,Office,1218580,73.3
+Philadelphia,226,K-12 School,53200,204.4
+Philadelphia,227,Multifamily Housing,245287,49.8
+Philadelphia,228,Multifamily Housing,118946,20.8
+Philadelphia,229,K-12 School,271320,35.2
+Philadelphia,230,K-12 School,62567,62.5
+Philadelphia,231,Multifamily Housing,65270,38
+Philadelphia,232,Multifamily Housing,181599,46.3
+Philadelphia,233,Office,138128,66.1
+Philadelphia,234,Office,1576517,109.7
+Philadelphia,235,K-12 School,144000,94.8
+Philadelphia,236,K-12 School,139500,55.5
+Philadelphia,237,Office,248000,49.8
+Philadelphia,238,K-12 School,70498,294.9
+Philadelphia,239,Multifamily Housing,485155,21.2
+Philadelphia,240,Multifamily Housing,518241,156
+Philadelphia,241,K-12 School,61000,123.3
+Philadelphia,242,K-12 School,94000,76.9
+Philadelphia,243,Office,721408,61.4
+Philadelphia,244,Multifamily Housing,67493,52.8
+Philadelphia,245,Multifamily Housing,194062,39.7
+Philadelphia,246,Office,988092,67.9
+Philadelphia,247,Multifamily Housing,105600,85.1
+Philadelphia,248,K-12 School,138000,48.4
+Philadelphia,249,Multifamily Housing,55500,27.4
+Philadelphia,250,Multifamily Housing,269842,52.4
+Philadelphia,251,K-12 School,55600,411.4
+Philadelphia,252,Multifamily Housing,196587,48.3
+Philadelphia,253,Multifamily Housing,114000,58.3
+Philadelphia,254,Office,686503,89.2
+Philadelphia,255,K-12 School,173000,29
+Philadelphia,256,Office,248000,52.3
+Philadelphia,257,Office,270210,68.7
+Philadelphia,258,K-12 School,67795,55
+Philadelphia,259,Multifamily Housing,189200,41.1
+Philadelphia,260,Multifamily Housing,600537,54.6
+Philadelphia,261,Office,488465,56.8
+Philadelphia,262,Multifamily Housing,180882,47.4
+Philadelphia,263,Multifamily Housing,140000,31
+Philadelphia,264,K-12 School,145000,110.3
+Philadelphia,265,Multifamily Housing,102485,61.2
+Philadelphia,266,Multifamily Housing,332245,39.1
+Philadelphia,267,Multifamily Housing,800000,38.9
+Philadelphia,268,K-12 School,88915,37
+Philadelphia,269,K-12 School,91000,42.2
+Philadelphia,270,Multifamily Housing,279109,74.9
+Philadelphia,271,Office,842566,73.5
+Philadelphia,272,Multifamily Housing,270880,46.7
+Philadelphia,273,K-12 School,149810,36
+Philadelphia,274,Multifamily Housing,665000,43.3
+Philadelphia,275,K-12 School,97261,99.3
+Philadelphia,276,Multifamily Housing,125994,79.8
+Philadelphia,277,Multifamily Housing,50652,58.7
+Philadelphia,278,Multifamily Housing,455000,66.4
+Philadelphia,279,Multifamily Housing,58000,19.9
+Philadelphia,280,Multifamily Housing,11620,10.8
+Philadelphia,281,Multifamily Housing,79355,46.7
+Philadelphia,282,K-12 School,73000,77.3
+Philadelphia,283,Multifamily Housing,64872,60.1
+Philadelphia,284,K-12 School,129264,88.9
+Philadelphia,285,Office,91810,143.3
+Philadelphia,286,Office,665649,155.4
+Philadelphia,287,K-12 School,99864,214.2
+Philadelphia,288,Multifamily Housing,500000,57.7
+Philadelphia,289,K-12 School,74500,62.7
+Philadelphia,290,Office,1088584,56.9
+Philadelphia,291,Multifamily Housing,59626,38.3
+Philadelphia,292,Multifamily Housing,56530,30.1
+Philadelphia,293,Multifamily Housing,60984,91.6
+Philadelphia,294,Office,1022084,70.1
+Philadelphia,295,K-12 School,149500,62.7
+Philadelphia,296,Office,82852,63.3
+Philadelphia,297,Multifamily Housing,433600,73.9
+Philadelphia,298,K-12 School,74000,26.9
+Philadelphia,299,Multifamily Housing,192780,125.8
+Philadelphia,300,Multifamily Housing,167542,53
+Philadelphia,301,Multifamily Housing,92077,47
+Philadelphia,302,Multifamily Housing,278926,67.3
+Philadelphia,303,Multifamily Housing,573027,83.5
+Philadelphia,304,K-12 School,950825,76.5
+Philadelphia,305,Multifamily Housing,77963,3.2
+Philadelphia,306,Multifamily Housing,128337,82.7
+Philadelphia,307,Multifamily Housing,64677,27.2
+Philadelphia,308,Multifamily Housing,155157,53.2
+Philadelphia,309,Multifamily Housing,180700,41.2
+Philadelphia,310,K-12 School,78000,92.9
+Philadelphia,311,K-12 School,108000,56.1
+Philadelphia,312,Multifamily Housing,51360,44
+Philadelphia,313,Multifamily Housing,107879,153.9
+Philadelphia,314,Multifamily Housing,216723,80
+Philadelphia,315,K-12 School,66685,169.5
+Philadelphia,316,Multifamily Housing,112032,48.2
+Philadelphia,317,Office,120943,57.3
+Philadelphia,318,K-12 School,312395,85.3
+Philadelphia,319,Multifamily Housing,85253,84.3
+Philadelphia,320,Multifamily Housing,598137,64.7
+Philadelphia,321,Multifamily Housing,61000,54.8
+Philadelphia,322,K-12 School,120000,409.9
+Philadelphia,323,K-12 School,331440,54.6
+Philadelphia,324,Multifamily Housing,213225,59.7
+Philadelphia,325,Multifamily Housing,39155,52.3
+Philadelphia,326,Multifamily Housing,320000,68.4
+Philadelphia,327,Multifamily Housing,337140,81.9
+Philadelphia,328,Office,83059,71.1
+Philadelphia,329,Multifamily Housing,77497,81.7
+Philadelphia,330,Multifamily Housing,315660,53
+Philadelphia,331,K-12 School,109651,85.5
+Philadelphia,332,K-12 School,74557,94.9
+Philadelphia,333,Multifamily Housing,69894,39.7
+Philadelphia,334,Multifamily Housing,58893,98.9
+Philadelphia,335,Multifamily Housing,53310,28.1
+Philadelphia,336,Office,50456,92.8
+Philadelphia,337,K-12 School,83460,143.3
+Philadelphia,338,K-12 School,108550,41
+Philadelphia,339,Multifamily Housing,103673,124.2
+Philadelphia,340,Multifamily Housing,85000,50.5
+Philadelphia,341,Multifamily Housing,430018,71.1
+Philadelphia,342,Multifamily Housing,141871,112.3
+Philadelphia,343,Multifamily Housing,669781,213
+Philadelphia,344,K-12 School,96000,43.6
+Philadelphia,345,K-12 School,59000,38.2
+Philadelphia,346,Multifamily Housing,325000,43.5
+Philadelphia,347,Multifamily Housing,52500,32
+Philadelphia,348,Multifamily Housing,747444,85
+Philadelphia,349,Multifamily Housing,322265,60.7
+Philadelphia,350,K-12 School,82000,48.6
+Philadelphia,351,Multifamily Housing,54015,35
+Philadelphia,352,Office,52043,167.9
+Philadelphia,353,Office,75495,63.3
+Philadelphia,354,Multifamily Housing,62003,58.6
+Philadelphia,355,Office,718162,72.9
+Philadelphia,356,K-12 School,57200,33.1
+Philadelphia,357,Multifamily Housing,437034,122.2
+Philadelphia,358,Multifamily Housing,66104,29.7
+Philadelphia,359,Multifamily Housing,61845,63.8
+Philadelphia,360,Multifamily Housing,72300,37
+Philadelphia,361,Office,214486,83.2
+Philadelphia,362,Multifamily Housing,115719,83.1
+Philadelphia,363,Office,98597,127
+Philadelphia,364,Multifamily Housing,196225,60.4
+Philadelphia,365,Multifamily Housing,240000,34.1
+Philadelphia,366,Office,105000,79.4
+Philadelphia,367,Office,870921,85.8
+Philadelphia,368,Multifamily Housing,221820,32.4
+Philadelphia,369,Multifamily Housing,66448,56.5
+Philadelphia,370,Multifamily Housing,109374,51.4
+Philadelphia,371,Multifamily Housing,160000,28.6
+Philadelphia,372,Multifamily Housing,198064,43.9
+Philadelphia,373,Multifamily Housing,663502,42.3
+Philadelphia,374,K-12 School,71000,67.3
+Philadelphia,375,Multifamily Housing,59707,29.8
+Philadelphia,376,Office,50601,118.1
+Philadelphia,377,Multifamily Housing,283000,92.4
+Philadelphia,378,K-12 School,84000,75.6
+Philadelphia,379,Multifamily Housing,165000,41.3
+Philadelphia,380,Multifamily Housing,93400,75.7
+Philadelphia,381,K-12 School,76630,70.7
+Philadelphia,382,K-12 School,56000,324.9
+Philadelphia,383,K-12 School,98500,73.1
+Philadelphia,384,Multifamily Housing,123850,20.6
+Philadelphia,385,K-12 School,71000,38.2
+Philadelphia,386,Multifamily Housing,1195034,53.5
+Philadelphia,387,Office,163836,43
+Philadelphia,388,Office,615574,68.4
+Philadelphia,389,Multifamily Housing,116000,32.4
+Philadelphia,390,Office,87000,43.8
+Philadelphia,391,Multifamily Housing,298032,103.9
+Philadelphia,392,Multifamily Housing,50248,40.1
+Philadelphia,393,K-12 School,70000,67.2
+Philadelphia,394,Multifamily Housing,54648,56.7
+Philadelphia,395,Multifamily Housing,85975,23.7
+Philadelphia,396,K-12 School,85000,72
+Philadelphia,397,Multifamily Housing,59000,24.2
+Philadelphia,398,K-12 School,140000,58.3
+Philadelphia,399,K-12 School,56394,52.2
+Philadelphia,400,Multifamily Housing,50000,53.1
+Philadelphia,401,Office,238493,100.5
+Philadelphia,402,Multifamily Housing,67900,43.5
+Philadelphia,403,Multifamily Housing,62925,37.3
+Philadelphia,404,Multifamily Housing,58000,82.5
+Philadelphia,405,Multifamily Housing,210222,40.1
+Philadelphia,406,Multifamily Housing,79923,46.1
+Philadelphia,407,Multifamily Housing,56000,44.6
+Philadelphia,408,Multifamily Housing,78000,40.1
+Philadelphia,409,K-12 School,66000,247.3
+Philadelphia,410,Office,57568,115.7
+Philadelphia,411,Office,95000,71.7
+Philadelphia,412,Multifamily Housing,148000,50.4
+Philadelphia,413,Multifamily Housing,80740,48
+Philadelphia,414,Multifamily Housing,22103,35.2
+Philadelphia,415,K-12 School,80000,59.2
+Philadelphia,416,Multifamily Housing,506636,45.1
+Philadelphia,417,Office,60464,65.3
+Philadelphia,418,Office,54666,162.9
+Philadelphia,419,Multifamily Housing,285150,53.5
+Philadelphia,420,Multifamily Housing,89535,45.4
+Philadelphia,421,Multifamily Housing,76000,24
+Philadelphia,422,Multifamily Housing,208761,70.5
+Philadelphia,423,Multifamily Housing,60000,66.7
+Philadelphia,424,Multifamily Housing,95548,87.2
+Philadelphia,425,Multifamily Housing,119000,58.5
+Philadelphia,426,K-12 School,61000,127.7
+Philadelphia,427,K-12 School,171922,118.5
+Philadelphia,428,Office,77500,6.6
+Philadelphia,429,Multifamily Housing,70309,57.4
+Philadelphia,430,Office,58372,60.3
+Philadelphia,431,Office,92000,6.2
+Philadelphia,432,Office,61240,37.4
+Philadelphia,433,Multifamily Housing,126109,55.4
+Philadelphia,434,K-12 School,67000,33.8
+Philadelphia,435,K-12 School,62000,16.7
+Philadelphia,436,K-12 School,53000,101.8
+Philadelphia,437,K-12 School,180000,56.7
+Philadelphia,438,K-12 School,72000,93.9
+Philadelphia,439,K-12 School,69630,50.6
+Philadelphia,440,K-12 School,61320,100.7
+Philadelphia,441,Multifamily Housing,87000,48.6
+Philadelphia,442,K-12 School,121579,120.3
+Philadelphia,443,K-12 School,118000,173.5
+Philadelphia,444,Office,788107,78
+Philadelphia,445,Office,1041889,57.4
+Philadelphia,446,Multifamily Housing,478494,43.9
+Philadelphia,447,K-12 School,73000,75.9
+Philadelphia,448,Multifamily Housing,271774,51.6
+Philadelphia,449,Office,932088,68.4
+Philadelphia,450,Multifamily Housing,356003,49.4
+Philadelphia,451,Office,610065,61.6
+Philadelphia,452,Multifamily Housing,295400,49.2
+Philadelphia,453,Office,105169,71.7
+Philadelphia,454,Multifamily Housing,55000,80.5
+Philadelphia,455,Multifamily Housing,120300,8.9
+Philadelphia,456,K-12 School,83894,108.4
+Philadelphia,457,Multifamily Housing,272255,34.4
+Philadelphia,458,Multifamily Housing,131317,29.3
+Philadelphia,459,K-12 School,308325,84.6
+Philadelphia,460,Multifamily Housing,458693,54.9
+Philadelphia,461,Multifamily Housing,78000,58.4
+Philadelphia,462,K-12 School,66482,90.8
+Philadelphia,463,K-12 School,204093,49.6
+Philadelphia,464,K-12 School,88317,63.7
+Philadelphia,465,K-12 School,79933,103.6
+Philadelphia,466,Multifamily Housing,68815,10.5
+Philadelphia,467,Multifamily Housing,78750,77
+Philadelphia,468,K-12 School,71440,84.4
+Philadelphia,469,Office,207000,171.1
+Philadelphia,470,Office,548371,63.8
+Philadelphia,471,K-12 School,77500,73
+Philadelphia,472,Multifamily Housing,63000,32.2
+Philadelphia,473,Office,241831,87.8
+Philadelphia,474,K-12 School,68076,133.5
+Philadelphia,475,Multifamily Housing,53000,35.5
+Philadelphia,476,Multifamily Housing,67000,37.9
+Philadelphia,477,K-12 School,221000,16.4
+Philadelphia,478,Multifamily Housing,672682,30.4
+Philadelphia,479,Multifamily Housing,90842,40.2
+Philadelphia,480,K-12 School,320920,68.9
+Philadelphia,481,Multifamily Housing,63838,122.6
+Philadelphia,482,Multifamily Housing,132500,50.6
+Philadelphia,483,Multifamily Housing,57209,47.7
+Philadelphia,484,Multifamily Housing,165000,57.6
+Philadelphia,485,Multifamily Housing,140363,71.5
+Philadelphia,486,Multifamily Housing,33600,84.6
+Philadelphia,487,Multifamily Housing,103000,34.9
+Philadelphia,488,Multifamily Housing,489553,45.8
+Philadelphia,489,K-12 School,101640,82.7
+Philadelphia,490,K-12 School,83197,79
+Philadelphia,491,Multifamily Housing,368221,79.3
+Philadelphia,492,K-12 School,100012,30
+Philadelphia,493,K-12 School,292229,108
+Philadelphia,494,Multifamily Housing,176000,36.5
+Philadelphia,495,Multifamily Housing,359504,38.4
+Philadelphia,496,Multifamily Housing,55985,69.1
+Philadelphia,497,Multifamily Housing,83999,37.3
+Philadelphia,498,Office,232097,47.8
+Philadelphia,499,Multifamily Housing,30000,98.8
+Philadelphia,500,Office,65000,122.5
+Philadelphia,501,K-12 School,72200,210.8
+Philadelphia,502,K-12 School,153961,55.3
+Philadelphia,503,K-12 School,119250,65.8
+Philadelphia,504,K-12 School,99420,72.3
+Philadelphia,505,K-12 School,44500,44.6
+Philadelphia,506,K-12 School,62251,59
+Philadelphia,507,K-12 School,91008,32.8
+Philadelphia,508,K-12 School,80088,57.7
+Philadelphia,509,Multifamily Housing,450000,54.8
+Philadelphia,510,K-12 School,92275,160.6
+Philadelphia,511,Multifamily Housing,546793,79.6
+Philadelphia,512,Office,90817,99.5
+Philadelphia,513,Multifamily Housing,430880,39
+Philadelphia,514,Office,60607,94.9
+Philadelphia,515,Office,117848,79.2
+Philadelphia,516,Office,230142,42.7
+Philadelphia,517,K-12 School,89247,43.4
+Philadelphia,518,K-12 School,62100,148.9
+Philadelphia,519,Office,61589,173.2
+Philadelphia,520,Office,126339,35.7
+Philadelphia,521,Multifamily Housing,71993,38.6
+Philadelphia,522,Multifamily Housing,81726,66.1
+Philadelphia,523,Multifamily Housing,52000,78
+Philadelphia,524,Multifamily Housing,387117,73.1
+Philadelphia,525,Multifamily Housing,263630,64.9
+Philadelphia,526,Office,189262,72.3
+Philadelphia,527,Office,72250,48.9
+Philadelphia,528,Multifamily Housing,278163,63.4
+Philadelphia,529,Office,71686,39
+Philadelphia,530,Office,225688,84.3
+Philadelphia,531,K-12 School,56600,65.1
+Philadelphia,532,Office,355250,106.7
+Philadelphia,533,K-12 School,66000,52.6
+Philadelphia,534,Multifamily Housing,261035,90.4
+Philadelphia,535,Office,155715,254.3
+Philadelphia,536,Office,165000,101.6
+Philadelphia,537,Multifamily Housing,506548,32.9
+Philadelphia,538,Multifamily Housing,140000,103.1
+Philadelphia,539,K-12 School,67938,75.1
+Philadelphia,540,Office,75176,148.2
+Philadelphia,541,Multifamily Housing,157304,25.2
+Philadelphia,542,Multifamily Housing,56784,84.8
+Philadelphia,543,Office,52306,89.3
+Philadelphia,544,Multifamily Housing,208750,39.2
+Philadelphia,545,Multifamily Housing,268381,98.7
+Philadelphia,546,Multifamily Housing,368612,104
+Philadelphia,547,Office,127785,49.7
+Philadelphia,548,Office,67084,138.2
+Philadelphia,549,Multifamily Housing,806870,48.6
+Philadelphia,550,Office,126300,58.4
+Philadelphia,551,Multifamily Housing,240000,98.8
+Philadelphia,552,Office,186328,77.3
+Philadelphia,553,Multifamily Housing,460810,40.2
+Philadelphia,554,Multifamily Housing,173160,55.1
+Philadelphia,555,K-12 School,88320,62.8
+Philadelphia,556,Multifamily Housing,51480,54.7
+Philadelphia,557,Multifamily Housing,91900,51.7
+Philadelphia,558,K-12 School,88183,314.1
+Philadelphia,559,K-12 School,162211,95.3
+Philadelphia,560,Multifamily Housing,642000,43.3
+Philadelphia,561,K-12 School,73983,21.8
+Philadelphia,562,K-12 School,131500,69.1
+Philadelphia,563,Office,99880,101.8
+Philadelphia,564,Office,53362,89.9
+Philadelphia,565,Office,57027,103.6
+Philadelphia,566,K-12 School,220000,50.9
+Philadelphia,567,K-12 School,87000,76.9
+Philadelphia,568,Multifamily Housing,43776,80.6
+Philadelphia,569,Office,52975,66.4
+Philadelphia,570,Multifamily Housing,112064,55.7
+Philadelphia,571,Multifamily Housing,752225,22.4
+Philadelphia,572,Multifamily Housing,85498,59.6
+Philadelphia,573,Office,69698,337.9
+Philadelphia,574,Multifamily Housing,44900,82.4
+Philadelphia,575,Multifamily Housing,59309,27.2
+Philadelphia,576,Multifamily Housing,18720,11.7
+Philadelphia,577,Office,55000,60
+Philadelphia,578,K-12 School,74314,39
+Philadelphia,579,K-12 School,57500,75.7
+Philadelphia,580,Multifamily Housing,65873,73.3
+Philadelphia,581,Multifamily Housing,63708,96.1
+Philadelphia,582,K-12 School,84357,90.2
+Philadelphia,583,Multifamily Housing,22916,152.9
+Philadelphia,584,K-12 School,164000,36.7
+Philadelphia,585,Office,59101,217
+Philadelphia,586,Multifamily Housing,42485,345.3
+Philadelphia,587,Multifamily Housing,80000,30.8
+Philadelphia,588,K-12 School,110000,51.3
+Philadelphia,589,Office,336600,68.8
+Philadelphia,590,Multifamily Housing,60120,32.2
+Philadelphia,591,K-12 School,135315,292.2
+Philadelphia,592,K-12 School,63250,52.5
+Philadelphia,593,K-12 School,78150,46.7
+Philadelphia,594,Multifamily Housing,66123,46.3
+Philadelphia,595,K-12 School,85350,160.2
+Philadelphia,596,K-12 School,67200,91.4
+Philadelphia,597,Multifamily Housing,106713,69.8
+Philadelphia,598,Office,835000,43.7
+Philadelphia,599,Multifamily Housing,132266,53
+Philadelphia,600,Multifamily Housing,80000,81.6
+Philadelphia,601,Multifamily Housing,373532,112.3
+Philadelphia,602,K-12 School,76150,57.3
+Philadelphia,603,Multifamily Housing,164387,53.9
+Philadelphia,604,Office,80000,58.1
+Philadelphia,605,K-12 School,77000,264.6
+Philadelphia,606,Multifamily Housing,120000,21.1
+Philadelphia,607,Multifamily Housing,72900,70.2
+Philadelphia,608,K-12 School,79856,51.8
+Philadelphia,609,K-12 School,156425,52.8
+Philadelphia,610,K-12 School,64000,133.2
+Philadelphia,611,Multifamily Housing,227000,105.4
+Philadelphia,612,Multifamily Housing,41105,70
+Philadelphia,613,Multifamily Housing,82600,65.6
+Philadelphia,614,K-12 School,52500,99
+Philadelphia,615,K-12 School,60000,46.8
+Philadelphia,616,Multifamily Housing,444073,32.8
+Philadelphia,617,Office,75000,93.2
+Philadelphia,618,K-12 School,71275,92.3
+Philadelphia,619,Multifamily Housing,58656,33.8
+Philadelphia,620,Multifamily Housing,311376,45.1
+Philadelphia,621,K-12 School,117600,342.7
+Philadelphia,622,Multifamily Housing,63918,63.3
+Philadelphia,623,K-12 School,170013,93.9
+Philadelphia,624,K-12 School,70000,190.1
+Philadelphia,625,Multifamily Housing,70800,83.1
+Philadelphia,626,Multifamily Housing,109750,71.4
+Philadelphia,627,Office,207000,49.5
+Philadelphia,628,K-12 School,53200,70.8
+Philadelphia,629,Multifamily Housing,243041,9.1
+Philadelphia,630,Multifamily Housing,450000,38.3
+Philadelphia,631,K-12 School,65000,273.6
+Philadelphia,632,K-12 School,313765,79.3
+Philadelphia,633,Office,53115,129.3
+Philadelphia,634,Multifamily Housing,59540,112.1
+Philadelphia,635,Office,77688,119.5
+Philadelphia,636,K-12 School,70644,83.4
+Philadelphia,637,K-12 School,50286,48.5
+Philadelphia,638,Multifamily Housing,50946,37.9
+Philadelphia,639,Multifamily Housing,58639,59.4
+Philadelphia,640,Multifamily Housing,174375,50.4
+Philadelphia,641,Office,267805,57.3
+Philadelphia,642,Office,1108655,66.3
+Philadelphia,643,Multifamily Housing,56928,51.1
+Philadelphia,644,Multifamily Housing,111000,94.7
+Philadelphia,645,K-12 School,332185,31.2
+Philadelphia,646,Multifamily Housing,73000,50
+Philadelphia,647,Multifamily Housing,65340,96.9
+Philadelphia,648,K-12 School,101976,75
+Philadelphia,649,K-12 School,114000,50
+Philadelphia,650,Multifamily Housing,51390,43.1
+Philadelphia,651,Office,52021,140.7
+Philadelphia,652,Office,188046,49.7
+Philadelphia,653,Multifamily Housing,118616,72.1
+Philadelphia,654,Multifamily Housing,51000,34.3
+Philadelphia,655,K-12 School,108393,58.3
+Philadelphia,656,K-12 School,83510,68.5
+Philadelphia,657,K-12 School,65000,36.7
+Philadelphia,658,K-12 School,66500,75.7
+Philadelphia,659,K-12 School,81640,74.8
+Philadelphia,660,K-12 School,73100,67.1
+Philadelphia,661,Multifamily Housing,95535,149.3
+Philadelphia,662,K-12 School,63232,69
+Philadelphia,663,Multifamily Housing,475000,58.7
+Philadelphia,664,Multifamily Housing,70000,178.1
+Philadelphia,665,K-12 School,242293,72.2
+Philadelphia,666,Multifamily Housing,172628,70
+Philadelphia,667,Multifamily Housing,67473,108.7
+Philadelphia,668,K-12 School,90000,95.5
+Philadelphia,669,K-12 School,249787,113.6
+Philadelphia,670,Multifamily Housing,65000,45.8
+Philadelphia,671,Multifamily Housing,85000,82.2
+Philadelphia,672,Multifamily Housing,88560,113.4
+Philadelphia,673,Office,65685,162.5
+Philadelphia,674,Multifamily Housing,56184,55.3
+Philadelphia,675,K-12 School,105628,24.9
+Philadelphia,676,Multifamily Housing,105676,52.9
+Philadelphia,677,K-12 School,85080,67.2
+Philadelphia,678,K-12 School,89500,61.4
+Philadelphia,679,Office,75676,107.3
+Philadelphia,680,K-12 School,323316,30.1
+Philadelphia,681,Multifamily Housing,438235,51.7
+Philadelphia,682,Multifamily Housing,74340,51.7
+Philadelphia,683,K-12 School,78257,186
+Philadelphia,684,K-12 School,76930,68.4
+Philadelphia,685,K-12 School,85350,48.1
+Philadelphia,686,K-12 School,200000,97.2
+Philadelphia,687,K-12 School,58200,141.9
+Philadelphia,688,K-12 School,190000,42.5
+Philadelphia,689,K-12 School,99287,54.8
+Philadelphia,690,K-12 School,139000,273.1
+Philadelphia,691,K-12 School,69475,16
+Philadelphia,692,K-12 School,144000,87.8
+Philadelphia,693,Multifamily Housing,520280,61.6
+Philadelphia,694,Multifamily Housing,225400,59.1
+Philadelphia,695,Multifamily Housing,229044,6.8
+Philadelphia,696,K-12 School,370000,69.9
+Philadelphia,697,Multifamily Housing,42190,57.9
+Philadelphia,698,K-12 School,94235,103.8
+Philadelphia,699,Multifamily Housing,60557,66.6
+Philadelphia,700,K-12 School,59000,333.8
+Philadelphia,701,Multifamily Housing,61508,84.1
+Philadelphia,702,Multifamily Housing,62040,9.7
+Philadelphia,703,K-12 School,65400,90.4
+Philadelphia,704,Multifamily Housing,72840,60.2
+Philadelphia,705,Multifamily Housing,780000,36.1
+Philadelphia,706,Multifamily Housing,189000,72.1
+Philadelphia,707,Multifamily Housing,311542,53.8
+Philadelphia,708,Multifamily Housing,51456,57.8
+Philadelphia,709,Multifamily Housing,92114,94.2
+Philadelphia,710,Multifamily Housing,191391,67.2
+Philadelphia,711,K-12 School,62760,333.8
+Philadelphia,712,K-12 School,79000,138.4
+Philadelphia,713,Multifamily Housing,57353,91.7
+Philadelphia,714,Office,446086,45.5
+Philadelphia,715,Multifamily Housing,71432,92.7
+Philadelphia,716,K-12 School,86492,95.1
+Philadelphia,717,Multifamily Housing,156816,46.3
+Philadelphia,718,K-12 School,150000,87.1
+Philadelphia,719,Multifamily Housing,233372,86.3
+Philadelphia,720,Multifamily Housing,50544,21.5
+Philadelphia,721,K-12 School,57000,221.5
+Philadelphia,722,Multifamily Housing,219800,75
+Philadelphia,723,Multifamily Housing,57480,78.9
+Philadelphia,724,Multifamily Housing,49928,87.6
+Philadelphia,725,K-12 School,310473,87.4
+Philadelphia,726,K-12 School,64963,58.6
+Philadelphia,727,K-12 School,240000,78.9
+Philadelphia,728,Office,308614,35.7
+Philadelphia,729,Multifamily Housing,91200,52.7
+Philadelphia,730,Office,57899,83.3
+Philadelphia,731,K-12 School,74500,94.4
+Philadelphia,732,K-12 School,89200,101.4
+Philadelphia,733,K-12 School,59123,284
+Philadelphia,734,K-12 School,57500,71.8
+Philadelphia,735,K-12 School,451273,78
+Philadelphia,736,Multifamily Housing,53000,24.7
+Philadelphia,737,Multifamily Housing,70951,70.6
+Philadelphia,738,K-12 School,93715,15.7
+Philadelphia,739,K-12 School,55128,55.6
+Philadelphia,740,Multifamily Housing,77182,59.6
+Philadelphia,741,Multifamily Housing,101844,133.1
+Philadelphia,742,K-12 School,67842,38.3
+Philadelphia,743,K-12 School,56400,181.7
+Philadelphia,744,Multifamily Housing,102796,90.4
+Philadelphia,745,Multifamily Housing,50000,38.5
+Philadelphia,746,Multifamily Housing,48993,63.8
+Philadelphia,747,Multifamily Housing,166050,80.2
+Philadelphia,748,Multifamily Housing,205450,30.1
+Philadelphia,749,Office,124000,44.1
+Philadelphia,750,K-12 School,100000,222.4
+Philadelphia,751,K-12 School,52500,57
+Philadelphia,752,Multifamily Housing,70200,83.4
+Philadelphia,753,Multifamily Housing,54332,69.7
+Philadelphia,754,K-12 School,72876,301.4
+Philadelphia,755,Office,126000,187.2
+Philadelphia,756,Multifamily Housing,92156,64.3
+Philadelphia,757,Office,880000,59.3
+Philadelphia,758,K-12 School,120000,82.2
+Philadelphia,759,K-12 School,104018,67.6
+Philadelphia,760,Multifamily Housing,159556,15.4
+Philadelphia,761,K-12 School,55437,68.1
+Philadelphia,762,Multifamily Housing,422870,47.9
+Philadelphia,763,Multifamily Housing,84125,123.8
+Philadelphia,764,Multifamily Housing,54300,11.2
+Philadelphia,765,Office,55539,193.5
+Philadelphia,766,K-12 School,71300,93.5
+Philadelphia,767,Multifamily Housing,63900,102.7
+Philadelphia,768,K-12 School,163350,57.5
+Philadelphia,769,Multifamily Housing,161310,56.4
+Philadelphia,770,Multifamily Housing,69705,78.6
+Philadelphia,771,Multifamily Housing,180700,41.9
+Philadelphia,772,Multifamily Housing,142480,62.9
+Philadelphia,773,Multifamily Housing,72311,42.4
+Philadelphia,774,K-12 School,110193,29.9
+Philadelphia,775,Office,52924,53.5
+Philadelphia,776,Multifamily Housing,85480,74.4
+Philadelphia,777,Multifamily Housing,64768,71.9
+Philadelphia,778,Multifamily Housing,132952,84.2
+Philadelphia,779,Multifamily Housing,638776,71.3
+Philadelphia,780,Multifamily Housing,218753,38.5
+Philadelphia,781,Multifamily Housing,54396,52
+Philadelphia,782,Multifamily Housing,61876,64.9
+Philadelphia,783,Multifamily Housing,60727,78.3
+Philadelphia,784,Multifamily Housing,83475,89.7
+Philadelphia,785,Multifamily Housing,127615,65.1
+Philadelphia,786,Multifamily Housing,601127,65.9
+Philadelphia,787,Multifamily Housing,116269,56.8
+Philadelphia,788,Multifamily Housing,298995,42.3
+Philadelphia,789,K-12 School,64767,94.1
+Philadelphia,790,K-12 School,197500,73
+Philadelphia,791,Office,196188,56.1
+Philadelphia,792,Office,616379,65.7
+Philadelphia,793,Multifamily Housing,216980,37.1
+Philadelphia,794,K-12 School,102300,89.7
+Philadelphia,795,Multifamily Housing,50840,35.5
+Philadelphia,796,Multifamily Housing,172200,63.3
+Philadelphia,797,K-12 School,80500,69.9
+Philadelphia,798,Multifamily Housing,50000,79.8
+Philadelphia,799,K-12 School,54623,95.3
+Philadelphia,800,Multifamily Housing,145920,24.7
+Philadelphia,801,Office,741387,120
+Philadelphia,802,Multifamily Housing,478920,89.4
+Philadelphia,803,Multifamily Housing,212742,69.7
+Philadelphia,804,Multifamily Housing,61000,22.7
+Philadelphia,805,Office,68000,36
+Philadelphia,806,Office,70644,76.1
+Philadelphia,807,K-12 School,66382,39.8
+Philadelphia,808,K-12 School,54000,304
+Philadelphia,809,Office,64512,129.7
+Philadelphia,810,Multifamily Housing,48000,148.4
+Philadelphia,811,Multifamily Housing,51000,37.3
+Philadelphia,812,Multifamily Housing,506974,53.7
+Philadelphia,813,K-12 School,185113,202.9
+Philadelphia,814,Office,446812,60.4
+Philadelphia,815,Multifamily Housing,71040,0.9
+Philadelphia,816,Multifamily Housing,201661,57.6
+Philadelphia,817,K-12 School,90000,33.7
+Philadelphia,818,Multifamily Housing,55641,66.5
+Philadelphia,819,K-12 School,59200,132.7
+Philadelphia,820,Office,488657,147.4
+Philadelphia,821,Multifamily Housing,852000,44.7
+Philadelphia,822,Multifamily Housing,51728,72.8
+Philadelphia,823,Office,85000,136.1
+Philadelphia,824,K-12 School,166630,70.2
+Philadelphia,825,K-12 School,52235,50.6
+Philadelphia,826,Multifamily Housing,64000,27.2
+Philadelphia,827,Multifamily Housing,140000,38
+Philadelphia,828,Office,53814,50
+Philadelphia,829,K-12 School,73000,67.2
+Philadelphia,830,Office,135825,61.9
+Philadelphia,831,Multifamily Housing,62895,73.4
+Philadelphia,832,Multifamily Housing,53300,34.8
+Philadelphia,833,K-12 School,75318,70.5
+Philadelphia,834,Multifamily Housing,224820,65.8
+Philadelphia,835,Multifamily Housing,112921,28.3
+Philadelphia,836,Multifamily Housing,256300,57.7
+Philadelphia,837,Multifamily Housing,78015,73.8
+Philadelphia,838,Multifamily Housing,59095,29.1
+Philadelphia,839,Multifamily Housing,305853,257.6
+Philadelphia,840,Multifamily Housing,133143,82.2

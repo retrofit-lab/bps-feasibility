@@ -1,0 +1,865 @@
+city,prop_id,facility_type,floor_area,site_eui
+San Francisco,1,Multifamily Housing,68575,66.4
+San Francisco,2,Multifamily Housing,57000,23.9
+San Francisco,3,Multifamily Housing,221255,51.3
+San Francisco,4,Multifamily Housing,513768,40.8
+San Francisco,5,Multifamily Housing,641987,32.1
+San Francisco,6,Multifamily Housing,92647,16.2
+San Francisco,7,Multifamily Housing,276783,52.2
+San Francisco,8,Multifamily Housing,49742,9.6
+San Francisco,9,Multifamily Housing,120130,44.4
+San Francisco,10,Multifamily Housing,82320,53.7
+San Francisco,11,Multifamily Housing,58535,51.3
+San Francisco,12,Office,24564,117.8
+San Francisco,13,Multifamily Housing,88806,59.8
+San Francisco,14,Office,136728,63.7
+San Francisco,15,Multifamily Housing,58287,65.8
+San Francisco,16,Office,15800,57.3
+San Francisco,17,Office,368280,55.4
+San Francisco,18,Office,34149,2.7
+San Francisco,19,Office,24708,19.2
+San Francisco,20,Multifamily Housing,482898,31.4
+San Francisco,21,Office,24444,35.9
+San Francisco,22,Office,63959,78.9
+San Francisco,23,Multifamily Housing,454539,45.9
+San Francisco,24,Multifamily Housing,183934,9.4
+San Francisco,25,Office,10837,22
+San Francisco,26,Multifamily Housing,58608,83.7
+San Francisco,27,Office,18407,33.9
+San Francisco,28,Office,42060,17.3
+San Francisco,29,Office,136850,30.3
+San Francisco,30,Multifamily Housing,100000,21.1
+San Francisco,31,Multifamily Housing,122263,67.5
+San Francisco,32,Multifamily Housing,368272,39.5
+San Francisco,33,Multifamily Housing,67790,71.8
+San Francisco,34,Office,239133,52.2
+San Francisco,35,Multifamily Housing,99351,22.7
+San Francisco,36,Office,36845,31.9
+San Francisco,37,Multifamily Housing,128033,41.4
+San Francisco,38,Office,15586,87.5
+San Francisco,39,Office,603737,61.9
+San Francisco,40,Office,133675,55.6
+San Francisco,41,Office,50037,24.3
+San Francisco,42,Office,112372,69.2
+San Francisco,43,Multifamily Housing,87278,24.7
+San Francisco,44,Office,410915,40.9
+San Francisco,45,Office,47054,54.8
+San Francisco,46,Multifamily Housing,156042,37.1
+San Francisco,47,Office,35000,3.7
+San Francisco,48,Office,118206,72.4
+San Francisco,49,Multifamily Housing,183901,26.3
+San Francisco,50,Multifamily Housing,530137,22.9
+San Francisco,51,Multifamily Housing,251076,41.2
+San Francisco,52,Office,15161,30.7
+San Francisco,53,Office,268052,44.1
+San Francisco,54,Office,26500,48.8
+San Francisco,55,Multifamily Housing,65033,71.1
+San Francisco,56,Office,30030,108.1
+San Francisco,57,Multifamily Housing,153809,33.8
+San Francisco,58,Office,268289,50.5
+San Francisco,59,Multifamily Housing,236712,24.2
+San Francisco,60,Office,98804,54.7
+San Francisco,61,Office,19249,33.5
+San Francisco,62,Multifamily Housing,106828,34.8
+San Francisco,63,Multifamily Housing,77860,47.7
+San Francisco,64,Office,20878,77.6
+San Francisco,65,Office,222918,45.8
+San Francisco,66,Office,29137,27.2
+San Francisco,67,Office,814226,40.3
+San Francisco,68,Office,994632,42
+San Francisco,69,Office,50121,29.9
+San Francisco,70,Office,71847,49.1
+San Francisco,71,K-12 School,16716,4.7
+San Francisco,72,Office,35221,45.1
+San Francisco,73,Office,50152,93.9
+San Francisco,74,Multifamily Housing,87470,18.7
+San Francisco,75,Office,61816,17.4
+San Francisco,76,Office,279617,39.3
+San Francisco,77,Office,490149,37.7
+San Francisco,78,Office,18157,103.3
+San Francisco,79,Office,34173,47
+San Francisco,80,Office,248600,91.2
+San Francisco,81,Office,691229,68.1
+San Francisco,82,Office,19913,45.2
+San Francisco,83,Office,16875,21.9
+San Francisco,84,Office,13400,52.2
+San Francisco,85,Office,34955,27.7
+San Francisco,86,Multifamily Housing,100221,38.4
+San Francisco,87,Office,118783,220
+San Francisco,88,Office,294848,41.6
+San Francisco,89,Office,12000,21.1
+San Francisco,90,Multifamily Housing,187638,30.8
+San Francisco,91,Multifamily Housing,61055,46.5
+San Francisco,92,Office,58452,67.8
+San Francisco,93,Office,26800,27.8
+San Francisco,94,Multifamily Housing,90834,26
+San Francisco,95,Office,30087,20.7
+San Francisco,96,Office,271590,1.5
+San Francisco,97,Office,64570,105.2
+San Francisco,98,Multifamily Housing,39496,10.1
+San Francisco,99,Office,25121,57.6
+San Francisco,100,Multifamily Housing,94429,41.2
+San Francisco,101,Office,158360,88.7
+San Francisco,102,Office,25650,48.2
+San Francisco,103,Office,48000,52.2
+San Francisco,104,Multifamily Housing,83475,37.4
+San Francisco,105,Office,132748,84.9
+San Francisco,106,Multifamily Housing,171508,59.9
+San Francisco,107,Office,342238,70.5
+San Francisco,108,Office,16368,45.5
+San Francisco,109,Office,506544,42.1
+San Francisco,110,Office,537024,67.6
+San Francisco,111,Office,114268,57.9
+San Francisco,112,Office,47838,69
+San Francisco,113,Office,412842,42.2
+San Francisco,114,Office,60350,44
+San Francisco,115,Office,437715,43.7
+San Francisco,116,Office,1948626,72.5
+San Francisco,117,Office,39318,36.4
+San Francisco,118,Multifamily Housing,63337,23.8
+San Francisco,119,Office,247000,51.1
+San Francisco,120,Multifamily Housing,60372,21.5
+San Francisco,121,Multifamily Housing,261974,33.8
+San Francisco,122,Multifamily Housing,87240,72
+San Francisco,123,Office,23456,63
+San Francisco,124,Office,611760,59.2
+San Francisco,125,Multifamily Housing,105797,87.6
+San Francisco,126,Office,265363,31.9
+San Francisco,127,Office,1119523,45.6
+San Francisco,128,Multifamily Housing,112360,58.6
+San Francisco,129,Office,16250,24.1
+San Francisco,130,Multifamily Housing,90121,33.7
+San Francisco,131,Office,29500,45.6
+San Francisco,132,Office,75950,40.8
+San Francisco,133,Office,374244,89.5
+San Francisco,134,Multifamily Housing,117898,63.9
+San Francisco,135,Multifamily Housing,274702,42.9
+San Francisco,136,Office,37104,75.6
+San Francisco,137,K-12 School,55325,36.2
+San Francisco,138,Multifamily Housing,101524,69.3
+San Francisco,139,Office,166418,36.9
+San Francisco,140,Multifamily Housing,91156,23.4
+San Francisco,141,Office,25000,44.3
+San Francisco,142,Multifamily Housing,127020,51.2
+San Francisco,143,Office,19052,87.9
+San Francisco,144,Office,84236,53.5
+San Francisco,145,Multifamily Housing,90000,31.5
+San Francisco,146,Office,69084,69.9
+San Francisco,147,Office,21790,43.9
+San Francisco,148,Office,21630,172.9
+San Francisco,149,Office,17760,24.7
+San Francisco,150,Multifamily Housing,120520,19
+San Francisco,151,Multifamily Housing,73872,71.5
+San Francisco,152,Office,68538,58
+San Francisco,153,Office,20796,22.3
+San Francisco,154,Office,425853,39.4
+San Francisco,155,Office,64800,53.9
+San Francisco,156,Office,81406,37.5
+San Francisco,157,Multifamily Housing,130792,37.9
+San Francisco,158,Multifamily Housing,91765,32.4
+San Francisco,159,Office,364985,51
+San Francisco,160,Office,15837,18.1
+San Francisco,161,Office,85554,41.6
+San Francisco,162,Office,232398,47.6
+San Francisco,163,Office,390497,33.3
+San Francisco,164,Multifamily Housing,310408,52.3
+San Francisco,165,Office,153493,64.2
+San Francisco,166,Multifamily Housing,127865,21.4
+San Francisco,167,Office,32100,40
+San Francisco,168,Office,28000,44.4
+San Francisco,169,Office,738880,47.5
+San Francisco,170,Office,26476,69.9
+San Francisco,171,Multifamily Housing,69769,75.9
+San Francisco,172,Office,38000,17.1
+San Francisco,173,Multifamily Housing,105189,36.5
+San Francisco,174,Office,16178,58.8
+San Francisco,175,Office,25000,56.7
+San Francisco,176,Office,320421,37.8
+San Francisco,177,Multifamily Housing,90615,22
+San Francisco,178,Office,64104,60.5
+San Francisco,179,Multifamily Housing,57954,47
+San Francisco,180,Office,262125,39.5
+San Francisco,181,Office,829730,53.6
+San Francisco,182,Multifamily Housing,164406,22.7
+San Francisco,183,Office,90600,41.8
+San Francisco,184,Office,33451,56.9
+San Francisco,185,Multifamily Housing,80360,48.9
+San Francisco,186,Office,13824,36.7
+San Francisco,187,Office,15150,60.3
+San Francisco,188,Office,38508,65.2
+San Francisco,189,Office,21206,23.2
+San Francisco,190,Multifamily Housing,134732,37.2
+San Francisco,191,Multifamily Housing,84759,56.2
+San Francisco,192,Multifamily Housing,534441,33.1
+San Francisco,193,Office,14100,83.7
+San Francisco,194,Multifamily Housing,644857,41
+San Francisco,195,Office,10000,135.3
+San Francisco,196,Office,43193,22.3
+San Francisco,197,Office,53715,68.8
+San Francisco,198,Multifamily Housing,89310,34.6
+San Francisco,199,Multifamily Housing,73562,40.8
+San Francisco,200,Office,24682,25.6
+San Francisco,201,Multifamily Housing,249147,36.4
+San Francisco,202,Office,342355,60
+San Francisco,203,Multifamily Housing,84684,45.7
+San Francisco,204,Multifamily Housing,399838,38.9
+San Francisco,205,Multifamily Housing,61553,55.4
+San Francisco,206,Office,18267,46.9
+San Francisco,207,Office,748027,64
+San Francisco,208,Office,17650,25.9
+San Francisco,209,Office,287627,40.1
+San Francisco,210,Office,29690,30.6
+San Francisco,211,Multifamily Housing,148168,26.4
+San Francisco,212,Office,218396,35
+San Francisco,213,Office,22038,77.7
+San Francisco,214,Multifamily Housing,487630,40.2
+San Francisco,215,Multifamily Housing,918968,19.8
+San Francisco,216,Office,306883,52.4
+San Francisco,217,Multifamily Housing,85032,73.7
+San Francisco,218,Office,316468,54.6
+San Francisco,219,Multifamily Housing,100310,26.6
+San Francisco,220,Multifamily Housing,206860,45.9
+San Francisco,221,Office,124359,54.2
+San Francisco,222,Office,13418,16.1
+San Francisco,223,Office,46962,83.9
+San Francisco,224,Office,265380,37.3
+San Francisco,225,Office,25170,10.2
+San Francisco,226,Multifamily Housing,63501,55.1
+San Francisco,227,Multifamily Housing,54048,13.9
+San Francisco,228,Office,14700,9.4
+San Francisco,229,Multifamily Housing,146554,62.4
+San Francisco,230,Office,33863,47.4
+San Francisco,231,Multifamily Housing,229124,51
+San Francisco,232,Office,130100,45.9
+San Francisco,233,Office,79809,27
+San Francisco,234,Office,10588,65.7
+San Francisco,235,Multifamily Housing,118344,22.1
+San Francisco,236,Office,1031149,48.3
+San Francisco,237,Office,10467,27.1
+San Francisco,238,Multifamily Housing,486750,27.7
+San Francisco,239,Office,10056,40.5
+San Francisco,240,Multifamily Housing,90876,43.4
+San Francisco,241,Office,18050,17.4
+San Francisco,242,Multifamily Housing,365860,26.8
+San Francisco,243,Office,54702,3.5
+San Francisco,244,Multifamily Housing,460753,43.8
+San Francisco,245,Office,61129,86.2
+San Francisco,246,Multifamily Housing,20630,26.4
+San Francisco,247,Multifamily Housing,91583,37.9
+San Francisco,248,Office,29928,39.5
+San Francisco,249,Multifamily Housing,99126,75.9
+San Francisco,250,Office,140076,41.6
+San Francisco,251,Office,28500,64.2
+San Francisco,252,Office,104311,44.4
+San Francisco,253,Multifamily Housing,50000,24.6
+San Francisco,254,Multifamily Housing,63922,34
+San Francisco,255,Office,28584,43
+San Francisco,256,Office,753305,43.4
+San Francisco,257,Office,32604,35.8
+San Francisco,258,Office,39993,9.9
+San Francisco,259,Office,146134,39.8
+San Francisco,260,Office,947955,31.3
+San Francisco,261,Office,375233,48.2
+San Francisco,262,Office,505340,55.5
+San Francisco,263,Office,22800,36.9
+San Francisco,264,Multifamily Housing,744020,32
+San Francisco,265,Multifamily Housing,165346,52.4
+San Francisco,266,Office,14170,50.9
+San Francisco,267,Office,44050,69.4
+San Francisco,268,Office,17810,22.3
+San Francisco,269,Office,10500,71.9
+San Francisco,270,Multifamily Housing,69143,28.8
+San Francisco,271,Multifamily Housing,117071,37.7
+San Francisco,272,Office,11455,14.3
+San Francisco,273,Multifamily Housing,89162,20
+San Francisco,274,Office,36838,72.5
+San Francisco,275,Office,1978104,80
+San Francisco,276,Office,49011,15.5
+San Francisco,277,Office,11169,110.2
+San Francisco,278,Office,466031,39.9
+San Francisco,279,Office,34875,55.1
+San Francisco,280,Multifamily Housing,59901,32
+San Francisco,281,Office,35649,49.1
+San Francisco,282,Multifamily Housing,177530,27.2
+San Francisco,283,Office,12900,33.9
+San Francisco,284,Multifamily Housing,68044,69.9
+San Francisco,285,Office,48720,19.2
+San Francisco,286,Office,34500,30.1
+San Francisco,287,Multifamily Housing,66280,13.9
+San Francisco,288,Multifamily Housing,156000,29.1
+San Francisco,289,Office,37747,79.6
+San Francisco,290,Multifamily Housing,221468,93.7
+San Francisco,291,Office,83296,49
+San Francisco,292,Multifamily Housing,65750,34.7
+San Francisco,293,Office,99625,58.4
+San Francisco,294,Office,97142,24.6
+San Francisco,295,Multifamily Housing,38000,27.4
+San Francisco,296,Office,12465,32.1
+San Francisco,297,Office,203456,53.2
+San Francisco,298,Office,17795,50.6
+San Francisco,299,Multifamily Housing,51723,59.5
+San Francisco,300,Office,102612,36.8
+San Francisco,301,Multifamily Housing,105646,22.9
+San Francisco,302,Multifamily Housing,175046,69.7
+San Francisco,303,Multifamily Housing,166257,39.3
+San Francisco,304,Multifamily Housing,159975,57.7
+San Francisco,305,Office,236109,45.4
+San Francisco,306,Office,647908,23.2
+San Francisco,307,Office,294031,48
+San Francisco,308,Office,120334,34
+San Francisco,309,Office,30000,17
+San Francisco,310,Multifamily Housing,84998,38.8
+San Francisco,311,Multifamily Housing,189459,38.6
+San Francisco,312,Multifamily Housing,72607,56.5
+San Francisco,313,Multifamily Housing,81380,73.7
+San Francisco,314,Multifamily Housing,105578,17.8
+San Francisco,315,Office,409410,72
+San Francisco,316,Office,314826,26.6
+San Francisco,317,Office,54700,72.9
+San Francisco,318,Office,24800,61.6
+San Francisco,319,Office,42235,39.3
+San Francisco,320,Multifamily Housing,231316,54.2
+San Francisco,321,Office,106052,112.2
+San Francisco,322,Multifamily Housing,86317,36.2
+San Francisco,323,K-12 School,71874,21.8
+San Francisco,324,Office,159807,34
+San Francisco,325,Office,31978,24.4
+San Francisco,326,Office,221426,53.8
+San Francisco,327,Office,68400,79.9
+San Francisco,328,Office,59463,39.9
+San Francisco,329,Office,151785,34.7
+San Francisco,330,Office,115609,41.6
+San Francisco,331,Office,319126,40.4
+San Francisco,332,Office,16771,185.3
+San Francisco,333,Office,94000,98.2
+San Francisco,334,Multifamily Housing,88895,20.7
+San Francisco,335,Office,332000,58.2
+San Francisco,336,Office,334982,48.8
+San Francisco,337,Office,30044,109.1
+San Francisco,338,Office,90045,42.3
+San Francisco,339,Office,606738,44
+San Francisco,340,Multifamily Housing,152636,24.7
+San Francisco,341,Multifamily Housing,243288,60
+San Francisco,342,Office,52617,85.7
+San Francisco,343,Multifamily Housing,160936,29.5
+San Francisco,344,Office,26808,27.1
+San Francisco,345,K-12 School,211425,35.4
+San Francisco,346,Office,408667,40.1
+San Francisco,347,Multifamily Housing,71984,11.7
+San Francisco,348,Office,54000,15.3
+San Francisco,349,Office,23690,40.8
+San Francisco,350,Office,305260,63
+San Francisco,351,Multifamily Housing,106450,87.6
+San Francisco,352,Multifamily Housing,67245,39.8
+San Francisco,353,Multifamily Housing,88752,42.3
+San Francisco,354,Office,14447,21.4
+San Francisco,355,Multifamily Housing,154688,33
+San Francisco,356,Office,67807,62.4
+San Francisco,357,Office,94000,31.1
+San Francisco,358,Multifamily Housing,130000,62
+San Francisco,359,Office,24812,26.8
+San Francisco,360,Multifamily Housing,133012,30.5
+San Francisco,361,Multifamily Housing,50000,47.7
+San Francisco,362,Multifamily Housing,224400,47.6
+San Francisco,363,Multifamily Housing,47974,63.6
+San Francisco,364,Office,91858,66.2
+San Francisco,365,Multifamily Housing,123167,42.7
+San Francisco,366,Office,60000,112.4
+San Francisco,367,Office,24000,41.5
+San Francisco,368,Office,172415,131.8
+San Francisco,369,Office,1146260,77.7
+San Francisco,370,Multifamily Housing,87135,41.2
+San Francisco,371,Multifamily Housing,176874,44
+San Francisco,372,Office,26419,37.1
+San Francisco,373,Office,93567,29
+San Francisco,374,Multifamily Housing,87870,26
+San Francisco,375,Multifamily Housing,193515,52.1
+San Francisco,376,Office,208193,30.6
+San Francisco,377,Multifamily Housing,109584,19.6
+San Francisco,378,Office,13081,63.3
+San Francisco,379,Office,17080,17
+San Francisco,380,Office,1895166,59.2
+San Francisco,381,Office,36934,25.5
+San Francisco,382,Office,33000,24.1
+San Francisco,383,Office,12100,15.3
+San Francisco,384,Office,155817,50.8
+San Francisco,385,Office,61872,23.8
+San Francisco,386,Multifamily Housing,243191,39
+San Francisco,387,Office,190943,71.6
+San Francisco,388,Office,280804,57.6
+San Francisco,389,Office,54952,26.3
+San Francisco,390,Office,55507,46.4
+San Francisco,391,Multifamily Housing,68812,38.6
+San Francisco,392,Multifamily Housing,70835,72.7
+San Francisco,393,Multifamily Housing,70522,44.9
+San Francisco,394,Office,65890,6.4
+San Francisco,395,Multifamily Housing,99222,59.4
+San Francisco,396,Office,181110,43.7
+San Francisco,397,Office,10000,21
+San Francisco,398,Office,16920,37.3
+San Francisco,399,Office,25250,20.8
+San Francisco,400,Office,159330,37.9
+San Francisco,401,Multifamily Housing,57334,29.6
+San Francisco,402,Office,445438,43.1
+San Francisco,403,Office,88443,32.4
+San Francisco,404,Multifamily Housing,103680,51.9
+San Francisco,405,Multifamily Housing,239517,24.8
+San Francisco,406,Multifamily Housing,71003,48.7
+San Francisco,407,Office,61921,24.1
+San Francisco,408,Office,59445,26
+San Francisco,409,Office,38597,38.8
+San Francisco,410,Multifamily Housing,79295,41.1
+San Francisco,411,Office,448770,140.2
+San Francisco,412,Multifamily Housing,89630,42.1
+San Francisco,413,Office,46314,43.2
+San Francisco,414,Office,105415,34.7
+San Francisco,415,Office,119679,50.5
+San Francisco,416,Multifamily Housing,182596,33.3
+San Francisco,417,Office,469669,64.6
+San Francisco,418,Multifamily Housing,199037,38.5
+San Francisco,419,Office,86623,141.6
+San Francisco,420,Multifamily Housing,84692,32.1
+San Francisco,421,Office,47169,61
+San Francisco,422,Office,261732,34.2
+San Francisco,423,Office,142446,47.8
+San Francisco,424,Office,165989,33
+San Francisco,425,Office,75656,31.9
+San Francisco,426,Office,405330,20.8
+San Francisco,427,Office,298124,41.9
+San Francisco,428,Office,44107,50.3
+San Francisco,429,Office,45098,102.1
+San Francisco,430,Office,15237,58.2
+San Francisco,431,Multifamily Housing,138202,52.1
+San Francisco,432,Multifamily Housing,282936,56.1
+San Francisco,433,Office,14400,36.8
+San Francisco,434,Office,182927,36.6
+San Francisco,435,Office,317443,131
+San Francisco,436,Office,22687,30.6
+San Francisco,437,Multifamily Housing,50212,20.6
+San Francisco,438,Multifamily Housing,240067,35.9
+San Francisco,439,Office,24178,16
+San Francisco,440,Office,747573,35
+San Francisco,441,Office,231360,44.2
+San Francisco,442,Office,18909,68.6
+San Francisco,443,Multifamily Housing,296800,22.1
+San Francisco,444,Multifamily Housing,141365,30.9
+San Francisco,445,Multifamily Housing,196908,38.5
+San Francisco,446,Office,146611,71
+San Francisco,447,Office,77536,37.7
+San Francisco,448,Multifamily Housing,65285,41.7
+San Francisco,449,Multifamily Housing,19084,48.2
+San Francisco,450,Multifamily Housing,690000,62.1
+San Francisco,451,Multifamily Housing,76608,42.1
+San Francisco,452,Office,113000,85.6
+San Francisco,453,Multifamily Housing,75939,6.6
+San Francisco,454,Office,16162,19.9
+San Francisco,455,Office,10450,25.4
+San Francisco,456,Office,23177,53.7
+San Francisco,457,Office,50993,35.2
+San Francisco,458,Office,28000,21.8
+San Francisco,459,Office,15000,25.9
+San Francisco,460,Office,16900,63.5
+San Francisco,461,Office,75272,67.5
+San Francisco,462,Multifamily Housing,53461,7.3
+San Francisco,463,Office,13000,20.4
+San Francisco,464,Multifamily Housing,106890,48.1
+San Francisco,465,Multifamily Housing,180656,37.2
+San Francisco,466,Office,588929,43.9
+San Francisco,467,Office,28660,39.1
+San Francisco,468,Office,65000,71.3
+San Francisco,469,Office,79837,40.9
+San Francisco,470,Office,10800,30
+San Francisco,471,Multifamily Housing,1044955,31.2
+San Francisco,472,Office,92065,88.2
+San Francisco,473,Office,14000,15.8
+San Francisco,474,Office,35415,44.9
+San Francisco,475,Office,20154,80.1
+San Francisco,476,Office,60766,3.3
+San Francisco,477,Office,19322,21.4
+San Francisco,478,Office,22746,30.4
+San Francisco,479,Office,91995,20.8
+San Francisco,480,Office,40200,29.6
+San Francisco,481,Multifamily Housing,88860,31.5
+San Francisco,482,Multifamily Housing,156227,32.2
+San Francisco,483,Multifamily Housing,77963,40.4
+San Francisco,484,Office,20986,20.5
+San Francisco,485,Office,119099,38.8
+San Francisco,486,Office,72514,36.3
+San Francisco,487,Multifamily Housing,155225,16
+San Francisco,488,Office,14500,55.1
+San Francisco,489,Multifamily Housing,115075,46.8
+San Francisco,490,Office,14384,57.2
+San Francisco,491,Office,64048,47.9
+San Francisco,492,Multifamily Housing,148706,30.9
+San Francisco,493,Multifamily Housing,234000,47.7
+San Francisco,494,Office,18300,5.5
+San Francisco,495,Office,350084,52.7
+San Francisco,496,Office,246955,55
+San Francisco,497,Office,21114,49.3
+San Francisco,498,Office,89669,35.2
+San Francisco,499,Office,43354,25.6
+San Francisco,500,Office,130469,46.1
+San Francisco,501,Multifamily Housing,74500,43.5
+San Francisco,502,Multifamily Housing,288881,31
+San Francisco,503,Office,28722,25
+San Francisco,504,Office,24757,161.5
+San Francisco,505,Office,93140,48.8
+San Francisco,506,Multifamily Housing,62400,56.2
+San Francisco,507,Office,10526,1.6
+San Francisco,508,Office,18840,76.2
+San Francisco,509,Office,607757,59.6
+San Francisco,510,Office,325006,42.1
+San Francisco,511,Office,116495,82
+San Francisco,512,Office,38795,23.6
+San Francisco,513,Multifamily Housing,97000,52.7
+San Francisco,514,Multifamily Housing,69160,34.5
+San Francisco,515,Office,47733,34.4
+San Francisco,516,Office,164963,43.2
+San Francisco,517,Multifamily Housing,85460,35.1
+San Francisco,518,Office,91299,54.9
+San Francisco,519,Office,204740,27.5
+San Francisco,520,Office,95070,49.7
+San Francisco,521,Office,30750,34
+San Francisco,522,Multifamily Housing,101500,57.5
+San Francisco,523,Multifamily Housing,54940,54.3
+San Francisco,524,Office,43969,79.3
+San Francisco,525,Multifamily Housing,178750,41.5
+San Francisco,526,Office,47618,39.3
+San Francisco,527,Multifamily Housing,51628,54.1
+San Francisco,528,Office,41100,56
+San Francisco,529,Multifamily Housing,57585,23.3
+San Francisco,530,Multifamily Housing,138512,28.4
+San Francisco,531,Office,115249,59.3
+San Francisco,532,Multifamily Housing,90297,37.4
+San Francisco,533,Multifamily Housing,65926,56.3
+San Francisco,534,Multifamily Housing,123322,49
+San Francisco,535,Office,30964,27.4
+San Francisco,536,Multifamily Housing,514531,34.5
+San Francisco,537,Office,10998,35.2
+San Francisco,538,Office,70000,3.4
+San Francisco,539,Office,467690,68
+San Francisco,540,Office,20000,34
+San Francisco,541,Multifamily Housing,96554,37.3
+San Francisco,542,Multifamily Housing,122015,32.6
+San Francisco,543,Multifamily Housing,60419,70.4
+San Francisco,544,Office,293837,16.4
+San Francisco,545,Multifamily Housing,69678,42.1
+San Francisco,546,Multifamily Housing,97741,34.1
+San Francisco,547,Office,418566,34.9
+San Francisco,548,Office,17500,87.1
+San Francisco,549,Office,17911,30.2
+San Francisco,550,Office,20500,57.7
+San Francisco,551,Office,249252,54.7
+San Francisco,552,Office,228587,138.8
+San Francisco,553,Multifamily Housing,164870,15.5
+San Francisco,554,Office,356538,42.1
+San Francisco,555,Office,134445,55
+San Francisco,556,Office,59472,30.6
+San Francisco,557,Office,185591,47
+San Francisco,558,Office,30318,68.8
+San Francisco,559,Office,571527,109.4
+San Francisco,560,Office,178720,161.1
+San Francisco,561,Office,700079,56.5
+San Francisco,562,Office,108000,34.4
+San Francisco,563,Multifamily Housing,95832,57.1
+San Francisco,564,Office,440955,35.5
+San Francisco,565,Office,47783,84
+San Francisco,566,Multifamily Housing,79469,72.8
+San Francisco,567,Office,10150,27.5
+San Francisco,568,Multifamily Housing,86400,45.7
+San Francisco,569,Office,27667,25.9
+San Francisco,570,Office,18763,18.5
+San Francisco,571,Multifamily Housing,50000,19.3
+San Francisco,572,Office,34320,16.1
+San Francisco,573,Multifamily Housing,125436,71.8
+San Francisco,574,Multifamily Housing,155225,16
+San Francisco,575,Office,49917,33.7
+San Francisco,576,Multifamily Housing,52072,13.1
+San Francisco,577,Office,67390,28.9
+San Francisco,578,Office,80732,34.2
+San Francisco,579,Multifamily Housing,118589,35.3
+San Francisco,580,Office,92061,33.8
+San Francisco,581,Multifamily Housing,95230,41.5
+San Francisco,582,Office,10065,78.5
+San Francisco,583,Office,11760,217.5
+San Francisco,584,Office,27064,21.2
+San Francisco,585,Office,37063,49.1
+San Francisco,586,Office,43563,43.2
+San Francisco,587,Multifamily Housing,112032,41
+San Francisco,588,Office,10811,24
+San Francisco,589,Multifamily Housing,409679,32.1
+San Francisco,590,Multifamily Housing,113340,42.4
+San Francisco,591,Multifamily Housing,299175,24.9
+San Francisco,592,Multifamily Housing,132856,36.8
+San Francisco,593,Multifamily Housing,41750,117.9
+San Francisco,594,Multifamily Housing,47998,63.1
+San Francisco,595,Office,258612,94.3
+San Francisco,596,Multifamily Housing,97376,35.6
+San Francisco,597,Office,26701,47.8
+San Francisco,598,Office,34572,38.4
+San Francisco,599,Multifamily Housing,83750,35.4
+San Francisco,600,Multifamily Housing,342860,33.9
+San Francisco,601,Office,39992,80
+San Francisco,602,Office,251599,34.8
+San Francisco,603,Office,487959,53.5
+San Francisco,604,Office,474118,65.1
+San Francisco,605,Multifamily Housing,54939,38.6
+San Francisco,606,Multifamily Housing,185800,29.8
+San Francisco,607,Office,46230,16
+San Francisco,608,Multifamily Housing,192198,38.2
+San Francisco,609,Multifamily Housing,130152,48.4
+San Francisco,610,Office,642879,35.8
+San Francisco,611,Multifamily Housing,248893,27.6
+San Francisco,612,Multifamily Housing,145307,43
+San Francisco,613,Office,36159,118.2
+San Francisco,614,Office,24930,33.7
+San Francisco,615,Office,11904,218.1
+San Francisco,616,Multifamily Housing,73334,35.4
+San Francisco,617,Multifamily Housing,853363,24.7
+San Francisco,618,Office,427746,53.5
+San Francisco,619,Office,231663,45.4
+San Francisco,620,Office,19468,37.6
+San Francisco,621,Office,21568,132.2
+San Francisco,622,Multifamily Housing,79820,20.5
+San Francisco,623,Multifamily Housing,70562,17.2
+San Francisco,624,Multifamily Housing,489000,37.7
+San Francisco,625,Multifamily Housing,211656,47.3
+San Francisco,626,Office,463062,40.3
+San Francisco,627,Office,41267,151.4
+San Francisco,628,Office,220590,50.6
+San Francisco,629,Multifamily Housing,91954,44.7
+San Francisco,630,Multifamily Housing,248719,48
+San Francisco,631,Multifamily Housing,120165,33.9
+San Francisco,632,Multifamily Housing,56000,22.3
+San Francisco,633,Multifamily Housing,42406,34
+San Francisco,634,Office,58822,47.3
+San Francisco,635,Office,10750,30.6
+San Francisco,636,Office,34000,52.3
+San Francisco,637,Multifamily Housing,90220,36.7
+San Francisco,638,Multifamily Housing,54844,26.4
+San Francisco,639,Office,11161,95.3
+San Francisco,640,Office,15500,25.6
+San Francisco,641,Office,39420,61
+San Francisco,642,Office,12750,51.4
+San Francisco,643,Office,17600,3
+San Francisco,644,Office,11701,61.8
+San Francisco,645,Office,12000,96.3
+San Francisco,646,Multifamily Housing,89680,48.5
+San Francisco,647,Multifamily Housing,111200,19.6
+San Francisco,648,Office,19260,35.2
+San Francisco,649,Office,82159,149.2
+San Francisco,650,Multifamily Housing,68875,45.7
+San Francisco,651,Multifamily Housing,209104,16.6
+San Francisco,652,Office,10880,24.8
+San Francisco,653,Office,104424,41.3
+San Francisco,654,Multifamily Housing,105263,36.2
+San Francisco,655,Multifamily Housing,83690,53.2
+San Francisco,656,Multifamily Housing,78865,41.8
+San Francisco,657,Office,124372,61.6
+San Francisco,658,Office,1464955,40.9
+San Francisco,659,Office,23053,45.4
+San Francisco,660,Office,159479,76.3
+San Francisco,661,Office,25200,30.6
+San Francisco,662,Office,96776,18
+San Francisco,663,Office,42489,79.2
+San Francisco,664,Office,13389,22.6
+San Francisco,665,Office,1101389,45.8
+San Francisco,666,Office,67789,51.5
+San Francisco,667,Office,42890,52
+San Francisco,668,Office,240291,95.9
+San Francisco,669,Office,1679267,41.4
+San Francisco,670,Multifamily Housing,134485,36.7
+San Francisco,671,Multifamily Housing,859311,68.2
+San Francisco,672,Office,205964,49
+San Francisco,673,Multifamily Housing,141000,52
+San Francisco,674,Office,211344,43.5
+San Francisco,675,Multifamily Housing,105494,66.1
+San Francisco,676,Multifamily Housing,94006,38.2
+San Francisco,677,Office,55785,44.1
+San Francisco,678,Multifamily Housing,72397,65.8
+San Francisco,679,Multifamily Housing,58301,74.7
+San Francisco,680,Office,189305,44
+San Francisco,681,Office,295114,63.6
+San Francisco,682,Office,117200,70.5
+San Francisco,683,Office,439099,62.4
+San Francisco,684,Office,24460,31.5
+San Francisco,685,Office,26079,6.1
+San Francisco,686,Office,15460,17.9
+San Francisco,687,K-12 School,51270,44.4
+San Francisco,688,Office,15000,15.3
+San Francisco,689,Office,74055,31.2
+San Francisco,690,Office,11198,14.6
+San Francisco,691,Multifamily Housing,450577,51.3
+San Francisco,692,Office,61632,58.1
+San Francisco,693,Multifamily Housing,114602,38.2
+San Francisco,694,Office,26535,35.3
+San Francisco,695,Office,578104,78.8
+San Francisco,696,Multifamily Housing,79499,19.6
+San Francisco,697,Office,49271,40.3
+San Francisco,698,Office,33000,42.3
+San Francisco,699,Multifamily Housing,70300,49.5
+San Francisco,700,Office,19520,24.1
+San Francisco,701,Office,270099,46.4
+San Francisco,702,Office,41434,45
+San Francisco,703,Office,10200,38.1
+San Francisco,704,Multifamily Housing,196708,36.8
+San Francisco,705,Office,84863,5.6
+San Francisco,706,Office,327412,43.4
+San Francisco,707,Office,29385,9.3
+San Francisco,708,Multifamily Housing,341718,43.5
+San Francisco,709,Multifamily Housing,74376,41.7
+San Francisco,710,Multifamily Housing,100000,42.1
+San Francisco,711,Office,32776,30.1
+San Francisco,712,Office,46879,60.2
+San Francisco,713,Office,73640,58.9
+San Francisco,714,Office,31740,214.5
+San Francisco,715,Office,14568,22.3
+San Francisco,716,Multifamily Housing,243000,42.1
+San Francisco,717,Multifamily Housing,88026,6.8
+San Francisco,718,Office,110748,38.6
+San Francisco,719,Office,62476,46.2
+San Francisco,720,Office,27390,28.8
+San Francisco,721,Multifamily Housing,248960,29.1
+San Francisco,722,Multifamily Housing,452345,39
+San Francisco,723,Multifamily Housing,109584,23.5
+San Francisco,724,Office,25500,23.9
+San Francisco,725,Multifamily Housing,333258,48.3
+San Francisco,726,Multifamily Housing,45812,40.5
+San Francisco,727,Multifamily Housing,57950,55.8
+San Francisco,728,Office,89927,37
+San Francisco,729,Office,30000,77.8
+San Francisco,730,Office,117435,64.2
+San Francisco,731,Office,486162,46.2
+San Francisco,732,K-12 School,11500,26.8
+San Francisco,733,Office,29925,39.5
+San Francisco,734,Office,26665,33.3
+San Francisco,735,Multifamily Housing,255094,21.3
+San Francisco,736,Office,21323,42
+San Francisco,737,Office,1203154,34.7
+San Francisco,738,Office,103664,51.4
+San Francisco,739,Multifamily Housing,62268,67.4
+San Francisco,740,Office,41390,25.3
+San Francisco,741,Multifamily Housing,102000,37.6
+San Francisco,742,Office,48475,26.2
+San Francisco,743,Multifamily Housing,84596,32.1
+San Francisco,744,Multifamily Housing,79543,20.4
+San Francisco,745,Office,33739,32.2
+San Francisco,746,Office,23466,26
+San Francisco,747,Office,85588,41.1
+San Francisco,748,Office,16228,43
+San Francisco,749,Office,560325,51.1
+San Francisco,750,Office,94895,44.2
+San Francisco,751,Office,178346,51.8
+San Francisco,752,K-12 School,66929,19.7
+San Francisco,753,Multifamily Housing,130565,36.2
+San Francisco,754,Multifamily Housing,245775,79.7
+San Francisco,755,Multifamily Housing,40828,106
+San Francisco,756,Office,18130,57.2
+San Francisco,757,Office,286510,41.4
+San Francisco,758,Multifamily Housing,96271,61.7
+San Francisco,759,Multifamily Housing,290259,26
+San Francisco,760,Office,37137,43.4
+San Francisco,761,Multifamily Housing,255871,19.4
+San Francisco,762,Office,116050,56.4
+San Francisco,763,Office,66000,60.2
+San Francisco,764,Multifamily Housing,60000,66.7
+San Francisco,765,Office,136297,139.7
+San Francisco,766,Office,34343,47.1
+San Francisco,767,Multifamily Housing,88825,141.1
+San Francisco,768,Multifamily Housing,57948,31.6
+San Francisco,769,Multifamily Housing,63732,56.9
+San Francisco,770,Office,135371,50.2
+San Francisco,771,Office,651168,32.3
+San Francisco,772,Office,14719,54.4
+San Francisco,773,Office,297551,61.3
+San Francisco,774,Office,95832,19.5
+San Francisco,775,Office,55853,58
+San Francisco,776,Office,10936,31.9
+San Francisco,777,Office,95955,57.7
+San Francisco,778,Multifamily Housing,62520,24.1
+San Francisco,779,Office,18000,136
+San Francisco,780,Office,26160,60.6
+San Francisco,781,Multifamily Housing,105728,23
+San Francisco,782,Multifamily Housing,220000,30.2
+San Francisco,783,Multifamily Housing,596373,56.5
+San Francisco,784,Office,29309,161.3
+San Francisco,785,Office,39933,64.3
+San Francisco,786,K-12 School,12264,4
+San Francisco,787,Office,38440,36.8
+San Francisco,788,Multifamily Housing,90557,35.5
+San Francisco,789,Office,15348,15.2
+San Francisco,790,Office,17155,55.1
+San Francisco,791,Office,55522,22.6
+San Francisco,792,Office,19540,8.7
+San Francisco,793,Multifamily Housing,149896,65.5
+San Francisco,794,Office,282148,45.4
+San Francisco,795,Multifamily Housing,58872,72.7
+San Francisco,796,Office,222853,41.2
+San Francisco,797,Office,72330,14.3
+San Francisco,798,Multifamily Housing,146197,21.8
+San Francisco,799,Office,24351,26.7
+San Francisco,800,Multifamily Housing,245885,44.3
+San Francisco,801,Multifamily Housing,152459,86.3
+San Francisco,802,Office,40858,41.2
+San Francisco,803,Office,71146,54.3
+San Francisco,804,Office,22500,27.5
+San Francisco,805,Multifamily Housing,277100,86.5
+San Francisco,806,Multifamily Housing,91105,17.6
+San Francisco,807,Office,132036,41.1
+San Francisco,808,Office,228617,76.8
+San Francisco,809,Multifamily Housing,99441,78.2
+San Francisco,810,Office,24549,49.7
+San Francisco,811,Office,17195,29.8
+San Francisco,812,Office,15406,46.8
+San Francisco,813,Office,70769,30.5
+San Francisco,814,Office,122020,54.6
+San Francisco,815,Multifamily Housing,76609,52.7
+San Francisco,816,Multifamily Housing,132000,33
+San Francisco,817,Office,498740,39.7
+San Francisco,818,Multifamily Housing,325000,41.6
+San Francisco,819,Multifamily Housing,76374,16.2
+San Francisco,820,Office,63500,1.7
+San Francisco,821,Office,13250,26.6
+San Francisco,822,Multifamily Housing,64012,38.9
+San Francisco,823,Multifamily Housing,102971,47.4
+San Francisco,824,Office,52596,35.6
+San Francisco,825,Office,16800,38.1
+San Francisco,826,Multifamily Housing,81541,43.3
+San Francisco,827,Multifamily Housing,145538,30.1
+San Francisco,828,Multifamily Housing,60537,21.1
+San Francisco,829,Multifamily Housing,56000,80.5
+San Francisco,830,Multifamily Housing,151007,22.3
+San Francisco,831,Multifamily Housing,106786,71.8
+San Francisco,832,Office,15120,19.7
+San Francisco,833,Office,20784,41.7
+San Francisco,834,Office,76431,42.8
+San Francisco,835,Multifamily Housing,54660,63.9
+San Francisco,836,Office,21437,39.1
+San Francisco,837,Office,18058,30.5
+San Francisco,838,Multifamily Housing,90635,17.2
+San Francisco,839,Multifamily Housing,225230,49.8
+San Francisco,840,Office,691436,45.1
+San Francisco,841,Office,22694,56.4
+San Francisco,842,Office,46601,12.7
+San Francisco,843,Office,1339547,73.3
+San Francisco,844,Office,29064,21.6
+San Francisco,845,Office,25000,46.6
+San Francisco,846,Multifamily Housing,82173,58.4
+San Francisco,847,Office,333669,63
+San Francisco,848,Office,72180,28.6
+San Francisco,849,Multifamily Housing,30000,44.6
+San Francisco,850,Multifamily Housing,57263,36.5
+San Francisco,851,Multifamily Housing,160000,21
+San Francisco,852,Multifamily Housing,108250,29.2
+San Francisco,853,Office,11690,23.5
+San Francisco,854,Office,41622,21.5
+San Francisco,855,Office,30480,22.1
+San Francisco,856,Multifamily Housing,40305,59.8
+San Francisco,857,Office,17544,30.4
+San Francisco,858,Multifamily Housing,64464,17.2
+San Francisco,859,Office,77284,43.4
+San Francisco,860,Multifamily Housing,69629,71.2
+San Francisco,861,Office,34265,18.3
+San Francisco,862,Office,53743,44
+San Francisco,863,Multifamily Housing,1019056,23.3
+San Francisco,864,Office,29189,61.9

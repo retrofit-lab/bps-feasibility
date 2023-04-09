@@ -1,0 +1,3583 @@
+city,prop_id,facility_type,floor_area,site_eui
+Los Angeles,1,Multifamily Housing,24000,32.3
+Los Angeles,2,Multifamily Housing,65000,14
+Los Angeles,3,Multifamily Housing,183174,35.3
+Los Angeles,4,Multifamily Housing,18000,40.1
+Los Angeles,5,Office,12500,56.3
+Los Angeles,6,Multifamily Housing,36960,36.3
+Los Angeles,7,Multifamily Housing,21660,33.5
+Los Angeles,8,Multifamily Housing,22237,37.2
+Los Angeles,9,Multifamily Housing,30261,49
+Los Angeles,10,Multifamily Housing,33580,40
+Los Angeles,11,Multifamily Housing,30095,13.5
+Los Angeles,12,Office,516405,99.4
+Los Angeles,13,Multifamily Housing,20300,46.4
+Los Angeles,14,Multifamily Housing,50990,43
+Los Angeles,15,Office,140409,81.8
+Los Angeles,16,Multifamily Housing,88040,31.4
+Los Angeles,17,Multifamily Housing,31665,24.4
+Los Angeles,18,Multifamily Housing,34872,35.8
+Los Angeles,19,Multifamily Housing,29170,32.8
+Los Angeles,20,Office,492320,43.1
+Los Angeles,21,Multifamily Housing,22000,17.7
+Los Angeles,22,Multifamily Housing,24187,34.3
+Los Angeles,23,Multifamily Housing,27700,32.4
+Los Angeles,24,Multifamily Housing,36000,20.5
+Los Angeles,25,Office,38000,63.1
+Los Angeles,26,Office,257028,31.6
+Los Angeles,27,Multifamily Housing,21060,34.2
+Los Angeles,28,Multifamily Housing,29528,35.1
+Los Angeles,29,Multifamily Housing,255000,38.8
+Los Angeles,30,Office,180754,43.7
+Los Angeles,31,Multifamily Housing,54795,37.6
+Los Angeles,32,Multifamily Housing,2960926,3.3
+Los Angeles,33,Office,432424,10.6
+Los Angeles,34,Multifamily Housing,33840,37
+Los Angeles,35,Multifamily Housing,105455,31.3
+Los Angeles,36,Multifamily Housing,132417,37.3
+Los Angeles,37,Multifamily Housing,28800,15.9
+Los Angeles,38,Multifamily Housing,49820,39.6
+Los Angeles,39,Multifamily Housing,37446,30.2
+Los Angeles,40,Multifamily Housing,93243,19.9
+Los Angeles,41,Multifamily Housing,32400,11.8
+Los Angeles,42,Multifamily Housing,23152,53.6
+Los Angeles,43,Multifamily Housing,34941,34.6
+Los Angeles,44,Multifamily Housing,24328,38.5
+Los Angeles,45,Multifamily Housing,21196,40.5
+Los Angeles,46,Office,25379,8.8
+Los Angeles,47,Multifamily Housing,55000,2.8
+Los Angeles,48,Office,60587,61.9
+Los Angeles,49,Multifamily Housing,224000,19.7
+Los Angeles,50,Multifamily Housing,62500,11.3
+Los Angeles,51,Multifamily Housing,190135,35.3
+Los Angeles,52,Multifamily Housing,40100,15.7
+Los Angeles,53,Multifamily Housing,108000,36.9
+Los Angeles,54,Multifamily Housing,48458,48.1
+Los Angeles,55,Multifamily Housing,105455,46.3
+Los Angeles,56,Multifamily Housing,148890,30.3
+Los Angeles,57,Multifamily Housing,45077,21
+Los Angeles,58,Office,219122,45.6
+Los Angeles,59,Multifamily Housing,33500,16.5
+Los Angeles,60,Multifamily Housing,73519,32.6
+Los Angeles,61,Multifamily Housing,21777,14.1
+Los Angeles,62,Multifamily Housing,51177,30.9
+Los Angeles,63,Multifamily Housing,22504,45.8
+Los Angeles,64,Multifamily Housing,28000,18.7
+Los Angeles,65,Multifamily Housing,401567,36.3
+Los Angeles,66,Multifamily Housing,222048,33.9
+Los Angeles,67,Multifamily Housing,35832,38.7
+Los Angeles,68,Office,228570,43.3
+Los Angeles,69,Office,490000,46.9
+Los Angeles,70,Multifamily Housing,33451,46.3
+Los Angeles,71,Multifamily Housing,93243,48.7
+Los Angeles,72,Multifamily Housing,26177,26.5
+Los Angeles,73,Multifamily Housing,73181,28.8
+Los Angeles,74,Multifamily Housing,82689,25.3
+Los Angeles,75,Multifamily Housing,50840,43.2
+Los Angeles,76,Multifamily Housing,41000,3.2
+Los Angeles,77,Office,37463,56.9
+Los Angeles,78,Multifamily Housing,75948,38.8
+Los Angeles,79,Office,36200,56.4
+Los Angeles,80,Multifamily Housing,28229,38.6
+Los Angeles,81,Office,120595,57.5
+Los Angeles,82,Office,42100,57.7
+Los Angeles,83,Office,55530,11.9
+Los Angeles,84,Office,12865,48.2
+Los Angeles,85,Multifamily Housing,21936,80
+Los Angeles,86,Multifamily Housing,87234,46.5
+Los Angeles,87,Multifamily Housing,110000,11.8
+Los Angeles,88,Multifamily Housing,250719,38
+Los Angeles,89,Multifamily Housing,44300,37.2
+Los Angeles,90,Multifamily Housing,197158,38.7
+Los Angeles,91,Multifamily Housing,65055,32.8
+Los Angeles,92,Multifamily Housing,29252,32
+Los Angeles,93,Multifamily Housing,630955,50.7
+Los Angeles,94,Multifamily Housing,183926,32.6
+Los Angeles,95,Multifamily Housing,67564,45
+Los Angeles,96,Multifamily Housing,214667,33.1
+Los Angeles,97,Multifamily Housing,51800,46.5
+Los Angeles,98,Multifamily Housing,72544,45.8
+Los Angeles,99,Multifamily Housing,22214,58.4
+Los Angeles,100,Multifamily Housing,91052,51.4
+Los Angeles,101,Multifamily Housing,43491,35.9
+Los Angeles,102,Multifamily Housing,27000,11.8
+Los Angeles,103,Office,32527,43.2
+Los Angeles,104,Multifamily Housing,667513,15.4
+Los Angeles,105,Multifamily Housing,290809,40.2
+Los Angeles,106,Multifamily Housing,466134,10.2
+Los Angeles,107,Multifamily Housing,81060,24.3
+Los Angeles,108,Multifamily Housing,25048,74.4
+Los Angeles,109,Multifamily Housing,295131,61.7
+Los Angeles,110,Multifamily Housing,146664,37.2
+Los Angeles,111,Multifamily Housing,77883,15.2
+Los Angeles,112,Multifamily Housing,68006,41.5
+Los Angeles,113,Office,52900,60.6
+Los Angeles,114,Multifamily Housing,188028,51.9
+Los Angeles,115,Multifamily Housing,406339,58.1
+Los Angeles,116,Multifamily Housing,342523,26.2
+Los Angeles,117,Multifamily Housing,400000,34.1
+Los Angeles,118,Multifamily Housing,26500,41.2
+Los Angeles,119,Multifamily Housing,118397,27.5
+Los Angeles,120,Multifamily Housing,116646,20.3
+Los Angeles,121,Multifamily Housing,86936,38.7
+Los Angeles,122,Multifamily Housing,73458,43.5
+Los Angeles,123,Office,85832,35.1
+Los Angeles,124,Multifamily Housing,158144,40
+Los Angeles,125,Multifamily Housing,29444,28.1
+Los Angeles,126,Multifamily Housing,100000,38.9
+Los Angeles,127,Multifamily Housing,65746,50.4
+Los Angeles,128,Office,78229,78.1
+Los Angeles,129,Office,105826,42.5
+Los Angeles,130,Multifamily Housing,108192,32.9
+Los Angeles,131,Multifamily Housing,141286,41.4
+Los Angeles,132,Multifamily Housing,243554,33.4
+Los Angeles,133,Multifamily Housing,543000,18
+Los Angeles,134,Multifamily Housing,142000,49.2
+Los Angeles,135,Multifamily Housing,128201,13.5
+Los Angeles,136,Multifamily Housing,48318,34.2
+Los Angeles,137,Multifamily Housing,298384,19.5
+Los Angeles,138,Multifamily Housing,505273,52.9
+Los Angeles,139,Multifamily Housing,778666,32.4
+Los Angeles,140,Multifamily Housing,85946,40.3
+Los Angeles,141,Multifamily Housing,23400,65.5
+Los Angeles,142,Multifamily Housing,48868,2.2
+Los Angeles,143,Multifamily Housing,32054,47.5
+Los Angeles,144,Multifamily Housing,106276,21.8
+Los Angeles,145,Multifamily Housing,21288,3.8
+Los Angeles,146,Multifamily Housing,47060,23.7
+Los Angeles,147,Multifamily Housing,39927,22.4
+Los Angeles,148,Office,138383,46.7
+Los Angeles,149,Multifamily Housing,58423,62.4
+Los Angeles,150,Multifamily Housing,42411,60.9
+Los Angeles,151,Office,54287,31.5
+Los Angeles,152,Multifamily Housing,78653,4.9
+Los Angeles,153,Multifamily Housing,29074,3
+Los Angeles,154,Multifamily Housing,192306,44.1
+Los Angeles,155,Multifamily Housing,17000,59.4
+Los Angeles,156,Multifamily Housing,38657,21.6
+Los Angeles,157,Multifamily Housing,33658,7.8
+Los Angeles,158,Multifamily Housing,23476,3.7
+Los Angeles,159,Multifamily Housing,20459,7
+Los Angeles,160,Multifamily Housing,24132,24
+Los Angeles,161,Office,74624,63.7
+Los Angeles,162,Multifamily Housing,58136,3.1
+Los Angeles,163,Multifamily Housing,33992,24.4
+Los Angeles,164,Multifamily Housing,34168,37.8
+Los Angeles,165,Multifamily Housing,40400,52.9
+Los Angeles,166,Multifamily Housing,23232,24.2
+Los Angeles,167,Multifamily Housing,38567,41.6
+Los Angeles,168,Office,69477,74.3
+Los Angeles,169,Multifamily Housing,191424,13.6
+Los Angeles,170,Multifamily Housing,20784,23.6
+Los Angeles,171,Multifamily Housing,60328,19.3
+Los Angeles,172,Multifamily Housing,45088,73.8
+Los Angeles,173,Office,774238,65.5
+Los Angeles,174,Multifamily Housing,26033,49.7
+Los Angeles,175,Multifamily Housing,24891,56.9
+Los Angeles,176,Office,130191,58.6
+Los Angeles,177,Multifamily Housing,29942,35.3
+Los Angeles,178,Multifamily Housing,116386,66
+Los Angeles,179,Office,165130,55.1
+Los Angeles,180,Multifamily Housing,60698,35
+Los Angeles,181,Multifamily Housing,40043,46.5
+Los Angeles,182,Multifamily Housing,20649,53.3
+Los Angeles,183,Multifamily Housing,30738,31.2
+Los Angeles,184,Multifamily Housing,19175,33.7
+Los Angeles,185,Multifamily Housing,62984,49.9
+Los Angeles,186,Multifamily Housing,77919,20.9
+Los Angeles,187,Multifamily Housing,88842,43.5
+Los Angeles,188,Multifamily Housing,211105,24.9
+Los Angeles,189,Multifamily Housing,62556,24.8
+Los Angeles,190,Multifamily Housing,38382,21.6
+Los Angeles,191,Multifamily Housing,119488,49.9
+Los Angeles,192,Multifamily Housing,70695,48.2
+Los Angeles,193,Multifamily Housing,24545,58.2
+Los Angeles,194,Multifamily Housing,47731,21
+Los Angeles,195,Multifamily Housing,20700,32
+Los Angeles,196,Multifamily Housing,36511,19.1
+Los Angeles,197,Multifamily Housing,29124,51.7
+Los Angeles,198,Multifamily Housing,69467,36
+Los Angeles,199,Multifamily Housing,60357,12.4
+Los Angeles,200,Multifamily Housing,127927,66
+Los Angeles,201,Multifamily Housing,24755,5.9
+Los Angeles,202,Multifamily Housing,64176,21.9
+Los Angeles,203,Office,289965,38.6
+Los Angeles,204,Multifamily Housing,42187,24.2
+Los Angeles,205,Multifamily Housing,61101,25.7
+Los Angeles,206,Multifamily Housing,130282,44.3
+Los Angeles,207,Multifamily Housing,29250,34.9
+Los Angeles,208,Multifamily Housing,51844,19.9
+Los Angeles,209,Multifamily Housing,76409,13.2
+Los Angeles,210,Multifamily Housing,29072,41.7
+Los Angeles,211,Multifamily Housing,58401,24.2
+Los Angeles,212,Multifamily Housing,69760,22.4
+Los Angeles,213,Multifamily Housing,33756,35.3
+Los Angeles,214,Office,22146,14.8
+Los Angeles,215,Multifamily Housing,98262,7.2
+Los Angeles,216,Multifamily Housing,87436,36.3
+Los Angeles,217,Multifamily Housing,49587,29.7
+Los Angeles,218,Multifamily Housing,33480,23.4
+Los Angeles,219,Multifamily Housing,28416,25.2
+Los Angeles,220,Multifamily Housing,27006,37.3
+Los Angeles,221,Multifamily Housing,94000,25.8
+Los Angeles,222,Multifamily Housing,54602,25
+Los Angeles,223,Multifamily Housing,28000,10
+Los Angeles,224,Office,174084,76.3
+Los Angeles,225,Multifamily Housing,47946,28.7
+Los Angeles,226,Multifamily Housing,28631,32
+Los Angeles,227,Office,24346,4.1
+Los Angeles,228,Multifamily Housing,23828,29
+Los Angeles,229,Office,65981,45.4
+Los Angeles,230,Office,35000,181.9
+Los Angeles,231,Multifamily Housing,21378,45.1
+Los Angeles,232,Multifamily Housing,27846,84.1
+Los Angeles,233,Multifamily Housing,35550,31.8
+Los Angeles,234,Multifamily Housing,28560,41.2
+Los Angeles,235,Office,75883,80.6
+Los Angeles,236,Multifamily Housing,39392,36.9
+Los Angeles,237,Multifamily Housing,67664,49.9
+Los Angeles,238,Office,64947,95.4
+Los Angeles,239,Multifamily Housing,20140,30.1
+Los Angeles,240,Office,61949,80.6
+Los Angeles,241,Multifamily Housing,24492,41
+Los Angeles,242,Multifamily Housing,53860,37.5
+Los Angeles,243,Office,24495,33
+Los Angeles,244,Office,90900,80.9
+Los Angeles,245,Office,57550,110.7
+Los Angeles,246,Office,128908,57.8
+Los Angeles,247,Office,33174,11.6
+Los Angeles,248,Office,34284,89.4
+Los Angeles,249,Office,16336,304.3
+Los Angeles,250,Office,98687,75.8
+Los Angeles,251,Multifamily Housing,27118,52
+Los Angeles,252,Office,142656,44.8
+Los Angeles,253,Multifamily Housing,64652,28.7
+Los Angeles,254,Multifamily Housing,23072,15.2
+Los Angeles,255,Office,7773,304.3
+Los Angeles,256,Office,183837,47
+Los Angeles,257,Office,25404,14.6
+Los Angeles,258,Multifamily Housing,36725,45.3
+Los Angeles,259,Multifamily Housing,23063,12.4
+Los Angeles,260,Office,22705,3.8
+Los Angeles,261,Multifamily Housing,51120,51.6
+Los Angeles,262,Multifamily Housing,32001,51.9
+Los Angeles,263,Multifamily Housing,24795,43.9
+Los Angeles,264,Multifamily Housing,32297,41.9
+Los Angeles,265,Multifamily Housing,25720,35.5
+Los Angeles,266,Office,32090,304.3
+Los Angeles,267,Multifamily Housing,22664,35.6
+Los Angeles,268,Office,358478,35.2
+Los Angeles,269,Multifamily Housing,24211,3.5
+Los Angeles,270,Office,279268,31.5
+Los Angeles,271,Office,98860,48.1
+Los Angeles,272,Multifamily Housing,29742,10.4
+Los Angeles,273,Multifamily Housing,29976,40.4
+Los Angeles,274,Multifamily Housing,36876,14.8
+Los Angeles,275,Multifamily Housing,28872,29.9
+Los Angeles,276,Multifamily Housing,20738,4
+Los Angeles,277,Multifamily Housing,24264,16.7
+Los Angeles,278,Multifamily Housing,44534,17.6
+Los Angeles,279,Multifamily Housing,34857,6.1
+Los Angeles,280,Multifamily Housing,26856,3.4
+Los Angeles,281,Multifamily Housing,53247,31.2
+Los Angeles,282,Multifamily Housing,31742,38.6
+Los Angeles,283,Multifamily Housing,26231,33.2
+Los Angeles,284,Multifamily Housing,25024,30.1
+Los Angeles,285,Multifamily Housing,15500,60.2
+Los Angeles,286,Multifamily Housing,25971,41.7
+Los Angeles,287,Multifamily Housing,23080,4
+Los Angeles,288,Multifamily Housing,31937,3.7
+Los Angeles,289,Multifamily Housing,50725,30.2
+Los Angeles,290,Multifamily Housing,36030,2.2
+Los Angeles,291,Multifamily Housing,21600,11.4
+Los Angeles,292,Multifamily Housing,26000,15.8
+Los Angeles,293,Multifamily Housing,47315,18.8
+Los Angeles,294,Multifamily Housing,25070,2.2
+Los Angeles,295,Multifamily Housing,101624,4.5
+Los Angeles,296,Multifamily Housing,116201,45.5
+Los Angeles,297,K-12 School,23178,19.3
+Los Angeles,298,Multifamily Housing,18782,2.7
+Los Angeles,299,Multifamily Housing,65269,2.5
+Los Angeles,300,Multifamily Housing,30261,23.5
+Los Angeles,301,Multifamily Housing,34231,16
+Los Angeles,302,Multifamily Housing,33075,4.3
+Los Angeles,303,Multifamily Housing,128832,35.4
+Los Angeles,304,Multifamily Housing,32174,49
+Los Angeles,305,Multifamily Housing,75535,31.9
+Los Angeles,306,Multifamily Housing,72490,6
+Los Angeles,307,Office,31765,55
+Los Angeles,308,Multifamily Housing,25838,49.5
+Los Angeles,309,Multifamily Housing,34834,32.6
+Los Angeles,310,Office,53365,51.7
+Los Angeles,311,Office,63704,16.6
+Los Angeles,312,Multifamily Housing,21207,43.3
+Los Angeles,313,Multifamily Housing,38173,32.4
+Los Angeles,314,Multifamily Housing,86866,74.2
+Los Angeles,315,Multifamily Housing,24518,22.6
+Los Angeles,316,Multifamily Housing,42653,33.3
+Los Angeles,317,Multifamily Housing,21632,45.8
+Los Angeles,318,Multifamily Housing,33400,31.3
+Los Angeles,319,Office,86702,63.1
+Los Angeles,320,Multifamily Housing,42945,41.4
+Los Angeles,321,Office,14391,25.2
+Los Angeles,322,Multifamily Housing,27645,51.1
+Los Angeles,323,Multifamily Housing,59463,6.9
+Los Angeles,324,Multifamily Housing,32950,26.1
+Los Angeles,325,Multifamily Housing,39617,37.6
+Los Angeles,326,Office,2771457,33.1
+Los Angeles,327,Multifamily Housing,52500,51.4
+Los Angeles,328,K-12 School,205139,64.9
+Los Angeles,329,Office,453805,50.5
+Los Angeles,330,Multifamily Housing,24510,31.6
+Los Angeles,331,Multifamily Housing,88888,27.5
+Los Angeles,332,Multifamily Housing,129344,31.2
+Los Angeles,333,Multifamily Housing,26795,78.7
+Los Angeles,334,Multifamily Housing,38212,47.4
+Los Angeles,335,Office,176888,45.7
+Los Angeles,336,Multifamily Housing,82440,36.5
+Los Angeles,337,Multifamily Housing,207726,53.8
+Los Angeles,338,Multifamily Housing,49480,42.8
+Los Angeles,339,Multifamily Housing,49050,16.7
+Los Angeles,340,Multifamily Housing,20567,42.7
+Los Angeles,341,Multifamily Housing,89436,43.6
+Los Angeles,342,Multifamily Housing,22000,17.1
+Los Angeles,343,Multifamily Housing,33150,14.3
+Los Angeles,344,Multifamily Housing,21743,35
+Los Angeles,345,Multifamily Housing,47912,68.1
+Los Angeles,346,Multifamily Housing,21096,53.1
+Los Angeles,347,Multifamily Housing,27232,60.8
+Los Angeles,348,Multifamily Housing,107612,33.8
+Los Angeles,349,Multifamily Housing,21691,32
+Los Angeles,350,Multifamily Housing,442413,53
+Los Angeles,351,Office,1699782,72.4
+Los Angeles,352,Office,97280,52.3
+Los Angeles,353,Multifamily Housing,22962,41.6
+Los Angeles,354,Multifamily Housing,30632,25.4
+Los Angeles,355,Office,32293,26.9
+Los Angeles,356,Office,36780,21.2
+Los Angeles,357,Office,1546011,47.1
+Los Angeles,358,Multifamily Housing,10950,187
+Los Angeles,359,Multifamily Housing,40320,62.6
+Los Angeles,360,Multifamily Housing,80640,11
+Los Angeles,361,Multifamily Housing,62379,31.4
+Los Angeles,362,Office,131305,68
+Los Angeles,363,Multifamily Housing,24337,41.9
+Los Angeles,364,Multifamily Housing,38612,35.8
+Los Angeles,365,Multifamily Housing,48009,44.7
+Los Angeles,366,Multifamily Housing,66705,12.7
+Los Angeles,367,Office,447252,50.8
+Los Angeles,368,Multifamily Housing,118388,42.9
+Los Angeles,369,Multifamily Housing,49243,58.8
+Los Angeles,370,Multifamily Housing,82687,39.2
+Los Angeles,371,Office,28500,87.4
+Los Angeles,372,Multifamily Housing,32248,28
+Los Angeles,373,Office,904927,36
+Los Angeles,374,Multifamily Housing,26703,35.6
+Los Angeles,375,Multifamily Housing,20128,48.4
+Los Angeles,376,Multifamily Housing,192306,44.4
+Los Angeles,377,Multifamily Housing,28000,4
+Los Angeles,378,Office,1327532,48.5
+Los Angeles,379,Multifamily Housing,24428,47.9
+Los Angeles,380,Multifamily Housing,28670,34.8
+Los Angeles,381,Multifamily Housing,25000,41.3
+Los Angeles,382,Multifamily Housing,33077,44.6
+Los Angeles,383,Office,68392,55.6
+Los Angeles,384,Multifamily Housing,20249,45.8
+Los Angeles,385,Multifamily Housing,64090,37.3
+Los Angeles,386,Office,237534,89.9
+Los Angeles,387,Multifamily Housing,27800,38.6
+Los Angeles,388,Office,56500,26.2
+Los Angeles,389,Multifamily Housing,21492,34.1
+Los Angeles,390,Multifamily Housing,28852,66.6
+Los Angeles,391,Multifamily Housing,45525,36.8
+Los Angeles,392,Office,92401,21.1
+Los Angeles,393,Multifamily Housing,43597,37.7
+Los Angeles,394,Multifamily Housing,20428,13.5
+Los Angeles,395,Multifamily Housing,130783,57.2
+Los Angeles,396,Multifamily Housing,40002,28.5
+Los Angeles,397,Office,193805,37
+Los Angeles,398,Multifamily Housing,26695,12.3
+Los Angeles,399,Multifamily Housing,78000,64.2
+Los Angeles,400,Multifamily Housing,57064,30.1
+Los Angeles,401,Multifamily Housing,65648,26.7
+Los Angeles,402,Office,207401,49.9
+Los Angeles,403,Office,132431,32.8
+Los Angeles,404,Multifamily Housing,18660,39.1
+Los Angeles,405,Multifamily Housing,21010,51.2
+Los Angeles,406,Multifamily Housing,22254,30.9
+Los Angeles,407,Office,250000,19.6
+Los Angeles,408,Multifamily Housing,66866,42.2
+Los Angeles,409,Multifamily Housing,166958,26.1
+Los Angeles,410,Multifamily Housing,51000,10.8
+Los Angeles,411,Multifamily Housing,24507,58.7
+Los Angeles,412,Multifamily Housing,28572,39.4
+Los Angeles,413,Multifamily Housing,38184,35.4
+Los Angeles,414,Multifamily Housing,25604,50
+Los Angeles,415,Office,250000,19.6
+Los Angeles,416,Multifamily Housing,82383,41.1
+Los Angeles,417,Multifamily Housing,72175,38.6
+Los Angeles,418,Office,134490,33.4
+Los Angeles,419,Multifamily Housing,71755,43.6
+Los Angeles,420,Office,227833,96.9
+Los Angeles,421,Multifamily Housing,268819,40.5
+Los Angeles,422,Multifamily Housing,48318,34.2
+Los Angeles,423,Multifamily Housing,42672,34.7
+Los Angeles,424,Multifamily Housing,40056,38.4
+Los Angeles,425,Multifamily Housing,23994,51.7
+Los Angeles,426,Multifamily Housing,27032,25
+Los Angeles,427,Office,150832,57.8
+Los Angeles,428,Multifamily Housing,48240,28
+Los Angeles,429,Multifamily Housing,57103,35.6
+Los Angeles,430,Multifamily Housing,22748,39.8
+Los Angeles,431,Multifamily Housing,26840,52.1
+Los Angeles,432,Multifamily Housing,23872,28.5
+Los Angeles,433,Multifamily Housing,42891,50.9
+Los Angeles,434,Multifamily Housing,79246,39.9
+Los Angeles,435,Multifamily Housing,26496,48.1
+Los Angeles,436,Multifamily Housing,35744,58.7
+Los Angeles,437,Multifamily Housing,75792,35.1
+Los Angeles,438,Office,40732,26.1
+Los Angeles,439,Multifamily Housing,88576,47.2
+Los Angeles,440,Multifamily Housing,23232,54.7
+Los Angeles,441,Office,73815,65.4
+Los Angeles,442,Multifamily Housing,64873,34.1
+Los Angeles,443,Office,401983,36.9
+Los Angeles,444,Multifamily Housing,68345,36.9
+Los Angeles,445,Multifamily Housing,113623,54
+Los Angeles,446,Multifamily Housing,34456,49.7
+Los Angeles,447,Multifamily Housing,17256,51.2
+Los Angeles,448,Multifamily Housing,28988,44.5
+Los Angeles,449,Multifamily Housing,28117,63.1
+Los Angeles,450,Multifamily Housing,34429,21.3
+Los Angeles,451,Multifamily Housing,21963,147.6
+Los Angeles,452,Multifamily Housing,28528,50.6
+Los Angeles,453,Multifamily Housing,48779,29.6
+Los Angeles,454,Office,112113,25.3
+Los Angeles,455,Multifamily Housing,77364,42.7
+Los Angeles,456,Multifamily Housing,21336,2.9
+Los Angeles,457,Multifamily Housing,27000,558.5
+Los Angeles,458,Multifamily Housing,25782,31.5
+Los Angeles,459,Multifamily Housing,26763,41.8
+Los Angeles,460,Multifamily Housing,74133,40.7
+Los Angeles,461,Office,34004,26.5
+Los Angeles,462,Multifamily Housing,23520,42.2
+Los Angeles,463,Multifamily Housing,178188,22.7
+Los Angeles,464,Multifamily Housing,382200,27.4
+Los Angeles,465,Multifamily Housing,370617,28.6
+Los Angeles,466,Multifamily Housing,247023,27.1
+Los Angeles,467,Multifamily Housing,189745,28.4
+Los Angeles,468,Multifamily Housing,90700,32.2
+Los Angeles,469,Multifamily Housing,277680,33
+Los Angeles,470,Multifamily Housing,147000,22.4
+Los Angeles,471,Multifamily Housing,25000,37
+Los Angeles,472,Multifamily Housing,102932,42.9
+Los Angeles,473,Multifamily Housing,46144,44.5
+Los Angeles,474,Multifamily Housing,35664,59.6
+Los Angeles,475,Multifamily Housing,25740,13.7
+Los Angeles,476,Multifamily Housing,93635,34.5
+Los Angeles,477,Multifamily Housing,35312,44.7
+Los Angeles,478,Multifamily Housing,52253,42.1
+Los Angeles,479,Multifamily Housing,156522,41.1
+Los Angeles,480,Multifamily Housing,110087,64
+Los Angeles,481,Multifamily Housing,87617,37.1
+Los Angeles,482,Multifamily Housing,34713,5
+Los Angeles,483,Multifamily Housing,20591,43.8
+Los Angeles,484,Multifamily Housing,17500,51.6
+Los Angeles,485,Multifamily Housing,20852,66.3
+Los Angeles,486,Multifamily Housing,68345,36.9
+Los Angeles,487,Multifamily Housing,50674,35.3
+Los Angeles,488,Multifamily Housing,148782,41.9
+Los Angeles,489,Office,248368,46.7
+Los Angeles,490,Multifamily Housing,38136,27.5
+Los Angeles,491,Multifamily Housing,34579,31.7
+Los Angeles,492,Multifamily Housing,129962,66.4
+Los Angeles,493,Multifamily Housing,22740,60.2
+Los Angeles,494,Multifamily Housing,33798,39.1
+Los Angeles,495,Multifamily Housing,278304,34.3
+Los Angeles,496,Multifamily Housing,137907,35.2
+Los Angeles,497,Multifamily Housing,41400,38.3
+Los Angeles,498,Multifamily Housing,52548,40.2
+Los Angeles,499,Multifamily Housing,88040,36.5
+Los Angeles,500,Multifamily Housing,21768,46.1
+Los Angeles,501,Multifamily Housing,146796,42.6
+Los Angeles,502,Multifamily Housing,28170,58.4
+Los Angeles,503,Multifamily Housing,221538,27.6
+Los Angeles,504,Multifamily Housing,88040,27
+Los Angeles,505,Multifamily Housing,22619,142.5
+Los Angeles,506,Multifamily Housing,401800,29.2
+Los Angeles,507,Multifamily Housing,29407,35.6
+Los Angeles,508,Multifamily Housing,28999,50.2
+Los Angeles,509,Multifamily Housing,28926,45.1
+Los Angeles,510,Multifamily Housing,42276,41.8
+Los Angeles,511,Office,22358,35.6
+Los Angeles,512,Multifamily Housing,55969,38.3
+Los Angeles,513,Office,29693,65.1
+Los Angeles,514,Multifamily Housing,35880,46.5
+Los Angeles,515,Multifamily Housing,158213,39.8
+Los Angeles,516,Multifamily Housing,23675,47.4
+Los Angeles,517,Multifamily Housing,23369,45.5
+Los Angeles,518,Multifamily Housing,58146,42.3
+Los Angeles,519,Multifamily Housing,19475,60.9
+Los Angeles,520,Office,67570,15.9
+Los Angeles,521,Multifamily Housing,28000,27.1
+Los Angeles,522,Multifamily Housing,26000,45.7
+Los Angeles,523,Multifamily Housing,25800,16.7
+Los Angeles,524,Multifamily Housing,73875,57.4
+Los Angeles,525,Multifamily Housing,33902,49.1
+Los Angeles,526,Multifamily Housing,24874,42.6
+Los Angeles,527,Office,36504,98.1
+Los Angeles,528,Multifamily Housing,20046,40.9
+Los Angeles,529,Multifamily Housing,45396,43.9
+Los Angeles,530,Multifamily Housing,27132,40.9
+Los Angeles,531,Multifamily Housing,20106,34.6
+Los Angeles,532,Multifamily Housing,43956,38.5
+Los Angeles,533,Office,80715,49.8
+Los Angeles,534,Office,1090136,61.5
+Los Angeles,535,Multifamily Housing,24415,40.1
+Los Angeles,536,Multifamily Housing,24452,38.9
+Los Angeles,537,Multifamily Housing,22998,30.5
+Los Angeles,538,Multifamily Housing,69610,38.6
+Los Angeles,539,Multifamily Housing,181079,53.6
+Los Angeles,540,Multifamily Housing,34141,16.7
+Los Angeles,541,Multifamily Housing,32085,57.2
+Los Angeles,542,Multifamily Housing,34710,46.5
+Los Angeles,543,Multifamily Housing,24930,7.7
+Los Angeles,544,Multifamily Housing,20240,49.5
+Los Angeles,545,Multifamily Housing,23406,50.7
+Los Angeles,546,Multifamily Housing,22032,47.4
+Los Angeles,547,Multifamily Housing,125252,36.7
+Los Angeles,548,Multifamily Housing,106116,19.2
+Los Angeles,549,Office,73702,38.3
+Los Angeles,550,Multifamily Housing,50000,23.7
+Los Angeles,551,Multifamily Housing,112747,60.1
+Los Angeles,552,Multifamily Housing,49794,36.7
+Los Angeles,553,Office,259571,58.8
+Los Angeles,554,Multifamily Housing,63145,30.4
+Los Angeles,555,Office,229198,17
+Los Angeles,556,Multifamily Housing,26223,49.9
+Los Angeles,557,Multifamily Housing,40183,41
+Los Angeles,558,Multifamily Housing,28025,59.2
+Los Angeles,559,Multifamily Housing,31016,23.8
+Los Angeles,560,Multifamily Housing,19110,46.5
+Los Angeles,561,Multifamily Housing,26875,50.7
+Los Angeles,562,Multifamily Housing,148403,53
+Los Angeles,563,Multifamily Housing,65376,27.6
+Los Angeles,564,Multifamily Housing,22316,58.4
+Los Angeles,565,Multifamily Housing,107034,36.1
+Los Angeles,566,Multifamily Housing,66925,56.8
+Los Angeles,567,Multifamily Housing,39774,14
+Los Angeles,568,Multifamily Housing,22511,54
+Los Angeles,569,Multifamily Housing,21114,33
+Los Angeles,570,Office,263760,86.5
+Los Angeles,571,Multifamily Housing,29990,48.7
+Los Angeles,572,Office,42564,74.8
+Los Angeles,573,Multifamily Housing,45705,36.3
+Los Angeles,574,Multifamily Housing,25600,37.6
+Los Angeles,575,Multifamily Housing,269608,47.2
+Los Angeles,576,Multifamily Housing,34580,46.5
+Los Angeles,577,Office,25475,10.7
+Los Angeles,578,Multifamily Housing,33744,36.5
+Los Angeles,579,Multifamily Housing,26082,12.7
+Los Angeles,580,Multifamily Housing,96153,24.7
+Los Angeles,581,Multifamily Housing,118030,32.1
+Los Angeles,582,Multifamily Housing,25805,28.2
+Los Angeles,583,Multifamily Housing,45345,30.4
+Los Angeles,584,Multifamily Housing,23548,37
+Los Angeles,585,Office,100635,39.1
+Los Angeles,586,Office,484677,35.4
+Los Angeles,587,Multifamily Housing,20148,40.5
+Los Angeles,588,Multifamily Housing,44186,50.4
+Los Angeles,589,Multifamily Housing,26734,32.7
+Los Angeles,590,Multifamily Housing,25996,2.5
+Los Angeles,591,Office,12000,64.2
+Los Angeles,592,Multifamily Housing,23521,30
+Los Angeles,593,Multifamily Housing,21325,66.4
+Los Angeles,594,Multifamily Housing,32099,25.1
+Los Angeles,595,Multifamily Housing,17944,35
+Los Angeles,596,Multifamily Housing,70506,39.9
+Los Angeles,597,Multifamily Housing,25874,18
+Los Angeles,598,Multifamily Housing,37949,34
+Los Angeles,599,Multifamily Housing,41236,23.2
+Los Angeles,600,Multifamily Housing,126863,2.8
+Los Angeles,601,Multifamily Housing,33180,49.4
+Los Angeles,602,Multifamily Housing,67676,31.6
+Los Angeles,603,Multifamily Housing,20786,46.5
+Los Angeles,604,Multifamily Housing,21935,54
+Los Angeles,605,Multifamily Housing,20674,48.8
+Los Angeles,606,Multifamily Housing,31560,19.3
+Los Angeles,607,Multifamily Housing,40976,74.5
+Los Angeles,608,Office,33411,73.9
+Los Angeles,609,Multifamily Housing,27000,21.6
+Los Angeles,610,Multifamily Housing,192306,47.8
+Los Angeles,611,Office,24786,34.5
+Los Angeles,612,Multifamily Housing,33000,42.4
+Los Angeles,613,Multifamily Housing,49000,38.2
+Los Angeles,614,Office,342475,62.5
+Los Angeles,615,Multifamily Housing,27358,27.4
+Los Angeles,616,Multifamily Housing,67532,21.7
+Los Angeles,617,Office,275563,60.6
+Los Angeles,618,Multifamily Housing,127000,37.3
+Los Angeles,619,Office,297632,43.2
+Los Angeles,620,Multifamily Housing,21508,31.9
+Los Angeles,621,Multifamily Housing,29570,52.5
+Los Angeles,622,Multifamily Housing,30240,30.9
+Los Angeles,623,Multifamily Housing,52000,8.1
+Los Angeles,624,Multifamily Housing,29832,19.9
+Los Angeles,625,Multifamily Housing,31275,35.7
+Los Angeles,626,Multifamily Housing,20000,54.7
+Los Angeles,627,Multifamily Housing,22584,18.3
+Los Angeles,628,Multifamily Housing,23948,7.9
+Los Angeles,629,Multifamily Housing,39097,35.1
+Los Angeles,630,Multifamily Housing,35825,43.3
+Los Angeles,631,Multifamily Housing,27925,33.1
+Los Angeles,632,Multifamily Housing,45758,45.5
+Los Angeles,633,Multifamily Housing,26255,24.2
+Los Angeles,634,Multifamily Housing,20800,24.7
+Los Angeles,635,Multifamily Housing,46350,39
+Los Angeles,636,Multifamily Housing,21599,68.6
+Los Angeles,637,Multifamily Housing,46416,42.9
+Los Angeles,638,Multifamily Housing,21229,72.5
+Los Angeles,639,Multifamily Housing,35796,37.9
+Los Angeles,640,Office,29390,125.1
+Los Angeles,641,Multifamily Housing,59384,39.2
+Los Angeles,642,Multifamily Housing,24564,53.7
+Los Angeles,643,Multifamily Housing,37453,4.2
+Los Angeles,644,Multifamily Housing,63427,36.3
+Los Angeles,645,Office,125659,58.2
+Los Angeles,646,Multifamily Housing,21432,27.7
+Los Angeles,647,Multifamily Housing,91152,20.7
+Los Angeles,648,Multifamily Housing,17000,52
+Los Angeles,649,Multifamily Housing,20496,44.1
+Los Angeles,650,Office,70922,66.6
+Los Angeles,651,Multifamily Housing,57560,35.7
+Los Angeles,652,Multifamily Housing,192306,45.2
+Los Angeles,653,Multifamily Housing,23955,18.4
+Los Angeles,654,Multifamily Housing,42399,44.4
+Los Angeles,655,Multifamily Housing,23925,5.2
+Los Angeles,656,Multifamily Housing,31000,31.8
+Los Angeles,657,Multifamily Housing,23493,32.3
+Los Angeles,658,Multifamily Housing,267395,29.7
+Los Angeles,659,Multifamily Housing,35648,46.9
+Los Angeles,660,Multifamily Housing,23191,42.1
+Los Angeles,661,Multifamily Housing,23480,67.8
+Los Angeles,662,Multifamily Housing,28742,61.5
+Los Angeles,663,Multifamily Housing,31312,45.6
+Los Angeles,664,Office,50961,77.5
+Los Angeles,665,Multifamily Housing,72395,30.7
+Los Angeles,666,Multifamily Housing,22580,55.5
+Los Angeles,667,Multifamily Housing,38637,31.2
+Los Angeles,668,Multifamily Housing,62437,46.7
+Los Angeles,669,Office,23000,12.8
+Los Angeles,670,Office,139936,92.6
+Los Angeles,671,Multifamily Housing,64037,80.6
+Los Angeles,672,Multifamily Housing,199676,13.1
+Los Angeles,673,Multifamily Housing,33714,45.4
+Los Angeles,674,Multifamily Housing,27200,44.2
+Los Angeles,675,Multifamily Housing,59154,4.2
+Los Angeles,676,Multifamily Housing,51230,62.4
+Los Angeles,677,Multifamily Housing,39530,31.2
+Los Angeles,678,Multifamily Housing,22470,35.7
+Los Angeles,679,Multifamily Housing,30506,47.5
+Los Angeles,680,Multifamily Housing,20800,44.5
+Los Angeles,681,Multifamily Housing,35584,43.2
+Los Angeles,682,Multifamily Housing,15000,65.8
+Los Angeles,683,Multifamily Housing,27043,42.5
+Los Angeles,684,Multifamily Housing,47595,53.8
+Los Angeles,685,Multifamily Housing,34776,41.8
+Los Angeles,686,Office,52797,43.9
+Los Angeles,687,Office,335070,41.1
+Los Angeles,688,Multifamily Housing,32730,50.6
+Los Angeles,689,Office,648561,40.5
+Los Angeles,690,Office,21106,71.4
+Los Angeles,691,Multifamily Housing,274127,34
+Los Angeles,692,Multifamily Housing,29447,41
+Los Angeles,693,Multifamily Housing,49000,2.2
+Los Angeles,694,Multifamily Housing,33468,39.4
+Los Angeles,695,Multifamily Housing,80000,39.7
+Los Angeles,696,Multifamily Housing,29188,39.3
+Los Angeles,697,Office,47000,56.3
+Los Angeles,698,Office,21840,34.6
+Los Angeles,699,Office,213459,42.7
+Los Angeles,700,Office,88862,42
+Los Angeles,701,Multifamily Housing,567800,28.4
+Los Angeles,702,Office,36015,106.5
+Los Angeles,703,Office,890000,93.5
+Los Angeles,704,Office,60000,63.5
+Los Angeles,705,Office,76693,16.8
+Los Angeles,706,Office,358204,49.7
+Los Angeles,707,Multifamily Housing,22401,45.1
+Los Angeles,708,Office,8800,50.2
+Los Angeles,709,Multifamily Housing,58952,33.9
+Los Angeles,710,Office,57209,41.7
+Los Angeles,711,Multifamily Housing,59100,29.3
+Los Angeles,712,Multifamily Housing,54072,60.8
+Los Angeles,713,Office,810474,63
+Los Angeles,714,Multifamily Housing,25575,15.4
+Los Angeles,715,Office,68016,42.2
+Los Angeles,716,Multifamily Housing,24510,31.8
+Los Angeles,717,Multifamily Housing,35215,58.2
+Los Angeles,718,Multifamily Housing,28359,30.8
+Los Angeles,719,Multifamily Housing,21064,29.5
+Los Angeles,720,Office,200000,19
+Los Angeles,721,Multifamily Housing,20253,5.5
+Los Angeles,722,Multifamily Housing,36751,4.3
+Los Angeles,723,Multifamily Housing,22539,25.9
+Los Angeles,724,Multifamily Housing,86960,3.8
+Los Angeles,725,Multifamily Housing,64995,19.7
+Los Angeles,726,Office,27750,41.5
+Los Angeles,727,Multifamily Housing,22122,4
+Los Angeles,728,Office,73773,31.7
+Los Angeles,729,Multifamily Housing,24337,41.9
+Los Angeles,730,Multifamily Housing,27193,22.6
+Los Angeles,731,Multifamily Housing,47062,27.3
+Los Angeles,732,Multifamily Housing,30289,3.9
+Los Angeles,733,Office,81831,35.9
+Los Angeles,734,Multifamily Housing,60000,21.8
+Los Angeles,735,Multifamily Housing,30289,4
+Los Angeles,736,Multifamily Housing,31868,23.4
+Los Angeles,737,Office,205298,57.5
+Los Angeles,738,Office,23400,46.4
+Los Angeles,739,Office,31000,49.2
+Los Angeles,740,Multifamily Housing,27015,4.4
+Los Angeles,741,Multifamily Housing,21244,46.5
+Los Angeles,742,Multifamily Housing,159159,17.3
+Los Angeles,743,Multifamily Housing,34608,25.2
+Los Angeles,744,Office,57082,58
+Los Angeles,745,Multifamily Housing,21927,23
+Los Angeles,746,Multifamily Housing,30468,22.4
+Los Angeles,747,Office,77970,46.8
+Los Angeles,748,Multifamily Housing,32443,35.2
+Los Angeles,749,Office,30932,12.6
+Los Angeles,750,Office,530000,59
+Los Angeles,751,Office,36500,94.2
+Los Angeles,752,Multifamily Housing,47422,20.8
+Los Angeles,753,Office,398836,37.7
+Los Angeles,754,Office,13440,127.3
+Los Angeles,755,Office,20000,35.5
+Los Angeles,756,Multifamily Housing,40400,26.1
+Los Angeles,757,Office,8184,29
+Los Angeles,758,Office,10800,29.8
+Los Angeles,759,Office,22809,105.7
+Los Angeles,760,Office,12118,82
+Los Angeles,761,Office,38788,28.2
+Los Angeles,762,Multifamily Housing,21507,56.7
+Los Angeles,763,Office,96966,28.6
+Los Angeles,764,Office,22100,89.1
+Los Angeles,765,Multifamily Housing,59667,29.7
+Los Angeles,766,Multifamily Housing,20808,17.3
+Los Angeles,767,Office,41172,21.6
+Los Angeles,768,Multifamily Housing,32566,44.5
+Los Angeles,769,Multifamily Housing,192306,48.1
+Los Angeles,770,Multifamily Housing,27310,16.5
+Los Angeles,771,Multifamily Housing,39348,22.5
+Los Angeles,772,Office,7500,39.6
+Los Angeles,773,Multifamily Housing,36929,32.3
+Los Angeles,774,Multifamily Housing,32781,24.1
+Los Angeles,775,Multifamily Housing,140756,29.8
+Los Angeles,776,Multifamily Housing,33728,3.4
+Los Angeles,777,Multifamily Housing,61980,40.6
+Los Angeles,778,Office,541704,43.7
+Los Angeles,779,Multifamily Housing,65970,35.5
+Los Angeles,780,Multifamily Housing,123879,64.4
+Los Angeles,781,Multifamily Housing,42300,29.2
+Los Angeles,782,Multifamily Housing,91635,32.3
+Los Angeles,783,Multifamily Housing,39880,57.8
+Los Angeles,784,Multifamily Housing,204464,23.1
+Los Angeles,785,Multifamily Housing,166141,80.6
+Los Angeles,786,Office,24500,104.4
+Los Angeles,787,Multifamily Housing,59141,54.2
+Los Angeles,788,Multifamily Housing,32360,26
+Los Angeles,789,Multifamily Housing,42284,45.6
+Los Angeles,790,Office,21000,44.2
+Los Angeles,791,Multifamily Housing,64344,46.4
+Los Angeles,792,Multifamily Housing,62000,38.2
+Los Angeles,793,Multifamily Housing,54780,26.1
+Los Angeles,794,Multifamily Housing,27475,51.9
+Los Angeles,795,Multifamily Housing,29763,6.2
+Los Angeles,796,Multifamily Housing,26838,59.9
+Los Angeles,797,Office,44958,57.3
+Los Angeles,798,Multifamily Housing,26155,31.7
+Los Angeles,799,Multifamily Housing,56000,43.6
+Los Angeles,800,Office,15156,50.4
+Los Angeles,801,Multifamily Housing,31789,27.3
+Los Angeles,802,Multifamily Housing,43319,45.6
+Los Angeles,803,Multifamily Housing,25528,37.7
+Los Angeles,804,Multifamily Housing,38386,22.3
+Los Angeles,805,Multifamily Housing,49744,33.2
+Los Angeles,806,Multifamily Housing,29631,39.6
+Los Angeles,807,Multifamily Housing,53055,24.3
+Los Angeles,808,Multifamily Housing,62962,31.6
+Los Angeles,809,Multifamily Housing,87442,38.2
+Los Angeles,810,Office,20802,49.8
+Los Angeles,811,Multifamily Housing,27724,43.6
+Los Angeles,812,Multifamily Housing,30214,34.8
+Los Angeles,813,Multifamily Housing,66360,44.1
+Los Angeles,814,Multifamily Housing,34776,46.7
+Los Angeles,815,Multifamily Housing,13988,16.1
+Los Angeles,816,Office,7666,65.1
+Los Angeles,817,Multifamily Housing,23606,41.2
+Los Angeles,818,Multifamily Housing,25537,35.9
+Los Angeles,819,Multifamily Housing,22700,51.4
+Los Angeles,820,Office,236758,36.5
+Los Angeles,821,Multifamily Housing,206192,37.7
+Los Angeles,822,Office,31744,340.1
+Los Angeles,823,Office,26616,28.1
+Los Angeles,824,Office,227837,51.8
+Los Angeles,825,Multifamily Housing,42267,33.2
+Los Angeles,826,Multifamily Housing,69021,32.3
+Los Angeles,827,Multifamily Housing,22500,5.6
+Los Angeles,828,Multifamily Housing,43133,36.9
+Los Angeles,829,Multifamily Housing,33000,41.2
+Los Angeles,830,Multifamily Housing,51870,35.7
+Los Angeles,831,Multifamily Housing,38872,38
+Los Angeles,832,Multifamily Housing,66927,47.5
+Los Angeles,833,Office,21984,24.4
+Los Angeles,834,Multifamily Housing,25718,64.9
+Los Angeles,835,Multifamily Housing,32580,34
+Los Angeles,836,Multifamily Housing,24239,4.6
+Los Angeles,837,Multifamily Housing,53620,32.8
+Los Angeles,838,Office,22219,67.2
+Los Angeles,839,Multifamily Housing,81150,58.3
+Los Angeles,840,Multifamily Housing,131053,44.1
+Los Angeles,841,Multifamily Housing,71118,38.1
+Los Angeles,842,Multifamily Housing,95000,29.8
+Los Angeles,843,Multifamily Housing,22549,58.4
+Los Angeles,844,Office,351959,54.7
+Los Angeles,845,Office,72546,17.6
+Los Angeles,846,Office,30426,57.5
+Los Angeles,847,Multifamily Housing,72204,25.1
+Los Angeles,848,Multifamily Housing,24337,41.9
+Los Angeles,849,Multifamily Housing,89925,32.2
+Los Angeles,850,Multifamily Housing,54572,44.8
+Los Angeles,851,Multifamily Housing,83187,15.6
+Los Angeles,852,Office,27022,37.2
+Los Angeles,853,Office,9639,28.3
+Los Angeles,854,Multifamily Housing,26540,36.7
+Los Angeles,855,Multifamily Housing,40065,32.8
+Los Angeles,856,Multifamily Housing,37105,46.8
+Los Angeles,857,Multifamily Housing,26908,38.4
+Los Angeles,858,Multifamily Housing,131170,44.5
+Los Angeles,859,Multifamily Housing,54720,75.2
+Los Angeles,860,Multifamily Housing,66530,55.1
+Los Angeles,861,Multifamily Housing,25700,34.5
+Los Angeles,862,Multifamily Housing,89840,43.4
+Los Angeles,863,Multifamily Housing,49575,18.2
+Los Angeles,864,Office,51295,91.1
+Los Angeles,865,Multifamily Housing,23200,22.3
+Los Angeles,866,Multifamily Housing,47912,25.8
+Los Angeles,867,Office,40315,146.7
+Los Angeles,868,Office,40000,60.2
+Los Angeles,869,Multifamily Housing,60051,28.2
+Los Angeles,870,Multifamily Housing,38000,37.2
+Los Angeles,871,Multifamily Housing,50781,2.2
+Los Angeles,872,Multifamily Housing,26600,71.8
+Los Angeles,873,Multifamily Housing,102368,51.8
+Los Angeles,874,Multifamily Housing,35280,47.5
+Los Angeles,875,Multifamily Housing,164043,50.6
+Los Angeles,876,Office,54000,27.8
+Los Angeles,877,Multifamily Housing,142857,31.9
+Los Angeles,878,Multifamily Housing,52000,33.7
+Los Angeles,879,Multifamily Housing,88823,25.9
+Los Angeles,880,Multifamily Housing,33741,36.2
+Los Angeles,881,Multifamily Housing,155529,28.4
+Los Angeles,882,Multifamily Housing,48960,19.3
+Los Angeles,883,Multifamily Housing,20942,28.9
+Los Angeles,884,Office,57522,14.8
+Los Angeles,885,Multifamily Housing,28094,63.7
+Los Angeles,886,Office,305610,51
+Los Angeles,887,Office,237759,72.5
+Los Angeles,888,Multifamily Housing,309791,28.6
+Los Angeles,889,Office,58000,8.4
+Los Angeles,890,Office,138466,46.5
+Los Angeles,891,Multifamily Housing,49481,32.4
+Los Angeles,892,Multifamily Housing,24186,51.1
+Los Angeles,893,Multifamily Housing,50336,37.8
+Los Angeles,894,Multifamily Housing,53615,29.3
+Los Angeles,895,Multifamily Housing,51234,46.7
+Los Angeles,896,Office,82180,68.5
+Los Angeles,897,Multifamily Housing,32004,51.2
+Los Angeles,898,Multifamily Housing,85629,22.3
+Los Angeles,899,Multifamily Housing,21295,42.6
+Los Angeles,900,Office,35960,39.3
+Los Angeles,901,Multifamily Housing,39370,14.5
+Los Angeles,902,Multifamily Housing,43507,26.6
+Los Angeles,903,Multifamily Housing,83094,46.4
+Los Angeles,904,Multifamily Housing,21317,49.9
+Los Angeles,905,Multifamily Housing,48822,9.4
+Los Angeles,906,Multifamily Housing,24891,16.1
+Los Angeles,907,Multifamily Housing,28232,55.8
+Los Angeles,908,Multifamily Housing,34320,36.3
+Los Angeles,909,Multifamily Housing,18000,51.8
+Los Angeles,910,Multifamily Housing,33526,21.2
+Los Angeles,911,Multifamily Housing,67769,43.4
+Los Angeles,912,Multifamily Housing,81883,56.3
+Los Angeles,913,Multifamily Housing,30988,52.7
+Los Angeles,914,Multifamily Housing,31386,49.6
+Los Angeles,915,Multifamily Housing,149364,65.2
+Los Angeles,916,Multifamily Housing,27038,16.1
+Los Angeles,917,Multifamily Housing,24872,39.7
+Los Angeles,918,Multifamily Housing,24509,20.7
+Los Angeles,919,Office,74448,47.6
+Los Angeles,920,Multifamily Housing,24806,21
+Los Angeles,921,Multifamily Housing,32121,71.1
+Los Angeles,922,Multifamily Housing,23198,50.8
+Los Angeles,923,Multifamily Housing,23376,55.6
+Los Angeles,924,K-12 School,57447,27.7
+Los Angeles,925,Multifamily Housing,23906,37
+Los Angeles,926,Office,824106,46.5
+Los Angeles,927,Office,46250,24.4
+Los Angeles,928,K-12 School,33289,39.4
+Los Angeles,929,Office,70082,79.8
+Los Angeles,930,Multifamily Housing,28147,4.9
+Los Angeles,931,Multifamily Housing,20000,9.5
+Los Angeles,932,Multifamily Housing,225923,19.1
+Los Angeles,933,Multifamily Housing,20116,8.7
+Los Angeles,934,Multifamily Housing,33012,24.6
+Los Angeles,935,Office,72021,67.7
+Los Angeles,936,Multifamily Housing,53356,16
+Los Angeles,937,Multifamily Housing,20064,41.3
+Los Angeles,938,Multifamily Housing,23515,45.6
+Los Angeles,939,Multifamily Housing,28790,45.2
+Los Angeles,940,Multifamily Housing,22296,11.4
+Los Angeles,941,Multifamily Housing,28616,28.6
+Los Angeles,942,Multifamily Housing,32018,47.1
+Los Angeles,943,Office,19415,110.3
+Los Angeles,944,Office,25005,30
+Los Angeles,945,Multifamily Housing,39140,0.3
+Los Angeles,946,Office,1200356,61.7
+Los Angeles,947,Office,501495,26.3
+Los Angeles,948,K-12 School,80000,25.7
+Los Angeles,949,Office,1195173,59.6
+Los Angeles,950,Multifamily Housing,33730,34.7
+Los Angeles,951,Office,131942,21.1
+Los Angeles,952,Office,25782,7
+Los Angeles,953,K-12 School,81195,25.6
+Los Angeles,954,Multifamily Housing,21896,36.1
+Los Angeles,955,Multifamily Housing,47633,29.8
+Los Angeles,956,Multifamily Housing,28875,32.9
+Los Angeles,957,Multifamily Housing,20264,14.7
+Los Angeles,958,K-12 School,37150,25.3
+Los Angeles,959,K-12 School,56310,33.7
+Los Angeles,960,Multifamily Housing,35566,18.7
+Los Angeles,961,Multifamily Housing,26460,20.1
+Los Angeles,962,Multifamily Housing,28260,40.6
+Los Angeles,963,Office,87277,72.4
+Los Angeles,964,Multifamily Housing,44769,22
+Los Angeles,965,Multifamily Housing,23807,17.1
+Los Angeles,966,Office,36000,18
+Los Angeles,967,Multifamily Housing,24680,23.4
+Los Angeles,968,Multifamily Housing,20286,31.1
+Los Angeles,969,Multifamily Housing,20246,43.6
+Los Angeles,970,Multifamily Housing,21628,12.5
+Los Angeles,971,Multifamily Housing,21966,7.7
+Los Angeles,972,Multifamily Housing,40000,37.4
+Los Angeles,973,Office,48412,49.4
+Los Angeles,974,Office,22080,58.4
+Los Angeles,975,Multifamily Housing,29000,50.2
+Los Angeles,976,Multifamily Housing,21096,34.5
+Los Angeles,977,Multifamily Housing,26847,53.4
+Los Angeles,978,Office,56072,71.6
+Los Angeles,979,Multifamily Housing,92122,39.7
+Los Angeles,980,Office,123275,34.8
+Los Angeles,981,Office,52033,72.3
+Los Angeles,982,Multifamily Housing,30380,43.1
+Los Angeles,983,Multifamily Housing,28081,27.5
+Los Angeles,984,Office,21924,53.8
+Los Angeles,985,Multifamily Housing,83178,36.7
+Los Angeles,986,Multifamily Housing,38344,35.5
+Los Angeles,987,Multifamily Housing,23429,26.4
+Los Angeles,988,Multifamily Housing,111440,25.8
+Los Angeles,989,Multifamily Housing,23895,26.8
+Los Angeles,990,Multifamily Housing,22881,11.3
+Los Angeles,991,Multifamily Housing,20735,9.7
+Los Angeles,992,Multifamily Housing,28512,22.6
+Los Angeles,993,Multifamily Housing,121748,32.5
+Los Angeles,994,Multifamily Housing,24882,59.6
+Los Angeles,995,Multifamily Housing,48132,39.2
+Los Angeles,996,Multifamily Housing,76900,45.4
+Los Angeles,997,Office,41434,52.6
+Los Angeles,998,Multifamily Housing,20193,31.6
+Los Angeles,999,Multifamily Housing,42410,20.6
+Los Angeles,1000,Multifamily Housing,27850,55.6
+Los Angeles,1001,Multifamily Housing,42330,20.8
+Los Angeles,1002,Multifamily Housing,50000,3.4
+Los Angeles,1003,Multifamily Housing,24897,43.4
+Los Angeles,1004,Multifamily Housing,419290,40.8
+Los Angeles,1005,Office,322943,40.6
+Los Angeles,1006,Multifamily Housing,36012,38.7
+Los Angeles,1007,Multifamily Housing,47110,33
+Los Angeles,1008,Multifamily Housing,66846,40.4
+Los Angeles,1009,Multifamily Housing,30000,23.6
+Los Angeles,1010,Multifamily Housing,33520,48.7
+Los Angeles,1011,Multifamily Housing,21900,26.5
+Los Angeles,1012,Office,37613,72.8
+Los Angeles,1013,Multifamily Housing,55326,27.1
+Los Angeles,1014,Multifamily Housing,29927,106.3
+Los Angeles,1015,Multifamily Housing,36518,30.2
+Los Angeles,1016,Multifamily Housing,74029,32.5
+Los Angeles,1017,Multifamily Housing,22764,41
+Los Angeles,1018,Office,50665,80.7
+Los Angeles,1019,Multifamily Housing,29580,42.7
+Los Angeles,1020,Multifamily Housing,29450,28.6
+Los Angeles,1021,Multifamily Housing,46126,28.9
+Los Angeles,1022,Multifamily Housing,50928,23.5
+Los Angeles,1023,Multifamily Housing,47157,64.7
+Los Angeles,1024,Office,273570,43.3
+Los Angeles,1025,Multifamily Housing,22932,24.7
+Los Angeles,1026,Multifamily Housing,66808,47.9
+Los Angeles,1027,Multifamily Housing,39690,16.7
+Los Angeles,1028,Multifamily Housing,20376,28.4
+Los Angeles,1029,Multifamily Housing,21172,3.8
+Los Angeles,1030,Multifamily Housing,31998,29.7
+Los Angeles,1031,Multifamily Housing,43032,29.7
+Los Angeles,1032,Multifamily Housing,28104,52.2
+Los Angeles,1033,Multifamily Housing,28000,52.3
+Los Angeles,1034,Multifamily Housing,21244,18.4
+Los Angeles,1035,Multifamily Housing,26111,74.5
+Los Angeles,1036,Multifamily Housing,24337,41.9
+Los Angeles,1037,Office,20000,54.3
+Los Angeles,1038,Office,70008,64.8
+Los Angeles,1039,Multifamily Housing,75000,28.1
+Los Angeles,1040,Office,79896,80.6
+Los Angeles,1041,Multifamily Housing,22462,44.2
+Los Angeles,1042,Multifamily Housing,41869,45.4
+Los Angeles,1043,Multifamily Housing,20300,47.7
+Los Angeles,1044,Multifamily Housing,50000,32
+Los Angeles,1045,Multifamily Housing,26240,42.5
+Los Angeles,1046,Multifamily Housing,25091,61.3
+Los Angeles,1047,K-12 School,23721,86.9
+Los Angeles,1048,Office,53791,66.7
+Los Angeles,1049,Multifamily Housing,21134,53.7
+Los Angeles,1050,Multifamily Housing,29385,35.2
+Los Angeles,1051,Multifamily Housing,30506,44.9
+Los Angeles,1052,Multifamily Housing,104777,33.1
+Los Angeles,1053,Multifamily Housing,23898,2.4
+Los Angeles,1054,Multifamily Housing,39492,33.4
+Los Angeles,1055,Multifamily Housing,35857,37.9
+Los Angeles,1056,Multifamily Housing,26882,17.5
+Los Angeles,1057,Office,27318,54.7
+Los Angeles,1058,Multifamily Housing,26910,20.5
+Los Angeles,1059,Multifamily Housing,41397,66.8
+Los Angeles,1060,Multifamily Housing,29809,40.4
+Los Angeles,1061,Multifamily Housing,25797,47.1
+Los Angeles,1062,Office,154657,44.8
+Los Angeles,1063,Multifamily Housing,31929,36.5
+Los Angeles,1064,Multifamily Housing,27680,39.8
+Los Angeles,1065,Multifamily Housing,26496,37.2
+Los Angeles,1066,Multifamily Housing,35934,44
+Los Angeles,1067,Multifamily Housing,22397,1.8
+Los Angeles,1068,Office,58499,54.2
+Los Angeles,1069,Multifamily Housing,50528,29.3
+Los Angeles,1070,Office,54421,50.5
+Los Angeles,1071,Multifamily Housing,34480,1.8
+Los Angeles,1072,Multifamily Housing,225000,36.3
+Los Angeles,1073,Multifamily Housing,52080,18.7
+Los Angeles,1074,Multifamily Housing,49467,23.7
+Los Angeles,1075,Multifamily Housing,38425,50.8
+Los Angeles,1076,Multifamily Housing,22010,48
+Los Angeles,1077,Office,92547,101.7
+Los Angeles,1078,Office,44338,42
+Los Angeles,1079,Office,102317,70
+Los Angeles,1080,Multifamily Housing,141300,36.5
+Los Angeles,1081,Multifamily Housing,24264,15.3
+Los Angeles,1082,Office,21308,32.3
+Los Angeles,1083,Multifamily Housing,71808,35
+Los Angeles,1084,Office,52000,25.4
+Los Angeles,1085,Multifamily Housing,28714,44.1
+Los Angeles,1086,Multifamily Housing,27100,590
+Los Angeles,1087,Multifamily Housing,82958,67.7
+Los Angeles,1088,Multifamily Housing,28165,104.9
+Los Angeles,1089,Multifamily Housing,34246,34.9
+Los Angeles,1090,Multifamily Housing,51388,36.3
+Los Angeles,1091,Office,25840,72.4
+Los Angeles,1092,Multifamily Housing,25966,44.7
+Los Angeles,1093,Office,96708,58.3
+Los Angeles,1094,Multifamily Housing,50880,43.8
+Los Angeles,1095,K-12 School,30953,42.6
+Los Angeles,1096,Office,22856,44.3
+Los Angeles,1097,Office,21729,72.4
+Los Angeles,1098,Multifamily Housing,30984,3.6
+Los Angeles,1099,Multifamily Housing,169947,4.5
+Los Angeles,1100,Multifamily Housing,30811,46.3
+Los Angeles,1101,Office,60286,24.6
+Los Angeles,1102,Multifamily Housing,21326,51.4
+Los Angeles,1103,Multifamily Housing,26496,52
+Los Angeles,1104,Office,52596,43.2
+Los Angeles,1105,Multifamily Housing,23619,26.4
+Los Angeles,1106,Multifamily Housing,26606,21.8
+Los Angeles,1107,Multifamily Housing,24717,49.2
+Los Angeles,1108,Multifamily Housing,22737,35.1
+Los Angeles,1109,Multifamily Housing,30999,24.5
+Los Angeles,1110,Office,105000,40.5
+Los Angeles,1111,Office,72000,72.6
+Los Angeles,1112,Office,69856,67.4
+Los Angeles,1113,Office,136714,50.7
+Los Angeles,1114,Multifamily Housing,21470,183.5
+Los Angeles,1115,Multifamily Housing,29815,16.2
+Los Angeles,1116,Office,3607789,48.1
+Los Angeles,1117,Multifamily Housing,44124,35.8
+Los Angeles,1118,Multifamily Housing,22932,32.5
+Los Angeles,1119,Office,89170,60.3
+Los Angeles,1120,Office,24852,74
+Los Angeles,1121,Office,40000,58.6
+Los Angeles,1122,Office,34376,44
+Los Angeles,1123,Office,37801,20.4
+Los Angeles,1124,Multifamily Housing,20820,19.4
+Los Angeles,1125,Office,34547,26.3
+Los Angeles,1126,Multifamily Housing,20664,0.9
+Los Angeles,1127,Multifamily Housing,53712,53.6
+Los Angeles,1128,Multifamily Housing,27000,6.1
+Los Angeles,1129,Multifamily Housing,20475,35.2
+Los Angeles,1130,Multifamily Housing,31530,32.8
+Los Angeles,1131,Multifamily Housing,36525,30.3
+Los Angeles,1132,Multifamily Housing,112000,21.7
+Los Angeles,1133,Multifamily Housing,47544,37.4
+Los Angeles,1134,Multifamily Housing,25783,57.5
+Los Angeles,1135,Office,185795,60.1
+Los Angeles,1136,Multifamily Housing,20188,37.9
+Los Angeles,1137,Multifamily Housing,32673,4
+Los Angeles,1138,Office,52847,36.6
+Los Angeles,1139,Office,167438,33.8
+Los Angeles,1140,Office,31404,37
+Los Angeles,1141,Office,56139,74.5
+Los Angeles,1142,Multifamily Housing,56222,28.4
+Los Angeles,1143,Multifamily Housing,110781,37.1
+Los Angeles,1144,Multifamily Housing,131161,55.5
+Los Angeles,1145,Multifamily Housing,27584,35.2
+Los Angeles,1146,Multifamily Housing,30186,24.3
+Los Angeles,1147,Office,21825,12.7
+Los Angeles,1148,Multifamily Housing,26136,51.5
+Los Angeles,1149,Multifamily Housing,34016,40
+Los Angeles,1150,Multifamily Housing,33478,31.2
+Los Angeles,1151,Multifamily Housing,34305,41.9
+Los Angeles,1152,Multifamily Housing,22017,48.2
+Los Angeles,1153,Multifamily Housing,25597,44.5
+Los Angeles,1154,Office,92915,31.5
+Los Angeles,1155,Multifamily Housing,28278,37.2
+Los Angeles,1156,Multifamily Housing,22934,35.9
+Los Angeles,1157,Multifamily Housing,39910,32.4
+Los Angeles,1158,Multifamily Housing,27292,2.5
+Los Angeles,1159,Multifamily Housing,60948,42
+Los Angeles,1160,Multifamily Housing,132536,6.4
+Los Angeles,1161,Multifamily Housing,43614,60.1
+Los Angeles,1162,Multifamily Housing,44713,3.9
+Los Angeles,1163,Multifamily Housing,45216,37.3
+Los Angeles,1164,Office,34783,14
+Los Angeles,1165,Office,42909,33.6
+Los Angeles,1166,Office,651278,42.6
+Los Angeles,1167,Multifamily Housing,22800,56.3
+Los Angeles,1168,Multifamily Housing,29928,44
+Los Angeles,1169,Multifamily Housing,166870,36.3
+Los Angeles,1170,Multifamily Housing,154838,29.5
+Los Angeles,1171,Multifamily Housing,37038,55.8
+Los Angeles,1172,Multifamily Housing,28218,3
+Los Angeles,1173,Multifamily Housing,26399,74
+Los Angeles,1174,Multifamily Housing,24169,30.9
+Los Angeles,1175,Multifamily Housing,145761,32.7
+Los Angeles,1176,Multifamily Housing,21756,31.5
+Los Angeles,1177,Multifamily Housing,21632,54.4
+Los Angeles,1178,Multifamily Housing,54000,58.4
+Los Angeles,1179,Multifamily Housing,55605,43.2
+Los Angeles,1180,Multifamily Housing,22500,85.9
+Los Angeles,1181,Multifamily Housing,212820,24
+Los Angeles,1182,Office,214679,38.9
+Los Angeles,1183,Office,27000,31.8
+Los Angeles,1184,Office,23600,19.3
+Los Angeles,1185,Office,36065,35
+Los Angeles,1186,Multifamily Housing,24500,45.2
+Los Angeles,1187,Multifamily Housing,32081,25.8
+Los Angeles,1188,Office,380941,35.2
+Los Angeles,1189,Office,83420,82.3
+Los Angeles,1190,Office,25175,37.1
+Los Angeles,1191,Office,46000,41.4
+Los Angeles,1192,Office,180095,1.7
+Los Angeles,1193,Multifamily Housing,44563,30.4
+Los Angeles,1194,Office,242512,67.4
+Los Angeles,1195,Multifamily Housing,69610,36.5
+Los Angeles,1196,Multifamily Housing,33960,30.3
+Los Angeles,1197,Multifamily Housing,34974,35.5
+Los Angeles,1198,Office,26413,35
+Los Angeles,1199,Multifamily Housing,44792,44.1
+Los Angeles,1200,Multifamily Housing,55160,64.1
+Los Angeles,1201,Multifamily Housing,53160,36.2
+Los Angeles,1202,Multifamily Housing,24276,33.1
+Los Angeles,1203,Multifamily Housing,35262,33.1
+Los Angeles,1204,Multifamily Housing,24320,39.4
+Los Angeles,1205,Multifamily Housing,33900,25.3
+Los Angeles,1206,Office,25190,92.8
+Los Angeles,1207,Multifamily Housing,30666,18.5
+Los Angeles,1208,Multifamily Housing,22625,61.7
+Los Angeles,1209,Multifamily Housing,29884,41.2
+Los Angeles,1210,Office,100000,64
+Los Angeles,1211,Multifamily Housing,234555,57.4
+Los Angeles,1212,Multifamily Housing,23782,45.8
+Los Angeles,1213,Multifamily Housing,66739,34.3
+Los Angeles,1214,Multifamily Housing,27444,47.9
+Los Angeles,1215,Multifamily Housing,24896,54.7
+Los Angeles,1216,Multifamily Housing,46208,46.5
+Los Angeles,1217,Multifamily Housing,58320,65.8
+Los Angeles,1218,Multifamily Housing,71112,35.3
+Los Angeles,1219,Multifamily Housing,29815,33.7
+Los Angeles,1220,Multifamily Housing,48032,34.3
+Los Angeles,1221,Multifamily Housing,110745,124.9
+Los Angeles,1222,Multifamily Housing,23404,48
+Los Angeles,1223,Office,27623,36.5
+Los Angeles,1224,Multifamily Housing,124740,47.3
+Los Angeles,1225,Multifamily Housing,20000,69.2
+Los Angeles,1226,Multifamily Housing,41172,48.2
+Los Angeles,1227,Multifamily Housing,70749,48.2
+Los Angeles,1228,Multifamily Housing,22308,34.8
+Los Angeles,1229,Multifamily Housing,96078,42.5
+Los Angeles,1230,Multifamily Housing,25636,2.7
+Los Angeles,1231,Multifamily Housing,45832,29
+Los Angeles,1232,Multifamily Housing,38880,29.7
+Los Angeles,1233,Multifamily Housing,66972,55.3
+Los Angeles,1234,Multifamily Housing,24108,50.3
+Los Angeles,1235,Multifamily Housing,48336,48.8
+Los Angeles,1236,K-12 School,60000,26
+Los Angeles,1237,Multifamily Housing,50350,2.5
+Los Angeles,1238,Multifamily Housing,40166,26.3
+Los Angeles,1239,Office,38235,73.1
+Los Angeles,1240,Office,210487,47.4
+Los Angeles,1241,Multifamily Housing,43848,0.6
+Los Angeles,1242,Multifamily Housing,30530,31.8
+Los Angeles,1243,Multifamily Housing,37188,20.2
+Los Angeles,1244,Multifamily Housing,84276,42
+Los Angeles,1245,Multifamily Housing,60000,27.6
+Los Angeles,1246,Multifamily Housing,86469,45.5
+Los Angeles,1247,Multifamily Housing,30000,4.6
+Los Angeles,1248,Multifamily Housing,22450,45.7
+Los Angeles,1249,Multifamily Housing,41849,50.7
+Los Angeles,1250,Office,30248,25.9
+Los Angeles,1251,Multifamily Housing,36000,46.4
+Los Angeles,1252,Multifamily Housing,78125,28.7
+Los Angeles,1253,Multifamily Housing,33000,50.7
+Los Angeles,1254,Multifamily Housing,22932,34.5
+Los Angeles,1255,Office,265667,50.6
+Los Angeles,1256,Multifamily Housing,42718,29.2
+Los Angeles,1257,Multifamily Housing,35340,17.5
+Los Angeles,1258,Multifamily Housing,97944,37
+Los Angeles,1259,Multifamily Housing,210917,41.7
+Los Angeles,1260,Multifamily Housing,25226,2.1
+Los Angeles,1261,Office,46862,31.4
+Los Angeles,1262,Multifamily Housing,144044,14.5
+Los Angeles,1263,Multifamily Housing,154934,39.7
+Los Angeles,1264,Multifamily Housing,175560,31.8
+Los Angeles,1265,Multifamily Housing,160710,36.5
+Los Angeles,1266,Multifamily Housing,36545,37
+Los Angeles,1267,Multifamily Housing,37414,37.8
+Los Angeles,1268,Multifamily Housing,82448,35.1
+Los Angeles,1269,Office,138000,91.5
+Los Angeles,1270,Multifamily Housing,25197,42.9
+Los Angeles,1271,Multifamily Housing,404876,43.6
+Los Angeles,1272,Multifamily Housing,215061,35.4
+Los Angeles,1273,Multifamily Housing,42900,46.5
+Los Angeles,1274,Multifamily Housing,46346,10.4
+Los Angeles,1275,Multifamily Housing,24568,51.7
+Los Angeles,1276,Multifamily Housing,31392,41.7
+Los Angeles,1277,Multifamily Housing,33987,34.1
+Los Angeles,1278,Office,62301,30.1
+Los Angeles,1279,K-12 School,50000,33.4
+Los Angeles,1280,Multifamily Housing,127429,21.3
+Los Angeles,1281,Multifamily Housing,75588,36.9
+Los Angeles,1282,Multifamily Housing,23704,15.6
+Los Angeles,1283,Multifamily Housing,57000,24.6
+Los Angeles,1284,Multifamily Housing,25000,19.1
+Los Angeles,1285,Multifamily Housing,59382,47.4
+Los Angeles,1286,Multifamily Housing,29580,13.7
+Los Angeles,1287,Office,206583,31.3
+Los Angeles,1288,Multifamily Housing,37129,38.7
+Los Angeles,1289,Multifamily Housing,71639,38.1
+Los Angeles,1290,Multifamily Housing,32907,32.5
+Los Angeles,1291,Office,24880,40.5
+Los Angeles,1292,Office,25283,53.6
+Los Angeles,1293,Multifamily Housing,495834,34.7
+Los Angeles,1294,Multifamily Housing,30960,40.3
+Los Angeles,1295,Multifamily Housing,22670,52.7
+Los Angeles,1296,Multifamily Housing,191098,80.9
+Los Angeles,1297,Office,20572,16.1
+Los Angeles,1298,Multifamily Housing,132210,51.8
+Los Angeles,1299,Office,38707,722.6
+Los Angeles,1300,Multifamily Housing,40101,65.7
+Los Angeles,1301,Multifamily Housing,41359,42.8
+Los Angeles,1302,Multifamily Housing,24590,44.7
+Los Angeles,1303,Multifamily Housing,21879,3
+Los Angeles,1304,Multifamily Housing,271757,36.4
+Los Angeles,1305,Multifamily Housing,29356,34.7
+Los Angeles,1306,Multifamily Housing,132340,40.6
+Los Angeles,1307,Multifamily Housing,24280,94.7
+Los Angeles,1308,Multifamily Housing,20854,72.6
+Los Angeles,1309,Multifamily Housing,237962,46.9
+Los Angeles,1310,Office,165325,69.8
+Los Angeles,1311,Multifamily Housing,29104,41.6
+Los Angeles,1312,Multifamily Housing,124363,51.8
+Los Angeles,1313,Office,240678,4
+Los Angeles,1314,Multifamily Housing,53208,46.1
+Los Angeles,1315,Multifamily Housing,55100,36.5
+Los Angeles,1316,Multifamily Housing,61115,31.7
+Los Angeles,1317,Office,37800,4.7
+Los Angeles,1318,Multifamily Housing,34319,4.4
+Los Angeles,1319,Office,43403,43.3
+Los Angeles,1320,Multifamily Housing,40865,33.8
+Los Angeles,1321,Multifamily Housing,19305,21.2
+Los Angeles,1322,Multifamily Housing,158455,43.1
+Los Angeles,1323,Multifamily Housing,45117,34.9
+Los Angeles,1324,Office,484094,74.2
+Los Angeles,1325,Multifamily Housing,33742,52.8
+Los Angeles,1326,Multifamily Housing,43492,25.8
+Los Angeles,1327,Office,44784,78.6
+Los Angeles,1328,Multifamily Housing,43214,44.7
+Los Angeles,1329,Multifamily Housing,50000,150.6
+Los Angeles,1330,Multifamily Housing,20825,17.4
+Los Angeles,1331,Office,417170,41.8
+Los Angeles,1332,Multifamily Housing,21608,30.8
+Los Angeles,1333,Multifamily Housing,20986,49.6
+Los Angeles,1334,Office,69006,27
+Los Angeles,1335,Multifamily Housing,34010,36.4
+Los Angeles,1336,Multifamily Housing,37228,40.2
+Los Angeles,1337,Multifamily Housing,242972,65
+Los Angeles,1338,Office,20898,88.1
+Los Angeles,1339,Multifamily Housing,35845,45.3
+Los Angeles,1340,Multifamily Housing,22425,57.7
+Los Angeles,1341,Multifamily Housing,65990,31.1
+Los Angeles,1342,Multifamily Housing,188030,33.3
+Los Angeles,1343,Office,36204,41
+Los Angeles,1344,Office,14700,87
+Los Angeles,1345,Multifamily Housing,231545,23.5
+Los Angeles,1346,Office,816615,60.7
+Los Angeles,1347,Office,85000,5.2
+Los Angeles,1348,Multifamily Housing,26896,42.6
+Los Angeles,1349,Multifamily Housing,20460,50.2
+Los Angeles,1350,Multifamily Housing,38850,42.4
+Los Angeles,1351,Multifamily Housing,195840,34.4
+Los Angeles,1352,Multifamily Housing,20232,48.2
+Los Angeles,1353,Office,67539,35.9
+Los Angeles,1354,Office,1109120,31.8
+Los Angeles,1355,Multifamily Housing,26085,42.2
+Los Angeles,1356,Multifamily Housing,44259,43.3
+Los Angeles,1357,Multifamily Housing,22497,34.6
+Los Angeles,1358,Multifamily Housing,22526,13.4
+Los Angeles,1359,Multifamily Housing,41364,43.7
+Los Angeles,1360,Multifamily Housing,42524,39.4
+Los Angeles,1361,Office,53356,49.3
+Los Angeles,1362,Multifamily Housing,25102,26.4
+Los Angeles,1363,Multifamily Housing,21992,28.6
+Los Angeles,1364,Multifamily Housing,28644,28.9
+Los Angeles,1365,Office,26199,58.8
+Los Angeles,1366,Multifamily Housing,30000,33.4
+Los Angeles,1367,Multifamily Housing,103927,36.4
+Los Angeles,1368,Multifamily Housing,28336,65.9
+Los Angeles,1369,Multifamily Housing,46446,60.5
+Los Angeles,1370,Multifamily Housing,23784,35.2
+Los Angeles,1371,Multifamily Housing,75909,27.6
+Los Angeles,1372,Multifamily Housing,20000,17.8
+Los Angeles,1373,Multifamily Housing,54524,39.4
+Los Angeles,1374,Multifamily Housing,24516,2
+Los Angeles,1375,Multifamily Housing,38312,42.3
+Los Angeles,1376,Multifamily Housing,19713,57
+Los Angeles,1377,Multifamily Housing,31296,44.3
+Los Angeles,1378,Multifamily Housing,104472,50.7
+Los Angeles,1379,Multifamily Housing,310796,42.3
+Los Angeles,1380,Multifamily Housing,46746,31.1
+Los Angeles,1381,Office,420000,84.5
+Los Angeles,1382,Multifamily Housing,132000,34.9
+Los Angeles,1383,K-12 School,166296,48
+Los Angeles,1384,Multifamily Housing,71711,39.9
+Los Angeles,1385,Multifamily Housing,192306,44.3
+Los Angeles,1386,Multifamily Housing,36989,28.9
+Los Angeles,1387,Multifamily Housing,63160,30.5
+Los Angeles,1388,Multifamily Housing,32478,32.3
+Los Angeles,1389,Office,27524,18
+Los Angeles,1390,Multifamily Housing,37219,47.2
+Los Angeles,1391,Multifamily Housing,21894,30.7
+Los Angeles,1392,Office,1003459,43.6
+Los Angeles,1393,Multifamily Housing,23664,3.5
+Los Angeles,1394,Multifamily Housing,145688,37.1
+Los Angeles,1395,Multifamily Housing,24882,70
+Los Angeles,1396,Multifamily Housing,41500,37.6
+Los Angeles,1397,Office,250000,19.6
+Los Angeles,1398,Multifamily Housing,26552,2.5
+Los Angeles,1399,Multifamily Housing,58036,17.1
+Los Angeles,1400,Multifamily Housing,31558,30.5
+Los Angeles,1401,Multifamily Housing,194546,38.1
+Los Angeles,1402,Multifamily Housing,50375,48.1
+Los Angeles,1403,Multifamily Housing,53656,38.9
+Los Angeles,1404,Multifamily Housing,280155,49
+Los Angeles,1405,Office,29150,90.6
+Los Angeles,1406,Multifamily Housing,36096,45.3
+Los Angeles,1407,Multifamily Housing,68228,38.2
+Los Angeles,1408,Multifamily Housing,41994,4.6
+Los Angeles,1409,Multifamily Housing,261390,53.3
+Los Angeles,1410,Multifamily Housing,45108,28.2
+Los Angeles,1411,Multifamily Housing,34623,18.8
+Los Angeles,1412,Multifamily Housing,28024,38.2
+Los Angeles,1413,Multifamily Housing,36334,45.4
+Los Angeles,1414,Multifamily Housing,128745,35.3
+Los Angeles,1415,Multifamily Housing,28904,52.2
+Los Angeles,1416,Multifamily Housing,54930,55.2
+Los Angeles,1417,Multifamily Housing,128909,32.4
+Los Angeles,1418,Multifamily Housing,27214,34.9
+Los Angeles,1419,Multifamily Housing,104000,22.6
+Los Angeles,1420,K-12 School,21400,8.3
+Los Angeles,1421,Multifamily Housing,39612,21
+Los Angeles,1422,Multifamily Housing,30824,40.4
+Los Angeles,1423,Multifamily Housing,20968,34.3
+Los Angeles,1424,Multifamily Housing,33810,45.5
+Los Angeles,1425,Multifamily Housing,65458,63.9
+Los Angeles,1426,Office,32000,85.6
+Los Angeles,1427,Multifamily Housing,16526,48.9
+Los Angeles,1428,Multifamily Housing,58130,33.1
+Los Angeles,1429,Multifamily Housing,39524,30.4
+Los Angeles,1430,Multifamily Housing,32076,5
+Los Angeles,1431,Multifamily Housing,74228,34.1
+Los Angeles,1432,Multifamily Housing,285135,24.9
+Los Angeles,1433,Multifamily Housing,84786,31.2
+Los Angeles,1434,Multifamily Housing,26736,45.8
+Los Angeles,1435,Multifamily Housing,29709,31
+Los Angeles,1436,Multifamily Housing,43264,59.7
+Los Angeles,1437,Multifamily Housing,28945,37.1
+Los Angeles,1438,Multifamily Housing,26470,55.2
+Los Angeles,1439,Office,28557,50.2
+Los Angeles,1440,Multifamily Housing,219291,12
+Los Angeles,1441,Multifamily Housing,30705,51.2
+Los Angeles,1442,Multifamily Housing,23689,44
+Los Angeles,1443,Multifamily Housing,26948,36.3
+Los Angeles,1444,Multifamily Housing,68253,34.9
+Los Angeles,1445,Multifamily Housing,68894,42.1
+Los Angeles,1446,Multifamily Housing,113424,22.5
+Los Angeles,1447,Multifamily Housing,95775,27.6
+Los Angeles,1448,Multifamily Housing,49336,60.6
+Los Angeles,1449,Multifamily Housing,56696,45.5
+Los Angeles,1450,Multifamily Housing,177193,41.2
+Los Angeles,1451,Office,29870,52.2
+Los Angeles,1452,Office,122072,58.5
+Los Angeles,1453,Multifamily Housing,82610,44.3
+Los Angeles,1454,Multifamily Housing,24530,33.7
+Los Angeles,1455,Multifamily Housing,24484,43.8
+Los Angeles,1456,Office,147366,40.2
+Los Angeles,1457,Multifamily Housing,21855,41.6
+Los Angeles,1458,Multifamily Housing,22090,29.1
+Los Angeles,1459,Office,21500,39.4
+Los Angeles,1460,Multifamily Housing,27035,50.8
+Los Angeles,1461,Multifamily Housing,170621,32.9
+Los Angeles,1462,Multifamily Housing,44674,37.4
+Los Angeles,1463,Multifamily Housing,40224,33.3
+Los Angeles,1464,Multifamily Housing,74930,22.4
+Los Angeles,1465,Multifamily Housing,36624,43.8
+Los Angeles,1466,Multifamily Housing,42279,28.8
+Los Angeles,1467,Multifamily Housing,46926,25.6
+Los Angeles,1468,Multifamily Housing,29694,38.2
+Los Angeles,1469,Multifamily Housing,40312,17
+Los Angeles,1470,Multifamily Housing,21899,42.8
+Los Angeles,1471,Multifamily Housing,24511,48
+Los Angeles,1472,Multifamily Housing,239983,20
+Los Angeles,1473,Office,30702,54.5
+Los Angeles,1474,Multifamily Housing,33075,22
+Los Angeles,1475,Multifamily Housing,41771,43.3
+Los Angeles,1476,Multifamily Housing,49769,11.8
+Los Angeles,1477,Multifamily Housing,38256,28.6
+Los Angeles,1478,Multifamily Housing,38766,33.2
+Los Angeles,1479,Multifamily Housing,27746,56.4
+Los Angeles,1480,Multifamily Housing,43818,26.7
+Los Angeles,1481,Multifamily Housing,20645,29
+Los Angeles,1482,Multifamily Housing,54413,30.9
+Los Angeles,1483,Office,22381,188.5
+Los Angeles,1484,Multifamily Housing,22254,49
+Los Angeles,1485,Office,167393,16.4
+Los Angeles,1486,Multifamily Housing,23789,45.5
+Los Angeles,1487,Multifamily Housing,25926,59.7
+Los Angeles,1488,Multifamily Housing,24900,39.5
+Los Angeles,1489,Office,87825,76.8
+Los Angeles,1490,Multifamily Housing,37321,35.4
+Los Angeles,1491,Multifamily Housing,23728,38.1
+Los Angeles,1492,Multifamily Housing,29749,62.3
+Los Angeles,1493,Multifamily Housing,21589,49.8
+Los Angeles,1494,Multifamily Housing,66729,20.8
+Los Angeles,1495,Multifamily Housing,49592,35
+Los Angeles,1496,Multifamily Housing,25053,49.9
+Los Angeles,1497,Office,62086,23.1
+Los Angeles,1498,Multifamily Housing,21640,69.7
+Los Angeles,1499,Multifamily Housing,30866,34.6
+Los Angeles,1500,Multifamily Housing,39963,33.6
+Los Angeles,1501,Multifamily Housing,20255,50
+Los Angeles,1502,Multifamily Housing,24000,46.1
+Los Angeles,1503,Multifamily Housing,25668,53.2
+Los Angeles,1504,Multifamily Housing,25231,0.2
+Los Angeles,1505,Multifamily Housing,81675,44.1
+Los Angeles,1506,Multifamily Housing,53316,1.5
+Los Angeles,1507,Multifamily Housing,240708,47.6
+Los Angeles,1508,Multifamily Housing,132536,0.9
+Los Angeles,1509,Multifamily Housing,32445,39.9
+Los Angeles,1510,Multifamily Housing,45834,20
+Los Angeles,1511,Office,37238,45.4
+Los Angeles,1512,Multifamily Housing,48642,58.9
+Los Angeles,1513,Multifamily Housing,35066,11
+Los Angeles,1514,Multifamily Housing,166864,44.2
+Los Angeles,1515,Office,75000,49.2
+Los Angeles,1516,Multifamily Housing,45120,45.5
+Los Angeles,1517,Multifamily Housing,35637,18
+Los Angeles,1518,Multifamily Housing,199784,43.3
+Los Angeles,1519,Multifamily Housing,79035,2.7
+Los Angeles,1520,Office,18622,12.6
+Los Angeles,1521,Multifamily Housing,51872,6.3
+Los Angeles,1522,Multifamily Housing,36277,27.7
+Los Angeles,1523,Multifamily Housing,20658,39.4
+Los Angeles,1524,Multifamily Housing,33380,38.1
+Los Angeles,1525,Multifamily Housing,58589,31.9
+Los Angeles,1526,Multifamily Housing,62786,41.4
+Los Angeles,1527,Office,26246,124
+Los Angeles,1528,Multifamily Housing,20491,57.4
+Los Angeles,1529,Multifamily Housing,32800,29.5
+Los Angeles,1530,Multifamily Housing,68029,20.2
+Los Angeles,1531,Multifamily Housing,342720,33.1
+Los Angeles,1532,Office,46322,48.8
+Los Angeles,1533,K-12 School,98000,86.6
+Los Angeles,1534,Multifamily Housing,25474,40.4
+Los Angeles,1535,Multifamily Housing,20052,41.5
+Los Angeles,1536,Office,152048,48.2
+Los Angeles,1537,Multifamily Housing,34268,34.5
+Los Angeles,1538,Office,85569,17.3
+Los Angeles,1539,Multifamily Housing,56562,21.8
+Los Angeles,1540,Multifamily Housing,27394,33.5
+Los Angeles,1541,Multifamily Housing,24330,49.9
+Los Angeles,1542,Office,23269,5
+Los Angeles,1543,Multifamily Housing,31656,29.3
+Los Angeles,1544,Multifamily Housing,31903,22.5
+Los Angeles,1545,Multifamily Housing,41996,51.2
+Los Angeles,1546,Multifamily Housing,52506,49.7
+Los Angeles,1547,Multifamily Housing,20260,38.3
+Los Angeles,1548,Office,31500,30
+Los Angeles,1549,Multifamily Housing,22256,86.7
+Los Angeles,1550,Multifamily Housing,24075,44.3
+Los Angeles,1551,Multifamily Housing,61344,25.3
+Los Angeles,1552,Multifamily Housing,67477,40
+Los Angeles,1553,Multifamily Housing,52886,24.8
+Los Angeles,1554,Multifamily Housing,29389,33.3
+Los Angeles,1555,Multifamily Housing,37112,44
+Los Angeles,1556,Multifamily Housing,35924,7.8
+Los Angeles,1557,Multifamily Housing,65914,53.1
+Los Angeles,1558,Multifamily Housing,23450,38.9
+Los Angeles,1559,Multifamily Housing,52788,33.2
+Los Angeles,1560,Office,37169,80.8
+Los Angeles,1561,Multifamily Housing,403669,21.8
+Los Angeles,1562,Multifamily Housing,60360,28.8
+Los Angeles,1563,Multifamily Housing,62076,3.5
+Los Angeles,1564,Multifamily Housing,21267,29.4
+Los Angeles,1565,Multifamily Housing,48135,27.3
+Los Angeles,1566,Multifamily Housing,57057,89.3
+Los Angeles,1567,Multifamily Housing,31305,27
+Los Angeles,1568,Multifamily Housing,61804,33.1
+Los Angeles,1569,Multifamily Housing,84306,30.9
+Los Angeles,1570,Multifamily Housing,97309,21.8
+Los Angeles,1571,Office,495825,35.7
+Los Angeles,1572,Multifamily Housing,30042,28.3
+Los Angeles,1573,Office,243544,48.2
+Los Angeles,1574,Multifamily Housing,81300,50.4
+Los Angeles,1575,Multifamily Housing,20144,48.3
+Los Angeles,1576,Multifamily Housing,36607,59.4
+Los Angeles,1577,Office,54827,55.7
+Los Angeles,1578,Office,636803,69.8
+Los Angeles,1579,Office,46085,52.4
+Los Angeles,1580,Multifamily Housing,70700,11.2
+Los Angeles,1581,Office,54865,59.1
+Los Angeles,1582,Office,257141,36.5
+Los Angeles,1583,Multifamily Housing,22529,55.2
+Los Angeles,1584,Office,26261,8.5
+Los Angeles,1585,Multifamily Housing,32705,29.2
+Los Angeles,1586,Multifamily Housing,32642,55.3
+Los Angeles,1587,Multifamily Housing,24650,34.7
+Los Angeles,1588,Office,645031,68.6
+Los Angeles,1589,Multifamily Housing,134530,106.7
+Los Angeles,1590,Multifamily Housing,41946,33.4
+Los Angeles,1591,Multifamily Housing,343357,25.1
+Los Angeles,1592,Office,32188,56.9
+Los Angeles,1593,Office,111363,36.7
+Los Angeles,1594,Multifamily Housing,35877,33
+Los Angeles,1595,Multifamily Housing,30000,19
+Los Angeles,1596,Multifamily Housing,22000,36.1
+Los Angeles,1597,Multifamily Housing,192306,45.2
+Los Angeles,1598,Multifamily Housing,21594,49
+Los Angeles,1599,Multifamily Housing,44342,41.3
+Los Angeles,1600,Multifamily Housing,27192,3
+Los Angeles,1601,Multifamily Housing,219291,31.4
+Los Angeles,1602,Multifamily Housing,375904,50.1
+Los Angeles,1603,Multifamily Housing,21790,52.1
+Los Angeles,1604,Multifamily Housing,41520,62.4
+Los Angeles,1605,Office,435956,56.5
+Los Angeles,1606,Office,35874,9.3
+Los Angeles,1607,Multifamily Housing,37058,65.1
+Los Angeles,1608,Multifamily Housing,36188,171.3
+Los Angeles,1609,Multifamily Housing,33750,9.2
+Los Angeles,1610,Multifamily Housing,38816,26.1
+Los Angeles,1611,Multifamily Housing,54014,32.7
+Los Angeles,1612,Multifamily Housing,28269,24.8
+Los Angeles,1613,Multifamily Housing,38814,44.2
+Los Angeles,1614,Multifamily Housing,31400,36.2
+Los Angeles,1615,Multifamily Housing,32224,37.5
+Los Angeles,1616,Multifamily Housing,94628,26.5
+Los Angeles,1617,Multifamily Housing,33360,37.4
+Los Angeles,1618,Multifamily Housing,22585,34.4
+Los Angeles,1619,Multifamily Housing,22992,53.5
+Los Angeles,1620,Multifamily Housing,34291,59.1
+Los Angeles,1621,Multifamily Housing,59270,38.3
+Los Angeles,1622,Office,32415,23.9
+Los Angeles,1623,Multifamily Housing,25780,40.5
+Los Angeles,1624,Multifamily Housing,33023,31.2
+Los Angeles,1625,Multifamily Housing,30260,31.3
+Los Angeles,1626,Multifamily Housing,85239,40
+Los Angeles,1627,Office,30720,18.5
+Los Angeles,1628,Multifamily Housing,67272,27.6
+Los Angeles,1629,Multifamily Housing,31980,35.9
+Los Angeles,1630,Multifamily Housing,51101,21.2
+Los Angeles,1631,Multifamily Housing,80000,42.1
+Los Angeles,1632,Multifamily Housing,20115,50.6
+Los Angeles,1633,Multifamily Housing,67777,23.6
+Los Angeles,1634,Office,52977,66.9
+Los Angeles,1635,Multifamily Housing,69967,27.2
+Los Angeles,1636,Multifamily Housing,153896,45.2
+Los Angeles,1637,Multifamily Housing,92895,29.2
+Los Angeles,1638,Multifamily Housing,32012,45.5
+Los Angeles,1639,Office,30160,27.4
+Los Angeles,1640,Multifamily Housing,78318,30.3
+Los Angeles,1641,Multifamily Housing,43266,38.4
+Los Angeles,1642,Multifamily Housing,40000,26.4
+Los Angeles,1643,Multifamily Housing,84892,41.3
+Los Angeles,1644,Multifamily Housing,29000,25.3
+Los Angeles,1645,Multifamily Housing,26254,48.7
+Los Angeles,1646,Office,169951,51.8
+Los Angeles,1647,Office,565062,52.8
+Los Angeles,1648,Multifamily Housing,28020,51.1
+Los Angeles,1649,Multifamily Housing,176704,29.6
+Los Angeles,1650,Office,27960,7.6
+Los Angeles,1651,Multifamily Housing,55152,68.2
+Los Angeles,1652,Multifamily Housing,22976,25.1
+Los Angeles,1653,Multifamily Housing,21231,2.7
+Los Angeles,1654,Multifamily Housing,268080,27.1
+Los Angeles,1655,Office,170479,41.4
+Los Angeles,1656,Multifamily Housing,42754,44.2
+Los Angeles,1657,Office,55723,8
+Los Angeles,1658,Office,33137,85
+Los Angeles,1659,Multifamily Housing,33902,44.2
+Los Angeles,1660,Multifamily Housing,24938,19.8
+Los Angeles,1661,Multifamily Housing,58070,49.8
+Los Angeles,1662,Multifamily Housing,63390,46.4
+Los Angeles,1663,Multifamily Housing,65877,26.1
+Los Angeles,1664,Multifamily Housing,22096,50.4
+Los Angeles,1665,Multifamily Housing,23100,50.7
+Los Angeles,1666,Multifamily Housing,55767,30.1
+Los Angeles,1667,Multifamily Housing,25968,43.6
+Los Angeles,1668,Multifamily Housing,33000,26.8
+Los Angeles,1669,Multifamily Housing,28145,26.1
+Los Angeles,1670,K-12 School,28706,26.1
+Los Angeles,1671,Multifamily Housing,76052,273.4
+Los Angeles,1672,Multifamily Housing,27486,8.7
+Los Angeles,1673,Multifamily Housing,192306,48.3
+Los Angeles,1674,Multifamily Housing,53762,63.7
+Los Angeles,1675,Multifamily Housing,41930,51.8
+Los Angeles,1676,Multifamily Housing,84872,25
+Los Angeles,1677,Multifamily Housing,22549,63.7
+Los Angeles,1678,Multifamily Housing,32150,56.5
+Los Angeles,1679,Multifamily Housing,38378,44.5
+Los Angeles,1680,Multifamily Housing,36560,45.1
+Los Angeles,1681,Multifamily Housing,48756,47.8
+Los Angeles,1682,Multifamily Housing,20472,45.4
+Los Angeles,1683,Multifamily Housing,25212,153.2
+Los Angeles,1684,Multifamily Housing,48970,35.7
+Los Angeles,1685,Multifamily Housing,21012,40.4
+Los Angeles,1686,Office,202987,36
+Los Angeles,1687,Multifamily Housing,281359,35.8
+Los Angeles,1688,Office,67200,11.4
+Los Angeles,1689,Multifamily Housing,233731,41.4
+Los Angeles,1690,Multifamily Housing,24337,41.9
+Los Angeles,1691,Multifamily Housing,192500,38.6
+Los Angeles,1692,Multifamily Housing,78400,29.2
+Los Angeles,1693,Multifamily Housing,95040,38.2
+Los Angeles,1694,Multifamily Housing,39845,25.3
+Los Angeles,1695,Multifamily Housing,29100,37.1
+Los Angeles,1696,Multifamily Housing,21203,59.8
+Los Angeles,1697,Multifamily Housing,71765,44.4
+Los Angeles,1698,Multifamily Housing,88134,41
+Los Angeles,1699,Multifamily Housing,81807,41.6
+Los Angeles,1700,Multifamily Housing,52669,34
+Los Angeles,1701,Multifamily Housing,23152,78.7
+Los Angeles,1702,Multifamily Housing,58267,35.2
+Los Angeles,1703,Multifamily Housing,33911,1.1
+Los Angeles,1704,Multifamily Housing,23096,44.7
+Los Angeles,1705,Multifamily Housing,31514,52.8
+Los Angeles,1706,Multifamily Housing,15660,19.9
+Los Angeles,1707,Multifamily Housing,32350,38.2
+Los Angeles,1708,Multifamily Housing,26096,2.7
+Los Angeles,1709,Multifamily Housing,24572,38.8
+Los Angeles,1710,Multifamily Housing,21480,46
+Los Angeles,1711,Multifamily Housing,33663,26.7
+Los Angeles,1712,Multifamily Housing,26872,2.1
+Los Angeles,1713,Multifamily Housing,46911,27
+Los Angeles,1714,Multifamily Housing,28627,40.3
+Los Angeles,1715,Multifamily Housing,37900,59.3
+Los Angeles,1716,Multifamily Housing,26505,55.5
+Los Angeles,1717,Multifamily Housing,22776,32.2
+Los Angeles,1718,Multifamily Housing,37100,48.6
+Los Angeles,1719,Multifamily Housing,63055,34.3
+Los Angeles,1720,Office,58133,53.7
+Los Angeles,1721,Multifamily Housing,40997,32.1
+Los Angeles,1722,Multifamily Housing,45378,37.8
+Los Angeles,1723,Office,276149,42.8
+Los Angeles,1724,Multifamily Housing,36704,40.4
+Los Angeles,1725,Multifamily Housing,30962,39.5
+Los Angeles,1726,Multifamily Housing,57384,39.7
+Los Angeles,1727,Multifamily Housing,22990,32.4
+Los Angeles,1728,Multifamily Housing,147766,40.8
+Los Angeles,1729,Multifamily Housing,20972,38.9
+Los Angeles,1730,Multifamily Housing,52968,60.6
+Los Angeles,1731,Multifamily Housing,33028,29.9
+Los Angeles,1732,Multifamily Housing,34014,30.9
+Los Angeles,1733,Multifamily Housing,40016,43
+Los Angeles,1734,Multifamily Housing,19151,41.7
+Los Angeles,1735,Multifamily Housing,25554,41.9
+Los Angeles,1736,Multifamily Housing,23952,11.5
+Los Angeles,1737,Multifamily Housing,67704,44.3
+Los Angeles,1738,Office,52929,103.6
+Los Angeles,1739,Multifamily Housing,44400,44.9
+Los Angeles,1740,Multifamily Housing,64136,47.1
+Los Angeles,1741,Office,220050,47
+Los Angeles,1742,Office,55251,86.2
+Los Angeles,1743,Multifamily Housing,60156,21.6
+Los Angeles,1744,Multifamily Housing,36902,63.2
+Los Angeles,1745,Multifamily Housing,362712,39.9
+Los Angeles,1746,Multifamily Housing,141100,62.1
+Los Angeles,1747,Multifamily Housing,57624,45.1
+Los Angeles,1748,Multifamily Housing,58960,38.1
+Los Angeles,1749,Office,7703,20.1
+Los Angeles,1750,Multifamily Housing,23063,51.4
+Los Angeles,1751,Office,28140,89.2
+Los Angeles,1752,Office,75186,28.2
+Los Angeles,1753,Office,262679,21.6
+Los Angeles,1754,Multifamily Housing,20700,24.7
+Los Angeles,1755,Office,48908,66
+Los Angeles,1756,Multifamily Housing,115150,41.4
+Los Angeles,1757,Office,40777,31.9
+Los Angeles,1758,Multifamily Housing,20072,49.9
+Los Angeles,1759,Office,393836,40.1
+Los Angeles,1760,Multifamily Housing,90050,28.1
+Los Angeles,1761,Office,66689,73.1
+Los Angeles,1762,Multifamily Housing,30508,39.2
+Los Angeles,1763,Office,46667,110
+Los Angeles,1764,Multifamily Housing,22364,24.1
+Los Angeles,1765,Multifamily Housing,20006,1.7
+Los Angeles,1766,Multifamily Housing,53275,29.6
+Los Angeles,1767,Multifamily Housing,26496,51.2
+Los Angeles,1768,Multifamily Housing,39111,22.1
+Los Angeles,1769,Multifamily Housing,31000,4.3
+Los Angeles,1770,Office,28910,55.9
+Los Angeles,1771,Multifamily Housing,30994,46.6
+Los Angeles,1772,Multifamily Housing,21777,32.8
+Los Angeles,1773,Multifamily Housing,21156,48.9
+Los Angeles,1774,Multifamily Housing,48433,44.7
+Los Angeles,1775,Multifamily Housing,57334,38.6
+Los Angeles,1776,Multifamily Housing,22400,65.7
+Los Angeles,1777,Multifamily Housing,32822,37.8
+Los Angeles,1778,Multifamily Housing,62933,57
+Los Angeles,1779,Office,49638,20.9
+Los Angeles,1780,Multifamily Housing,29109,40.5
+Los Angeles,1781,Office,236599,43.1
+Los Angeles,1782,Multifamily Housing,33289,39.6
+Los Angeles,1783,Multifamily Housing,105000,48.4
+Los Angeles,1784,Multifamily Housing,176706,77.4
+Los Angeles,1785,Multifamily Housing,25304,38
+Los Angeles,1786,Multifamily Housing,100000,23.3
+Los Angeles,1787,Multifamily Housing,50976,30
+Los Angeles,1788,Multifamily Housing,46767,50.8
+Los Angeles,1789,Multifamily Housing,22406,41
+Los Angeles,1790,Office,330646,51.5
+Los Angeles,1791,Multifamily Housing,38862,32.4
+Los Angeles,1792,Multifamily Housing,21926,58.4
+Los Angeles,1793,Multifamily Housing,34547,18.5
+Los Angeles,1794,K-12 School,22372,37.9
+Los Angeles,1795,Multifamily Housing,46947,33.3
+Los Angeles,1796,Multifamily Housing,32680,40.8
+Los Angeles,1797,Multifamily Housing,24722,52.4
+Los Angeles,1798,Multifamily Housing,22992,25.4
+Los Angeles,1799,Multifamily Housing,32154,23.4
+Los Angeles,1800,Multifamily Housing,31648,38.9
+Los Angeles,1801,Multifamily Housing,86381,21.5
+Los Angeles,1802,Multifamily Housing,24337,41.9
+Los Angeles,1803,Multifamily Housing,22576,45.3
+Los Angeles,1804,Office,30440,39.5
+Los Angeles,1805,Multifamily Housing,91879,33.8
+Los Angeles,1806,Multifamily Housing,40764,19.9
+Los Angeles,1807,Multifamily Housing,29407,4.5
+Los Angeles,1808,Office,185795,55.5
+Los Angeles,1809,Multifamily Housing,65130,56
+Los Angeles,1810,Multifamily Housing,81502,34.7
+Los Angeles,1811,Multifamily Housing,23483,32.9
+Los Angeles,1812,Office,1087180,33.1
+Los Angeles,1813,Office,81307,4.4
+Los Angeles,1814,Multifamily Housing,39000,24.1
+Los Angeles,1815,Office,37348,53.1
+Los Angeles,1816,Multifamily Housing,32520,17.1
+Los Angeles,1817,Multifamily Housing,65045,34.9
+Los Angeles,1818,Multifamily Housing,61218,30.6
+Los Angeles,1819,Multifamily Housing,50330,10.4
+Los Angeles,1820,Multifamily Housing,93908,56.7
+Los Angeles,1821,Multifamily Housing,23413,47.9
+Los Angeles,1822,Multifamily Housing,14262,43.7
+Los Angeles,1823,Multifamily Housing,121292,32.5
+Los Angeles,1824,Multifamily Housing,22546,49.9
+Los Angeles,1825,Multifamily Housing,36000,27.5
+Los Angeles,1826,Multifamily Housing,28673,63.7
+Los Angeles,1827,Multifamily Housing,183634,32.9
+Los Angeles,1828,Multifamily Housing,27158,46.6
+Los Angeles,1829,Multifamily Housing,48270,33.5
+Los Angeles,1830,Office,348957,59.4
+Los Angeles,1831,Multifamily Housing,94505,30
+Los Angeles,1832,Office,24000,31.3
+Los Angeles,1833,Multifamily Housing,20731,33.5
+Los Angeles,1834,Multifamily Housing,192306,47.7
+Los Angeles,1835,Multifamily Housing,27657,66.9
+Los Angeles,1836,Multifamily Housing,81043,28.1
+Los Angeles,1837,Multifamily Housing,35491,47.5
+Los Angeles,1838,Multifamily Housing,46976,34.8
+Los Angeles,1839,Multifamily Housing,39079,52.6
+Los Angeles,1840,Multifamily Housing,45155,27.8
+Los Angeles,1841,Multifamily Housing,82475,33.7
+Los Angeles,1842,Multifamily Housing,53480,16.8
+Los Angeles,1843,Multifamily Housing,26640,50.8
+Los Angeles,1844,Multifamily Housing,35441,21
+Los Angeles,1845,Office,52222,93.2
+Los Angeles,1846,Multifamily Housing,38480,6.2
+Los Angeles,1847,Multifamily Housing,69943,29.1
+Los Angeles,1848,Multifamily Housing,86282,27.1
+Los Angeles,1849,Multifamily Housing,35371,76.7
+Los Angeles,1850,Multifamily Housing,26047,51.9
+Los Angeles,1851,Multifamily Housing,137501,68.6
+Los Angeles,1852,Multifamily Housing,59622,15.2
+Los Angeles,1853,Multifamily Housing,22784,70
+Los Angeles,1854,Multifamily Housing,35612,37.3
+Los Angeles,1855,Multifamily Housing,55884,48.3
+Los Angeles,1856,Multifamily Housing,22610,46.7
+Los Angeles,1857,Multifamily Housing,31110,21.1
+Los Angeles,1858,Multifamily Housing,42650,54.1
+Los Angeles,1859,Office,20596,33.5
+Los Angeles,1860,Multifamily Housing,44204,57.4
+Los Angeles,1861,Multifamily Housing,28287,3.4
+Los Angeles,1862,Multifamily Housing,43833,26.5
+Los Angeles,1863,Multifamily Housing,32344,32.1
+Los Angeles,1864,Multifamily Housing,30700,39.6
+Los Angeles,1865,Office,88393,29.1
+Los Angeles,1866,Multifamily Housing,64890,40.5
+Los Angeles,1867,Multifamily Housing,33380,36.4
+Los Angeles,1868,Multifamily Housing,37756,46.7
+Los Angeles,1869,Multifamily Housing,24660,31.8
+Los Angeles,1870,Multifamily Housing,175600,49
+Los Angeles,1871,Multifamily Housing,20574,37.9
+Los Angeles,1872,Office,44000,44.5
+Los Angeles,1873,Multifamily Housing,24120,40.4
+Los Angeles,1874,Multifamily Housing,117980,33.1
+Los Angeles,1875,Multifamily Housing,28398,46.2
+Los Angeles,1876,Office,258005,88.9
+Los Angeles,1877,Multifamily Housing,192306,48.1
+Los Angeles,1878,Multifamily Housing,59308,24.2
+Los Angeles,1879,Multifamily Housing,152250,54.2
+Los Angeles,1880,Multifamily Housing,45506,30.9
+Los Angeles,1881,Multifamily Housing,23190,44.7
+Los Angeles,1882,Office,37208,48.5
+Los Angeles,1883,Multifamily Housing,31027,40.6
+Los Angeles,1884,Office,48954,85.6
+Los Angeles,1885,Multifamily Housing,84547,51.2
+Los Angeles,1886,Multifamily Housing,32084,24
+Los Angeles,1887,Multifamily Housing,39384,39.1
+Los Angeles,1888,Multifamily Housing,88101,31.5
+Los Angeles,1889,Multifamily Housing,25972,49.9
+Los Angeles,1890,Office,50000,37.6
+Los Angeles,1891,Multifamily Housing,32076,28.9
+Los Angeles,1892,Multifamily Housing,26222,55.7
+Los Angeles,1893,Office,28925,32.1
+Los Angeles,1894,Multifamily Housing,21136,43.5
+Los Angeles,1895,Office,28062,91.1
+Los Angeles,1896,Multifamily Housing,28811,32.9
+Los Angeles,1897,Multifamily Housing,606030,19.6
+Los Angeles,1898,Office,71969,30.4
+Los Angeles,1899,Multifamily Housing,20608,14.7
+Los Angeles,1900,Multifamily Housing,81807,41.6
+Los Angeles,1901,Multifamily Housing,23084,54.1
+Los Angeles,1902,Multifamily Housing,50140,26.1
+Los Angeles,1903,Multifamily Housing,31913,67.8
+Los Angeles,1904,Multifamily Housing,29823,48.2
+Los Angeles,1905,Multifamily Housing,57477,57
+Los Angeles,1906,Multifamily Housing,24610,50.7
+Los Angeles,1907,Multifamily Housing,22239,49
+Los Angeles,1908,Office,118664,59.1
+Los Angeles,1909,Multifamily Housing,33204,42.3
+Los Angeles,1910,Multifamily Housing,26496,51.3
+Los Angeles,1911,Multifamily Housing,23973,52.1
+Los Angeles,1912,Multifamily Housing,40858,20.8
+Los Angeles,1913,Multifamily Housing,43577,41.1
+Los Angeles,1914,Multifamily Housing,29460,32.1
+Los Angeles,1915,Multifamily Housing,29199,59
+Los Angeles,1916,Office,30000,96
+Los Angeles,1917,Multifamily Housing,38579,26.5
+Los Angeles,1918,Multifamily Housing,40674,48.3
+Los Angeles,1919,Multifamily Housing,35175,42.2
+Los Angeles,1920,Multifamily Housing,335000,35.1
+Los Angeles,1921,Multifamily Housing,25078,21.4
+Los Angeles,1922,Multifamily Housing,575417,27.8
+Los Angeles,1923,Multifamily Housing,23070,2.6
+Los Angeles,1924,Multifamily Housing,39000,34.7
+Los Angeles,1925,Multifamily Housing,32706,39.1
+Los Angeles,1926,Multifamily Housing,30360,33.9
+Los Angeles,1927,Multifamily Housing,33885,38.1
+Los Angeles,1928,Office,47700,183
+Los Angeles,1929,Multifamily Housing,28062,22
+Los Angeles,1930,Multifamily Housing,77558,50.2
+Los Angeles,1931,Office,75890,61.3
+Los Angeles,1932,Multifamily Housing,23850,35.6
+Los Angeles,1933,Multifamily Housing,29870,38.3
+Los Angeles,1934,Multifamily Housing,192306,47.6
+Los Angeles,1935,Multifamily Housing,22524,50.1
+Los Angeles,1936,Office,20000,10.4
+Los Angeles,1937,Office,50650,15.8
+Los Angeles,1938,Multifamily Housing,33069,67.7
+Los Angeles,1939,Multifamily Housing,61022,7.2
+Los Angeles,1940,Multifamily Housing,20100,36.9
+Los Angeles,1941,Multifamily Housing,41500,29.8
+Los Angeles,1942,Multifamily Housing,39710,4.7
+Los Angeles,1943,Multifamily Housing,52048,34.3
+Los Angeles,1944,Office,530020,28.5
+Los Angeles,1945,Office,231893,59.5
+Los Angeles,1946,Multifamily Housing,28064,55.4
+Los Angeles,1947,Multifamily Housing,20254,5.7
+Los Angeles,1948,Multifamily Housing,49680,26.4
+Los Angeles,1949,Multifamily Housing,28850,28.8
+Los Angeles,1950,Multifamily Housing,80696,16
+Los Angeles,1951,Multifamily Housing,23572,42.9
+Los Angeles,1952,Office,69986,58.3
+Los Angeles,1953,Multifamily Housing,21790,61
+Los Angeles,1954,Multifamily Housing,88480,43.3
+Los Angeles,1955,Multifamily Housing,59309,23.7
+Los Angeles,1956,Multifamily Housing,59369,41.7
+Los Angeles,1957,Office,655641,27
+Los Angeles,1958,Multifamily Housing,27237,53.9
+Los Angeles,1959,Multifamily Housing,24952,36
+Los Angeles,1960,Multifamily Housing,100682,39.4
+Los Angeles,1961,Multifamily Housing,30202,40.8
+Los Angeles,1962,Multifamily Housing,22474,6.3
+Los Angeles,1963,Multifamily Housing,28621,45
+Los Angeles,1964,Office,31482,77.2
+Los Angeles,1965,Office,56826,73.4
+Los Angeles,1966,Office,93464,64.9
+Los Angeles,1967,Office,56300,6.7
+Los Angeles,1968,Multifamily Housing,39462,38.2
+Los Angeles,1969,Multifamily Housing,33109,32.7
+Los Angeles,1970,Multifamily Housing,22891,15.7
+Los Angeles,1971,Office,27615,45.2
+Los Angeles,1972,Office,144123,36
+Los Angeles,1973,Multifamily Housing,91307,39.8
+Los Angeles,1974,Office,51280,33.1
+Los Angeles,1975,Office,226797,40
+Los Angeles,1976,Multifamily Housing,21854,43.1
+Los Angeles,1977,Multifamily Housing,238930,38.2
+Los Angeles,1978,Office,115419,103.2
+Los Angeles,1979,Office,30240,10.2
+Los Angeles,1980,Multifamily Housing,192306,46.7
+Los Angeles,1981,Multifamily Housing,428566,28.2
+Los Angeles,1982,Multifamily Housing,91827,59.3
+Los Angeles,1983,Multifamily Housing,136398,40
+Los Angeles,1984,Multifamily Housing,20860,44.7
+Los Angeles,1985,Multifamily Housing,23937,33.2
+Los Angeles,1986,Multifamily Housing,20043,47.1
+Los Angeles,1987,Multifamily Housing,35506,30.3
+Los Angeles,1988,Multifamily Housing,20042,55.9
+Los Angeles,1989,Office,21883,30.5
+Los Angeles,1990,Multifamily Housing,48333,20.3
+Los Angeles,1991,Office,45934,73.9
+Los Angeles,1992,Multifamily Housing,21546,36.4
+Los Angeles,1993,Multifamily Housing,26046,30.9
+Los Angeles,1994,Office,25605,56.5
+Los Angeles,1995,Multifamily Housing,125121,62
+Los Angeles,1996,Multifamily Housing,77424,35.5
+Los Angeles,1997,Multifamily Housing,21351,27.4
+Los Angeles,1998,Office,57811,61.8
+Los Angeles,1999,Office,50726,47.1
+Los Angeles,2000,Multifamily Housing,71961,40.2
+Los Angeles,2001,Multifamily Housing,66066,26.9
+Los Angeles,2002,Office,9000,107.8
+Los Angeles,2003,Multifamily Housing,24049,57.9
+Los Angeles,2004,Multifamily Housing,29743,46.5
+Los Angeles,2005,Multifamily Housing,34545,43.2
+Los Angeles,2006,Multifamily Housing,44692,67.5
+Los Angeles,2007,Multifamily Housing,46128,15.7
+Los Angeles,2008,Multifamily Housing,74418,39.5
+Los Angeles,2009,Multifamily Housing,30630,1.5
+Los Angeles,2010,Multifamily Housing,28639,52.2
+Los Angeles,2011,Multifamily Housing,20488,52.6
+Los Angeles,2012,Multifamily Housing,38581,47
+Los Angeles,2013,Multifamily Housing,36710,23.3
+Los Angeles,2014,Multifamily Housing,120928,41
+Los Angeles,2015,Office,68423,69.5
+Los Angeles,2016,Multifamily Housing,34880,44.5
+Los Angeles,2017,Multifamily Housing,63454,27
+Los Angeles,2018,Multifamily Housing,48600,54.4
+Los Angeles,2019,Multifamily Housing,60000,35.6
+Los Angeles,2020,Multifamily Housing,23860,35.2
+Los Angeles,2021,Multifamily Housing,37458,18
+Los Angeles,2022,Office,62768,38.5
+Los Angeles,2023,Multifamily Housing,33201,27.1
+Los Angeles,2024,Multifamily Housing,39571,36.9
+Los Angeles,2025,Multifamily Housing,67158,29.2
+Los Angeles,2026,Multifamily Housing,24036,50.5
+Los Angeles,2027,Multifamily Housing,36042,61.6
+Los Angeles,2028,Office,38449,38
+Los Angeles,2029,Multifamily Housing,24000,49.2
+Los Angeles,2030,Multifamily Housing,24234,5.8
+Los Angeles,2031,Multifamily Housing,21122,48.1
+Los Angeles,2032,Office,53656,35.3
+Los Angeles,2033,Multifamily Housing,22743,55.7
+Los Angeles,2034,Multifamily Housing,75828,34.2
+Los Angeles,2035,Multifamily Housing,37862,20.4
+Los Angeles,2036,Office,38756,14
+Los Angeles,2037,Multifamily Housing,40780,27.8
+Los Angeles,2038,Office,53760,36.6
+Los Angeles,2039,Office,40880,72.3
+Los Angeles,2040,Office,177761,46.4
+Los Angeles,2041,Multifamily Housing,27894,32.9
+Los Angeles,2042,Multifamily Housing,34038,41.1
+Los Angeles,2043,Multifamily Housing,36000,33.6
+Los Angeles,2044,Multifamily Housing,29312,37.6
+Los Angeles,2045,Multifamily Housing,55240,29.5
+Los Angeles,2046,Multifamily Housing,165389,35.6
+Los Angeles,2047,Multifamily Housing,21824,0.9
+Los Angeles,2048,Office,120072,94.8
+Los Angeles,2049,Multifamily Housing,291800,46.4
+Los Angeles,2050,Multifamily Housing,49691,38.1
+Los Angeles,2051,Office,22384,27.4
+Los Angeles,2052,Multifamily Housing,27284,30.9
+Los Angeles,2053,Multifamily Housing,48326,21.9
+Los Angeles,2054,Multifamily Housing,41792,31.6
+Los Angeles,2055,Office,188490,63.4
+Los Angeles,2056,Office,58000,68.6
+Los Angeles,2057,Multifamily Housing,31575,45.2
+Los Angeles,2058,Office,43400,8.7
+Los Angeles,2059,Multifamily Housing,20320,30.6
+Los Angeles,2060,Multifamily Housing,36609,13.7
+Los Angeles,2061,Multifamily Housing,25452,38.9
+Los Angeles,2062,Multifamily Housing,29000,39
+Los Angeles,2063,Multifamily Housing,52398,39.2
+Los Angeles,2064,Multifamily Housing,26784,35.8
+Los Angeles,2065,Office,110000,104.1
+Los Angeles,2066,Office,119478,67.3
+Los Angeles,2067,Multifamily Housing,60927,48.4
+Los Angeles,2068,Multifamily Housing,340691,23.2
+Los Angeles,2069,Multifamily Housing,38994,45.5
+Los Angeles,2070,Multifamily Housing,51492,23.3
+Los Angeles,2071,Multifamily Housing,63821,23.6
+Los Angeles,2072,Multifamily Housing,28510,69.7
+Los Angeles,2073,Multifamily Housing,22766,43.1
+Los Angeles,2074,Multifamily Housing,35036,43.1
+Los Angeles,2075,Multifamily Housing,42165,17
+Los Angeles,2076,Multifamily Housing,135389,34
+Los Angeles,2077,Multifamily Housing,20883,48.9
+Los Angeles,2078,Multifamily Housing,62880,18.6
+Los Angeles,2079,Multifamily Housing,45976,28.8
+Los Angeles,2080,Multifamily Housing,134077,21.2
+Los Angeles,2081,Multifamily Housing,24324,36.8
+Los Angeles,2082,Office,107383,50.4
+Los Angeles,2083,Multifamily Housing,21750,27.4
+Los Angeles,2084,Multifamily Housing,40758,40.2
+Los Angeles,2085,Multifamily Housing,48352,17.9
+Los Angeles,2086,Multifamily Housing,25518,41.5
+Los Angeles,2087,Multifamily Housing,24722,53.8
+Los Angeles,2088,Multifamily Housing,26427,48.4
+Los Angeles,2089,Multifamily Housing,32948,57.4
+Los Angeles,2090,Multifamily Housing,20372,57.9
+Los Angeles,2091,Multifamily Housing,35415,33.8
+Los Angeles,2092,Multifamily Housing,20909,34.2
+Los Angeles,2093,Office,115560,35.3
+Los Angeles,2094,Multifamily Housing,32444,15.2
+Los Angeles,2095,Multifamily Housing,40491,37.8
+Los Angeles,2096,Multifamily Housing,28599,32.3
+Los Angeles,2097,Multifamily Housing,107165,28.2
+Los Angeles,2098,Multifamily Housing,58096,40.4
+Los Angeles,2099,Office,635063,54.2
+Los Angeles,2100,Multifamily Housing,125278,49.5
+Los Angeles,2101,Multifamily Housing,43322,39.4
+Los Angeles,2102,Office,82526,54.2
+Los Angeles,2103,Office,35280,40.7
+Los Angeles,2104,Multifamily Housing,26900,54.6
+Los Angeles,2105,Office,23340,69.2
+Los Angeles,2106,Multifamily Housing,40858,41.9
+Los Angeles,2107,Multifamily Housing,27882,62.8
+Los Angeles,2108,Multifamily Housing,36808,26.5
+Los Angeles,2109,Multifamily Housing,23436,36.6
+Los Angeles,2110,Multifamily Housing,20184,38.8
+Los Angeles,2111,Office,28477,70.6
+Los Angeles,2112,Multifamily Housing,22005,34.6
+Los Angeles,2113,Multifamily Housing,16491,41.1
+Los Angeles,2114,Multifamily Housing,38605,29.2
+Los Angeles,2115,Office,20000,2.9
+Los Angeles,2116,Multifamily Housing,208725,32.4
+Los Angeles,2117,Multifamily Housing,20715,66
+Los Angeles,2118,Multifamily Housing,115714,14.3
+Los Angeles,2119,Multifamily Housing,27604,45.2
+Los Angeles,2120,Multifamily Housing,42487,38.3
+Los Angeles,2121,Office,31130,87.4
+Los Angeles,2122,Office,20596,42.1
+Los Angeles,2123,Office,32990,43.6
+Los Angeles,2124,Multifamily Housing,45795,43.8
+Los Angeles,2125,Office,70635,9.3
+Los Angeles,2126,Multifamily Housing,35524,12.8
+Los Angeles,2127,Multifamily Housing,39255,47.6
+Los Angeles,2128,Multifamily Housing,38434,61.6
+Los Angeles,2129,Office,37012,22.7
+Los Angeles,2130,Multifamily Housing,113841,20.9
+Los Angeles,2131,Multifamily Housing,30572,50.8
+Los Angeles,2132,Office,299833,216.1
+Los Angeles,2133,Office,56890,13.1
+Los Angeles,2134,Multifamily Housing,82557,18.7
+Los Angeles,2135,Multifamily Housing,44190,51.9
+Los Angeles,2136,Multifamily Housing,20500,84.7
+Los Angeles,2137,Multifamily Housing,22978,34.7
+Los Angeles,2138,Multifamily Housing,54344,28.2
+Los Angeles,2139,Office,486029,37
+Los Angeles,2140,Multifamily Housing,69230,31.9
+Los Angeles,2141,Multifamily Housing,192306,43.8
+Los Angeles,2142,Multifamily Housing,34155,56.4
+Los Angeles,2143,Multifamily Housing,34029,44.9
+Los Angeles,2144,Multifamily Housing,32204,87.7
+Los Angeles,2145,Multifamily Housing,26867,26.7
+Los Angeles,2146,Multifamily Housing,134258,43.2
+Los Angeles,2147,Multifamily Housing,26102,55.9
+Los Angeles,2148,Multifamily Housing,25625,32.6
+Los Angeles,2149,Multifamily Housing,24337,41.9
+Los Angeles,2150,Multifamily Housing,21230,28.3
+Los Angeles,2151,Multifamily Housing,24712,28.3
+Los Angeles,2152,Multifamily Housing,28739,27.3
+Los Angeles,2153,Multifamily Housing,36605,34.1
+Los Angeles,2154,Multifamily Housing,21252,20.6
+Los Angeles,2155,Office,39800,622.2
+Los Angeles,2156,Multifamily Housing,34913,2.5
+Los Angeles,2157,Multifamily Housing,23430,45.3
+Los Angeles,2158,Office,34256,47.1
+Los Angeles,2159,Multifamily Housing,155446,35.1
+Los Angeles,2160,Multifamily Housing,20435,58.2
+Los Angeles,2161,Multifamily Housing,21466,57.4
+Los Angeles,2162,Office,1778646,31.6
+Los Angeles,2163,Multifamily Housing,44427,29.2
+Los Angeles,2164,Multifamily Housing,8000,113.5
+Los Angeles,2165,Office,202618,55.4
+Los Angeles,2166,Multifamily Housing,59139,33
+Los Angeles,2167,Multifamily Housing,31701,27.6
+Los Angeles,2168,Multifamily Housing,36525,21.6
+Los Angeles,2169,Office,21420,1.6
+Los Angeles,2170,Multifamily Housing,33008,32
+Los Angeles,2171,Multifamily Housing,40997,31.8
+Los Angeles,2172,Multifamily Housing,72955,58.6
+Los Angeles,2173,Multifamily Housing,22698,53.3
+Los Angeles,2174,Multifamily Housing,30020,41.6
+Los Angeles,2175,Multifamily Housing,21620,54.9
+Los Angeles,2176,Multifamily Housing,31672,63.3
+Los Angeles,2177,Multifamily Housing,22390,30.4
+Los Angeles,2178,Multifamily Housing,35218,57
+Los Angeles,2179,Multifamily Housing,42059,36.5
+Los Angeles,2180,Multifamily Housing,23163,29.3
+Los Angeles,2181,Office,66000,10.7
+Los Angeles,2182,Office,187921,50.6
+Los Angeles,2183,Multifamily Housing,25540,39.5
+Los Angeles,2184,Multifamily Housing,28680,20.8
+Los Angeles,2185,Office,82000,34.3
+Los Angeles,2186,Office,32256,33.4
+Los Angeles,2187,Multifamily Housing,32448,44.3
+Los Angeles,2188,Multifamily Housing,28000,26.3
+Los Angeles,2189,Multifamily Housing,58176,34.7
+Los Angeles,2190,Multifamily Housing,39524,10.5
+Los Angeles,2191,Multifamily Housing,42650,27.6
+Los Angeles,2192,Multifamily Housing,195535,39.3
+Los Angeles,2193,Multifamily Housing,283810,47.5
+Los Angeles,2194,K-12 School,20200,28.8
+Los Angeles,2195,Multifamily Housing,110520,65.8
+Los Angeles,2196,Office,21636,69.4
+Los Angeles,2197,Office,80000,59.5
+Los Angeles,2198,Multifamily Housing,57698,33.3
+Los Angeles,2199,Office,114958,204.9
+Los Angeles,2200,Multifamily Housing,32678,21.8
+Los Angeles,2201,Multifamily Housing,42345,32.4
+Los Angeles,2202,Multifamily Housing,61525,33.3
+Los Angeles,2203,Multifamily Housing,25163,22.1
+Los Angeles,2204,Multifamily Housing,47512,34.1
+Los Angeles,2205,Office,81640,192.7
+Los Angeles,2206,Multifamily Housing,36463,20.4
+Los Angeles,2207,Multifamily Housing,24000,11.5
+Los Angeles,2208,Multifamily Housing,30754,46
+Los Angeles,2209,Multifamily Housing,27513,27.2
+Los Angeles,2210,Multifamily Housing,36873,39.5
+Los Angeles,2211,Multifamily Housing,17644,56.6
+Los Angeles,2212,Multifamily Housing,39876,27.2
+Los Angeles,2213,K-12 School,59553,46.9
+Los Angeles,2214,Multifamily Housing,31410,37.9
+Los Angeles,2215,Multifamily Housing,72651,21.9
+Los Angeles,2216,Office,73368,19.3
+Los Angeles,2217,Office,855800,29.2
+Los Angeles,2218,Multifamily Housing,54525,6.2
+Los Angeles,2219,Office,16500,72
+Los Angeles,2220,Multifamily Housing,115261,45.3
+Los Angeles,2221,Multifamily Housing,31402,19.4
+Los Angeles,2222,Multifamily Housing,27723,37.6
+Los Angeles,2223,Multifamily Housing,39642,45.6
+Los Angeles,2224,Multifamily Housing,88600,64.3
+Los Angeles,2225,Office,40000,35.5
+Los Angeles,2226,Multifamily Housing,75566,44.2
+Los Angeles,2227,Office,130625,38.9
+Los Angeles,2228,Multifamily Housing,29536,44.7
+Los Angeles,2229,Office,100287,124.6
+Los Angeles,2230,Multifamily Housing,49107,45.7
+Los Angeles,2231,Multifamily Housing,23383,24.9
+Los Angeles,2232,Multifamily Housing,60115,59.2
+Los Angeles,2233,Multifamily Housing,27530,39
+Los Angeles,2234,Multifamily Housing,20209,27.7
+Los Angeles,2235,Multifamily Housing,34190,48.6
+Los Angeles,2236,Multifamily Housing,31038,25.3
+Los Angeles,2237,Multifamily Housing,25972,50.8
+Los Angeles,2238,Multifamily Housing,351000,66.2
+Los Angeles,2239,Multifamily Housing,26118,53.6
+Los Angeles,2240,Office,733058,52.4
+Los Angeles,2241,Multifamily Housing,41332,40.5
+Los Angeles,2242,Multifamily Housing,24217,40.6
+Los Angeles,2243,Multifamily Housing,91245,43.3
+Los Angeles,2244,Office,74626,50.1
+Los Angeles,2245,Multifamily Housing,58491,30.7
+Los Angeles,2246,Multifamily Housing,65133,54
+Los Angeles,2247,Multifamily Housing,26365,38.8
+Los Angeles,2248,Multifamily Housing,238195,30.7
+Los Angeles,2249,Multifamily Housing,26979,31.6
+Los Angeles,2250,Office,100800,15.3
+Los Angeles,2251,Multifamily Housing,51909,28
+Los Angeles,2252,Multifamily Housing,28506,19.9
+Los Angeles,2253,Office,360475,50.4
+Los Angeles,2254,Multifamily Housing,26656,41.5
+Los Angeles,2255,Multifamily Housing,172928,58.9
+Los Angeles,2256,Multifamily Housing,31437,43.1
+Los Angeles,2257,Multifamily Housing,48735,43.8
+Los Angeles,2258,Multifamily Housing,21305,54.2
+Los Angeles,2259,Multifamily Housing,68886,61.5
+Los Angeles,2260,Multifamily Housing,44161,32
+Los Angeles,2261,Multifamily Housing,87236,38.9
+Los Angeles,2262,Office,64621,87.9
+Los Angeles,2263,Multifamily Housing,90684,31.4
+Los Angeles,2264,Multifamily Housing,42926,36
+Los Angeles,2265,Multifamily Housing,55820,46.7
+Los Angeles,2266,Multifamily Housing,37143,37.4
+Los Angeles,2267,Multifamily Housing,29912,46.4
+Los Angeles,2268,K-12 School,21000,24.1
+Los Angeles,2269,Multifamily Housing,25342,54.4
+Los Angeles,2270,Multifamily Housing,71601,22.6
+Los Angeles,2271,Multifamily Housing,35378,44.3
+Los Angeles,2272,Multifamily Housing,21932,30.8
+Los Angeles,2273,Office,87150,33.5
+Los Angeles,2274,Multifamily Housing,85744,39.8
+Los Angeles,2275,Multifamily Housing,40934,19.4
+Los Angeles,2276,Office,32000,77.8
+Los Angeles,2277,Multifamily Housing,21903,43.2
+Los Angeles,2278,Multifamily Housing,41976,18.2
+Los Angeles,2279,Multifamily Housing,20690,36.8
+Los Angeles,2280,Multifamily Housing,49500,34.7
+Los Angeles,2281,Multifamily Housing,29440,38.8
+Los Angeles,2282,Office,197214,45.8
+Los Angeles,2283,Multifamily Housing,23640,48.4
+Los Angeles,2284,Multifamily Housing,27292,2.9
+Los Angeles,2285,Multifamily Housing,41465,11.3
+Los Angeles,2286,Multifamily Housing,45000,27.3
+Los Angeles,2287,Office,896095,38.8
+Los Angeles,2288,Office,69288,42
+Los Angeles,2289,Office,45000,3.3
+Los Angeles,2290,Multifamily Housing,64915,33.4
+Los Angeles,2291,Multifamily Housing,192306,47.8
+Los Angeles,2292,Office,53510,26.8
+Los Angeles,2293,Multifamily Housing,26884,31
+Los Angeles,2294,Office,34200,43.3
+Los Angeles,2295,Multifamily Housing,39342,44.7
+Los Angeles,2296,Office,102636,77.6
+Los Angeles,2297,Multifamily Housing,98300,34.5
+Los Angeles,2298,Multifamily Housing,39552,38.6
+Los Angeles,2299,Multifamily Housing,53946,33.4
+Los Angeles,2300,Multifamily Housing,26680,30.9
+Los Angeles,2301,Multifamily Housing,32468,46.2
+Los Angeles,2302,Multifamily Housing,50880,48.1
+Los Angeles,2303,Multifamily Housing,34980,37.8
+Los Angeles,2304,Multifamily Housing,40859,56.3
+Los Angeles,2305,Office,20281,26.5
+Los Angeles,2306,Multifamily Housing,53328,25.7
+Los Angeles,2307,Multifamily Housing,21879,53.9
+Los Angeles,2308,Multifamily Housing,41181,34.2
+Los Angeles,2309,Multifamily Housing,74728,37
+Los Angeles,2310,Multifamily Housing,46770,21.6
+Los Angeles,2311,Office,84107,108.2
+Los Angeles,2312,Office,96690,32.7
+Los Angeles,2313,Multifamily Housing,21518,38.7
+Los Angeles,2314,Multifamily Housing,43400,45.5
+Los Angeles,2315,Multifamily Housing,88964,33.6
+Los Angeles,2316,Office,73450,15.5
+Los Angeles,2317,Multifamily Housing,66677,46.1
+Los Angeles,2318,Multifamily Housing,49884,58
+Los Angeles,2319,Office,36534,56.1
+Los Angeles,2320,Multifamily Housing,37630,38.3
+Los Angeles,2321,Multifamily Housing,69663,39.9
+Los Angeles,2322,Multifamily Housing,195032,26.1
+Los Angeles,2323,Multifamily Housing,191500,57.2
+Los Angeles,2324,Multifamily Housing,30507,46.8
+Los Angeles,2325,Multifamily Housing,111453,27.4
+Los Angeles,2326,Multifamily Housing,30280,55.1
+Los Angeles,2327,Multifamily Housing,104781,38.4
+Los Angeles,2328,Multifamily Housing,95000,42.9
+Los Angeles,2329,Office,24197,18.4
+Los Angeles,2330,Multifamily Housing,25840,44
+Los Angeles,2331,Multifamily Housing,44032,28.4
+Los Angeles,2332,Multifamily Housing,173042,3.8
+Los Angeles,2333,Multifamily Housing,139489,24.4
+Los Angeles,2334,Multifamily Housing,57229,28.7
+Los Angeles,2335,Multifamily Housing,71136,21
+Los Angeles,2336,Multifamily Housing,60273,63.3
+Los Angeles,2337,Multifamily Housing,24690,54.1
+Los Angeles,2338,Multifamily Housing,364997,53.3
+Los Angeles,2339,Multifamily Housing,23603,64.4
+Los Angeles,2340,Multifamily Housing,36000,56.7
+Los Angeles,2341,Office,31500,67.9
+Los Angeles,2342,Multifamily Housing,22141,49.9
+Los Angeles,2343,Multifamily Housing,21778,57.2
+Los Angeles,2344,Multifamily Housing,122396,39.2
+Los Angeles,2345,Multifamily Housing,22062,28.4
+Los Angeles,2346,Multifamily Housing,32224,42.3
+Los Angeles,2347,Multifamily Housing,36224,40.8
+Los Angeles,2348,Office,30000,55.8
+Los Angeles,2349,Multifamily Housing,33078,17.2
+Los Angeles,2350,Multifamily Housing,26811,27.8
+Los Angeles,2351,Multifamily Housing,21703,55.9
+Los Angeles,2352,Multifamily Housing,20932,48.2
+Los Angeles,2353,Office,9300,65.1
+Los Angeles,2354,Multifamily Housing,25477,40
+Los Angeles,2355,Multifamily Housing,20058,126.3
+Los Angeles,2356,Multifamily Housing,50210,33.9
+Los Angeles,2357,Multifamily Housing,34143,53.8
+Los Angeles,2358,Multifamily Housing,25959,53.1
+Los Angeles,2359,Multifamily Housing,20694,25.9
+Los Angeles,2360,Multifamily Housing,80150,41.6
+Los Angeles,2361,Office,119046,40.3
+Los Angeles,2362,Multifamily Housing,59889,57
+Los Angeles,2363,Multifamily Housing,79203,36.6
+Los Angeles,2364,Office,91520,97.8
+Los Angeles,2365,Multifamily Housing,250575,35.8
+Los Angeles,2366,Multifamily Housing,24989,39
+Los Angeles,2367,Multifamily Housing,192306,47.3
+Los Angeles,2368,Multifamily Housing,85989,54.1
+Los Angeles,2369,K-12 School,61122,17.4
+Los Angeles,2370,Office,179141,39
+Los Angeles,2371,Multifamily Housing,56118,55.7
+Los Angeles,2372,Multifamily Housing,29515,48.2
+Los Angeles,2373,Multifamily Housing,26910,15.5
+Los Angeles,2374,Multifamily Housing,22909,30.4
+Los Angeles,2375,Multifamily Housing,72201,35.4
+Los Angeles,2376,Multifamily Housing,119428,21.8
+Los Angeles,2377,Multifamily Housing,35807,8.8
+Los Angeles,2378,Multifamily Housing,21790,56.3
+Los Angeles,2379,Multifamily Housing,21114,47
+Los Angeles,2380,Multifamily Housing,56000,30.5
+Los Angeles,2381,Multifamily Housing,61080,27.9
+Los Angeles,2382,Multifamily Housing,127630,45.7
+Los Angeles,2383,Multifamily Housing,23173,57.1
+Los Angeles,2384,Multifamily Housing,21985,50.5
+Los Angeles,2385,Multifamily Housing,36924,26.3
+Los Angeles,2386,Multifamily Housing,25685,62.3
+Los Angeles,2387,Multifamily Housing,120900,46.5
+Los Angeles,2388,Multifamily Housing,26072,55.2
+Los Angeles,2389,Multifamily Housing,21205,54.9
+Los Angeles,2390,Multifamily Housing,21252,35.2
+Los Angeles,2391,Multifamily Housing,21528,44.7
+Los Angeles,2392,Multifamily Housing,20588,60
+Los Angeles,2393,Multifamily Housing,726084,19
+Los Angeles,2394,Multifamily Housing,20120,52.2
+Los Angeles,2395,Multifamily Housing,87889,4.5
+Los Angeles,2396,Multifamily Housing,105715,32.4
+Los Angeles,2397,Multifamily Housing,33856,47.5
+Los Angeles,2398,Multifamily Housing,29647,65.7
+Los Angeles,2399,Multifamily Housing,24223,45.7
+Los Angeles,2400,Multifamily Housing,24337,41.9
+Los Angeles,2401,Multifamily Housing,159500,31.2
+Los Angeles,2402,Multifamily Housing,49000,31.9
+Los Angeles,2403,Multifamily Housing,47841,32
+Los Angeles,2404,Multifamily Housing,42267,35.3
+Los Angeles,2405,Multifamily Housing,66977,21
+Los Angeles,2406,Multifamily Housing,48751,1.6
+Los Angeles,2407,Multifamily Housing,21416,37.5
+Los Angeles,2408,Multifamily Housing,22854,74.1
+Los Angeles,2409,Office,46260,17.6
+Los Angeles,2410,Multifamily Housing,18306,165
+Los Angeles,2411,Multifamily Housing,153921,37.9
+Los Angeles,2412,Multifamily Housing,66918,55.9
+Los Angeles,2413,Multifamily Housing,44202,49.6
+Los Angeles,2414,Multifamily Housing,27640,31.1
+Los Angeles,2415,Multifamily Housing,210989,45.1
+Los Angeles,2416,Multifamily Housing,60165,63
+Los Angeles,2417,Office,66087,87.3
+Los Angeles,2418,Multifamily Housing,45711,27.9
+Los Angeles,2419,Multifamily Housing,34562,49.9
+Los Angeles,2420,Office,256627,67.1
+Los Angeles,2421,Multifamily Housing,34308,42.6
+Los Angeles,2422,Multifamily Housing,24408,38.3
+Los Angeles,2423,Multifamily Housing,55655,47.7
+Los Angeles,2424,Multifamily Housing,32142,37.8
+Los Angeles,2425,Office,267348,58.9
+Los Angeles,2426,Multifamily Housing,37243,1.9
+Los Angeles,2427,Multifamily Housing,34613,34.4
+Los Angeles,2428,Office,492790,42.5
+Los Angeles,2429,Office,97001,78.1
+Los Angeles,2430,Multifamily Housing,38382,26.8
+Los Angeles,2431,Multifamily Housing,21698,10
+Los Angeles,2432,Multifamily Housing,20909,31.7
+Los Angeles,2433,Office,31000,54.5
+Los Angeles,2434,Multifamily Housing,22898,54.6
+Los Angeles,2435,Multifamily Housing,95894,35.3
+Los Angeles,2436,Multifamily Housing,46578,39.7
+Los Angeles,2437,Multifamily Housing,38523,28.1
+Los Angeles,2438,Multifamily Housing,56798,41.9
+Los Angeles,2439,Multifamily Housing,20475,89.2
+Los Angeles,2440,Multifamily Housing,39042,57.5
+Los Angeles,2441,Multifamily Housing,20445,54.6
+Los Angeles,2442,Multifamily Housing,39954,53
+Los Angeles,2443,Multifamily Housing,20777,48.7
+Los Angeles,2444,Multifamily Housing,45525,36.8
+Los Angeles,2445,Multifamily Housing,42918,39.1
+Los Angeles,2446,Multifamily Housing,21358,28.7
+Los Angeles,2447,Office,50000,58.7
+Los Angeles,2448,Multifamily Housing,25186,33.7
+Los Angeles,2449,Multifamily Housing,89890,25.6
+Los Angeles,2450,Multifamily Housing,23578,16.2
+Los Angeles,2451,Multifamily Housing,58629,23.4
+Los Angeles,2452,Office,51877,61.8
+Los Angeles,2453,Multifamily Housing,22722,23
+Los Angeles,2454,Office,24240,77.4
+Los Angeles,2455,Multifamily Housing,113880,46.5
+Los Angeles,2456,Multifamily Housing,29923,44.2
+Los Angeles,2457,Multifamily Housing,29758,45.2
+Los Angeles,2458,Multifamily Housing,33426,35.1
+Los Angeles,2459,Office,21196,1.5
+Los Angeles,2460,Office,26610,25.4
+Los Angeles,2461,Multifamily Housing,35434,38.4
+Los Angeles,2462,Multifamily Housing,48760,55
+Los Angeles,2463,Multifamily Housing,45462,74.3
+Los Angeles,2464,Multifamily Housing,124188,30.9
+Los Angeles,2465,Multifamily Housing,57537,53
+Los Angeles,2466,Multifamily Housing,41223,48.6
+Los Angeles,2467,Multifamily Housing,28399,23.2
+Los Angeles,2468,Multifamily Housing,26664,40.5
+Los Angeles,2469,Multifamily Housing,21224,33.8
+Los Angeles,2470,Multifamily Housing,21568,52.7
+Los Angeles,2471,Multifamily Housing,29000,18.6
+Los Angeles,2472,Multifamily Housing,34175,50
+Los Angeles,2473,Multifamily Housing,21004,55.5
+Los Angeles,2474,Multifamily Housing,23215,3.3
+Los Angeles,2475,Multifamily Housing,44634,19
+Los Angeles,2476,Office,40809,77.1
+Los Angeles,2477,Multifamily Housing,56466,38.9
+Los Angeles,2478,Multifamily Housing,36027,37.1
+Los Angeles,2479,Multifamily Housing,21425,51.9
+Los Angeles,2480,Multifamily Housing,84094,36.5
+Los Angeles,2481,Office,179342,38.9
+Los Angeles,2482,Multifamily Housing,25818,41.1
+Los Angeles,2483,Office,24792,37.8
+Los Angeles,2484,Multifamily Housing,30561,17.9
+Los Angeles,2485,Multifamily Housing,22250,29.1
+Los Angeles,2486,Multifamily Housing,150824,20.9
+Los Angeles,2487,Office,51686,142.9
+Los Angeles,2488,Multifamily Housing,68213,64.6
+Los Angeles,2489,Multifamily Housing,42728,41.9
+Los Angeles,2490,Multifamily Housing,35206,58.4
+Los Angeles,2491,Multifamily Housing,144285,37.7
+Los Angeles,2492,Multifamily Housing,64220,45.1
+Los Angeles,2493,Multifamily Housing,31254,20.9
+Los Angeles,2494,Multifamily Housing,120135,3.8
+Los Angeles,2495,Multifamily Housing,29952,30.6
+Los Angeles,2496,Multifamily Housing,20044,57.9
+Los Angeles,2497,Multifamily Housing,67369,49.5
+Los Angeles,2498,Multifamily Housing,120000,69.8
+Los Angeles,2499,Office,360995,36.4
+Los Angeles,2500,Multifamily Housing,24847,13.6
+Los Angeles,2501,Multifamily Housing,54150,34.8
+Los Angeles,2502,Multifamily Housing,27369,35.5
+Los Angeles,2503,Multifamily Housing,62195,32.9
+Los Angeles,2504,Multifamily Housing,91827,28.5
+Los Angeles,2505,Multifamily Housing,102980,25
+Los Angeles,2506,Office,57723,155.7
+Los Angeles,2507,Multifamily Housing,619807,22.4
+Los Angeles,2508,Multifamily Housing,23406,39.1
+Los Angeles,2509,Multifamily Housing,306924,39.8
+Los Angeles,2510,Multifamily Housing,68544,50.6
+Los Angeles,2511,Multifamily Housing,26253,57.4
+Los Angeles,2512,Multifamily Housing,64289,44.4
+Los Angeles,2513,Multifamily Housing,47828,43.8
+Los Angeles,2514,Multifamily Housing,21019,38.4
+Los Angeles,2515,Multifamily Housing,96280,44.2
+Los Angeles,2516,Office,255211,18.6
+Los Angeles,2517,Multifamily Housing,30898,41.8
+Los Angeles,2518,Multifamily Housing,400000,50.7
+Los Angeles,2519,Multifamily Housing,20832,41.4
+Los Angeles,2520,Multifamily Housing,22101,4.5
+Los Angeles,2521,Multifamily Housing,53640,32.8
+Los Angeles,2522,Multifamily Housing,27180,33.2
+Los Angeles,2523,Multifamily Housing,117653,34.4
+Los Angeles,2524,Multifamily Housing,34368,1.7
+Los Angeles,2525,Multifamily Housing,56775,32.7
+Los Angeles,2526,Multifamily Housing,30691,55
+Los Angeles,2527,Multifamily Housing,20942,40.7
+Los Angeles,2528,Multifamily Housing,39600,55.9
+Los Angeles,2529,K-12 School,36911,6.6
+Los Angeles,2530,Office,98358,60.8
+Los Angeles,2531,Multifamily Housing,28901,45.6
+Los Angeles,2532,Office,28812,10
+Los Angeles,2533,Multifamily Housing,32642,36.1
+Los Angeles,2534,Multifamily Housing,262000,102.3
+Los Angeles,2535,Office,134193,34
+Los Angeles,2536,Multifamily Housing,75852,31.8
+Los Angeles,2537,Multifamily Housing,47412,26.4
+Los Angeles,2538,Multifamily Housing,31298,52.8
+Los Angeles,2539,Multifamily Housing,25525,43.9
+Los Angeles,2540,Multifamily Housing,24638,32.9
+Los Angeles,2541,Multifamily Housing,24407,49.3
+Los Angeles,2542,Multifamily Housing,27363,33.5
+Los Angeles,2543,Multifamily Housing,36636,34.3
+Los Angeles,2544,Multifamily Housing,27000,2.6
+Los Angeles,2545,Multifamily Housing,52586,30.8
+Los Angeles,2546,Office,21618,39
+Los Angeles,2547,Multifamily Housing,72918,1.9
+Los Angeles,2548,Multifamily Housing,56880,37.2
+Los Angeles,2549,Office,47956,69.2
+Los Angeles,2550,Multifamily Housing,30960,41.1
+Los Angeles,2551,Multifamily Housing,43014,28.4
+Los Angeles,2552,Multifamily Housing,38118,28.8
+Los Angeles,2553,Multifamily Housing,43685,33.1
+Los Angeles,2554,Office,54099,31.3
+Los Angeles,2555,Multifamily Housing,37213,22.1
+Los Angeles,2556,Multifamily Housing,34000,35.2
+Los Angeles,2557,Multifamily Housing,57080,35.5
+Los Angeles,2558,Multifamily Housing,79380,29.2
+Los Angeles,2559,Multifamily Housing,30188,37
+Los Angeles,2560,Multifamily Housing,38854,50.9
+Los Angeles,2561,Multifamily Housing,30017,33.5
+Los Angeles,2562,Multifamily Housing,40502,48.9
+Los Angeles,2563,Multifamily Housing,35248,23.5
+Los Angeles,2564,Multifamily Housing,106400,12.4
+Los Angeles,2565,Multifamily Housing,78944,38.4
+Los Angeles,2566,Multifamily Housing,23265,21.9
+Los Angeles,2567,Multifamily Housing,28680,23.8
+Los Angeles,2568,Multifamily Housing,36403,31.4
+Los Angeles,2569,Multifamily Housing,39195,37.3
+Los Angeles,2570,Multifamily Housing,44142,43
+Los Angeles,2571,Multifamily Housing,23726,62.5
+Los Angeles,2572,Multifamily Housing,55062,28.8
+Los Angeles,2573,Multifamily Housing,62550,28.2
+Los Angeles,2574,Multifamily Housing,59749,32.3
+Los Angeles,2575,Office,151345,1.2
+Los Angeles,2576,Multifamily Housing,64294,47.1
+Los Angeles,2577,Multifamily Housing,40936,41.1
+Los Angeles,2578,Multifamily Housing,26492,50.1
+Los Angeles,2579,Multifamily Housing,24926,46
+Los Angeles,2580,Multifamily Housing,27530,45.8
+Los Angeles,2581,Multifamily Housing,51370,67
+Los Angeles,2582,Multifamily Housing,67132,33.6
+Los Angeles,2583,Office,20661,55.4
+Los Angeles,2584,Multifamily Housing,26200,69.9
+Los Angeles,2585,Multifamily Housing,92534,46.3
+Los Angeles,2586,Multifamily Housing,20630,45.1
+Los Angeles,2587,Multifamily Housing,25026,6.2
+Los Angeles,2588,Multifamily Housing,381269,55.8
+Los Angeles,2589,Office,163608,36
+Los Angeles,2590,Multifamily Housing,51294,44.9
+Los Angeles,2591,Office,25412,25.1
+Los Angeles,2592,Multifamily Housing,24387,46.9
+Los Angeles,2593,Multifamily Housing,330786,56.8
+Los Angeles,2594,Office,24270,146.3
+Los Angeles,2595,Multifamily Housing,23326,39.1
+Los Angeles,2596,Multifamily Housing,22300,45
+Los Angeles,2597,Multifamily Housing,23156,44
+Los Angeles,2598,Multifamily Housing,26470,42
+Los Angeles,2599,Multifamily Housing,34844,46.1
+Los Angeles,2600,Multifamily Housing,48900,14.6
+Los Angeles,2601,Multifamily Housing,30000,22.3
+Los Angeles,2602,Multifamily Housing,39942,56.2
+Los Angeles,2603,Multifamily Housing,63138,44.7
+Los Angeles,2604,Office,34038,27.9
+Los Angeles,2605,Multifamily Housing,48870,0.5
+Los Angeles,2606,Office,323709,56.6
+Los Angeles,2607,Multifamily Housing,52871,4.1
+Los Angeles,2608,Multifamily Housing,62129,61.2
+Los Angeles,2609,Multifamily Housing,28716,61.9
+Los Angeles,2610,Multifamily Housing,62328,42.4
+Los Angeles,2611,Multifamily Housing,196790,28.1
+Los Angeles,2612,Multifamily Housing,66824,54.4
+Los Angeles,2613,Multifamily Housing,47548,27.8
+Los Angeles,2614,Multifamily Housing,35716,61.8
+Los Angeles,2615,Multifamily Housing,25209,28.2
+Los Angeles,2616,Multifamily Housing,56700,21.4
+Los Angeles,2617,Multifamily Housing,24990,43.1
+Los Angeles,2618,Office,193344,60.4
+Los Angeles,2619,Multifamily Housing,28000,57.7
+Los Angeles,2620,Multifamily Housing,59821,33.9
+Los Angeles,2621,Multifamily Housing,35068,36.1
+Los Angeles,2622,Office,74700,19
+Los Angeles,2623,Multifamily Housing,33348,62.6
+Los Angeles,2624,Multifamily Housing,40079,42.8
+Los Angeles,2625,Multifamily Housing,78300,28.5
+Los Angeles,2626,Multifamily Housing,57024,38.8
+Los Angeles,2627,Office,68134,43.4
+Los Angeles,2628,Office,131996,8.8
+Los Angeles,2629,Multifamily Housing,30400,27.5
+Los Angeles,2630,Multifamily Housing,36282,27.9
+Los Angeles,2631,K-12 School,69821,17.7
+Los Angeles,2632,Office,44052,57.2
+Los Angeles,2633,Multifamily Housing,120230,83
+Los Angeles,2634,Multifamily Housing,41934,91.8
+Los Angeles,2635,Multifamily Housing,44303,2.2
+Los Angeles,2636,Office,344044,52
+Los Angeles,2637,Multifamily Housing,32004,48.5
+Los Angeles,2638,Multifamily Housing,71603,47.7
+Los Angeles,2639,Multifamily Housing,30380,32.1
+Los Angeles,2640,Multifamily Housing,21308,46.3
+Los Angeles,2641,Multifamily Housing,31779,30.9
+Los Angeles,2642,Multifamily Housing,71869,41.6
+Los Angeles,2643,Multifamily Housing,21364,41.7
+Los Angeles,2644,Multifamily Housing,33183,46.7
+Los Angeles,2645,Multifamily Housing,39010,39.7
+Los Angeles,2646,Multifamily Housing,28407,29.3
+Los Angeles,2647,Multifamily Housing,20348,70.7
+Los Angeles,2648,Multifamily Housing,21264,18.1
+Los Angeles,2649,Multifamily Housing,81326,17.5
+Los Angeles,2650,Multifamily Housing,28480,51.8
+Los Angeles,2651,Multifamily Housing,23167,26.3
+Los Angeles,2652,Multifamily Housing,25097,53.5
+Los Angeles,2653,Multifamily Housing,33004,41
+Los Angeles,2654,Multifamily Housing,149376,34.2
+Los Angeles,2655,Multifamily Housing,36634,32
+Los Angeles,2656,Multifamily Housing,44315,49.9
+Los Angeles,2657,Multifamily Housing,22638,51
+Los Angeles,2658,Multifamily Housing,29030,27
+Los Angeles,2659,Multifamily Housing,434484,48.6
+Los Angeles,2660,Multifamily Housing,32048,39.4
+Los Angeles,2661,Multifamily Housing,62480,44.4
+Los Angeles,2662,Multifamily Housing,64640,64
+Los Angeles,2663,Multifamily Housing,24960,77.2
+Los Angeles,2664,Multifamily Housing,42472,23.2
+Los Angeles,2665,Multifamily Housing,28296,35.1
+Los Angeles,2666,Multifamily Housing,31722,61.9
+Los Angeles,2667,Office,27444,8.3
+Los Angeles,2668,Office,970247,42.1
+Los Angeles,2669,Multifamily Housing,21750,30.3
+Los Angeles,2670,Multifamily Housing,31544,33.4
+Los Angeles,2671,Multifamily Housing,30162,49.6
+Los Angeles,2672,Multifamily Housing,38916,45.9
+Los Angeles,2673,Multifamily Housing,95639,47.1
+Los Angeles,2674,Multifamily Housing,30068,65.6
+Los Angeles,2675,Multifamily Housing,42033,54.7
+Los Angeles,2676,Multifamily Housing,41460,48.6
+Los Angeles,2677,Multifamily Housing,24414,40.3
+Los Angeles,2678,Multifamily Housing,14400,95.9
+Los Angeles,2679,Multifamily Housing,30628,45.4
+Los Angeles,2680,Multifamily Housing,112385,28
+Los Angeles,2681,Multifamily Housing,26000,39.5
+Los Angeles,2682,Multifamily Housing,16821,57.6
+Los Angeles,2683,Office,20011,1.6
+Los Angeles,2684,Multifamily Housing,21063,52.4
+Los Angeles,2685,Office,267583,46.6
+Los Angeles,2686,Multifamily Housing,22823,57.2
+Los Angeles,2687,Multifamily Housing,33012,31.3
+Los Angeles,2688,Multifamily Housing,29691,25.5
+Los Angeles,2689,Multifamily Housing,31500,51.8
+Los Angeles,2690,Multifamily Housing,55713,59.6
+Los Angeles,2691,Multifamily Housing,29100,28.8
+Los Angeles,2692,Multifamily Housing,37006,34.2
+Los Angeles,2693,Multifamily Housing,82960,37.2
+Los Angeles,2694,Multifamily Housing,80574,38.7
+Los Angeles,2695,Multifamily Housing,26859,57.1
+Los Angeles,2696,Multifamily Housing,167455,48.5
+Los Angeles,2697,Multifamily Housing,53888,38.8
+Los Angeles,2698,Multifamily Housing,68380,34.4
+Los Angeles,2699,Multifamily Housing,39388,32.6
+Los Angeles,2700,Multifamily Housing,50933,45.9
+Los Angeles,2701,Multifamily Housing,136412,39.6
+Los Angeles,2702,Multifamily Housing,67755,28.5
+Los Angeles,2703,Multifamily Housing,27750,41.1
+Los Angeles,2704,Multifamily Housing,70937,48.6
+Los Angeles,2705,Multifamily Housing,42267,27.6
+Los Angeles,2706,Office,179336,47
+Los Angeles,2707,Multifamily Housing,23613,47.7
+Los Angeles,2708,Multifamily Housing,353830,44.7
+Los Angeles,2709,Multifamily Housing,24787,67.3
+Los Angeles,2710,Multifamily Housing,47378,47.7
+Los Angeles,2711,K-12 School,30760,18.5
+Los Angeles,2712,Multifamily Housing,31532,36.6
+Los Angeles,2713,Multifamily Housing,28156,49
+Los Angeles,2714,Multifamily Housing,30240,45.5
+Los Angeles,2715,Multifamily Housing,25570,49
+Los Angeles,2716,Multifamily Housing,20393,68.9
+Los Angeles,2717,Multifamily Housing,27616,50.8
+Los Angeles,2718,Office,823272,66
+Los Angeles,2719,Multifamily Housing,130929,35.3
+Los Angeles,2720,Multifamily Housing,23250,94.2
+Los Angeles,2721,Multifamily Housing,62680,247
+Los Angeles,2722,Office,27500,47.1
+Los Angeles,2723,Multifamily Housing,24236,151.9
+Los Angeles,2724,Multifamily Housing,47472,34.6
+Los Angeles,2725,Multifamily Housing,98000,25.9
+Los Angeles,2726,Office,25189,251.7
+Los Angeles,2727,Multifamily Housing,47544,33.1
+Los Angeles,2728,Multifamily Housing,22942,63.7
+Los Angeles,2729,Multifamily Housing,25728,43.1
+Los Angeles,2730,Multifamily Housing,30128,49.2
+Los Angeles,2731,Office,39565,65.8
+Los Angeles,2732,Multifamily Housing,22032,40.6
+Los Angeles,2733,Multifamily Housing,486957,49.6
+Los Angeles,2734,Multifamily Housing,97712,38.7
+Los Angeles,2735,Multifamily Housing,53487,39.6
+Los Angeles,2736,Multifamily Housing,28026,62
+Los Angeles,2737,Office,1118941,37.8
+Los Angeles,2738,Multifamily Housing,53350,40.3
+Los Angeles,2739,Multifamily Housing,52095,44.3
+Los Angeles,2740,Multifamily Housing,35095,39.4
+Los Angeles,2741,Multifamily Housing,62980,25.2
+Los Angeles,2742,Multifamily Housing,29749,54.4
+Los Angeles,2743,Multifamily Housing,26736,45.9
+Los Angeles,2744,Multifamily Housing,27945,36.5
+Los Angeles,2745,Multifamily Housing,71424,28.9
+Los Angeles,2746,Office,62020,75.8
+Los Angeles,2747,Office,172619,112
+Los Angeles,2748,Office,67583,35.7
+Los Angeles,2749,Multifamily Housing,25900,68.2
+Los Angeles,2750,Multifamily Housing,62950,44.7
+Los Angeles,2751,Multifamily Housing,19722,28.8
+Los Angeles,2752,Multifamily Housing,34651,10.9
+Los Angeles,2753,Multifamily Housing,31090,38.1
+Los Angeles,2754,Multifamily Housing,83946,13.8
+Los Angeles,2755,Multifamily Housing,29809,43.1
+Los Angeles,2756,Multifamily Housing,35880,46.4
+Los Angeles,2757,Multifamily Housing,31604,47.8
+Los Angeles,2758,Multifamily Housing,49833,23.4
+Los Angeles,2759,Multifamily Housing,39713,19.8
+Los Angeles,2760,Multifamily Housing,26756,61.8
+Los Angeles,2761,Multifamily Housing,404448,1.3
+Los Angeles,2762,Multifamily Housing,30970,44.3
+Los Angeles,2763,Multifamily Housing,132536,0.8
+Los Angeles,2764,K-12 School,23995,25.4
+Los Angeles,2765,Multifamily Housing,37206,33.8
+Los Angeles,2766,Multifamily Housing,31572,35.9
+Los Angeles,2767,Multifamily Housing,20121,51.1
+Los Angeles,2768,Multifamily Housing,48549,34.2
+Los Angeles,2769,Multifamily Housing,32126,36.1
+Los Angeles,2770,Multifamily Housing,22320,37
+Los Angeles,2771,Multifamily Housing,21170,51.2
+Los Angeles,2772,Multifamily Housing,23713,61.7
+Los Angeles,2773,Multifamily Housing,30557,4
+Los Angeles,2774,Multifamily Housing,26840,40.9
+Los Angeles,2775,Multifamily Housing,63253,39.9
+Los Angeles,2776,Multifamily Housing,29670,33.6
+Los Angeles,2777,Multifamily Housing,66460,44.1
+Los Angeles,2778,K-12 School,86966,21
+Los Angeles,2779,Multifamily Housing,22512,44.7
+Los Angeles,2780,Multifamily Housing,27440,53.9
+Los Angeles,2781,Multifamily Housing,85184,3.2
+Los Angeles,2782,Multifamily Housing,40049,35.7
+Los Angeles,2783,Multifamily Housing,39555,32.2
+Los Angeles,2784,Multifamily Housing,38000,27
+Los Angeles,2785,Multifamily Housing,51644,29
+Los Angeles,2786,Multifamily Housing,24672,37.7
+Los Angeles,2787,Multifamily Housing,113894,33.5
+Los Angeles,2788,Multifamily Housing,44950,40.9
+Los Angeles,2789,Multifamily Housing,100000,9.2
+Los Angeles,2790,Multifamily Housing,13408,58.2
+Los Angeles,2791,Multifamily Housing,25848,59.8
+Los Angeles,2792,Multifamily Housing,25307,30.5
+Los Angeles,2793,Multifamily Housing,26244,1.2
+Los Angeles,2794,Multifamily Housing,67923,29.7
+Los Angeles,2795,Multifamily Housing,20753,73
+Los Angeles,2796,Multifamily Housing,71437,49.9
+Los Angeles,2797,Office,48573,24.1
+Los Angeles,2798,Multifamily Housing,27000,3.2
+Los Angeles,2799,Multifamily Housing,100215,92
+Los Angeles,2800,Multifamily Housing,24000,42.9
+Los Angeles,2801,Office,163463,44
+Los Angeles,2802,Multifamily Housing,21060,33.8
+Los Angeles,2803,Multifamily Housing,50250,42.6
+Los Angeles,2804,Multifamily Housing,68128,14.4
+Los Angeles,2805,Multifamily Housing,22592,62.7
+Los Angeles,2806,K-12 School,71717,24.6
+Los Angeles,2807,Multifamily Housing,43831,71.8
+Los Angeles,2808,Multifamily Housing,31778,47.8
+Los Angeles,2809,Multifamily Housing,28673,12.5
+Los Angeles,2810,Multifamily Housing,24208,49.1
+Los Angeles,2811,Multifamily Housing,40960,41.5
+Los Angeles,2812,Multifamily Housing,30375,54.1
+Los Angeles,2813,Multifamily Housing,20029,51.2
+Los Angeles,2814,Multifamily Housing,32058,17.4
+Los Angeles,2815,Multifamily Housing,64701,11.8
+Los Angeles,2816,Multifamily Housing,56650,37.4
+Los Angeles,2817,Multifamily Housing,21800,65.3
+Los Angeles,2818,Multifamily Housing,25816,5
+Los Angeles,2819,Office,22819,43.9
+Los Angeles,2820,Multifamily Housing,24000,52.3
+Los Angeles,2821,Multifamily Housing,58500,30.8
+Los Angeles,2822,Multifamily Housing,34404,54.8
+Los Angeles,2823,Multifamily Housing,20415,58.4
+Los Angeles,2824,Multifamily Housing,167461,29.4
+Los Angeles,2825,Multifamily Housing,39975,25.6
+Los Angeles,2826,Multifamily Housing,319611,34.9
+Los Angeles,2827,Multifamily Housing,39464,34.8
+Los Angeles,2828,Multifamily Housing,48852,32.2
+Los Angeles,2829,K-12 School,84451,103.2
+Los Angeles,2830,Office,61825,46.9
+Los Angeles,2831,Multifamily Housing,33448,35.2
+Los Angeles,2832,Multifamily Housing,64578,40.2
+Los Angeles,2833,Multifamily Housing,21118,19.9
+Los Angeles,2834,Multifamily Housing,32541,45.4
+Los Angeles,2835,Multifamily Housing,31692,68.1
+Los Angeles,2836,Multifamily Housing,48865,17.9
+Los Angeles,2837,Multifamily Housing,22400,36.5
+Los Angeles,2838,Office,73835,56
+Los Angeles,2839,Multifamily Housing,22672,51.3
+Los Angeles,2840,Office,227411,51.8
+Los Angeles,2841,Multifamily Housing,24552,29.9
+Los Angeles,2842,Multifamily Housing,42196,32.7
+Los Angeles,2843,Multifamily Housing,26652,85.2
+Los Angeles,2844,Multifamily Housing,56126,2.9
+Los Angeles,2845,Multifamily Housing,63786,13.4
+Los Angeles,2846,Multifamily Housing,32446,31.9
+Los Angeles,2847,Office,186032,74.8
+Los Angeles,2848,Multifamily Housing,30676,51.1
+Los Angeles,2849,Multifamily Housing,28941,52.7
+Los Angeles,2850,Multifamily Housing,20806,45.6
+Los Angeles,2851,Multifamily Housing,23056,43.4
+Los Angeles,2852,Multifamily Housing,72888,37.8
+Los Angeles,2853,Multifamily Housing,52124,34.1
+Los Angeles,2854,Multifamily Housing,20016,51.6
+Los Angeles,2855,Multifamily Housing,30492,59.4
+Los Angeles,2856,Multifamily Housing,28876,49.7
+Los Angeles,2857,Multifamily Housing,68098,36
+Los Angeles,2858,Multifamily Housing,87795,54.2
+Los Angeles,2859,Multifamily Housing,21080,63.3
+Los Angeles,2860,Multifamily Housing,35379,49.2
+Los Angeles,2861,K-12 School,26000,51.6
+Los Angeles,2862,Office,1450,51.5
+Los Angeles,2863,Office,378049,48.9
+Los Angeles,2864,Multifamily Housing,40000,34.6
+Los Angeles,2865,Multifamily Housing,22868,18.7
+Los Angeles,2866,Multifamily Housing,21026,2.1
+Los Angeles,2867,Office,755200,43.8
+Los Angeles,2868,Multifamily Housing,30395,50.4
+Los Angeles,2869,Multifamily Housing,21800,59.1
+Los Angeles,2870,Multifamily Housing,19144,3.4
+Los Angeles,2871,Office,170523,46.6
+Los Angeles,2872,Multifamily Housing,86231,36.6
+Los Angeles,2873,Multifamily Housing,33185,2
+Los Angeles,2874,Multifamily Housing,52754,31.2
+Los Angeles,2875,K-12 School,39988,7.6
+Los Angeles,2876,Multifamily Housing,41192,30.6
+Los Angeles,2877,Multifamily Housing,33146,18.8
+Los Angeles,2878,Multifamily Housing,42000,22.1
+Los Angeles,2879,Multifamily Housing,24469,35.7
+Los Angeles,2880,Office,535301,47.8
+Los Angeles,2881,Multifamily Housing,23460,83.4
+Los Angeles,2882,Multifamily Housing,49390,15.2
+Los Angeles,2883,Multifamily Housing,25368,50.5
+Los Angeles,2884,Multifamily Housing,28920,13.6
+Los Angeles,2885,Multifamily Housing,123724,37.1
+Los Angeles,2886,Multifamily Housing,43293,37.9
+Los Angeles,2887,Multifamily Housing,38941,39.1
+Los Angeles,2888,Multifamily Housing,24337,41.9
+Los Angeles,2889,Multifamily Housing,22000,41.3
+Los Angeles,2890,Office,28534,42.8
+Los Angeles,2891,Multifamily Housing,24405,40.7
+Los Angeles,2892,Office,33748,43.1
+Los Angeles,2893,Multifamily Housing,79809,31.1
+Los Angeles,2894,Multifamily Housing,24340,19.9
+Los Angeles,2895,Multifamily Housing,30410,1.7
+Los Angeles,2896,Multifamily Housing,20682,45.4
+Los Angeles,2897,Office,324463,30
+Los Angeles,2898,Multifamily Housing,30892,3.5
+Los Angeles,2899,Multifamily Housing,64961,44.6
+Los Angeles,2900,Multifamily Housing,136899,15.3
+Los Angeles,2901,Multifamily Housing,21480,46.4
+Los Angeles,2902,Multifamily Housing,27809,28
+Los Angeles,2903,Multifamily Housing,31506,38.3
+Los Angeles,2904,Multifamily Housing,21950,37.6
+Los Angeles,2905,Office,63474,303
+Los Angeles,2906,Multifamily Housing,29749,67.7
+Los Angeles,2907,Multifamily Housing,32730,40
+Los Angeles,2908,Office,26878,25.3
+Los Angeles,2909,Multifamily Housing,21528,24.6
+Los Angeles,2910,Office,42110,43.9
+Los Angeles,2911,Multifamily Housing,60668,7.1
+Los Angeles,2912,Office,28350,57.1
+Los Angeles,2913,Multifamily Housing,91873,40.5
+Los Angeles,2914,Multifamily Housing,39939,27.2
+Los Angeles,2915,Multifamily Housing,100000,14.8
+Los Angeles,2916,Multifamily Housing,33170,21.8
+Los Angeles,2917,Multifamily Housing,51121,37.3
+Los Angeles,2918,Multifamily Housing,42522,33.3
+Los Angeles,2919,Multifamily Housing,22176,36.2
+Los Angeles,2920,Multifamily Housing,21860,69.4
+Los Angeles,2921,Multifamily Housing,46198,19.9
+Los Angeles,2922,Multifamily Housing,22796,0.7
+Los Angeles,2923,Multifamily Housing,32512,32.8
+Los Angeles,2924,Multifamily Housing,112046,18.6
+Los Angeles,2925,Multifamily Housing,70140,44.4
+Los Angeles,2926,Multifamily Housing,58648,60.3
+Los Angeles,2927,Multifamily Housing,513976,46.2
+Los Angeles,2928,Multifamily Housing,42300,31
+Los Angeles,2929,Multifamily Housing,40830,74.4
+Los Angeles,2930,Multifamily Housing,56960,34.2
+Los Angeles,2931,Multifamily Housing,76462,44.7
+Los Angeles,2932,Office,390960,59.7
+Los Angeles,2933,Multifamily Housing,111285,40.9
+Los Angeles,2934,Multifamily Housing,30872,44.9
+Los Angeles,2935,Multifamily Housing,70383,40.6
+Los Angeles,2936,Office,20900,17.6
+Los Angeles,2937,Multifamily Housing,33352,50.5
+Los Angeles,2938,Multifamily Housing,23064,41.5
+Los Angeles,2939,Multifamily Housing,26031,76.9
+Los Angeles,2940,Multifamily Housing,40282,42.6
+Los Angeles,2941,Multifamily Housing,55674,8.3
+Los Angeles,2942,Multifamily Housing,70245,38.3
+Los Angeles,2943,Multifamily Housing,31600,35
+Los Angeles,2944,Office,113360,52.4
+Los Angeles,2945,Multifamily Housing,74994,39.3
+Los Angeles,2946,Office,400121,46.7
+Los Angeles,2947,Multifamily Housing,25538,21.3
+Los Angeles,2948,Multifamily Housing,29563,45.2
+Los Angeles,2949,K-12 School,80000,16.3
+Los Angeles,2950,Multifamily Housing,166801,41
+Los Angeles,2951,Office,15158,347.6
+Los Angeles,2952,Multifamily Housing,37053,35.8
+Los Angeles,2953,Multifamily Housing,34290,57.4
+Los Angeles,2954,Office,20253,56.2
+Los Angeles,2955,Multifamily Housing,20452,47.7
+Los Angeles,2956,Multifamily Housing,28629,40.1
+Los Angeles,2957,Multifamily Housing,136488,30.6
+Los Angeles,2958,Multifamily Housing,69111,45.2
+Los Angeles,2959,Multifamily Housing,30498,4.2
+Los Angeles,2960,Multifamily Housing,21486,24.3
+Los Angeles,2961,Multifamily Housing,55931,46.5
+Los Angeles,2962,Multifamily Housing,26120,32
+Los Angeles,2963,Office,20500,7.8
+Los Angeles,2964,Multifamily Housing,73584,35.1
+Los Angeles,2965,Multifamily Housing,32280,30.6
+Los Angeles,2966,Office,71000,43.7
+Los Angeles,2967,Multifamily Housing,125538,39.8
+Los Angeles,2968,Multifamily Housing,351341,34.9
+Los Angeles,2969,Multifamily Housing,42864,3.5
+Los Angeles,2970,Office,214948,70.4
+Los Angeles,2971,Multifamily Housing,30168,38.4
+Los Angeles,2972,Office,118842,67.8
+Los Angeles,2973,Multifamily Housing,29958,14.5
+Los Angeles,2974,Office,34134,46.8
+Los Angeles,2975,Multifamily Housing,76385,58.1
+Los Angeles,2976,Multifamily Housing,88005,44.9
+Los Angeles,2977,Multifamily Housing,32600,49.7
+Los Angeles,2978,Multifamily Housing,29194,13.4
+Los Angeles,2979,Multifamily Housing,31104,35.3
+Los Angeles,2980,Multifamily Housing,89593,46
+Los Angeles,2981,Multifamily Housing,44546,17.1
+Los Angeles,2982,Multifamily Housing,73252,53.6
+Los Angeles,2983,Multifamily Housing,24354,31.1
+Los Angeles,2984,Multifamily Housing,44957,29
+Los Angeles,2985,Office,89888,41.9
+Los Angeles,2986,Multifamily Housing,26964,62.9
+Los Angeles,2987,Multifamily Housing,20116,40.5
+Los Angeles,2988,Multifamily Housing,44712,33.7
+Los Angeles,2989,Multifamily Housing,39144,46.8
+Los Angeles,2990,Multifamily Housing,38731,45.8
+Los Angeles,2991,Multifamily Housing,29243,55
+Los Angeles,2992,Multifamily Housing,153481,28.2
+Los Angeles,2993,Multifamily Housing,145264,42.2
+Los Angeles,2994,Multifamily Housing,25342,21.5
+Los Angeles,2995,Multifamily Housing,29661,34.3
+Los Angeles,2996,Office,67057,26.5
+Los Angeles,2997,Multifamily Housing,58113,25.2
+Los Angeles,2998,Multifamily Housing,40940,48.4
+Los Angeles,2999,Multifamily Housing,680716,27.4
+Los Angeles,3000,Multifamily Housing,24402,0.5
+Los Angeles,3001,Office,42000,240
+Los Angeles,3002,Multifamily Housing,40120,38.7
+Los Angeles,3003,Multifamily Housing,26252,55.9
+Los Angeles,3004,Office,126700,11.1
+Los Angeles,3005,Multifamily Housing,22026,42.8
+Los Angeles,3006,Multifamily Housing,20664,30.4
+Los Angeles,3007,Office,95980,16.8
+Los Angeles,3008,Multifamily Housing,59783,31.8
+Los Angeles,3009,Multifamily Housing,36900,24.5
+Los Angeles,3010,Office,462054,65.9
+Los Angeles,3011,Multifamily Housing,45624,19.4
+Los Angeles,3012,Multifamily Housing,57858,2.9
+Los Angeles,3013,Multifamily Housing,26757,39.5
+Los Angeles,3014,Multifamily Housing,77594,15.1
+Los Angeles,3015,Multifamily Housing,34695,2.8
+Los Angeles,3016,Multifamily Housing,37478,42.9
+Los Angeles,3017,Multifamily Housing,30890,28.8
+Los Angeles,3018,Multifamily Housing,267890,28.2
+Los Angeles,3019,Multifamily Housing,49794,50.6
+Los Angeles,3020,Multifamily Housing,42528,61.4
+Los Angeles,3021,Multifamily Housing,46476,46.9
+Los Angeles,3022,Multifamily Housing,82491,31.3
+Los Angeles,3023,Multifamily Housing,37004,59
+Los Angeles,3024,Multifamily Housing,37522,44.2
+Los Angeles,3025,Multifamily Housing,77842,29.2
+Los Angeles,3026,Multifamily Housing,20266,94.4
+Los Angeles,3027,Office,179124,41
+Los Angeles,3028,Multifamily Housing,35089,39.3
+Los Angeles,3029,Multifamily Housing,24337,41.9
+Los Angeles,3030,Multifamily Housing,34674,30.1
+Los Angeles,3031,Office,80362,80.4
+Los Angeles,3032,Multifamily Housing,38516,18.8
+Los Angeles,3033,K-12 School,105541,38.2
+Los Angeles,3034,Multifamily Housing,34150,30.3
+Los Angeles,3035,Multifamily Housing,20000,44.6
+Los Angeles,3036,Multifamily Housing,75117,42.7
+Los Angeles,3037,Multifamily Housing,20000,20.1
+Los Angeles,3038,Multifamily Housing,45786,35
+Los Angeles,3039,Office,121994,46.7
+Los Angeles,3040,Multifamily Housing,32340,40.9
+Los Angeles,3041,Multifamily Housing,556336,34.7
+Los Angeles,3042,Multifamily Housing,20776,56.2
+Los Angeles,3043,Multifamily Housing,24102,63.8
+Los Angeles,3044,Multifamily Housing,62801,31.7
+Los Angeles,3045,Multifamily Housing,153428,25.1
+Los Angeles,3046,Multifamily Housing,22796,50
+Los Angeles,3047,Multifamily Housing,68130,40.7
+Los Angeles,3048,Multifamily Housing,20388,61.2
+Los Angeles,3049,Multifamily Housing,77530,46.6
+Los Angeles,3050,Multifamily Housing,169920,27.1
+Los Angeles,3051,Multifamily Housing,24531,4.9
+Los Angeles,3052,Multifamily Housing,95720,30.4
+Los Angeles,3053,Multifamily Housing,192306,44.9
+Los Angeles,3054,Multifamily Housing,26096,50.8
+Los Angeles,3055,Multifamily Housing,33928,39.5
+Los Angeles,3056,Multifamily Housing,20752,38.8
+Los Angeles,3057,Multifamily Housing,26292,32.9
+Los Angeles,3058,Multifamily Housing,68948,27.2
+Los Angeles,3059,Multifamily Housing,45132,26.7
+Los Angeles,3060,Multifamily Housing,47828,44.4
+Los Angeles,3061,Multifamily Housing,27915,48.6
+Los Angeles,3062,Multifamily Housing,23352,39.7
+Los Angeles,3063,Office,17235,83.3
+Los Angeles,3064,Multifamily Housing,87304,42
+Los Angeles,3065,K-12 School,38000,74.9
+Los Angeles,3066,Multifamily Housing,38400,46.2
+Los Angeles,3067,Multifamily Housing,31810,32.6
+Los Angeles,3068,Office,26700,33.4
+Los Angeles,3069,Multifamily Housing,109559,43.7
+Los Angeles,3070,Multifamily Housing,25649,48.4
+Los Angeles,3071,Multifamily Housing,64231,35.4
+Los Angeles,3072,Multifamily Housing,44712,5.7
+Los Angeles,3073,Multifamily Housing,31318,31.6
+Los Angeles,3074,Multifamily Housing,28284,1.2
+Los Angeles,3075,Multifamily Housing,26810,33.3
+Los Angeles,3076,Office,21000,16.9
+Los Angeles,3077,Multifamily Housing,26932,46
+Los Angeles,3078,Office,856039,21.5
+Los Angeles,3079,Multifamily Housing,39806,24.5
+Los Angeles,3080,Multifamily Housing,20526,23.3
+Los Angeles,3081,Office,37992,47.5
+Los Angeles,3082,Multifamily Housing,109976,31.8
+Los Angeles,3083,Multifamily Housing,39111,43.6
+Los Angeles,3084,Multifamily Housing,39900,41.3
+Los Angeles,3085,Multifamily Housing,31031,48.3
+Los Angeles,3086,Multifamily Housing,50472,33
+Los Angeles,3087,Multifamily Housing,40549,40.3
+Los Angeles,3088,Office,24000,56.7
+Los Angeles,3089,Multifamily Housing,40252,39.4
+Los Angeles,3090,Multifamily Housing,32416,43
+Los Angeles,3091,Multifamily Housing,24000,41.4
+Los Angeles,3092,Multifamily Housing,25448,19.7
+Los Angeles,3093,Multifamily Housing,36100,45.7
+Los Angeles,3094,Multifamily Housing,21900,44.6
+Los Angeles,3095,Office,89649,99.4
+Los Angeles,3096,Multifamily Housing,65555,57.2
+Los Angeles,3097,Multifamily Housing,96700,38.8
+Los Angeles,3098,Multifamily Housing,42044,18.8
+Los Angeles,3099,Multifamily Housing,24746,25.4
+Los Angeles,3100,Multifamily Housing,111000,4.4
+Los Angeles,3101,Multifamily Housing,180180,38.4
+Los Angeles,3102,Multifamily Housing,109113,39.4
+Los Angeles,3103,Multifamily Housing,37845,32.4
+Los Angeles,3104,Multifamily Housing,32832,46.1
+Los Angeles,3105,Multifamily Housing,27335,51.9
+Los Angeles,3106,Multifamily Housing,64189,45.9
+Los Angeles,3107,Multifamily Housing,40000,26.2
+Los Angeles,3108,Multifamily Housing,32152,39.3
+Los Angeles,3109,Office,36162,42.3
+Los Angeles,3110,Multifamily Housing,22556,20.2
+Los Angeles,3111,Multifamily Housing,27922,36.2
+Los Angeles,3112,Multifamily Housing,40755,45.9
+Los Angeles,3113,Multifamily Housing,26273,48
+Los Angeles,3114,Office,72705,65.1
+Los Angeles,3115,Multifamily Housing,43616,54.8
+Los Angeles,3116,Office,31376,69.3
+Los Angeles,3117,Multifamily Housing,110000,19.4
+Los Angeles,3118,Office,35308,72.5
+Los Angeles,3119,Multifamily Housing,23642,35.5
+Los Angeles,3120,Multifamily Housing,23045,51.5
+Los Angeles,3121,Multifamily Housing,36819,55.2
+Los Angeles,3122,Multifamily Housing,42243,35.1
+Los Angeles,3123,Multifamily Housing,38000,34.9
+Los Angeles,3124,Multifamily Housing,55610,4
+Los Angeles,3125,Multifamily Housing,27215,40.7
+Los Angeles,3126,Multifamily Housing,27252,73
+Los Angeles,3127,Office,46411,34.2
+Los Angeles,3128,Multifamily Housing,36560,33.4
+Los Angeles,3129,Multifamily Housing,23277,56.3
+Los Angeles,3130,Office,24904,144.8
+Los Angeles,3131,Office,115490,85.2
+Los Angeles,3132,Multifamily Housing,75692,49.9
+Los Angeles,3133,Multifamily Housing,38043,30.5
+Los Angeles,3134,Multifamily Housing,85257,46.1
+Los Angeles,3135,Multifamily Housing,41944,17.2
+Los Angeles,3136,Multifamily Housing,80390,42.8
+Los Angeles,3137,Office,305035,40.7
+Los Angeles,3138,Multifamily Housing,117468,43.9
+Los Angeles,3139,Office,86246,75.2
+Los Angeles,3140,Multifamily Housing,69931,36
+Los Angeles,3141,Multifamily Housing,79001,32.3
+Los Angeles,3142,Office,23072,44.6
+Los Angeles,3143,Multifamily Housing,118053,8.9
+Los Angeles,3144,Multifamily Housing,31549,31.3
+Los Angeles,3145,Multifamily Housing,26606,62.9
+Los Angeles,3146,Multifamily Housing,26296,58.3
+Los Angeles,3147,Multifamily Housing,40258,40.2
+Los Angeles,3148,Office,105200,26.1
+Los Angeles,3149,Multifamily Housing,45705,49.9
+Los Angeles,3150,Multifamily Housing,39088,54.2
+Los Angeles,3151,Multifamily Housing,30800,1.5
+Los Angeles,3152,Multifamily Housing,31454,20.5
+Los Angeles,3153,Office,62000,16.7
+Los Angeles,3154,Multifamily Housing,44376,3.6
+Los Angeles,3155,Multifamily Housing,48388,36.3
+Los Angeles,3156,Multifamily Housing,31913,34
+Los Angeles,3157,Multifamily Housing,21032,49.8
+Los Angeles,3158,Multifamily Housing,47449,35.7
+Los Angeles,3159,Office,10740,4.1
+Los Angeles,3160,Office,27891,0.7
+Los Angeles,3161,Office,59561,60.8
+Los Angeles,3162,Multifamily Housing,20876,47.5
+Los Angeles,3163,Office,1386386,32.1
+Los Angeles,3164,Multifamily Housing,27744,32.4
+Los Angeles,3165,Multifamily Housing,29537,38.2
+Los Angeles,3166,Multifamily Housing,26852,47.6
+Los Angeles,3167,Multifamily Housing,35014,52
+Los Angeles,3168,Multifamily Housing,20705,51.2
+Los Angeles,3169,Office,51396,61
+Los Angeles,3170,Multifamily Housing,20760,27.5
+Los Angeles,3171,Multifamily Housing,31713,39.9
+Los Angeles,3172,Multifamily Housing,24920,43.6
+Los Angeles,3173,Multifamily Housing,21114,64.3
+Los Angeles,3174,Multifamily Housing,69872,50
+Los Angeles,3175,Multifamily Housing,20493,33.5
+Los Angeles,3176,Multifamily Housing,124214,35.5
+Los Angeles,3177,Multifamily Housing,33023,29.9
+Los Angeles,3178,Multifamily Housing,52400,41.4
+Los Angeles,3179,Multifamily Housing,42528,28.4
+Los Angeles,3180,Office,39800,71.9
+Los Angeles,3181,Multifamily Housing,33092,5.6
+Los Angeles,3182,Multifamily Housing,36675,30
+Los Angeles,3183,Multifamily Housing,32421,2.2
+Los Angeles,3184,Office,122751,82.5
+Los Angeles,3185,Multifamily Housing,390289,34.4
+Los Angeles,3186,Multifamily Housing,192306,43.5
+Los Angeles,3187,Multifamily Housing,33978,34.5
+Los Angeles,3188,Multifamily Housing,28508,18.6
+Los Angeles,3189,Multifamily Housing,24664,45.1
+Los Angeles,3190,Multifamily Housing,32538,56.4
+Los Angeles,3191,Multifamily Housing,26543,55.7
+Los Angeles,3192,Multifamily Housing,10803,26.1
+Los Angeles,3193,Multifamily Housing,56424,43.1
+Los Angeles,3194,Multifamily Housing,42473,36
+Los Angeles,3195,Multifamily Housing,53792,47.2
+Los Angeles,3196,Multifamily Housing,47110,22
+Los Angeles,3197,Multifamily Housing,307429,34.5
+Los Angeles,3198,Multifamily Housing,24732,87.4
+Los Angeles,3199,Office,52416,10.4
+Los Angeles,3200,Multifamily Housing,23758,79.1
+Los Angeles,3201,Multifamily Housing,34374,1.5
+Los Angeles,3202,Multifamily Housing,93335,35
+Los Angeles,3203,Office,32000,173.4
+Los Angeles,3204,Office,98370,13.9
+Los Angeles,3205,Multifamily Housing,26869,33.9
+Los Angeles,3206,Multifamily Housing,130000,18.9
+Los Angeles,3207,Multifamily Housing,30964,2.3
+Los Angeles,3208,Multifamily Housing,192386,35.9
+Los Angeles,3209,Multifamily Housing,24191,31.8
+Los Angeles,3210,Multifamily Housing,50000,30.7
+Los Angeles,3211,Multifamily Housing,114179,43.8
+Los Angeles,3212,Multifamily Housing,23755,44.1
+Los Angeles,3213,Multifamily Housing,53240,34.9
+Los Angeles,3214,Multifamily Housing,45758,48.5
+Los Angeles,3215,Multifamily Housing,61029,37
+Los Angeles,3216,Multifamily Housing,42515,36.6
+Los Angeles,3217,Multifamily Housing,29632,45.9
+Los Angeles,3218,Office,31914,14.2
+Los Angeles,3219,Multifamily Housing,29834,2.3
+Los Angeles,3220,Multifamily Housing,43989,23
+Los Angeles,3221,Multifamily Housing,23572,36.6
+Los Angeles,3222,Office,23837,26.7
+Los Angeles,3223,Multifamily Housing,22614,22.9
+Los Angeles,3224,Multifamily Housing,61157,18.1
+Los Angeles,3225,Multifamily Housing,26844,39.9
+Los Angeles,3226,Multifamily Housing,33740,41.8
+Los Angeles,3227,Multifamily Housing,23946,37.6
+Los Angeles,3228,Multifamily Housing,45795,44.6
+Los Angeles,3229,Office,82884,67.8
+Los Angeles,3230,Multifamily Housing,31286,207.7
+Los Angeles,3231,Multifamily Housing,25661,5.3
+Los Angeles,3232,Multifamily Housing,70546,40.5
+Los Angeles,3233,Multifamily Housing,39000,45
+Los Angeles,3234,Multifamily Housing,37653,49.6
+Los Angeles,3235,Multifamily Housing,70765,558.6
+Los Angeles,3236,Multifamily Housing,32571,53.2
+Los Angeles,3237,Office,113255,26.5
+Los Angeles,3238,Multifamily Housing,108117,30.6
+Los Angeles,3239,Office,114254,47.4
+Los Angeles,3240,Multifamily Housing,25688,1.4
+Los Angeles,3241,Multifamily Housing,37392,18.4
+Los Angeles,3242,Multifamily Housing,26716,41.4
+Los Angeles,3243,Multifamily Housing,44823,27.7
+Los Angeles,3244,Multifamily Housing,30130,41.7
+Los Angeles,3245,Multifamily Housing,27014,69.8
+Los Angeles,3246,Office,23058,99.7
+Los Angeles,3247,Multifamily Housing,96500,2.9
+Los Angeles,3248,Multifamily Housing,40052,53
+Los Angeles,3249,Multifamily Housing,66048,57.7
+Los Angeles,3250,Multifamily Housing,47537,37.8
+Los Angeles,3251,Multifamily Housing,34299,49.3
+Los Angeles,3252,Office,17460,15
+Los Angeles,3253,Office,47000,30.3
+Los Angeles,3254,Multifamily Housing,22910,53.3
+Los Angeles,3255,Office,248000,45.7
+Los Angeles,3256,Multifamily Housing,27380,43
+Los Angeles,3257,Multifamily Housing,25433,1
+Los Angeles,3258,Multifamily Housing,171808,56.4
+Los Angeles,3259,Multifamily Housing,191488,18.9
+Los Angeles,3260,Multifamily Housing,175690,83.1
+Los Angeles,3261,Office,109992,60.4
+Los Angeles,3262,Multifamily Housing,47828,45.3
+Los Angeles,3263,Multifamily Housing,36041,19
+Los Angeles,3264,Office,60316,1.1
+Los Angeles,3265,Multifamily Housing,24415,59.4
+Los Angeles,3266,Multifamily Housing,32943,56.6
+Los Angeles,3267,Multifamily Housing,109017,35.5
+Los Angeles,3268,Multifamily Housing,126238,41.6
+Los Angeles,3269,Multifamily Housing,52218,17.4
+Los Angeles,3270,Office,277716,49.5
+Los Angeles,3271,Multifamily Housing,31009,58.5
+Los Angeles,3272,Multifamily Housing,117604,65.8
+Los Angeles,3273,Multifamily Housing,77697,64.6
+Los Angeles,3274,Office,406751,50
+Los Angeles,3275,Office,26533,147.4
+Los Angeles,3276,Multifamily Housing,59158,46.5
+Los Angeles,3277,Multifamily Housing,36854,57.1
+Los Angeles,3278,Multifamily Housing,98484,33.6
+Los Angeles,3279,Multifamily Housing,23688,50.8
+Los Angeles,3280,Multifamily Housing,111841,29.3
+Los Angeles,3281,Multifamily Housing,44619,34.4
+Los Angeles,3282,Office,40000,11.5
+Los Angeles,3283,Multifamily Housing,37785,56.8
+Los Angeles,3284,Multifamily Housing,20792,56.8
+Los Angeles,3285,Multifamily Housing,57924,12.4
+Los Angeles,3286,Multifamily Housing,43757,50.3
+Los Angeles,3287,Multifamily Housing,44711,18.2
+Los Angeles,3288,Office,47619,42.9
+Los Angeles,3289,Multifamily Housing,90874,42.1
+Los Angeles,3290,Multifamily Housing,60564,39.6
+Los Angeles,3291,Multifamily Housing,119973,56.3
+Los Angeles,3292,Multifamily Housing,30872,22.4
+Los Angeles,3293,Multifamily Housing,21468,44.7
+Los Angeles,3294,Multifamily Housing,39598,34.5
+Los Angeles,3295,Office,84850,38.1
+Los Angeles,3296,Office,30562,9.2
+Los Angeles,3297,Multifamily Housing,147954,50
+Los Angeles,3298,Office,38319,46.9
+Los Angeles,3299,Multifamily Housing,24518,46.3
+Los Angeles,3300,Multifamily Housing,39000,33.1
+Los Angeles,3301,Multifamily Housing,90133,20.1
+Los Angeles,3302,Multifamily Housing,21864,35.5
+Los Angeles,3303,Multifamily Housing,36690,35.8
+Los Angeles,3304,Multifamily Housing,48438,25.4
+Los Angeles,3305,Multifamily Housing,25328,53.6
+Los Angeles,3306,Office,57103,32.1
+Los Angeles,3307,Multifamily Housing,30890,46.7
+Los Angeles,3308,Multifamily Housing,46630,64.3
+Los Angeles,3309,Multifamily Housing,57775,55.3
+Los Angeles,3310,Multifamily Housing,34374,1.5
+Los Angeles,3311,Office,437787,39.4
+Los Angeles,3312,Office,75716,39.2
+Los Angeles,3313,Multifamily Housing,14615,67.7
+Los Angeles,3314,Multifamily Housing,26000,52.9
+Los Angeles,3315,Office,25232,112.1
+Los Angeles,3316,Office,104268,32.5
+Los Angeles,3317,Office,44648,18.7
+Los Angeles,3318,Multifamily Housing,131879,34.6
+Los Angeles,3319,Multifamily Housing,268745,50.8
+Los Angeles,3320,Multifamily Housing,25048,56.1
+Los Angeles,3321,Multifamily Housing,28739,49.2
+Los Angeles,3322,Multifamily Housing,37629,33
+Los Angeles,3323,Office,30600,46.2
+Los Angeles,3324,Multifamily Housing,29648,52.8
+Los Angeles,3325,Multifamily Housing,37108,46.2
+Los Angeles,3326,Office,46655,61.9
+Los Angeles,3327,Multifamily Housing,25038,26.8
+Los Angeles,3328,Multifamily Housing,9740,37.5
+Los Angeles,3329,Multifamily Housing,24730,42.2
+Los Angeles,3330,Multifamily Housing,23828,44.3
+Los Angeles,3331,Multifamily Housing,24430,20.7
+Los Angeles,3332,Multifamily Housing,220767,64.4
+Los Angeles,3333,Multifamily Housing,25864,38.8
+Los Angeles,3334,Multifamily Housing,26988,40
+Los Angeles,3335,Multifamily Housing,24642,38.4
+Los Angeles,3336,Office,171851,39.7
+Los Angeles,3337,Office,41160,11.2
+Los Angeles,3338,Multifamily Housing,60352,33.2
+Los Angeles,3339,Multifamily Housing,34776,38.3
+Los Angeles,3340,Multifamily Housing,32840,45
+Los Angeles,3341,Multifamily Housing,48795,26.1
+Los Angeles,3342,Office,64820,71.7
+Los Angeles,3343,Multifamily Housing,23690,77.7
+Los Angeles,3344,Multifamily Housing,20240,23.2
+Los Angeles,3345,Multifamily Housing,26969,57.7
+Los Angeles,3346,Multifamily Housing,258620,29.2
+Los Angeles,3347,Multifamily Housing,19010,44.3
+Los Angeles,3348,Multifamily Housing,22773,27.2
+Los Angeles,3349,Multifamily Housing,20300,42.4
+Los Angeles,3350,Multifamily Housing,36489,40.8
+Los Angeles,3351,Multifamily Housing,37324,50.2
+Los Angeles,3352,Multifamily Housing,32000,16.4
+Los Angeles,3353,Office,112745,63.1
+Los Angeles,3354,Multifamily Housing,82851,43.6
+Los Angeles,3355,Multifamily Housing,23343,53.6
+Los Angeles,3356,Multifamily Housing,132536,1.1
+Los Angeles,3357,Multifamily Housing,42448,1.2
+Los Angeles,3358,Multifamily Housing,21385,52.9
+Los Angeles,3359,Office,25704,68.5
+Los Angeles,3360,Multifamily Housing,20852,28.1
+Los Angeles,3361,Multifamily Housing,24480,8.6
+Los Angeles,3362,Multifamily Housing,38854,37
+Los Angeles,3363,Multifamily Housing,10950,83
+Los Angeles,3364,Multifamily Housing,241112,58.5
+Los Angeles,3365,Multifamily Housing,85000,70.2
+Los Angeles,3366,Multifamily Housing,35954,31.6
+Los Angeles,3367,Multifamily Housing,33714,36.6
+Los Angeles,3368,Multifamily Housing,206671,35
+Los Angeles,3369,Multifamily Housing,36492,39.5
+Los Angeles,3370,Multifamily Housing,22825,40.2
+Los Angeles,3371,Multifamily Housing,54347,25.6
+Los Angeles,3372,Multifamily Housing,38992,27.6
+Los Angeles,3373,Multifamily Housing,45124,53.1
+Los Angeles,3374,Multifamily Housing,30843,46.5
+Los Angeles,3375,Multifamily Housing,21074,41.2
+Los Angeles,3376,Office,423940,43.8
+Los Angeles,3377,Multifamily Housing,26540,45.5
+Los Angeles,3378,Multifamily Housing,35860,46
+Los Angeles,3379,Multifamily Housing,23535,25.9
+Los Angeles,3380,Multifamily Housing,55605,38
+Los Angeles,3381,Office,98370,1.8
+Los Angeles,3382,Multifamily Housing,49406,44.6
+Los Angeles,3383,Multifamily Housing,89746,39.8
+Los Angeles,3384,Multifamily Housing,24592,45.5
+Los Angeles,3385,Multifamily Housing,36785,58.8
+Los Angeles,3386,Multifamily Housing,24337,41.9
+Los Angeles,3387,Multifamily Housing,30145,53
+Los Angeles,3388,Office,32776,32.5
+Los Angeles,3389,Multifamily Housing,56620,37.8
+Los Angeles,3390,Multifamily Housing,22472,35.9
+Los Angeles,3391,Multifamily Housing,216000,43.1
+Los Angeles,3392,Office,29548,40.8
+Los Angeles,3393,Office,311160,107.1
+Los Angeles,3394,Multifamily Housing,45699,35.3
+Los Angeles,3395,Multifamily Housing,25692,47.5
+Los Angeles,3396,Office,27352,22.6
+Los Angeles,3397,Office,21784,42
+Los Angeles,3398,Multifamily Housing,21680,37.3
+Los Angeles,3399,Multifamily Housing,31482,46.8
+Los Angeles,3400,Multifamily Housing,21033,20.4
+Los Angeles,3401,Multifamily Housing,29842,47.4
+Los Angeles,3402,Multifamily Housing,76449,12.8
+Los Angeles,3403,Multifamily Housing,98000,42.3
+Los Angeles,3404,Multifamily Housing,33082,27.3
+Los Angeles,3405,Office,21704,115.3
+Los Angeles,3406,Multifamily Housing,142600,48.1
+Los Angeles,3407,K-12 School,45065,13.4
+Los Angeles,3408,Multifamily Housing,72401,33.1
+Los Angeles,3409,K-12 School,43623,20.7
+Los Angeles,3410,Office,92920,36
+Los Angeles,3411,Office,232242,53.7
+Los Angeles,3412,Multifamily Housing,24656,37.8
+Los Angeles,3413,Multifamily Housing,28610,22.2
+Los Angeles,3414,Multifamily Housing,37625,23.1
+Los Angeles,3415,Multifamily Housing,52000,18.7
+Los Angeles,3416,Multifamily Housing,32787,26
+Los Angeles,3417,Multifamily Housing,23747,47.7
+Los Angeles,3418,Multifamily Housing,91827,40.1
+Los Angeles,3419,Multifamily Housing,166826,18.4
+Los Angeles,3420,Multifamily Housing,47802,40.5
+Los Angeles,3421,Multifamily Housing,129177,15.6
+Los Angeles,3422,Multifamily Housing,59227,37.2
+Los Angeles,3423,Multifamily Housing,585026,60.5
+Los Angeles,3424,Multifamily Housing,31930,3.7
+Los Angeles,3425,Multifamily Housing,26043,45.5
+Los Angeles,3426,Office,27000,14.2
+Los Angeles,3427,Multifamily Housing,33210,15.4
+Los Angeles,3428,Multifamily Housing,27262,61.2
+Los Angeles,3429,Multifamily Housing,29346,37.9
+Los Angeles,3430,Multifamily Housing,34047,63.4
+Los Angeles,3431,Multifamily Housing,68659,51
+Los Angeles,3432,Office,448072,65.3
+Los Angeles,3433,Office,64547,43.6
+Los Angeles,3434,Multifamily Housing,41628,45.8
+Los Angeles,3435,Multifamily Housing,101286,43.4
+Los Angeles,3436,Multifamily Housing,25000,2.1
+Los Angeles,3437,Office,70172,38.5
+Los Angeles,3438,Multifamily Housing,22113,28.4
+Los Angeles,3439,Multifamily Housing,27097,3.4
+Los Angeles,3440,Multifamily Housing,27320,37.6
+Los Angeles,3441,Multifamily Housing,47595,26
+Los Angeles,3442,Multifamily Housing,21162,65.7
+Los Angeles,3443,Multifamily Housing,26261,42.3
+Los Angeles,3444,Office,152529,8.7
+Los Angeles,3445,Office,31500,42
+Los Angeles,3446,Multifamily Housing,49254,31.9
+Los Angeles,3447,Office,44999,40.6
+Los Angeles,3448,Multifamily Housing,78566,47.3
+Los Angeles,3449,Multifamily Housing,51488,32.7
+Los Angeles,3450,Multifamily Housing,23304,54.7
+Los Angeles,3451,Multifamily Housing,91000,30.2
+Los Angeles,3452,Multifamily Housing,24192,1.5
+Los Angeles,3453,Multifamily Housing,32944,46.1
+Los Angeles,3454,Multifamily Housing,41952,24.2
+Los Angeles,3455,Multifamily Housing,33236,65.7
+Los Angeles,3456,Office,26207,9.9
+Los Angeles,3457,Multifamily Housing,20608,13.3
+Los Angeles,3458,Multifamily Housing,22766,49.8
+Los Angeles,3459,Multifamily Housing,21696,35.9
+Los Angeles,3460,Multifamily Housing,24072,31.1
+Los Angeles,3461,Multifamily Housing,31190,57.2
+Los Angeles,3462,Office,159027,11.3
+Los Angeles,3463,Multifamily Housing,44934,11.4
+Los Angeles,3464,Office,61453,176.6
+Los Angeles,3465,Multifamily Housing,41364,28.3
+Los Angeles,3466,Office,70850,9.2
+Los Angeles,3467,Multifamily Housing,29809,40
+Los Angeles,3468,Multifamily Housing,152545,20.4
+Los Angeles,3469,Multifamily Housing,42120,30.2
+Los Angeles,3470,K-12 School,43824,23.5
+Los Angeles,3471,Multifamily Housing,24769,53.3
+Los Angeles,3472,Multifamily Housing,26409,33.3
+Los Angeles,3473,Multifamily Housing,23717,45.5
+Los Angeles,3474,Multifamily Housing,29188,42.2
+Los Angeles,3475,Multifamily Housing,88972,18.7
+Los Angeles,3476,Multifamily Housing,24036,44.8
+Los Angeles,3477,Multifamily Housing,104754,22.7
+Los Angeles,3478,Multifamily Housing,22040,27.5
+Los Angeles,3479,Multifamily Housing,30324,26.4
+Los Angeles,3480,Office,37309,27.2
+Los Angeles,3481,Multifamily Housing,27777,19
+Los Angeles,3482,Multifamily Housing,38404,29.5
+Los Angeles,3483,Multifamily Housing,113578,35.2
+Los Angeles,3484,Multifamily Housing,32409,35.5
+Los Angeles,3485,Office,72616,11.2
+Los Angeles,3486,Office,22797,21.7
+Los Angeles,3487,Multifamily Housing,27711,48.3
+Los Angeles,3488,Multifamily Housing,40170,38.7
+Los Angeles,3489,Multifamily Housing,46101,31.9
+Los Angeles,3490,Multifamily Housing,34243,46
+Los Angeles,3491,Office,88785,69.7
+Los Angeles,3492,Office,62545,65.8
+Los Angeles,3493,Multifamily Housing,43448,56.4
+Los Angeles,3494,Multifamily Housing,36495,26.2
+Los Angeles,3495,Multifamily Housing,192306,43.8
+Los Angeles,3496,Multifamily Housing,105300,38.8
+Los Angeles,3497,Multifamily Housing,67764,36.7
+Los Angeles,3498,Multifamily Housing,52613,43.9
+Los Angeles,3499,Multifamily Housing,40413,41.1
+Los Angeles,3500,Multifamily Housing,22000,34.7
+Los Angeles,3501,Multifamily Housing,35000,52.8
+Los Angeles,3502,Multifamily Housing,38230,3.1
+Los Angeles,3503,Multifamily Housing,31347,25.4
+Los Angeles,3504,Multifamily Housing,32553,32.4
+Los Angeles,3505,Multifamily Housing,30618,31.8
+Los Angeles,3506,Multifamily Housing,25638,49.9
+Los Angeles,3507,Multifamily Housing,28432,48.1
+Los Angeles,3508,Multifamily Housing,29810,53.7
+Los Angeles,3509,Office,615647,45.4
+Los Angeles,3510,Multifamily Housing,85314,29.8
+Los Angeles,3511,Multifamily Housing,21712,53.1
+Los Angeles,3512,Multifamily Housing,45707,70.2
+Los Angeles,3513,Multifamily Housing,41787,26.5
+Los Angeles,3514,Multifamily Housing,25142,65.9
+Los Angeles,3515,Office,65927,73.3
+Los Angeles,3516,Multifamily Housing,27720,34.3
+Los Angeles,3517,Multifamily Housing,27738,44.2
+Los Angeles,3518,Multifamily Housing,22752,45.6
+Los Angeles,3519,Office,37000,47.9
+Los Angeles,3520,Multifamily Housing,91823,32.1
+Los Angeles,3521,Multifamily Housing,30196,57.8
+Los Angeles,3522,Multifamily Housing,40414,32.6
+Los Angeles,3523,Office,34143,196.7
+Los Angeles,3524,Multifamily Housing,42891,9.7
+Los Angeles,3525,Office,155219,47.3
+Los Angeles,3526,Office,65983,29.9
+Los Angeles,3527,Multifamily Housing,38041,2.4
+Los Angeles,3528,Multifamily Housing,266747,52.3
+Los Angeles,3529,Multifamily Housing,73680,41.1
+Los Angeles,3530,Multifamily Housing,52117,25
+Los Angeles,3531,Multifamily Housing,503245,34.6
+Los Angeles,3532,Multifamily Housing,29600,42.8
+Los Angeles,3533,Office,53176,54.6
+Los Angeles,3534,K-12 School,30275,33.9
+Los Angeles,3535,Multifamily Housing,38808,29
+Los Angeles,3536,Multifamily Housing,504880,159.2
+Los Angeles,3537,Multifamily Housing,32104,33.2
+Los Angeles,3538,Office,176396,42.4
+Los Angeles,3539,Multifamily Housing,20793,24.3
+Los Angeles,3540,Multifamily Housing,45400,29.8
+Los Angeles,3541,Multifamily Housing,21800,54.6
+Los Angeles,3542,Multifamily Housing,63000,40.8
+Los Angeles,3543,Multifamily Housing,22867,38.4
+Los Angeles,3544,Multifamily Housing,28031,46.2
+Los Angeles,3545,Office,88863,56.4
+Los Angeles,3546,Multifamily Housing,343495,26.6
+Los Angeles,3547,Multifamily Housing,24340,44.8
+Los Angeles,3548,Multifamily Housing,24492,34.8
+Los Angeles,3549,Multifamily Housing,39712,48.7
+Los Angeles,3550,Multifamily Housing,40884,33.7
+Los Angeles,3551,Multifamily Housing,31030,37.6
+Los Angeles,3552,Office,20470,140.9
+Los Angeles,3553,Multifamily Housing,22320,69.7
+Los Angeles,3554,Multifamily Housing,107889,33.5
+Los Angeles,3555,Multifamily Housing,47356,32.2
+Los Angeles,3556,Multifamily Housing,277069,35.6
+Los Angeles,3557,Multifamily Housing,31675,1.3
+Los Angeles,3558,Office,234781,52.7
+Los Angeles,3559,Multifamily Housing,29250,3
+Los Angeles,3560,Office,124367,79.2
+Los Angeles,3561,Multifamily Housing,38860,37.8
+Los Angeles,3562,Office,78000,47
+Los Angeles,3563,Multifamily Housing,36128,24.1
+Los Angeles,3564,Multifamily Housing,45156,42.7
+Los Angeles,3565,Office,35949,88.3
+Los Angeles,3566,Multifamily Housing,32698,31.6
+Los Angeles,3567,Office,125815,95.6
+Los Angeles,3568,Multifamily Housing,78289,20.1
+Los Angeles,3569,Office,257217,69.3
+Los Angeles,3570,Multifamily Housing,24083,37.9
+Los Angeles,3571,Multifamily Housing,26514,18.6
+Los Angeles,3572,Office,35741,25.3
+Los Angeles,3573,Office,455222,9
+Los Angeles,3574,Multifamily Housing,82613,77.7
+Los Angeles,3575,Multifamily Housing,23000,54.2
+Los Angeles,3576,Multifamily Housing,21617,41.8
+Los Angeles,3577,Multifamily Housing,22494,21.2
+Los Angeles,3578,Multifamily Housing,37004,48.1
+Los Angeles,3579,Office,502592,39.6
+Los Angeles,3580,Multifamily Housing,28631,24.4
+Los Angeles,3581,Multifamily Housing,60165,66.4
+Los Angeles,3582,Multifamily Housing,55416,36.1

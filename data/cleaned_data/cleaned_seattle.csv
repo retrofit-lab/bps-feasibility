@@ -1,0 +1,2422 @@
+city,prop_id,facility_type,floor_area,site_eui
+Seattle,1,Multifamily Housing,62216,81.7
+Seattle,2,K-12 School,56228,28.1
+Seattle,3,K-12 School,126351,39.8
+Seattle,4,K-12 School,160645,41
+Seattle,5,K-12 School,51582,27.2
+Seattle,6,Office,87262,56.1
+Seattle,7,K-12 School,54986,34.2
+Seattle,8,K-12 School,175565,42.3
+Seattle,9,Office,94900,137.3
+Seattle,10,Office,52554,45.7
+Seattle,11,K-12 School,175015,56.6
+Seattle,12,Office,88717,51.9
+Seattle,13,Office,59400,40.8
+Seattle,14,K-12 School,56072,63.3
+Seattle,15,Office,54984,65.7
+Seattle,16,K-12 School,78972,22.4
+Seattle,17,Office,287367,52.6
+Seattle,18,Office,571329,59.2
+Seattle,19,Office,63888,73.8
+Seattle,20,Office,616891,52.4
+Seattle,21,Office,50283,59.7
+Seattle,22,K-12 School,75364,30.4
+Seattle,23,K-12 School,67743,49.6
+Seattle,24,Office,63681,82.9
+Seattle,25,K-12 School,60725,34
+Seattle,26,K-12 School,130862,57.4
+Seattle,27,K-12 School,59955,26.4
+Seattle,28,K-12 School,93218,34.2
+Seattle,29,K-12 School,131013,38.8
+Seattle,30,K-12 School,245587,45.8
+Seattle,31,K-12 School,66588,6.6
+Seattle,32,K-12 School,44324,33.2
+Seattle,33,K-12 School,289588,28.4
+Seattle,34,Office,96300,142.2
+Seattle,35,K-12 School,254523,45.1
+Seattle,36,K-12 School,78804,38.1
+Seattle,37,K-12 School,66994,37.1
+Seattle,38,K-12 School,98357,36.9
+Seattle,39,Office,54765,85.7
+Seattle,40,Multifamily Housing,102100,32.1
+Seattle,41,K-12 School,236758,28.4
+Seattle,42,K-12 School,62526,36.7
+Seattle,43,K-12 School,242795,33.3
+Seattle,44,K-12 School,173185,41.5
+Seattle,45,K-12 School,145341,42.9
+Seattle,46,K-12 School,184125,38.8
+Seattle,47,K-12 School,160270,32.5
+Seattle,48,K-12 School,367884,33.6
+Seattle,49,K-12 School,46797,45.1
+Seattle,50,Office,529375,37.6
+Seattle,51,K-12 School,136188,38.9
+Seattle,52,K-12 School,67371,33.7
+Seattle,53,K-12 School,127776,32.8
+Seattle,54,K-12 School,67235,34.4
+Seattle,55,Office,91130,97.5
+Seattle,56,K-12 School,58118,25.1
+Seattle,57,K-12 School,52792,23.8
+Seattle,58,K-12 School,70762,55
+Seattle,59,Office,44558,31
+Seattle,60,Office,190642,50.7
+Seattle,61,Multifamily Housing,71606,55.1
+Seattle,62,Multifamily Housing,116947,83.1
+Seattle,63,Multifamily Housing,37940,40.5
+Seattle,64,K-12 School,71714,41.1
+Seattle,65,K-12 School,208981,41.3
+Seattle,66,Office,50759,55.1
+Seattle,67,K-12 School,269297,36.8
+Seattle,68,K-12 School,75174,38.7
+Seattle,69,K-12 School,75214,50
+Seattle,70,K-12 School,134918,25.4
+Seattle,71,K-12 School,64414,31.8
+Seattle,72,K-12 School,92437,65.3
+Seattle,73,Multifamily Housing,56617,34.3
+Seattle,74,Multifamily Housing,56745,64.9
+Seattle,75,Multifamily Housing,67920,57.6
+Seattle,76,K-12 School,204961,42.9
+Seattle,77,Office,56500,36.3
+Seattle,78,Office,74003,99.9
+Seattle,79,Office,59158,69.5
+Seattle,80,Office,212210,71.5
+Seattle,81,Office,389150,57.3
+Seattle,82,Office,791396,69
+Seattle,83,Office,542671,47.9
+Seattle,84,Office,55652,64
+Seattle,85,Office,174790,48.6
+Seattle,86,Office,73399,56.9
+Seattle,87,Office,233517,77.9
+Seattle,88,Office,669915,47.5
+Seattle,89,Office,339240,39.2
+Seattle,90,Office,89550,7
+Seattle,91,Office,89355,12.5
+Seattle,92,Office,388934,33.2
+Seattle,93,Office,384302,36
+Seattle,94,Office,293925,79.8
+Seattle,95,Office,1323055,35.7
+Seattle,96,Office,460489,40.4
+Seattle,97,Office,87315,52.9
+Seattle,98,Office,438072,31.2
+Seattle,99,Office,146922,157.8
+Seattle,100,Office,614158,53.4
+Seattle,101,Office,162993,55.3
+Seattle,102,Office,754455,53.1
+Seattle,103,Office,888049,46.8
+Seattle,104,Office,540589,58.9
+Seattle,105,Office,201480,45.3
+Seattle,106,Office,1195387,40.1
+Seattle,107,Office,168870,75.3
+Seattle,108,Office,319539,51.9
+Seattle,109,Office,106099,35
+Seattle,110,Office,474546,63.5
+Seattle,111,Office,81071,59.2
+Seattle,112,Office,90803,32.4
+Seattle,113,Office,137929,38.9
+Seattle,114,Office,349055,54.2
+Seattle,115,Office,378769,47.7
+Seattle,116,Office,427155,48.7
+Seattle,117,Office,272410,45
+Seattle,118,Office,203880,52.4
+Seattle,119,Office,144118,39.6
+Seattle,120,Office,191117,199.9
+Seattle,121,Office,50176,57.4
+Seattle,122,Office,304346,61.6
+Seattle,123,Office,226061,51.3
+Seattle,124,Office,269900,74.4
+Seattle,125,Office,298426,101.1
+Seattle,126,Office,476871,94.7
+Seattle,127,Office,71421,44.5
+Seattle,128,Office,106465,96.3
+Seattle,129,Office,350310,46.1
+Seattle,130,Office,1115000,46
+Seattle,131,Office,1023998,46.2
+Seattle,132,Office,135918,47.4
+Seattle,133,Office,127268,61
+Seattle,134,Office,500000,42.5
+Seattle,135,Office,132326,45.9
+Seattle,136,Office,96630,77.7
+Seattle,137,Office,109266,82.4
+Seattle,138,Office,60660,41.9
+Seattle,139,Office,137500,35.1
+Seattle,140,Office,151039,64.8
+Seattle,141,Office,620338,73
+Seattle,142,Office,130893,52.9
+Seattle,143,Office,1215718,38.7
+Seattle,144,Office,757986,31.9
+Seattle,145,Office,353366,56.4
+Seattle,146,Office,100717,48.7
+Seattle,147,Office,70000,61.3
+Seattle,148,Office,189629,51.2
+Seattle,149,Office,102846,51.2
+Seattle,150,Office,52800,44.5
+Seattle,151,Office,268832,70.7
+Seattle,152,Office,237282,18.3
+Seattle,153,Office,120200,197.9
+Seattle,154,Office,94472,57.8
+Seattle,155,Office,61800,44.8
+Seattle,156,Multifamily Housing,320844,29.9
+Seattle,157,Office,116182,32.5
+Seattle,158,Office,74880,70.8
+Seattle,159,Office,88774,75.3
+Seattle,160,Office,53730,74.6
+Seattle,161,Office,55593,73.4
+Seattle,162,Office,73096,56.6
+Seattle,163,Office,287819,167.5
+Seattle,164,Office,118248,44.1
+Seattle,165,Office,86700,61
+Seattle,166,Office,172371,41.6
+Seattle,167,Office,353919,94.4
+Seattle,168,Office,131592,75.8
+Seattle,169,Office,136143,59.7
+Seattle,170,Office,193198,33.9
+Seattle,171,Office,70135,90.7
+Seattle,172,Office,67236,45.7
+Seattle,173,Office,66762,44
+Seattle,174,Office,66762,44.4
+Seattle,175,Office,58195,27
+Seattle,176,Office,66400,43.5
+Seattle,177,Office,95426,48.5
+Seattle,178,Office,53472,96.8
+Seattle,179,Office,166128,58.5
+Seattle,180,Office,268920,36.1
+Seattle,181,Office,87833,60.3
+Seattle,182,Office,143508,40.2
+Seattle,183,Office,53250,38.3
+Seattle,184,Office,51592,50.4
+Seattle,185,Office,183578,50.5
+Seattle,186,Office,211900,43.4
+Seattle,187,Office,62220,39.4
+Seattle,188,Office,54175,84.2
+Seattle,189,Office,77953,52.5
+Seattle,190,Office,86483,72.3
+Seattle,191,Office,91649,56.3
+Seattle,192,Office,104500,59.7
+Seattle,193,Office,53620,49.1
+Seattle,194,Office,50008,41.1
+Seattle,195,Office,191000,40.1
+Seattle,196,Office,124721,88.9
+Seattle,197,Office,94002,65
+Seattle,198,Office,228796,39.8
+Seattle,199,Office,78920,30.2
+Seattle,200,Office,73260,51.3
+Seattle,201,Office,69817,39.5
+Seattle,202,Office,84750,30.8
+Seattle,203,Office,62176,55.7
+Seattle,204,Office,164380,50.1
+Seattle,205,Office,160580,51.8
+Seattle,206,Office,54805,65.6
+Seattle,207,Office,73470,47.6
+Seattle,208,Office,103200,42.4
+Seattle,209,Office,66842,104.9
+Seattle,210,Office,64488,43.6
+Seattle,211,Office,204504,34.9
+Seattle,212,Office,285914,77.7
+Seattle,213,Office,64512,100
+Seattle,214,Office,60592,87.5
+Seattle,215,Office,1750319,47.2
+Seattle,216,Office,76624,41
+Seattle,217,Office,55123,109.5
+Seattle,218,Office,121885,64.8
+Seattle,219,Multifamily Housing,106740,30.6
+Seattle,220,Office,312512,69.5
+Seattle,221,Office,1295457,42
+Seattle,222,Office,97720,104.8
+Seattle,223,Office,166975,65.9
+Seattle,224,Office,56700,54.2
+Seattle,225,Office,72000,38.2
+Seattle,226,Office,96254,39.8
+Seattle,227,Multifamily Housing,276497,44.6
+Seattle,228,Office,237527,48.8
+Seattle,229,Multifamily Housing,195993,66.6
+Seattle,230,Office,454273,54.7
+Seattle,231,Office,88470,51.6
+Seattle,232,Office,78852,64.4
+Seattle,233,Office,98668,43.5
+Seattle,234,Office,213696,52.5
+Seattle,235,Office,59800,48.4
+Seattle,236,Office,110111,98.4
+Seattle,237,Office,87051,141.3
+Seattle,238,Office,103966,57.6
+Seattle,239,Office,137201,33.6
+Seattle,240,Office,129362,59.4
+Seattle,241,Office,197203,56.8
+Seattle,242,Office,187130,50.3
+Seattle,243,Office,133177,116.6
+Seattle,244,Office,93555,43.7
+Seattle,245,Office,167860,37.4
+Seattle,246,Office,211043,23.7
+Seattle,247,Office,112560,43.5
+Seattle,248,Office,86204,40.8
+Seattle,249,Office,112896,90.5
+Seattle,250,Office,70074,75.4
+Seattle,251,Office,113768,50.9
+Seattle,252,Office,51374,144.1
+Seattle,253,Office,118054,37.6
+Seattle,254,Office,157186,41.3
+Seattle,255,Office,84210,45.4
+Seattle,256,Office,76893,145.7
+Seattle,257,Office,126370,49.6
+Seattle,258,Office,274362,34.4
+Seattle,259,Office,261722,65.6
+Seattle,260,Office,169020,56.3
+Seattle,261,Office,293737,55.5
+Seattle,262,Office,132998,29
+Seattle,263,Office,51218,31.5
+Seattle,264,Office,387655,90.9
+Seattle,265,Office,203251,80
+Seattle,266,Office,189175,128.1
+Seattle,267,Office,219095,66.2
+Seattle,268,Office,122356,43.2
+Seattle,269,Office,52298,39.2
+Seattle,270,Office,116640,48.7
+Seattle,271,Office,1047934,87.2
+Seattle,272,Office,129000,40.8
+Seattle,273,Office,1632820,55.2
+Seattle,274,Office,81300,48.7
+Seattle,275,Office,224857,60.9
+Seattle,276,Office,321473,35.6
+Seattle,277,Office,62370,59.2
+Seattle,278,Office,99122,145.3
+Seattle,279,Office,93610,58.6
+Seattle,280,Office,238148,41.2
+Seattle,281,Office,85126,22.8
+Seattle,282,Office,142510,61
+Seattle,283,Office,79920,71.6
+Seattle,284,Office,212533,62.1
+Seattle,285,Office,275166,34.9
+Seattle,286,K-12 School,52924,36.8
+Seattle,287,Office,90266,56
+Seattle,288,K-12 School,55353,21.5
+Seattle,289,Office,338063,58.9
+Seattle,290,K-12 School,61183,39
+Seattle,291,Multifamily Housing,31334,22.4
+Seattle,292,Multifamily Housing,47658,26.8
+Seattle,293,Multifamily Housing,56986,34.7
+Seattle,294,Multifamily Housing,24059,30.9
+Seattle,295,Multifamily Housing,60487,28.9
+Seattle,296,Multifamily Housing,29914,30.1
+Seattle,297,Multifamily Housing,74614,54.8
+Seattle,298,Multifamily Housing,23937,26.6
+Seattle,299,K-12 School,46732,52.1
+Seattle,300,Multifamily Housing,86992,34.5
+Seattle,301,Multifamily Housing,26211,53.8
+Seattle,302,Multifamily Housing,28260,80.6
+Seattle,303,Multifamily Housing,321945,72.7
+Seattle,304,Multifamily Housing,22852,25.1
+Seattle,305,Office,38460,48.1
+Seattle,306,Multifamily Housing,86955,30.9
+Seattle,307,Multifamily Housing,194919,29.8
+Seattle,308,Multifamily Housing,20214,29.4
+Seattle,309,Multifamily Housing,21888,33.2
+Seattle,310,Multifamily Housing,66849,29.7
+Seattle,311,Multifamily Housing,30240,28.2
+Seattle,312,Multifamily Housing,59440,47
+Seattle,313,Multifamily Housing,22445,22.7
+Seattle,314,Multifamily Housing,45878,23.2
+Seattle,315,Multifamily Housing,37824,26.2
+Seattle,316,Multifamily Housing,38765,39.7
+Seattle,317,K-12 School,51489,44.8
+Seattle,318,Multifamily Housing,26815,39.3
+Seattle,319,Multifamily Housing,22529,28.5
+Seattle,320,Multifamily Housing,88424,51.5
+Seattle,321,Multifamily Housing,21991,30.7
+Seattle,322,Multifamily Housing,120405,31.1
+Seattle,323,Multifamily Housing,23976,24.9
+Seattle,324,Multifamily Housing,169149,32.4
+Seattle,325,Multifamily Housing,25368,33.3
+Seattle,326,Office,43500,77.7
+Seattle,327,Office,22325,41.1
+Seattle,328,Multifamily Housing,50141,72.1
+Seattle,329,Multifamily Housing,114212,59.7
+Seattle,330,Multifamily Housing,58954,51.6
+Seattle,331,Multifamily Housing,37992,36.1
+Seattle,332,Multifamily Housing,62876,28.6
+Seattle,333,Multifamily Housing,40562,30
+Seattle,334,Multifamily Housing,40489,56.5
+Seattle,335,Multifamily Housing,28500,29.6
+Seattle,336,Multifamily Housing,24169,31.3
+Seattle,337,Multifamily Housing,105707,47.7
+Seattle,338,Multifamily Housing,86560,53.1
+Seattle,339,Multifamily Housing,79235,48.5
+Seattle,340,Multifamily Housing,95456,37
+Seattle,341,Multifamily Housing,135433,29.4
+Seattle,342,Multifamily Housing,33400,52.4
+Seattle,343,Multifamily Housing,85042,42.1
+Seattle,344,K-12 School,37327,34.8
+Seattle,345,Multifamily Housing,37619,26.4
+Seattle,346,Multifamily Housing,24178,31.8
+Seattle,347,Multifamily Housing,107518,40.7
+Seattle,348,Multifamily Housing,30720,31.6
+Seattle,349,Multifamily Housing,167941,17
+Seattle,350,Multifamily Housing,38970,21.7
+Seattle,351,Multifamily Housing,24648,21.2
+Seattle,352,Multifamily Housing,34270,31.8
+Seattle,353,Multifamily Housing,24864,24.2
+Seattle,354,Multifamily Housing,39050,37.6
+Seattle,355,Multifamily Housing,77800,58.3
+Seattle,356,Office,48505,105.3
+Seattle,357,Multifamily Housing,409137,33.5
+Seattle,358,Multifamily Housing,94595,24.8
+Seattle,359,Office,64630,20
+Seattle,360,Multifamily Housing,26640,79.1
+Seattle,361,Multifamily Housing,40329,106.3
+Seattle,362,Office,20565,39.2
+Seattle,363,Multifamily Housing,34880,22.8
+Seattle,364,Multifamily Housing,56776,27.8
+Seattle,365,Multifamily Housing,77887,37.7
+Seattle,366,Multifamily Housing,26880,47.6
+Seattle,367,Multifamily Housing,23098,19.9
+Seattle,368,Multifamily Housing,171306,27.5
+Seattle,369,Multifamily Housing,43228,28.3
+Seattle,370,Multifamily Housing,23231,22.9
+Seattle,371,Multifamily Housing,172125,48.7
+Seattle,372,Multifamily Housing,39251,30.5
+Seattle,373,Multifamily Housing,44715,41.6
+Seattle,374,Multifamily Housing,21715,27
+Seattle,375,Multifamily Housing,62659,36.2
+Seattle,376,Multifamily Housing,56652,28.3
+Seattle,377,Multifamily Housing,20798,30
+Seattle,378,Multifamily Housing,19542,27.8
+Seattle,379,Multifamily Housing,31537,29.1
+Seattle,380,Multifamily Housing,48744,31.8
+Seattle,381,Multifamily Housing,23931,24.2
+Seattle,382,Multifamily Housing,72763,31.1
+Seattle,383,Multifamily Housing,59600,24.2
+Seattle,384,Multifamily Housing,32170,24.7
+Seattle,385,Multifamily Housing,47151,48.1
+Seattle,386,Multifamily Housing,21712,63.2
+Seattle,387,Multifamily Housing,46413,39.5
+Seattle,388,Multifamily Housing,57856,28.1
+Seattle,389,Multifamily Housing,53698,20.6
+Seattle,390,Multifamily Housing,23338,72.6
+Seattle,391,Multifamily Housing,39594,21.5
+Seattle,392,Office,20028,30.8
+Seattle,393,Multifamily Housing,65535,46.2
+Seattle,394,Office,23563,33.6
+Seattle,395,Office,26840,60.8
+Seattle,396,Office,37350,31.8
+Seattle,397,Office,28800,56.9
+Seattle,398,Multifamily Housing,36676,59.6
+Seattle,399,Office,28584,42.6
+Seattle,400,Office,49800,47.8
+Seattle,401,Multifamily Housing,33440,102.5
+Seattle,402,Multifamily Housing,54102,53.7
+Seattle,403,Multifamily Housing,226500,63.4
+Seattle,404,Multifamily Housing,142497,25
+Seattle,405,Multifamily Housing,143183,46
+Seattle,406,Multifamily Housing,21284,41.8
+Seattle,407,Multifamily Housing,48786,30.9
+Seattle,408,Office,27000,125.3
+Seattle,409,Multifamily Housing,60476,45.2
+Seattle,410,Multifamily Housing,538339,48.9
+Seattle,411,Multifamily Housing,25129,49.4
+Seattle,412,Multifamily Housing,41359,76.5
+Seattle,413,Multifamily Housing,21095,36.4
+Seattle,414,Multifamily Housing,129092,30
+Seattle,415,Multifamily Housing,18162,24.8
+Seattle,416,Office,28304,43.2
+Seattle,417,Multifamily Housing,442704,34.4
+Seattle,418,Multifamily Housing,31054,31.4
+Seattle,419,Multifamily Housing,34060,56.4
+Seattle,420,Multifamily Housing,37300,64.1
+Seattle,421,Multifamily Housing,254309,28
+Seattle,422,Multifamily Housing,119764,25
+Seattle,423,Multifamily Housing,40636,63.1
+Seattle,424,Multifamily Housing,22400,35.1
+Seattle,425,Multifamily Housing,70200,49.5
+Seattle,426,Multifamily Housing,21840,47.3
+Seattle,427,Multifamily Housing,27993,80.2
+Seattle,428,Multifamily Housing,326619,43.4
+Seattle,429,Office,23752,62
+Seattle,430,Multifamily Housing,34080,34.5
+Seattle,431,Multifamily Housing,224732,18
+Seattle,432,Multifamily Housing,62607,26.3
+Seattle,433,Multifamily Housing,31702,34.4
+Seattle,434,Multifamily Housing,29765,55.6
+Seattle,435,Multifamily Housing,27182,75.7
+Seattle,436,Multifamily Housing,91435,36
+Seattle,437,Multifamily Housing,22374,21.8
+Seattle,438,Multifamily Housing,61802,66.6
+Seattle,439,K-12 School,35805,20
+Seattle,440,Multifamily Housing,42561,36.7
+Seattle,441,Multifamily Housing,51490,31.5
+Seattle,442,Multifamily Housing,45348,29.3
+Seattle,443,Multifamily Housing,31317,35.8
+Seattle,444,Multifamily Housing,99372,41.2
+Seattle,445,Multifamily Housing,26744,24.8
+Seattle,446,Multifamily Housing,30060,25.4
+Seattle,447,Multifamily Housing,119996,42.2
+Seattle,448,Multifamily Housing,23794,24
+Seattle,449,Multifamily Housing,48996,32.7
+Seattle,450,Multifamily Housing,37090,29.9
+Seattle,451,Multifamily Housing,23533,52.2
+Seattle,452,Multifamily Housing,50098,44.1
+Seattle,453,Multifamily Housing,32612,24.7
+Seattle,454,Multifamily Housing,58485,43.3
+Seattle,455,Multifamily Housing,91617,29.6
+Seattle,456,Multifamily Housing,52654,30.9
+Seattle,457,Office,20384,65.9
+Seattle,458,Multifamily Housing,21528,30.6
+Seattle,459,Multifamily Housing,273154,43
+Seattle,460,Multifamily Housing,26157,14
+Seattle,461,Multifamily Housing,39201,70
+Seattle,462,Multifamily Housing,23568,42.8
+Seattle,463,Multifamily Housing,21130,70.5
+Seattle,464,Multifamily Housing,36880,57.9
+Seattle,465,Office,32256,99.6
+Seattle,466,Multifamily Housing,340214,54
+Seattle,467,Multifamily Housing,140241,67.5
+Seattle,468,Multifamily Housing,159820,24.8
+Seattle,469,Multifamily Housing,60858,33.5
+Seattle,470,Multifamily Housing,28033,27.6
+Seattle,471,Multifamily Housing,39816,33.2
+Seattle,472,Multifamily Housing,75187,95.1
+Seattle,473,Multifamily Housing,63924,28.5
+Seattle,474,Multifamily Housing,20400,40.4
+Seattle,475,Multifamily Housing,28296,27.1
+Seattle,476,Multifamily Housing,41664,23.4
+Seattle,477,Multifamily Housing,67403,86.9
+Seattle,478,Multifamily Housing,371539,23.3
+Seattle,479,Multifamily Housing,30180,66.5
+Seattle,480,K-12 School,21600,88
+Seattle,481,K-12 School,22860,48.8
+Seattle,482,Multifamily Housing,25490,27.6
+Seattle,483,Multifamily Housing,297636,32.7
+Seattle,484,Multifamily Housing,25137,27.6
+Seattle,485,Multifamily Housing,31236,27.2
+Seattle,486,Multifamily Housing,140759,30.6
+Seattle,487,Multifamily Housing,27119,22.5
+Seattle,488,Multifamily Housing,43752,35.3
+Seattle,489,Multifamily Housing,52588,23.8
+Seattle,490,Multifamily Housing,160561,39.4
+Seattle,491,Multifamily Housing,34678,29.1
+Seattle,492,Multifamily Housing,145812,35
+Seattle,493,K-12 School,38624,36.4
+Seattle,494,Multifamily Housing,22874,26
+Seattle,495,Multifamily Housing,21469,26.4
+Seattle,496,Multifamily Housing,50252,32.1
+Seattle,497,Multifamily Housing,20480,31
+Seattle,498,Multifamily Housing,43130,25.6
+Seattle,499,Multifamily Housing,93502,32.6
+Seattle,500,Multifamily Housing,20260,29.5
+Seattle,501,Multifamily Housing,23742,27.7
+Seattle,502,Multifamily Housing,16758,30.3
+Seattle,503,Multifamily Housing,21176,26.2
+Seattle,504,Multifamily Housing,31075,21.3
+Seattle,505,Multifamily Housing,28700,26.4
+Seattle,506,Multifamily Housing,22542,25.8
+Seattle,507,Multifamily Housing,24680,31.9
+Seattle,508,Multifamily Housing,63837,43
+Seattle,509,Multifamily Housing,22320,81.7
+Seattle,510,Multifamily Housing,26639,25.5
+Seattle,511,Multifamily Housing,27671,29.2
+Seattle,512,Multifamily Housing,25568,28.2
+Seattle,513,Multifamily Housing,25904,36.1
+Seattle,514,Multifamily Housing,24548,29.5
+Seattle,515,Multifamily Housing,53480,36.9
+Seattle,516,Multifamily Housing,104050,23.5
+Seattle,517,Multifamily Housing,114503,30
+Seattle,518,Multifamily Housing,26120,46.7
+Seattle,519,Multifamily Housing,47791,24.8
+Seattle,520,Multifamily Housing,29683,29.8
+Seattle,521,Multifamily Housing,40791,37.1
+Seattle,522,Multifamily Housing,56319,54.2
+Seattle,523,Multifamily Housing,30948,20.7
+Seattle,524,Multifamily Housing,30786,29.4
+Seattle,525,Multifamily Housing,41443,33.3
+Seattle,526,Multifamily Housing,130680,28.3
+Seattle,527,Multifamily Housing,84240,17.7
+Seattle,528,K-12 School,21500,63.8
+Seattle,529,Multifamily Housing,96578,27.5
+Seattle,530,Multifamily Housing,30834,22.4
+Seattle,531,Multifamily Housing,21536,36.7
+Seattle,532,Multifamily Housing,34572,21.2
+Seattle,533,Multifamily Housing,39581,20.7
+Seattle,534,Multifamily Housing,23177,23.1
+Seattle,535,Multifamily Housing,54360,32.2
+Seattle,536,Multifamily Housing,70207,58.1
+Seattle,537,Office,57619,82.1
+Seattle,538,Office,25558,27
+Seattle,539,K-12 School,55206,38.7
+Seattle,540,Multifamily Housing,81732,29.3
+Seattle,541,Multifamily Housing,26568,22.4
+Seattle,542,Multifamily Housing,182494,28.3
+Seattle,543,Multifamily Housing,113462,27.9
+Seattle,544,Office,39960,45
+Seattle,545,Multifamily Housing,41452,45.3
+Seattle,546,Multifamily Housing,45320,73.8
+Seattle,547,Multifamily Housing,35584,35.3
+Seattle,548,K-12 School,33462,63.3
+Seattle,549,K-12 School,49744,57.2
+Seattle,550,Multifamily Housing,64602,53.5
+Seattle,551,Multifamily Housing,142099,68
+Seattle,552,Multifamily Housing,166230,37.2
+Seattle,553,Multifamily Housing,23983,20.7
+Seattle,554,Multifamily Housing,25891,23.8
+Seattle,555,Multifamily Housing,85990,40.1
+Seattle,556,Multifamily Housing,25475,46.1
+Seattle,557,Multifamily Housing,40779,26.5
+Seattle,558,Multifamily Housing,38328,34.3
+Seattle,559,Multifamily Housing,159277,31.7
+Seattle,560,Multifamily Housing,86283,43.1
+Seattle,561,Multifamily Housing,46489,25.1
+Seattle,562,Multifamily Housing,227479,45.7
+Seattle,563,Multifamily Housing,50567,30
+Seattle,564,K-12 School,32590,34.7
+Seattle,565,Multifamily Housing,73234,26.1
+Seattle,566,Multifamily Housing,132358,36.3
+Seattle,567,Office,61419,42
+Seattle,568,Multifamily Housing,22960,47.8
+Seattle,569,Multifamily Housing,52166,29.7
+Seattle,570,K-12 School,51704,36.7
+Seattle,571,Office,29740,48.5
+Seattle,572,Office,38075,83.2
+Seattle,573,Multifamily Housing,111176,35.1
+Seattle,574,Office,39170,54.3
+Seattle,575,Multifamily Housing,25514,42.7
+Seattle,576,Multifamily Housing,37080,31.2
+Seattle,577,Multifamily Housing,22108,40.7
+Seattle,578,Multifamily Housing,52763,34
+Seattle,579,Multifamily Housing,51203,60
+Seattle,580,Multifamily Housing,58735,39.1
+Seattle,581,Multifamily Housing,23293,35.4
+Seattle,582,Multifamily Housing,31455,65.7
+Seattle,583,Multifamily Housing,21723,24.7
+Seattle,584,Multifamily Housing,24939,24.8
+Seattle,585,Multifamily Housing,76966,38.3
+Seattle,586,Multifamily Housing,25885,27.8
+Seattle,587,Multifamily Housing,118154,42.8
+Seattle,588,Multifamily Housing,61715,30.1
+Seattle,589,K-12 School,62078,33
+Seattle,590,Multifamily Housing,62665,45.8
+Seattle,591,Multifamily Housing,29492,19.6
+Seattle,592,Multifamily Housing,62820,25.1
+Seattle,593,Multifamily Housing,27076,25.2
+Seattle,594,Multifamily Housing,48150,27.4
+Seattle,595,Multifamily Housing,59227,38.3
+Seattle,596,Multifamily Housing,25248,73.1
+Seattle,597,Multifamily Housing,28380,24.3
+Seattle,598,Multifamily Housing,24783,60.6
+Seattle,599,Multifamily Housing,37767,33.8
+Seattle,600,Multifamily Housing,26044,42.2
+Seattle,601,Multifamily Housing,36926,37.4
+Seattle,602,Multifamily Housing,84138,51.1
+Seattle,603,Multifamily Housing,28284,64.9
+Seattle,604,Multifamily Housing,21376,66.2
+Seattle,605,Multifamily Housing,26678,63.2
+Seattle,606,K-12 School,32691,34.7
+Seattle,607,Multifamily Housing,40758,32.1
+Seattle,608,Multifamily Housing,24540,29.7
+Seattle,609,Multifamily Housing,32738,59.6
+Seattle,610,Multifamily Housing,219874,75.6
+Seattle,611,Multifamily Housing,66096,57.3
+Seattle,612,Multifamily Housing,190610,88.3
+Seattle,613,Multifamily Housing,50028,32.3
+Seattle,614,Multifamily Housing,42093,35.6
+Seattle,615,Multifamily Housing,23271,20.6
+Seattle,616,Multifamily Housing,30542,28.4
+Seattle,617,Multifamily Housing,34368,30.5
+Seattle,618,Multifamily Housing,108228,38.8
+Seattle,619,Multifamily Housing,20639,41.4
+Seattle,620,Multifamily Housing,31682,28.8
+Seattle,621,Multifamily Housing,31017,34
+Seattle,622,K-12 School,95501,28.7
+Seattle,623,Office,82234,41.2
+Seattle,624,Multifamily Housing,106182,16.2
+Seattle,625,Multifamily Housing,56144,27
+Seattle,626,Multifamily Housing,37885,34.2
+Seattle,627,Multifamily Housing,24330,34.8
+Seattle,628,Multifamily Housing,27683,41.1
+Seattle,629,Multifamily Housing,20148,52.7
+Seattle,630,Office,126842,51.9
+Seattle,631,Office,20500,58.3
+Seattle,632,Multifamily Housing,246019,71
+Seattle,633,Multifamily Housing,35512,24.4
+Seattle,634,K-12 School,23190,73.6
+Seattle,635,Multifamily Housing,40326,34.8
+Seattle,636,Multifamily Housing,31248,24.3
+Seattle,637,Office,39760,83.8
+Seattle,638,Multifamily Housing,89867,34.5
+Seattle,639,Office,20678,47.3
+Seattle,640,K-12 School,28820,91.9
+Seattle,641,Multifamily Housing,41316,38.2
+Seattle,642,Multifamily Housing,21600,24.1
+Seattle,643,K-12 School,48789,20.6
+Seattle,644,Multifamily Housing,89974,19.6
+Seattle,645,K-12 School,33105,60.9
+Seattle,646,Office,40029,36.4
+Seattle,647,Office,25872,64.6
+Seattle,648,Office,25872,74.6
+Seattle,649,Office,21436,18.7
+Seattle,650,Multifamily Housing,22448,22.3
+Seattle,651,Office,27526,34.1
+Seattle,652,Multifamily Housing,45956,26.2
+Seattle,653,Multifamily Housing,86358,35.5
+Seattle,654,Office,23307,66.4
+Seattle,655,Multifamily Housing,55882,107.4
+Seattle,656,Multifamily Housing,40109,54.1
+Seattle,657,Multifamily Housing,99450,39.7
+Seattle,658,Multifamily Housing,32760,36.5
+Seattle,659,Multifamily Housing,96980,63.1
+Seattle,660,Office,25920,85.7
+Seattle,661,Multifamily Housing,32460,66.8
+Seattle,662,Multifamily Housing,90920,55.2
+Seattle,663,Multifamily Housing,632849,41.5
+Seattle,664,Office,22667,174.8
+Seattle,665,Multifamily Housing,36660,27.9
+Seattle,666,Multifamily Housing,157896,31.3
+Seattle,667,Office,22388,17.8
+Seattle,668,Office,35600,62
+Seattle,669,Multifamily Housing,22625,43.6
+Seattle,670,Office,23600,29.1
+Seattle,671,Multifamily Housing,30661,35.5
+Seattle,672,Office,40067,62.2
+Seattle,673,Office,19497,45.9
+Seattle,674,Office,25262,77.4
+Seattle,675,Office,53108,62.6
+Seattle,676,Office,34106,73.6
+Seattle,677,Office,34545,39.3
+Seattle,678,Office,70296,41.9
+Seattle,679,Multifamily Housing,153006,31.4
+Seattle,680,Multifamily Housing,106146,28
+Seattle,681,Multifamily Housing,57247,52
+Seattle,682,Multifamily Housing,60767,28.4
+Seattle,683,Multifamily Housing,30940,18.5
+Seattle,684,Multifamily Housing,141849,41.7
+Seattle,685,Office,39815,54.2
+Seattle,686,Multifamily Housing,89068,42.1
+Seattle,687,Office,26275,73.9
+Seattle,688,Multifamily Housing,183392,82.2
+Seattle,689,Multifamily Housing,41336,23.8
+Seattle,690,Multifamily Housing,59301,31.6
+Seattle,691,Multifamily Housing,214332,34
+Seattle,692,Multifamily Housing,34691,44
+Seattle,693,K-12 School,48660,36.9
+Seattle,694,Multifamily Housing,35520,33.1
+Seattle,695,Office,38148,35.9
+Seattle,696,Multifamily Housing,22558,27.4
+Seattle,697,Multifamily Housing,50009,29.3
+Seattle,698,Multifamily Housing,171869,32.4
+Seattle,699,Multifamily Housing,91685,30.9
+Seattle,700,Office,52908,66.9
+Seattle,701,Multifamily Housing,59352,34.9
+Seattle,702,Multifamily Housing,22200,24.5
+Seattle,703,Multifamily Housing,44567,29.7
+Seattle,704,Multifamily Housing,25800,33
+Seattle,705,Multifamily Housing,20712,45.3
+Seattle,706,Multifamily Housing,67560,43.2
+Seattle,707,Office,40260,78.6
+Seattle,708,Office,35200,47.3
+Seattle,709,Office,35840,28
+Seattle,710,Office,30525,120.9
+Seattle,711,Multifamily Housing,42078,34.5
+Seattle,712,Multifamily Housing,27250,44.3
+Seattle,713,Multifamily Housing,55671,35.3
+Seattle,714,Multifamily Housing,50965,34.4
+Seattle,715,Multifamily Housing,30560,26.5
+Seattle,716,Multifamily Housing,225423,74.3
+Seattle,717,Multifamily Housing,24840,29.4
+Seattle,718,Multifamily Housing,69296,46.4
+Seattle,719,Multifamily Housing,59534,32
+Seattle,720,Multifamily Housing,72128,51.7
+Seattle,721,Multifamily Housing,158076,131.4
+Seattle,722,Multifamily Housing,77246,26.3
+Seattle,723,Multifamily Housing,42331,28.3
+Seattle,724,Office,73549,36.6
+Seattle,725,Multifamily Housing,21832,33.3
+Seattle,726,Multifamily Housing,256482,45.5
+Seattle,727,Multifamily Housing,43606,33.8
+Seattle,728,Multifamily Housing,58503,77.8
+Seattle,729,Office,27744,169.3
+Seattle,730,Office,508160,70.2
+Seattle,731,Office,26176,49.7
+Seattle,732,Office,37740,158.5
+Seattle,733,Multifamily Housing,132912,35.3
+Seattle,734,Office,38038,55.2
+Seattle,735,Office,40000,61.7
+Seattle,736,Office,35404,305.2
+Seattle,737,Office,130710,53.5
+Seattle,738,Office,35780,62.2
+Seattle,739,Multifamily Housing,75654,30.3
+Seattle,740,Multifamily Housing,301831,31.3
+Seattle,741,Multifamily Housing,32908,10.9
+Seattle,742,Office,47686,57.7
+Seattle,743,Multifamily Housing,970647,50.4
+Seattle,744,Multifamily Housing,42765,34.1
+Seattle,745,Multifamily Housing,31578,30.9
+Seattle,746,Multifamily Housing,45500,80.6
+Seattle,747,Office,40715,60.2
+Seattle,748,Multifamily Housing,164120,43.1
+Seattle,749,Multifamily Housing,51578,27.7
+Seattle,750,Multifamily Housing,64826,28.9
+Seattle,751,Multifamily Housing,70850,38.1
+Seattle,752,Office,36160,61.4
+Seattle,753,Multifamily Housing,39528,22.7
+Seattle,754,Multifamily Housing,57492,34.2
+Seattle,755,Multifamily Housing,42506,48.3
+Seattle,756,Multifamily Housing,80471,50.4
+Seattle,757,Office,66900,37.4
+Seattle,758,Multifamily Housing,27140,76.3
+Seattle,759,Multifamily Housing,46951,70.2
+Seattle,760,Multifamily Housing,50376,34.5
+Seattle,761,Office,36959,90.2
+Seattle,762,Office,44860,79.1
+Seattle,763,K-12 School,45960,110.1
+Seattle,764,Multifamily Housing,32626,34.9
+Seattle,765,Multifamily Housing,21112,46.9
+Seattle,766,Multifamily Housing,22646,33.1
+Seattle,767,Office,21128,19
+Seattle,768,Multifamily Housing,207624,38.8
+Seattle,769,Office,51552,31.3
+Seattle,770,Multifamily Housing,44717,25.2
+Seattle,771,Multifamily Housing,65000,30.5
+Seattle,772,Multifamily Housing,33953,29.2
+Seattle,773,Office,45864,53.1
+Seattle,774,Multifamily Housing,20594,26.8
+Seattle,775,Multifamily Housing,72459,37
+Seattle,776,K-12 School,49252,112.1
+Seattle,777,Multifamily Housing,26666,7.1
+Seattle,778,Multifamily Housing,20930,25
+Seattle,779,Multifamily Housing,39632,21
+Seattle,780,Multifamily Housing,36408,25.9
+Seattle,781,Multifamily Housing,89391,59.7
+Seattle,782,Multifamily Housing,51387,21.2
+Seattle,783,K-12 School,86558,17.2
+Seattle,784,Multifamily Housing,20559,25.8
+Seattle,785,Multifamily Housing,59414,47.3
+Seattle,786,Office,33176,36.8
+Seattle,787,Multifamily Housing,21385,23.8
+Seattle,788,Multifamily Housing,24459,27.2
+Seattle,789,Multifamily Housing,50803,42.3
+Seattle,790,K-12 School,75605,29.2
+Seattle,791,K-12 School,29525,42.5
+Seattle,792,Multifamily Housing,30891,32.2
+Seattle,793,Multifamily Housing,40542,39.5
+Seattle,794,K-12 School,94480,19.8
+Seattle,795,Multifamily Housing,65948,55.6
+Seattle,796,Multifamily Housing,41510,30
+Seattle,797,Multifamily Housing,61887,36.5
+Seattle,798,Multifamily Housing,56340,19
+Seattle,799,Multifamily Housing,25538,30.8
+Seattle,800,Multifamily Housing,44672,63.5
+Seattle,801,Multifamily Housing,25525,25.1
+Seattle,802,Multifamily Housing,33848,61.9
+Seattle,803,Multifamily Housing,28833,42.6
+Seattle,804,Multifamily Housing,24325,69.3
+Seattle,805,Multifamily Housing,33192,30.4
+Seattle,806,Multifamily Housing,18235,27.4
+Seattle,807,Multifamily Housing,28350,27.4
+Seattle,808,Multifamily Housing,19039,50.7
+Seattle,809,Multifamily Housing,44393,65
+Seattle,810,Multifamily Housing,22777,26.7
+Seattle,811,Multifamily Housing,37485,27.7
+Seattle,812,Multifamily Housing,45572,36.2
+Seattle,813,Multifamily Housing,43128,72.3
+Seattle,814,Multifamily Housing,24046,77.9
+Seattle,815,Multifamily Housing,22082,40.1
+Seattle,816,Multifamily Housing,31318,25.3
+Seattle,817,Multifamily Housing,27005,29.9
+Seattle,818,Multifamily Housing,65471,27.4
+Seattle,819,Multifamily Housing,26375,42.9
+Seattle,820,Office,22364,71.6
+Seattle,821,Office,41262,52.1
+Seattle,822,Multifamily Housing,26250,47.8
+Seattle,823,Multifamily Housing,22852,56.1
+Seattle,824,Multifamily Housing,22177,23.1
+Seattle,825,Multifamily Housing,43712,47.6
+Seattle,826,Multifamily Housing,57050,33.5
+Seattle,827,Multifamily Housing,68455,36.7
+Seattle,828,Multifamily Housing,55604,37
+Seattle,829,Multifamily Housing,23282,23.9
+Seattle,830,Multifamily Housing,37340,22.2
+Seattle,831,Multifamily Housing,37161,19.2
+Seattle,832,Multifamily Housing,22320,63.8
+Seattle,833,Multifamily Housing,336003,31.7
+Seattle,834,Office,43183,161.2
+Seattle,835,Multifamily Housing,26261,23.8
+Seattle,836,Multifamily Housing,20010,28.3
+Seattle,837,Multifamily Housing,149697,33.5
+Seattle,838,Multifamily Housing,36413,56.5
+Seattle,839,Multifamily Housing,60012,34.3
+Seattle,840,Multifamily Housing,23837,35.7
+Seattle,841,Multifamily Housing,24880,88.8
+Seattle,842,Multifamily Housing,195800,32.2
+Seattle,843,Multifamily Housing,36389,39.9
+Seattle,844,Multifamily Housing,48074,74.5
+Seattle,845,Multifamily Housing,24000,31.6
+Seattle,846,Multifamily Housing,121441,64.2
+Seattle,847,Multifamily Housing,25301,28.2
+Seattle,848,Multifamily Housing,27922,21.8
+Seattle,849,Multifamily Housing,36709,23.5
+Seattle,850,Office,28844,42.8
+Seattle,851,K-12 School,54528,27.9
+Seattle,852,Multifamily Housing,330433,64.3
+Seattle,853,Multifamily Housing,170000,55.3
+Seattle,854,K-12 School,63600,50.1
+Seattle,855,K-12 School,83882,48.3
+Seattle,856,Multifamily Housing,26088,34.6
+Seattle,857,Multifamily Housing,48092,29.2
+Seattle,858,Multifamily Housing,34023,24.1
+Seattle,859,Multifamily Housing,45421,19.2
+Seattle,860,Multifamily Housing,48306,20.2
+Seattle,861,Multifamily Housing,32054,30.6
+Seattle,862,Multifamily Housing,29222,25.9
+Seattle,863,Multifamily Housing,44674,24.6
+Seattle,864,Multifamily Housing,30236,31.1
+Seattle,865,Multifamily Housing,214625,40.2
+Seattle,866,Multifamily Housing,45197,22.8
+Seattle,867,Multifamily Housing,65604,25.2
+Seattle,868,Multifamily Housing,213276,50.5
+Seattle,869,Multifamily Housing,480789,36.6
+Seattle,870,Multifamily Housing,35837,29.8
+Seattle,871,Multifamily Housing,41567,23.4
+Seattle,872,Multifamily Housing,284970,40.8
+Seattle,873,Multifamily Housing,116143,27
+Seattle,874,Multifamily Housing,37906,19.6
+Seattle,875,Multifamily Housing,26159,25.7
+Seattle,876,Office,39927,74
+Seattle,877,Office,20022,32.1
+Seattle,878,Multifamily Housing,67910,29.8
+Seattle,879,Multifamily Housing,22208,27.7
+Seattle,880,Multifamily Housing,235003,50.3
+Seattle,881,Multifamily Housing,231352,58.9
+Seattle,882,Multifamily Housing,43884,31
+Seattle,883,Multifamily Housing,45715,26.5
+Seattle,884,Multifamily Housing,490053,73.5
+Seattle,885,Multifamily Housing,28874,34.4
+Seattle,886,Office,23910,37.6
+Seattle,887,Multifamily Housing,151680,69.1
+Seattle,888,Multifamily Housing,24032,24.9
+Seattle,889,Multifamily Housing,27553,26.9
+Seattle,890,Multifamily Housing,305537,33.8
+Seattle,891,Multifamily Housing,260572,30.2
+Seattle,892,Multifamily Housing,149771,44.6
+Seattle,893,Multifamily Housing,24316,56.2
+Seattle,894,Multifamily Housing,31659,72.9
+Seattle,895,Multifamily Housing,90000,53.7
+Seattle,896,Multifamily Housing,46184,47.9
+Seattle,897,Multifamily Housing,20598,29.7
+Seattle,898,Multifamily Housing,224105,43.7
+Seattle,899,Multifamily Housing,80155,25.4
+Seattle,900,Multifamily Housing,52578,75.4
+Seattle,901,Multifamily Housing,32989,27.5
+Seattle,902,Multifamily Housing,25174,32.9
+Seattle,903,Multifamily Housing,52228,32.6
+Seattle,904,Office,33548,26.5
+Seattle,905,K-12 School,38582,47.3
+Seattle,906,Multifamily Housing,50649,28
+Seattle,907,Multifamily Housing,66459,30.6
+Seattle,908,Multifamily Housing,35346,30.3
+Seattle,909,Multifamily Housing,32753,31.4
+Seattle,910,K-12 School,35448,46.9
+Seattle,911,Multifamily Housing,21176,38.2
+Seattle,912,Multifamily Housing,19789,32.9
+Seattle,913,Multifamily Housing,24828,92.8
+Seattle,914,Multifamily Housing,32776,26.7
+Seattle,915,Multifamily Housing,36248,26.9
+Seattle,916,Multifamily Housing,26347,34.1
+Seattle,917,Multifamily Housing,53041,65
+Seattle,918,Multifamily Housing,326475,39.6
+Seattle,919,Multifamily Housing,52926,58
+Seattle,920,Multifamily Housing,33850,24.2
+Seattle,921,Multifamily Housing,23349,35.4
+Seattle,922,Multifamily Housing,28657,29
+Seattle,923,Multifamily Housing,243928,34.1
+Seattle,924,Multifamily Housing,28879,35.1
+Seattle,925,Multifamily Housing,20406,25.4
+Seattle,926,Multifamily Housing,34909,19.4
+Seattle,927,Multifamily Housing,201656,22.5
+Seattle,928,Multifamily Housing,82486,19.8
+Seattle,929,Multifamily Housing,45201,33.1
+Seattle,930,Multifamily Housing,43330,28.6
+Seattle,931,Multifamily Housing,32112,35
+Seattle,932,Multifamily Housing,29888,38
+Seattle,933,Multifamily Housing,47647,32.3
+Seattle,934,Multifamily Housing,31152,37.1
+Seattle,935,Multifamily Housing,23210,26.5
+Seattle,936,Multifamily Housing,27533,39.1
+Seattle,937,Multifamily Housing,30216,34.5
+Seattle,938,Multifamily Housing,41076,22.1
+Seattle,939,Multifamily Housing,24948,24.8
+Seattle,940,Multifamily Housing,23728,24.2
+Seattle,941,Multifamily Housing,28880,35.5
+Seattle,942,Office,26389,29.5
+Seattle,943,Office,25859,35.1
+Seattle,944,Office,33385,41.5
+Seattle,945,Multifamily Housing,34582,66.2
+Seattle,946,Multifamily Housing,15594,22.8
+Seattle,947,Multifamily Housing,30716,25.1
+Seattle,948,Multifamily Housing,22704,72
+Seattle,949,Multifamily Housing,28674,23.3
+Seattle,950,Multifamily Housing,21240,27.1
+Seattle,951,Multifamily Housing,115575,37
+Seattle,952,Office,24472,32.9
+Seattle,953,Office,22365,31.5
+Seattle,954,Office,30172,22.5
+Seattle,955,Multifamily Housing,50179,29.2
+Seattle,956,Multifamily Housing,17395,19.2
+Seattle,957,Office,23032,51.8
+Seattle,958,Multifamily Housing,153847,54.8
+Seattle,959,Multifamily Housing,30200,9.9
+Seattle,960,Office,23500,66.8
+Seattle,961,Office,22282,25.8
+Seattle,962,Multifamily Housing,32471,25.1
+Seattle,963,Multifamily Housing,75154,25.1
+Seattle,964,Multifamily Housing,24156,24.9
+Seattle,965,Multifamily Housing,79963,30.2
+Seattle,966,Multifamily Housing,20448,20.8
+Seattle,967,Multifamily Housing,46439,15.9
+Seattle,968,Multifamily Housing,43800,21.1
+Seattle,969,Multifamily Housing,26040,30.8
+Seattle,970,Office,37500,55.3
+Seattle,971,Multifamily Housing,17006,40.6
+Seattle,972,Multifamily Housing,36264,29.2
+Seattle,973,K-12 School,23983,50.3
+Seattle,974,Multifamily Housing,24371,50.6
+Seattle,975,K-12 School,31343,82.3
+Seattle,976,Multifamily Housing,34142,20.2
+Seattle,977,Multifamily Housing,32512,33.3
+Seattle,978,Multifamily Housing,30713,31.1
+Seattle,979,Multifamily Housing,125774,42.7
+Seattle,980,Office,29722,46.3
+Seattle,981,Office,26048,37.8
+Seattle,982,Multifamily Housing,69881,22.8
+Seattle,983,Multifamily Housing,31756,21.4
+Seattle,984,Multifamily Housing,21094,29.8
+Seattle,985,Multifamily Housing,22694,27.6
+Seattle,986,Multifamily Housing,34813,31.7
+Seattle,987,Multifamily Housing,23727,32.1
+Seattle,988,Multifamily Housing,22992,27.3
+Seattle,989,Multifamily Housing,27852,28.9
+Seattle,990,Multifamily Housing,24560,38.1
+Seattle,991,Multifamily Housing,29970,20.9
+Seattle,992,Multifamily Housing,143498,75.4
+Seattle,993,Office,27574,45.4
+Seattle,994,Multifamily Housing,227233,21.8
+Seattle,995,Multifamily Housing,81461,34.3
+Seattle,996,Multifamily Housing,24288,24.5
+Seattle,997,Multifamily Housing,97301,33
+Seattle,998,Multifamily Housing,94711,45.5
+Seattle,999,Multifamily Housing,41685,33
+Seattle,1000,Multifamily Housing,79014,24.2
+Seattle,1001,Multifamily Housing,21620,83.1
+Seattle,1002,Office,48798,33.6
+Seattle,1003,Multifamily Housing,21422,30.4
+Seattle,1004,Multifamily Housing,20384,26.1
+Seattle,1005,Multifamily Housing,20383,20.3
+Seattle,1006,Multifamily Housing,24288,23.8
+Seattle,1007,Multifamily Housing,24552,25.2
+Seattle,1008,Multifamily Housing,88340,42.9
+Seattle,1009,Multifamily Housing,124904,53.8
+Seattle,1010,Multifamily Housing,37588,35.4
+Seattle,1011,Multifamily Housing,44104,26.5
+Seattle,1012,Multifamily Housing,24711,22.6
+Seattle,1013,K-12 School,42975,33.6
+Seattle,1014,Multifamily Housing,21552,24.2
+Seattle,1015,Multifamily Housing,287722,33.1
+Seattle,1016,Office,30659,53.4
+Seattle,1017,Multifamily Housing,29810,54
+Seattle,1018,Multifamily Housing,24163,23.3
+Seattle,1019,Multifamily Housing,20368,28.7
+Seattle,1020,Multifamily Housing,22059,84.5
+Seattle,1021,Multifamily Housing,65538,37.5
+Seattle,1022,Multifamily Housing,125258,36.8
+Seattle,1023,Multifamily Housing,26148,37.7
+Seattle,1024,Multifamily Housing,24847,27.9
+Seattle,1025,Multifamily Housing,26827,33.4
+Seattle,1026,Multifamily Housing,57233,51.7
+Seattle,1027,Multifamily Housing,68400,52.2
+Seattle,1028,Multifamily Housing,17840,30.2
+Seattle,1029,Multifamily Housing,33331,28.1
+Seattle,1030,Multifamily Housing,68815,22.8
+Seattle,1031,Multifamily Housing,31027,32.1
+Seattle,1032,Multifamily Housing,369934,34
+Seattle,1033,Multifamily Housing,22472,16.4
+Seattle,1034,Multifamily Housing,28918,26.7
+Seattle,1035,Multifamily Housing,43035,29.4
+Seattle,1036,Multifamily Housing,68669,27.5
+Seattle,1037,Office,23515,49
+Seattle,1038,Office,48237,47.3
+Seattle,1039,Multifamily Housing,24192,20.6
+Seattle,1040,Multifamily Housing,44616,37.9
+Seattle,1041,Multifamily Housing,135955,23.9
+Seattle,1042,Multifamily Housing,66013,36.8
+Seattle,1043,Multifamily Housing,21822,36.6
+Seattle,1044,Multifamily Housing,27918,30.9
+Seattle,1045,Multifamily Housing,34590,19.3
+Seattle,1046,Multifamily Housing,37964,38.8
+Seattle,1047,Multifamily Housing,22402,27.3
+Seattle,1048,Multifamily Housing,69997,42.3
+Seattle,1049,Multifamily Housing,30985,35.9
+Seattle,1050,Multifamily Housing,71226,71.3
+Seattle,1051,Multifamily Housing,27951,27.3
+Seattle,1052,Multifamily Housing,29773,21.9
+Seattle,1053,Multifamily Housing,35000,27.1
+Seattle,1054,K-12 School,50546,33.7
+Seattle,1055,Multifamily Housing,36837,38.6
+Seattle,1056,Multifamily Housing,39520,65.3
+Seattle,1057,Multifamily Housing,41420,28.4
+Seattle,1058,Multifamily Housing,20798,71.5
+Seattle,1059,Multifamily Housing,27035,73.7
+Seattle,1060,Multifamily Housing,23553,30.4
+Seattle,1061,Multifamily Housing,22606,25.7
+Seattle,1062,Multifamily Housing,23381,17.6
+Seattle,1063,Office,20088,29.6
+Seattle,1064,Office,35224,48
+Seattle,1065,Multifamily Housing,23820,40.7
+Seattle,1066,Multifamily Housing,72356,39
+Seattle,1067,Multifamily Housing,24180,20.5
+Seattle,1068,Office,139557,44.8
+Seattle,1069,Office,40657,60.9
+Seattle,1070,Multifamily Housing,212938,80.2
+Seattle,1071,Multifamily Housing,32688,52
+Seattle,1072,Multifamily Housing,46445,68.5
+Seattle,1073,Multifamily Housing,455459,28
+Seattle,1074,Multifamily Housing,24900,72.8
+Seattle,1075,Multifamily Housing,25380,68.1
+Seattle,1076,Multifamily Housing,237425,73.9
+Seattle,1077,Multifamily Housing,54770,80.2
+Seattle,1078,Multifamily Housing,31979,12.7
+Seattle,1079,Multifamily Housing,24039,37.5
+Seattle,1080,Multifamily Housing,45564,63.5
+Seattle,1081,Multifamily Housing,39990,32.9
+Seattle,1082,Multifamily Housing,92183,59.5
+Seattle,1083,Multifamily Housing,25316,57
+Seattle,1084,Multifamily Housing,51098,32.8
+Seattle,1085,Multifamily Housing,42952,25.3
+Seattle,1086,Multifamily Housing,76855,45.5
+Seattle,1087,Multifamily Housing,93087,22.4
+Seattle,1088,Multifamily Housing,86835,38.7
+Seattle,1089,Multifamily Housing,113994,31.7
+Seattle,1090,Office,20590,25.6
+Seattle,1091,Multifamily Housing,124773,30.4
+Seattle,1092,Multifamily Housing,17208,25.1
+Seattle,1093,Multifamily Housing,72828,25.7
+Seattle,1094,Multifamily Housing,33521,27.2
+Seattle,1095,Multifamily Housing,22195,27.3
+Seattle,1096,Multifamily Housing,72155,29.4
+Seattle,1097,Multifamily Housing,22632,19.8
+Seattle,1098,Multifamily Housing,255205,35.8
+Seattle,1099,Multifamily Housing,20467,18.7
+Seattle,1100,Office,27000,49.4
+Seattle,1101,Multifamily Housing,51900,58.1
+Seattle,1102,Office,23472,57.6
+Seattle,1103,Office,21315,139.1
+Seattle,1104,Multifamily Housing,23821,40.5
+Seattle,1105,Multifamily Housing,53290,30.5
+Seattle,1106,Multifamily Housing,32040,44.7
+Seattle,1107,Multifamily Housing,22716,38
+Seattle,1108,Multifamily Housing,36292,51.9
+Seattle,1109,Multifamily Housing,25845,25.1
+Seattle,1110,Multifamily Housing,23636,26.3
+Seattle,1111,Multifamily Housing,87864,23.6
+Seattle,1112,Multifamily Housing,25357,22.2
+Seattle,1113,Multifamily Housing,24084,53.1
+Seattle,1114,Multifamily Housing,24280,5.2
+Seattle,1115,Multifamily Housing,36732,22.4
+Seattle,1116,Multifamily Housing,35178,70.3
+Seattle,1117,Multifamily Housing,21234,36.6
+Seattle,1118,Multifamily Housing,25671,26.7
+Seattle,1119,Multifamily Housing,25596,22.6
+Seattle,1120,Multifamily Housing,23120,47.4
+Seattle,1121,Multifamily Housing,39212,31.6
+Seattle,1122,Multifamily Housing,22093,23.4
+Seattle,1123,Multifamily Housing,22113,1.2
+Seattle,1124,Office,41298,45.5
+Seattle,1125,Multifamily Housing,40370,23.4
+Seattle,1126,Multifamily Housing,51150,73.7
+Seattle,1127,Multifamily Housing,83306,72.5
+Seattle,1128,Multifamily Housing,35796,30.7
+Seattle,1129,Multifamily Housing,72671,34.2
+Seattle,1130,Multifamily Housing,22382,31.6
+Seattle,1131,Multifamily Housing,27639,30.5
+Seattle,1132,Multifamily Housing,101613,23.7
+Seattle,1133,Multifamily Housing,30942,32.8
+Seattle,1134,Multifamily Housing,36751,74.2
+Seattle,1135,Multifamily Housing,39888,58.4
+Seattle,1136,Multifamily Housing,30833,22.6
+Seattle,1137,Multifamily Housing,28453,29.2
+Seattle,1138,Multifamily Housing,28291,25.7
+Seattle,1139,Multifamily Housing,34459,24.1
+Seattle,1140,Multifamily Housing,40025,35.2
+Seattle,1141,Multifamily Housing,25012,26.2
+Seattle,1142,Multifamily Housing,30709,35.1
+Seattle,1143,Multifamily Housing,34726,26
+Seattle,1144,Multifamily Housing,49106,24.8
+Seattle,1145,Multifamily Housing,30870,22.7
+Seattle,1146,Multifamily Housing,109284,22.5
+Seattle,1147,Multifamily Housing,28766,28.2
+Seattle,1148,Multifamily Housing,24570,29.5
+Seattle,1149,Multifamily Housing,50749,30.8
+Seattle,1150,Multifamily Housing,91520,38.4
+Seattle,1151,Multifamily Housing,51376,34.4
+Seattle,1152,Multifamily Housing,39962,40
+Seattle,1153,Multifamily Housing,22604,59.2
+Seattle,1154,Multifamily Housing,46296,77.7
+Seattle,1155,Multifamily Housing,31400,31
+Seattle,1156,Multifamily Housing,44547,58.9
+Seattle,1157,Multifamily Housing,37296,21.3
+Seattle,1158,Multifamily Housing,28564,55
+Seattle,1159,Multifamily Housing,29533,45.3
+Seattle,1160,Multifamily Housing,20688,59.2
+Seattle,1161,Multifamily Housing,22972,58.4
+Seattle,1162,Multifamily Housing,45494,25.4
+Seattle,1163,Multifamily Housing,27008,23
+Seattle,1164,Multifamily Housing,38407,31.3
+Seattle,1165,Multifamily Housing,75086,69.7
+Seattle,1166,Multifamily Housing,34498,25.6
+Seattle,1167,Multifamily Housing,56074,27.9
+Seattle,1168,Multifamily Housing,43132,27.5
+Seattle,1169,Multifamily Housing,25671,27
+Seattle,1170,Multifamily Housing,25550,27.8
+Seattle,1171,Multifamily Housing,24052,24.4
+Seattle,1172,Multifamily Housing,72985,27.8
+Seattle,1173,Multifamily Housing,144779,25.8
+Seattle,1174,Multifamily Housing,20210,27.2
+Seattle,1175,Multifamily Housing,21708,65.8
+Seattle,1176,Multifamily Housing,55842,33.3
+Seattle,1177,Multifamily Housing,81857,40.5
+Seattle,1178,Multifamily Housing,23875,56.7
+Seattle,1179,Multifamily Housing,22763,16.5
+Seattle,1180,Office,48924,76.4
+Seattle,1181,Multifamily Housing,22551,38.8
+Seattle,1182,Multifamily Housing,21643,43.7
+Seattle,1183,Multifamily Housing,22660,25.9
+Seattle,1184,Multifamily Housing,139301,33.9
+Seattle,1185,Office,32297,31.9
+Seattle,1186,Office,35526,59.2
+Seattle,1187,Office,17956,49.9
+Seattle,1188,Multifamily Housing,49510,56.4
+Seattle,1189,Multifamily Housing,23664,49.4
+Seattle,1190,Multifamily Housing,41369,30.9
+Seattle,1191,Multifamily Housing,56334,32.7
+Seattle,1192,Multifamily Housing,144682,35
+Seattle,1193,Multifamily Housing,27288,49.4
+Seattle,1194,Multifamily Housing,20184,8.2
+Seattle,1195,Multifamily Housing,21540,39.1
+Seattle,1196,Multifamily Housing,332900,46.6
+Seattle,1197,K-12 School,39971,53.7
+Seattle,1198,Multifamily Housing,56035,75.6
+Seattle,1199,Multifamily Housing,112150,32
+Seattle,1200,Office,37616,34.5
+Seattle,1201,Office,20671,26.2
+Seattle,1202,Multifamily Housing,24150,27.2
+Seattle,1203,Multifamily Housing,30418,22.6
+Seattle,1204,Multifamily Housing,21754,53.1
+Seattle,1205,Multifamily Housing,29378,37.1
+Seattle,1206,Office,31774,46.1
+Seattle,1207,Multifamily Housing,79364,45.2
+Seattle,1208,Multifamily Housing,159507,50.8
+Seattle,1209,Multifamily Housing,33852,27.3
+Seattle,1210,Multifamily Housing,17514,28.9
+Seattle,1211,Multifamily Housing,54860,35.2
+Seattle,1212,Multifamily Housing,25507,30.1
+Seattle,1213,Multifamily Housing,20022,38
+Seattle,1214,Multifamily Housing,49291,20.5
+Seattle,1215,Multifamily Housing,97978,45.7
+Seattle,1216,Multifamily Housing,68459,26.8
+Seattle,1217,Multifamily Housing,221996,34.2
+Seattle,1218,Multifamily Housing,21608,25.4
+Seattle,1219,Multifamily Housing,24435,35.2
+Seattle,1220,Office,23687,23
+Seattle,1221,Office,24221,47.3
+Seattle,1222,Office,34030,57.4
+Seattle,1223,Office,57116,110.5
+Seattle,1224,Office,32027,113.5
+Seattle,1225,Multifamily Housing,110478,53.6
+Seattle,1226,K-12 School,52609,36.6
+Seattle,1227,Multifamily Housing,29358,28.5
+Seattle,1228,Multifamily Housing,70307,35.5
+Seattle,1229,Multifamily Housing,82082,46.2
+Seattle,1230,Multifamily Housing,33852,36.7
+Seattle,1231,Multifamily Housing,57099,25.9
+Seattle,1232,Multifamily Housing,172135,50.1
+Seattle,1233,Multifamily Housing,34846,30.1
+Seattle,1234,K-12 School,21592,75.5
+Seattle,1235,Multifamily Housing,62538,33
+Seattle,1236,Office,25200,63.8
+Seattle,1237,Office,28296,66
+Seattle,1238,Multifamily Housing,42360,43.7
+Seattle,1239,Multifamily Housing,56981,26.4
+Seattle,1240,Office,31357,74.9
+Seattle,1241,Multifamily Housing,91560,27.2
+Seattle,1242,Multifamily Housing,23286,34.1
+Seattle,1243,Multifamily Housing,37456,27
+Seattle,1244,Multifamily Housing,38220,14.3
+Seattle,1245,Multifamily Housing,35251,20.3
+Seattle,1246,Office,24291,35.9
+Seattle,1247,Multifamily Housing,35456,23.1
+Seattle,1248,K-12 School,23923,35.9
+Seattle,1249,K-12 School,64493,28
+Seattle,1250,K-12 School,42252,67.1
+Seattle,1251,Multifamily Housing,22170,53.5
+Seattle,1252,Multifamily Housing,21640,26
+Seattle,1253,Multifamily Housing,66299,37.6
+Seattle,1254,K-12 School,41428,37.7
+Seattle,1255,Multifamily Housing,207915,68.1
+Seattle,1256,Multifamily Housing,28567,41.1
+Seattle,1257,Multifamily Housing,27390,32.8
+Seattle,1258,Multifamily Housing,20176,26.9
+Seattle,1259,Multifamily Housing,25696,21.9
+Seattle,1260,Multifamily Housing,26012,23.6
+Seattle,1261,Multifamily Housing,25300,25.3
+Seattle,1262,Multifamily Housing,28176,21.2
+Seattle,1263,Multifamily Housing,59846,34.2
+Seattle,1264,Multifamily Housing,66363,31.4
+Seattle,1265,Multifamily Housing,121635,62.2
+Seattle,1266,Multifamily Housing,22207,28.5
+Seattle,1267,Multifamily Housing,20645,30.2
+Seattle,1268,Multifamily Housing,20278,27
+Seattle,1269,Multifamily Housing,20832,85.9
+Seattle,1270,Multifamily Housing,67313,37.6
+Seattle,1271,Multifamily Housing,25951,28.8
+Seattle,1272,Multifamily Housing,85695,25.8
+Seattle,1273,Multifamily Housing,46986,15.7
+Seattle,1274,K-12 School,41526,53.3
+Seattle,1275,Multifamily Housing,32676,26.4
+Seattle,1276,Multifamily Housing,32599,27.4
+Seattle,1277,Office,24291,32.3
+Seattle,1278,Multifamily Housing,21616,38.5
+Seattle,1279,Multifamily Housing,63670,33.3
+Seattle,1280,Multifamily Housing,48965,30.5
+Seattle,1281,Multifamily Housing,22935,21.4
+Seattle,1282,Multifamily Housing,84389,45.4
+Seattle,1283,Multifamily Housing,22308,27.6
+Seattle,1284,Multifamily Housing,30920,39.4
+Seattle,1285,Office,28800,61
+Seattle,1286,Multifamily Housing,30932,29
+Seattle,1287,Multifamily Housing,306900,29.5
+Seattle,1288,Multifamily Housing,23596,18.6
+Seattle,1289,Multifamily Housing,30799,28.9
+Seattle,1290,Multifamily Housing,71000,51.4
+Seattle,1291,Multifamily Housing,32922,22.5
+Seattle,1292,K-12 School,20484,17.9
+Seattle,1293,Multifamily Housing,20808,26
+Seattle,1294,Multifamily Housing,48768,22.6
+Seattle,1295,Office,34110,74.7
+Seattle,1296,Multifamily Housing,42712,21.5
+Seattle,1297,Multifamily Housing,27072,26.3
+Seattle,1298,Multifamily Housing,117161,41.5
+Seattle,1299,Multifamily Housing,21300,28
+Seattle,1300,Multifamily Housing,21239,26.2
+Seattle,1301,Multifamily Housing,21815,29.1
+Seattle,1302,Multifamily Housing,26280,32.9
+Seattle,1303,Multifamily Housing,26970,22.3
+Seattle,1304,Multifamily Housing,38713,41.2
+Seattle,1305,Multifamily Housing,25729,33.8
+Seattle,1306,Office,25658,43.2
+Seattle,1307,Office,47368,34.4
+Seattle,1308,Multifamily Housing,20931,80.3
+Seattle,1309,K-12 School,51672,26.1
+Seattle,1310,Multifamily Housing,45929,28.5
+Seattle,1311,Multifamily Housing,93472,27.5
+Seattle,1312,Multifamily Housing,36172,27.4
+Seattle,1313,Multifamily Housing,38100,33.6
+Seattle,1314,Multifamily Housing,23490,63.5
+Seattle,1315,Multifamily Housing,87735,44.9
+Seattle,1316,Multifamily Housing,44747,18.9
+Seattle,1317,Multifamily Housing,40800,10.3
+Seattle,1318,Multifamily Housing,36814,24.5
+Seattle,1319,Office,36000,23.3
+Seattle,1320,Multifamily Housing,23469,77.3
+Seattle,1321,Multifamily Housing,21000,64.3
+Seattle,1322,Office,40970,65.6
+Seattle,1323,Multifamily Housing,134992,35.1
+Seattle,1324,Multifamily Housing,20144,35
+Seattle,1325,Office,27640,147.3
+Seattle,1326,K-12 School,64314,46
+Seattle,1327,Office,20317,29.6
+Seattle,1328,Multifamily Housing,20979,27.1
+Seattle,1329,Multifamily Housing,46480,47.3
+Seattle,1330,Multifamily Housing,95865,28.7
+Seattle,1331,Multifamily Housing,155600,37.7
+Seattle,1332,Multifamily Housing,30003,30.8
+Seattle,1333,Multifamily Housing,58523,32.3
+Seattle,1334,Multifamily Housing,54304,22.3
+Seattle,1335,Multifamily Housing,114030,33.3
+Seattle,1336,Multifamily Housing,44839,28.3
+Seattle,1337,Multifamily Housing,48972,35.2
+Seattle,1338,Multifamily Housing,37642,57.2
+Seattle,1339,Multifamily Housing,87925,20.5
+Seattle,1340,Multifamily Housing,105903,28.3
+Seattle,1341,K-12 School,43645,63.1
+Seattle,1342,Multifamily Housing,67360,27.3
+Seattle,1343,Multifamily Housing,91759,38.6
+Seattle,1344,Multifamily Housing,26772,26.2
+Seattle,1345,Multifamily Housing,37417,23.3
+Seattle,1346,Multifamily Housing,33000,22.6
+Seattle,1347,Office,20460,147.3
+Seattle,1348,Office,51664,33.5
+Seattle,1349,Office,36879,64.9
+Seattle,1350,Multifamily Housing,33084,36.4
+Seattle,1351,K-12 School,36701,40.3
+Seattle,1352,Multifamily Housing,29130,28.6
+Seattle,1353,Multifamily Housing,114403,28.3
+Seattle,1354,Multifamily Housing,102353,35.3
+Seattle,1355,Office,43473,100.2
+Seattle,1356,Multifamily Housing,24090,6
+Seattle,1357,Multifamily Housing,100536,47.4
+Seattle,1358,Multifamily Housing,49501,36.1
+Seattle,1359,Multifamily Housing,38050,100.9
+Seattle,1360,Multifamily Housing,28235,50.9
+Seattle,1361,Multifamily Housing,27291,37.8
+Seattle,1362,Multifamily Housing,45552,34.3
+Seattle,1363,Multifamily Housing,115511,33.1
+Seattle,1364,Multifamily Housing,22326,24.7
+Seattle,1365,Multifamily Housing,25800,30
+Seattle,1366,Multifamily Housing,29528,57.8
+Seattle,1367,Multifamily Housing,25459,33.6
+Seattle,1368,Multifamily Housing,23100,21.7
+Seattle,1369,Multifamily Housing,32880,67.9
+Seattle,1370,Office,20150,28.6
+Seattle,1371,Office,32250,24.2
+Seattle,1372,Office,36000,19.2
+Seattle,1373,Office,22580,37.4
+Seattle,1374,Multifamily Housing,54871,32.7
+Seattle,1375,Multifamily Housing,35874,42.3
+Seattle,1376,Multifamily Housing,22553,31.2
+Seattle,1377,Multifamily Housing,27504,54.3
+Seattle,1378,Multifamily Housing,63998,59.6
+Seattle,1379,Multifamily Housing,62988,24.6
+Seattle,1380,Multifamily Housing,279077,44.6
+Seattle,1381,Multifamily Housing,127230,38.3
+Seattle,1382,Multifamily Housing,20132,32.7
+Seattle,1383,Multifamily Housing,33034,20.3
+Seattle,1384,Multifamily Housing,88096,27.3
+Seattle,1385,Multifamily Housing,34824,22.5
+Seattle,1386,Multifamily Housing,23968,26.2
+Seattle,1387,Multifamily Housing,51568,31.7
+Seattle,1388,Multifamily Housing,21312,21.2
+Seattle,1389,Multifamily Housing,29840,22.2
+Seattle,1390,Office,49052,21.8
+Seattle,1391,Office,39036,34.3
+Seattle,1392,Office,26310,12.5
+Seattle,1393,Multifamily Housing,20078,53.5
+Seattle,1394,Multifamily Housing,29866,18.4
+Seattle,1395,Multifamily Housing,191330,29.8
+Seattle,1396,Multifamily Housing,27320,31.6
+Seattle,1397,Multifamily Housing,29063,29.6
+Seattle,1398,K-12 School,29874,35.4
+Seattle,1399,Multifamily Housing,22252,17.8
+Seattle,1400,Multifamily Housing,52020,24.6
+Seattle,1401,Multifamily Housing,30130,43.9
+Seattle,1402,Office,39953,50.3
+Seattle,1403,Multifamily Housing,136521,43.6
+Seattle,1404,Multifamily Housing,94370,31.6
+Seattle,1405,Multifamily Housing,30386,25.2
+Seattle,1406,Multifamily Housing,80701,22.9
+Seattle,1407,K-12 School,117116,42.1
+Seattle,1408,Multifamily Housing,36273,28.9
+Seattle,1409,Multifamily Housing,20261,26.4
+Seattle,1410,Multifamily Housing,20529,20
+Seattle,1411,Multifamily Housing,239054,59.1
+Seattle,1412,Multifamily Housing,101706,109.3
+Seattle,1413,Multifamily Housing,20809,66.6
+Seattle,1414,Multifamily Housing,20739,44.7
+Seattle,1415,Multifamily Housing,25120,22.8
+Seattle,1416,Multifamily Housing,73898,45.3
+Seattle,1417,Multifamily Housing,29353,35.4
+Seattle,1418,Multifamily Housing,136752,30
+Seattle,1419,Multifamily Housing,120701,29.8
+Seattle,1420,Multifamily Housing,54238,30.9
+Seattle,1421,Multifamily Housing,41310,34.2
+Seattle,1422,Multifamily Housing,84970,47.2
+Seattle,1423,Multifamily Housing,114045,34.6
+Seattle,1424,Multifamily Housing,105596,34.9
+Seattle,1425,K-12 School,46100,47.8
+Seattle,1426,Multifamily Housing,51910,33.1
+Seattle,1427,Multifamily Housing,20506,26.7
+Seattle,1428,Multifamily Housing,52334,26.6
+Seattle,1429,Multifamily Housing,43172,18.7
+Seattle,1430,Multifamily Housing,15826,22.5
+Seattle,1431,Multifamily Housing,23529,41.3
+Seattle,1432,Multifamily Housing,89787,36.3
+Seattle,1433,Multifamily Housing,24441,24.8
+Seattle,1434,Multifamily Housing,25368,34.3
+Seattle,1435,Multifamily Housing,151450,31.8
+Seattle,1436,Multifamily Housing,37760,27.6
+Seattle,1437,Multifamily Housing,64618,24.3
+Seattle,1438,Multifamily Housing,162865,43.7
+Seattle,1439,Multifamily Housing,22344,28.8
+Seattle,1440,Multifamily Housing,25914,29.9
+Seattle,1441,Multifamily Housing,36765,27.9
+Seattle,1442,Multifamily Housing,71421,32.4
+Seattle,1443,Multifamily Housing,24664,27.8
+Seattle,1444,Multifamily Housing,34580,102.8
+Seattle,1445,Multifamily Housing,24141,34.2
+Seattle,1446,Multifamily Housing,40721,27
+Seattle,1447,Multifamily Housing,41396,28.8
+Seattle,1448,Multifamily Housing,35123,59.3
+Seattle,1449,Multifamily Housing,22532,32.4
+Seattle,1450,Multifamily Housing,78199,49.8
+Seattle,1451,Multifamily Housing,21407,60.8
+Seattle,1452,Multifamily Housing,48155,29.1
+Seattle,1453,Multifamily Housing,35647,64.7
+Seattle,1454,Multifamily Housing,20356,37.8
+Seattle,1455,Multifamily Housing,35656,34.7
+Seattle,1456,Multifamily Housing,20640,89.9
+Seattle,1457,Multifamily Housing,42182,59
+Seattle,1458,Multifamily Housing,24480,27.6
+Seattle,1459,Multifamily Housing,31488,20.7
+Seattle,1460,K-12 School,51410,27.8
+Seattle,1461,Multifamily Housing,27272,20.1
+Seattle,1462,Multifamily Housing,43162,23.7
+Seattle,1463,Multifamily Housing,20790,26.8
+Seattle,1464,Multifamily Housing,30649,46.5
+Seattle,1465,Multifamily Housing,53919,26.1
+Seattle,1466,Multifamily Housing,166858,32.2
+Seattle,1467,Multifamily Housing,27317,32.9
+Seattle,1468,Multifamily Housing,28922,31.8
+Seattle,1469,Multifamily Housing,104064,39.9
+Seattle,1470,Multifamily Housing,44352,48.3
+Seattle,1471,Multifamily Housing,31680,75
+Seattle,1472,Multifamily Housing,21303,28.3
+Seattle,1473,Office,23022,45.7
+Seattle,1474,Multifamily Housing,50192,35.9
+Seattle,1475,Multifamily Housing,39433,25.6
+Seattle,1476,Multifamily Housing,91907,40.8
+Seattle,1477,Multifamily Housing,20844,24.3
+Seattle,1478,Multifamily Housing,18513,51.1
+Seattle,1479,K-12 School,73769,43.5
+Seattle,1480,Multifamily Housing,24620,32
+Seattle,1481,Multifamily Housing,21512,41.2
+Seattle,1482,Multifamily Housing,32960,6.7
+Seattle,1483,Multifamily Housing,21312,39.4
+Seattle,1484,Multifamily Housing,71592,40.1
+Seattle,1485,Multifamily Housing,15092,48.6
+Seattle,1486,Multifamily Housing,135228,25.1
+Seattle,1487,Multifamily Housing,40281,29.2
+Seattle,1488,Multifamily Housing,42084,27.7
+Seattle,1489,Multifamily Housing,19828,23.3
+Seattle,1490,Multifamily Housing,53820,56.1
+Seattle,1491,Multifamily Housing,146914,61.1
+Seattle,1492,Multifamily Housing,22392,24
+Seattle,1493,Multifamily Housing,30333,6.2
+Seattle,1494,Multifamily Housing,192275,24.1
+Seattle,1495,K-12 School,43578,38.1
+Seattle,1496,Multifamily Housing,55867,30.3
+Seattle,1497,Multifamily Housing,205779,46.7
+Seattle,1498,K-12 School,28500,40.8
+Seattle,1499,Multifamily Housing,24882,31.8
+Seattle,1500,Multifamily Housing,24288,27
+Seattle,1501,Multifamily Housing,87645,27.6
+Seattle,1502,Multifamily Housing,185506,25.3
+Seattle,1503,Multifamily Housing,82320,68.3
+Seattle,1504,Multifamily Housing,38171,37.4
+Seattle,1505,Multifamily Housing,138125,21.6
+Seattle,1506,Multifamily Housing,20736,21.4
+Seattle,1507,Multifamily Housing,29243,48.6
+Seattle,1508,Multifamily Housing,79644,25.7
+Seattle,1509,Multifamily Housing,40597,23.9
+Seattle,1510,Multifamily Housing,30174,26
+Seattle,1511,Multifamily Housing,44520,29.6
+Seattle,1512,Multifamily Housing,28472,25.5
+Seattle,1513,Multifamily Housing,20884,32.2
+Seattle,1514,Multifamily Housing,27267,29.3
+Seattle,1515,Multifamily Housing,89549,39.5
+Seattle,1516,Multifamily Housing,36260,32.9
+Seattle,1517,Multifamily Housing,24696,32.1
+Seattle,1518,Multifamily Housing,119486,21.1
+Seattle,1519,Multifamily Housing,60684,20.8
+Seattle,1520,Office,23355,36.7
+Seattle,1521,Office,30840,124
+Seattle,1522,Multifamily Housing,21518,46.3
+Seattle,1523,Multifamily Housing,19807,40.8
+Seattle,1524,Multifamily Housing,20390,26.8
+Seattle,1525,Multifamily Housing,90383,64.4
+Seattle,1526,Multifamily Housing,33869,56.6
+Seattle,1527,Multifamily Housing,21672,72
+Seattle,1528,Multifamily Housing,146102,60.9
+Seattle,1529,Multifamily Housing,36538,28.2
+Seattle,1530,Multifamily Housing,43222,34.2
+Seattle,1531,Multifamily Housing,301229,35
+Seattle,1532,Office,224493,39.2
+Seattle,1533,Multifamily Housing,169565,51.8
+Seattle,1534,Multifamily Housing,20967,23.2
+Seattle,1535,Multifamily Housing,44188,30.9
+Seattle,1536,Office,38376,72.6
+Seattle,1537,Multifamily Housing,67235,25.6
+Seattle,1538,Office,42804,54.1
+Seattle,1539,Multifamily Housing,42534,92.3
+Seattle,1540,Office,33300,38.1
+Seattle,1541,Office,49782,68.2
+Seattle,1542,Multifamily Housing,23162,25.3
+Seattle,1543,Multifamily Housing,21100,24.1
+Seattle,1544,Multifamily Housing,31756,29.7
+Seattle,1545,Multifamily Housing,23195,21.3
+Seattle,1546,Multifamily Housing,40090,26.9
+Seattle,1547,Multifamily Housing,22176,27
+Seattle,1548,Multifamily Housing,29351,24.6
+Seattle,1549,Multifamily Housing,108959,33.2
+Seattle,1550,Multifamily Housing,29520,68.2
+Seattle,1551,Multifamily Housing,36600,31.5
+Seattle,1552,Multifamily Housing,32400,26.3
+Seattle,1553,Multifamily Housing,34165,35.7
+Seattle,1554,Multifamily Housing,20928,48.2
+Seattle,1555,Multifamily Housing,19740,33.4
+Seattle,1556,Multifamily Housing,48330,53.7
+Seattle,1557,Multifamily Housing,24501,27.3
+Seattle,1558,Multifamily Housing,68648,29.4
+Seattle,1559,Multifamily Housing,70161,69.3
+Seattle,1560,Multifamily Housing,115819,30.4
+Seattle,1561,Multifamily Housing,43460,26.9
+Seattle,1562,Office,28142,33.7
+Seattle,1563,Office,28760,112.1
+Seattle,1564,Office,39030,23.9
+Seattle,1565,Office,27838,45.6
+Seattle,1566,Office,47215,30.3
+Seattle,1567,Office,30720,40.3
+Seattle,1568,Office,20897,33.3
+Seattle,1569,Office,22866,67
+Seattle,1570,Multifamily Housing,32100,8.1
+Seattle,1571,Multifamily Housing,29513,112.9
+Seattle,1572,Multifamily Housing,16554,27.3
+Seattle,1573,Multifamily Housing,34373,27.6
+Seattle,1574,Multifamily Housing,38605,25
+Seattle,1575,Multifamily Housing,23432,24.2
+Seattle,1576,Multifamily Housing,33887,68.4
+Seattle,1577,Multifamily Housing,25600,11.8
+Seattle,1578,Office,35202,98.8
+Seattle,1579,Multifamily Housing,23150,31
+Seattle,1580,Multifamily Housing,34024,27
+Seattle,1581,Multifamily Housing,90314,77.4
+Seattle,1582,Multifamily Housing,24962,30
+Seattle,1583,Multifamily Housing,58905,31.7
+Seattle,1584,Multifamily Housing,48587,40.3
+Seattle,1585,Multifamily Housing,54572,70.6
+Seattle,1586,Multifamily Housing,20378,31.5
+Seattle,1587,Multifamily Housing,63076,32.7
+Seattle,1588,Multifamily Housing,18880,33.4
+Seattle,1589,Multifamily Housing,21031,31.5
+Seattle,1590,Multifamily Housing,63198,25.2
+Seattle,1591,Multifamily Housing,22000,7.1
+Seattle,1592,Multifamily Housing,21581,20.7
+Seattle,1593,Multifamily Housing,57212,34.6
+Seattle,1594,Multifamily Housing,131307,45.9
+Seattle,1595,Multifamily Housing,30420,30.5
+Seattle,1596,Multifamily Housing,36067,29.6
+Seattle,1597,Multifamily Housing,27328,64.8
+Seattle,1598,Multifamily Housing,23200,32.2
+Seattle,1599,Multifamily Housing,20457,76.4
+Seattle,1600,Multifamily Housing,38160,77.8
+Seattle,1601,Multifamily Housing,35028,32
+Seattle,1602,Multifamily Housing,30210,35.5
+Seattle,1603,Office,27544,52.4
+Seattle,1604,Multifamily Housing,21264,66.2
+Seattle,1605,Multifamily Housing,40992,35.1
+Seattle,1606,Multifamily Housing,26694,61.7
+Seattle,1607,Multifamily Housing,26442,36.7
+Seattle,1608,Multifamily Housing,66924,87.4
+Seattle,1609,Multifamily Housing,24396,35.9
+Seattle,1610,Multifamily Housing,49310,40.4
+Seattle,1611,Multifamily Housing,25200,30
+Seattle,1612,Multifamily Housing,26294,20.7
+Seattle,1613,Multifamily Housing,36192,26.4
+Seattle,1614,Multifamily Housing,31008,42.7
+Seattle,1615,Multifamily Housing,53088,26.7
+Seattle,1616,Multifamily Housing,20407,30.3
+Seattle,1617,Office,47415,44.8
+Seattle,1618,Multifamily Housing,21294,25.8
+Seattle,1619,Multifamily Housing,21294,32.2
+Seattle,1620,Multifamily Housing,30252,17.2
+Seattle,1621,Multifamily Housing,55665,29.3
+Seattle,1622,Multifamily Housing,9660,37.1
+Seattle,1623,Multifamily Housing,61107,25.5
+Seattle,1624,Multifamily Housing,42720,31.8
+Seattle,1625,Multifamily Housing,21892,24.3
+Seattle,1626,Multifamily Housing,80705,22.6
+Seattle,1627,Multifamily Housing,31570,23.9
+Seattle,1628,K-12 School,38297,57.5
+Seattle,1629,Multifamily Housing,80995,112.2
+Seattle,1630,Multifamily Housing,27498,25.4
+Seattle,1631,Multifamily Housing,46613,64.1
+Seattle,1632,Multifamily Housing,22982,22.9
+Seattle,1633,Multifamily Housing,25016,22.5
+Seattle,1634,Multifamily Housing,21642,19.9
+Seattle,1635,Multifamily Housing,22234,71.5
+Seattle,1636,Multifamily Housing,62190,28.2
+Seattle,1637,Multifamily Housing,26472,22.3
+Seattle,1638,Multifamily Housing,53402,46
+Seattle,1639,Multifamily Housing,20930,43.2
+Seattle,1640,Multifamily Housing,21073,58.9
+Seattle,1641,Multifamily Housing,26246,77.7
+Seattle,1642,Multifamily Housing,32615,13.4
+Seattle,1643,Multifamily Housing,25800,25.5
+Seattle,1644,Multifamily Housing,82514,25.4
+Seattle,1645,Multifamily Housing,22202,22.7
+Seattle,1646,Multifamily Housing,71280,32.2
+Seattle,1647,Multifamily Housing,35122,29.1
+Seattle,1648,Multifamily Housing,24259,20.7
+Seattle,1649,Multifamily Housing,22160,26.3
+Seattle,1650,Multifamily Housing,24650,36.7
+Seattle,1651,Multifamily Housing,30040,49.5
+Seattle,1652,Multifamily Housing,27447,30.4
+Seattle,1653,Multifamily Housing,32753,22.9
+Seattle,1654,Multifamily Housing,28094,32.8
+Seattle,1655,Multifamily Housing,22795,63.2
+Seattle,1656,Multifamily Housing,293717,23.2
+Seattle,1657,Multifamily Housing,26941,25.7
+Seattle,1658,K-12 School,23222,93.3
+Seattle,1659,Multifamily Housing,49133,27.1
+Seattle,1660,Multifamily Housing,23346,33.5
+Seattle,1661,Multifamily Housing,27320,30.2
+Seattle,1662,Multifamily Housing,90280,28.9
+Seattle,1663,Multifamily Housing,27792,38.6
+Seattle,1664,Multifamily Housing,23600,73.3
+Seattle,1665,K-12 School,60000,42.6
+Seattle,1666,Multifamily Housing,29647,22.6
+Seattle,1667,Multifamily Housing,20340,66.3
+Seattle,1668,Multifamily Housing,46527,64.2
+Seattle,1669,Multifamily Housing,46274,59.8
+Seattle,1670,Multifamily Housing,31008,50.4
+Seattle,1671,Multifamily Housing,53862,31.3
+Seattle,1672,Multifamily Housing,22998,39.1
+Seattle,1673,Multifamily Housing,45933,32.6
+Seattle,1674,Multifamily Housing,23893,24.1
+Seattle,1675,Office,30109,63.6
+Seattle,1676,Multifamily Housing,27480,23.5
+Seattle,1677,K-12 School,39929,44
+Seattle,1678,Multifamily Housing,24920,55.8
+Seattle,1679,Office,25481,33.5
+Seattle,1680,Multifamily Housing,195788,38
+Seattle,1681,Multifamily Housing,14113,26.3
+Seattle,1682,Multifamily Housing,48600,40.4
+Seattle,1683,Multifamily Housing,27480,17.3
+Seattle,1684,Multifamily Housing,30230,42.6
+Seattle,1685,Multifamily Housing,24227,22.8
+Seattle,1686,Multifamily Housing,47419,27.4
+Seattle,1687,Office,27788,40.9
+Seattle,1688,Multifamily Housing,37059,87.7
+Seattle,1689,Multifamily Housing,23242,30.5
+Seattle,1690,Multifamily Housing,49256,38.1
+Seattle,1691,Multifamily Housing,33736,21.8
+Seattle,1692,Multifamily Housing,27656,22.8
+Seattle,1693,Multifamily Housing,25958,29.9
+Seattle,1694,Multifamily Housing,55372,45.6
+Seattle,1695,Multifamily Housing,23585,48.2
+Seattle,1696,Multifamily Housing,39967,25.5
+Seattle,1697,Multifamily Housing,99893,37.3
+Seattle,1698,Multifamily Housing,140594,24.1
+Seattle,1699,Multifamily Housing,102298,33
+Seattle,1700,Multifamily Housing,61776,33.8
+Seattle,1701,Multifamily Housing,88839,42.3
+Seattle,1702,Multifamily Housing,22800,52.4
+Seattle,1703,Office,27600,45.8
+Seattle,1704,Multifamily Housing,26684,26.1
+Seattle,1705,Multifamily Housing,72576,41.7
+Seattle,1706,Multifamily Housing,33279,89.2
+Seattle,1707,Multifamily Housing,49357,39.2
+Seattle,1708,Multifamily Housing,25536,100.3
+Seattle,1709,Multifamily Housing,30720,29.2
+Seattle,1710,Multifamily Housing,44832,18.2
+Seattle,1711,Multifamily Housing,71610,32.2
+Seattle,1712,Multifamily Housing,28256,20.8
+Seattle,1713,Multifamily Housing,27413,31.8
+Seattle,1714,Multifamily Housing,59502,38.1
+Seattle,1715,Multifamily Housing,21712,31.4
+Seattle,1716,Multifamily Housing,28187,23.3
+Seattle,1717,Office,24328,71.3
+Seattle,1718,Office,20660,29.5
+Seattle,1719,Multifamily Housing,20143,31.1
+Seattle,1720,Multifamily Housing,21158,63.4
+Seattle,1721,Multifamily Housing,80600,39
+Seattle,1722,Multifamily Housing,20448,26.9
+Seattle,1723,Multifamily Housing,78600,46.7
+Seattle,1724,Multifamily Housing,23840,41.6
+Seattle,1725,Multifamily Housing,26008,47.7
+Seattle,1726,Multifamily Housing,22184,17.4
+Seattle,1727,Multifamily Housing,22181,22.8
+Seattle,1728,Multifamily Housing,97205,24.7
+Seattle,1729,Multifamily Housing,20602,27
+Seattle,1730,Multifamily Housing,25721,40.7
+Seattle,1731,Multifamily Housing,27432,24.1
+Seattle,1732,Multifamily Housing,95599,78.6
+Seattle,1733,Multifamily Housing,159869,27.2
+Seattle,1734,K-12 School,33300,56.2
+Seattle,1735,Multifamily Housing,23101,26.5
+Seattle,1736,Multifamily Housing,81821,37.5
+Seattle,1737,Multifamily Housing,135608,30.2
+Seattle,1738,Multifamily Housing,41126,51.9
+Seattle,1739,Multifamily Housing,28160,20.7
+Seattle,1740,Multifamily Housing,22405,25.4
+Seattle,1741,Multifamily Housing,20280,24.7
+Seattle,1742,Multifamily Housing,33181,43
+Seattle,1743,Multifamily Housing,37002,19.1
+Seattle,1744,Office,20962,53.5
+Seattle,1745,Multifamily Housing,20600,75.4
+Seattle,1746,Multifamily Housing,34090,26.6
+Seattle,1747,Multifamily Housing,198752,118.1
+Seattle,1748,Multifamily Housing,38035,24.3
+Seattle,1749,Multifamily Housing,63176,27.7
+Seattle,1750,Multifamily Housing,41026,26.7
+Seattle,1751,Multifamily Housing,94410,54.2
+Seattle,1752,Multifamily Housing,26583,38.2
+Seattle,1753,Multifamily Housing,21840,15.8
+Seattle,1754,Office,22840,29.7
+Seattle,1755,Office,20880,19.5
+Seattle,1756,Multifamily Housing,36485,24.7
+Seattle,1757,Office,38675,171.2
+Seattle,1758,Multifamily Housing,23052,22.8
+Seattle,1759,Multifamily Housing,41461,65.2
+Seattle,1760,Multifamily Housing,65418,43.7
+Seattle,1761,Multifamily Housing,45956,28.4
+Seattle,1762,Multifamily Housing,22971,29.8
+Seattle,1763,Multifamily Housing,22232,61.1
+Seattle,1764,Multifamily Housing,25076,21.5
+Seattle,1765,Multifamily Housing,25943,22.6
+Seattle,1766,Multifamily Housing,28075,22.7
+Seattle,1767,Multifamily Housing,21000,20.8
+Seattle,1768,Multifamily Housing,35313,24.1
+Seattle,1769,Office,40768,26.1
+Seattle,1770,Multifamily Housing,31023,37
+Seattle,1771,Office,26830,76.6
+Seattle,1772,Office,41920,19
+Seattle,1773,Multifamily Housing,90959,49.9
+Seattle,1774,Multifamily Housing,166471,61.6
+Seattle,1775,Multifamily Housing,25027,60.9
+Seattle,1776,Office,33640,35.8
+Seattle,1777,Multifamily Housing,142510,66.6
+Seattle,1778,Multifamily Housing,74327,59.5
+Seattle,1779,Multifamily Housing,20304,70
+Seattle,1780,Multifamily Housing,39279,67.6
+Seattle,1781,Multifamily Housing,43380,70.6
+Seattle,1782,Office,26510,33.7
+Seattle,1783,Multifamily Housing,72566,32.6
+Seattle,1784,Multifamily Housing,25966,27.1
+Seattle,1785,Multifamily Housing,33456,41
+Seattle,1786,Multifamily Housing,63336,29.1
+Seattle,1787,Multifamily Housing,57278,23.2
+Seattle,1788,Multifamily Housing,44202,25.7
+Seattle,1789,Multifamily Housing,80539,112.1
+Seattle,1790,Multifamily Housing,45067,41.8
+Seattle,1791,Multifamily Housing,21990,25.3
+Seattle,1792,Multifamily Housing,90372,21.6
+Seattle,1793,Multifamily Housing,67813,43.4
+Seattle,1794,Multifamily Housing,38270,31.2
+Seattle,1795,Multifamily Housing,132150,95.4
+Seattle,1796,Office,26282,93
+Seattle,1797,Multifamily Housing,57731,27.6
+Seattle,1798,Multifamily Housing,21841,19.8
+Seattle,1799,K-12 School,42239,44.7
+Seattle,1800,Multifamily Housing,21880,38.5
+Seattle,1801,K-12 School,51360,25.2
+Seattle,1802,Multifamily Housing,24621,25.4
+Seattle,1803,Multifamily Housing,40420,32.4
+Seattle,1804,Multifamily Housing,75477,51.8
+Seattle,1805,Office,21600,63.6
+Seattle,1806,Multifamily Housing,36000,38
+Seattle,1807,Multifamily Housing,35170,51.4
+Seattle,1808,Multifamily Housing,34848,86.4
+Seattle,1809,Multifamily Housing,27494,21.3
+Seattle,1810,Multifamily Housing,23200,31.2
+Seattle,1811,Multifamily Housing,58015,23.7
+Seattle,1812,Multifamily Housing,76094,47.2
+Seattle,1813,Multifamily Housing,27600,41.7
+Seattle,1814,Multifamily Housing,107312,34.2
+Seattle,1815,Office,31432,56
+Seattle,1816,Multifamily Housing,49020,48.3
+Seattle,1817,Multifamily Housing,24171,34.3
+Seattle,1818,Multifamily Housing,46560,253.9
+Seattle,1819,Multifamily Housing,34560,28.2
+Seattle,1820,Multifamily Housing,34200,32.9
+Seattle,1821,Multifamily Housing,20590,25.8
+Seattle,1822,K-12 School,61052,43.5
+Seattle,1823,Multifamily Housing,65042,36.2
+Seattle,1824,Multifamily Housing,115168,28
+Seattle,1825,Multifamily Housing,47081,19.5
+Seattle,1826,Multifamily Housing,15346,27.6
+Seattle,1827,Multifamily Housing,36300,19
+Seattle,1828,Multifamily Housing,20008,70.1
+Seattle,1829,Multifamily Housing,17340,29.2
+Seattle,1830,Multifamily Housing,13200,39.9
+Seattle,1831,Multifamily Housing,20629,70.9
+Seattle,1832,Multifamily Housing,33448,20.3
+Seattle,1833,K-12 School,22344,51.7
+Seattle,1834,Multifamily Housing,24415,27.7
+Seattle,1835,Multifamily Housing,31300,31.2
+Seattle,1836,Office,123332,63.5
+Seattle,1837,Multifamily Housing,42848,23
+Seattle,1838,Multifamily Housing,43745,29.7
+Seattle,1839,Multifamily Housing,174428,23.8
+Seattle,1840,Multifamily Housing,57566,63.3
+Seattle,1841,Multifamily Housing,20064,66.8
+Seattle,1842,Multifamily Housing,81120,31.9
+Seattle,1843,Office,81008,82.4
+Seattle,1844,K-12 School,54943,46.4
+Seattle,1845,Multifamily Housing,100234,59
+Seattle,1846,Multifamily Housing,37361,39.2
+Seattle,1847,Multifamily Housing,35655,41
+Seattle,1848,Multifamily Housing,48441,39.3
+Seattle,1849,Multifamily Housing,223150,85
+Seattle,1850,Multifamily Housing,103931,32.4
+Seattle,1851,Multifamily Housing,36115,20.4
+Seattle,1852,Multifamily Housing,56867,32.7
+Seattle,1853,Multifamily Housing,197819,50.2
+Seattle,1854,Multifamily Housing,75630,25.4
+Seattle,1855,Multifamily Housing,26528,22.1
+Seattle,1856,Multifamily Housing,20851,26.7
+Seattle,1857,Multifamily Housing,36792,37.2
+Seattle,1858,Multifamily Housing,23512,30.8
+Seattle,1859,Multifamily Housing,49518,37
+Seattle,1860,Multifamily Housing,401964,148.2
+Seattle,1861,Multifamily Housing,28277,32.6
+Seattle,1862,Multifamily Housing,21602,28.7
+Seattle,1863,Office,157345,74.4
+Seattle,1864,Multifamily Housing,109222,27.6
+Seattle,1865,Multifamily Housing,21596,26.4
+Seattle,1866,K-12 School,27800,123.5
+Seattle,1867,Office,227978,49.9
+Seattle,1868,Multifamily Housing,21158,24.7
+Seattle,1869,Multifamily Housing,26355,78.7
+Seattle,1870,Multifamily Housing,74162,41.8
+Seattle,1871,Multifamily Housing,27984,36.7
+Seattle,1872,Multifamily Housing,139127,45.3
+Seattle,1873,Multifamily Housing,95611,98.6
+Seattle,1874,Multifamily Housing,30259,38.5
+Seattle,1875,Multifamily Housing,187080,28.4
+Seattle,1876,Multifamily Housing,94000,48.3
+Seattle,1877,Multifamily Housing,35333,27.6
+Seattle,1878,Multifamily Housing,39331,25.8
+Seattle,1879,Multifamily Housing,57486,22.6
+Seattle,1880,K-12 School,42128,46.1
+Seattle,1881,Multifamily Housing,77966,41.5
+Seattle,1882,Multifamily Housing,28944,34.4
+Seattle,1883,Multifamily Housing,30189,26.2
+Seattle,1884,Multifamily Housing,27074,45.8
+Seattle,1885,Multifamily Housing,23671,33.5
+Seattle,1886,Multifamily Housing,20380,35.5
+Seattle,1887,Multifamily Housing,29808,38.1
+Seattle,1888,Multifamily Housing,27878,28.9
+Seattle,1889,Multifamily Housing,23597,37.9
+Seattle,1890,Multifamily Housing,52253,28.7
+Seattle,1891,Multifamily Housing,24682,109.6
+Seattle,1892,Multifamily Housing,96205,32
+Seattle,1893,Multifamily Housing,34916,28.2
+Seattle,1894,Multifamily Housing,175353,38.3
+Seattle,1895,Multifamily Housing,26245,28.9
+Seattle,1896,Multifamily Housing,65434,27.1
+Seattle,1897,Multifamily Housing,24809,19
+Seattle,1898,Multifamily Housing,21520,19.9
+Seattle,1899,Multifamily Housing,21580,23.4
+Seattle,1900,Multifamily Housing,97254,23.6
+Seattle,1901,Multifamily Housing,28899,31.5
+Seattle,1902,Multifamily Housing,57496,21.3
+Seattle,1903,Multifamily Housing,48863,24
+Seattle,1904,Multifamily Housing,149272,24.1
+Seattle,1905,Multifamily Housing,127179,22.9
+Seattle,1906,Multifamily Housing,44230,23.7
+Seattle,1907,Multifamily Housing,187139,37.3
+Seattle,1908,Multifamily Housing,57091,19.8
+Seattle,1909,Multifamily Housing,30240,28.2
+Seattle,1910,Multifamily Housing,21798,30.4
+Seattle,1911,Multifamily Housing,42448,30.1
+Seattle,1912,Multifamily Housing,125241,41
+Seattle,1913,Multifamily Housing,21900,30.7
+Seattle,1914,Multifamily Housing,32430,41.1
+Seattle,1915,Multifamily Housing,87696,28.9
+Seattle,1916,Multifamily Housing,50299,40.4
+Seattle,1917,Multifamily Housing,28735,82.7
+Seattle,1918,Multifamily Housing,26808,40
+Seattle,1919,K-12 School,57298,20.7
+Seattle,1920,Multifamily Housing,78538,72.4
+Seattle,1921,Multifamily Housing,40128,41.1
+Seattle,1922,Multifamily Housing,24581,23.9
+Seattle,1923,Multifamily Housing,34066,25.8
+Seattle,1924,Office,75868,75.2
+Seattle,1925,Multifamily Housing,33430,68.8
+Seattle,1926,Multifamily Housing,22526,36
+Seattle,1927,Multifamily Housing,72831,38.9
+Seattle,1928,Multifamily Housing,60490,27.9
+Seattle,1929,Multifamily Housing,42131,42.7
+Seattle,1930,Multifamily Housing,58359,31.7
+Seattle,1931,Multifamily Housing,23236,27.6
+Seattle,1932,Multifamily Housing,43788,29.3
+Seattle,1933,Multifamily Housing,39329,23.1
+Seattle,1934,Multifamily Housing,62251,27.2
+Seattle,1935,Multifamily Housing,23760,25.3
+Seattle,1936,Multifamily Housing,21232,22
+Seattle,1937,Multifamily Housing,22810,36
+Seattle,1938,Multifamily Housing,43346,110.9
+Seattle,1939,Multifamily Housing,53280,74
+Seattle,1940,Multifamily Housing,21056,22.3
+Seattle,1941,Office,20410,117
+Seattle,1942,Multifamily Housing,97855,33.6
+Seattle,1943,Multifamily Housing,41149,39.7
+Seattle,1944,Multifamily Housing,22937,22.4
+Seattle,1945,Multifamily Housing,21168,24.1
+Seattle,1946,Multifamily Housing,179678,64.4
+Seattle,1947,Multifamily Housing,75070,47.2
+Seattle,1948,Multifamily Housing,35854,26.4
+Seattle,1949,Office,18396,34.5
+Seattle,1950,Multifamily Housing,20806,26.7
+Seattle,1951,Multifamily Housing,43142,30.9
+Seattle,1952,Multifamily Housing,47544,45.7
+Seattle,1953,Multifamily Housing,20583,21.4
+Seattle,1954,Multifamily Housing,37877,38.1
+Seattle,1955,K-12 School,45174,45.6
+Seattle,1956,Multifamily Housing,43406,31.2
+Seattle,1957,Multifamily Housing,77501,37.3
+Seattle,1958,Multifamily Housing,35114,0.1
+Seattle,1959,Multifamily Housing,25160,20.3
+Seattle,1960,Multifamily Housing,26254,23.5
+Seattle,1961,Multifamily Housing,40248,28.4
+Seattle,1962,Multifamily Housing,34629,28.6
+Seattle,1963,Multifamily Housing,38430,54
+Seattle,1964,Multifamily Housing,32366,27.2
+Seattle,1965,Multifamily Housing,25516,20.3
+Seattle,1966,Multifamily Housing,22381,22.7
+Seattle,1967,Multifamily Housing,121700,45.3
+Seattle,1968,Multifamily Housing,33694,24.3
+Seattle,1969,Multifamily Housing,22344,27.8
+Seattle,1970,Multifamily Housing,22331,31.8
+Seattle,1971,Multifamily Housing,39650,41.9
+Seattle,1972,Multifamily Housing,28196,26.2
+Seattle,1973,Multifamily Housing,30000,20.1
+Seattle,1974,Multifamily Housing,25959,25.6
+Seattle,1975,Multifamily Housing,56104,24.2
+Seattle,1976,Multifamily Housing,22146,30.9
+Seattle,1977,Multifamily Housing,28185,25.7
+Seattle,1978,Multifamily Housing,39900,21.2
+Seattle,1979,Multifamily Housing,40560,30.1
+Seattle,1980,Multifamily Housing,44687,27
+Seattle,1981,Multifamily Housing,32441,21.4
+Seattle,1982,Multifamily Housing,33466,25.3
+Seattle,1983,Multifamily Housing,36178,22.2
+Seattle,1984,Multifamily Housing,29588,26.9
+Seattle,1985,Multifamily Housing,34602,20.2
+Seattle,1986,Multifamily Housing,39514,26.2
+Seattle,1987,Multifamily Housing,32452,11.6
+Seattle,1988,Multifamily Housing,24800,27.5
+Seattle,1989,Multifamily Housing,25144,24.7
+Seattle,1990,Multifamily Housing,31299,31.2
+Seattle,1991,Multifamily Housing,24444,29.6
+Seattle,1992,Multifamily Housing,27997,26.6
+Seattle,1993,Multifamily Housing,22151,22.2
+Seattle,1994,Multifamily Housing,30055,30.6
+Seattle,1995,Multifamily Housing,48118,26.8
+Seattle,1996,Multifamily Housing,45271,33.8
+Seattle,1997,Multifamily Housing,114443,27.6
+Seattle,1998,K-12 School,109794,43.6
+Seattle,1999,Multifamily Housing,31769,26.6
+Seattle,2000,Office,23422,84.6
+Seattle,2001,Multifamily Housing,40112,39.3
+Seattle,2002,Multifamily Housing,25808,34
+Seattle,2003,Multifamily Housing,44644,35.8
+Seattle,2004,Multifamily Housing,25536,76.8
+Seattle,2005,Multifamily Housing,93021,60.4
+Seattle,2006,K-12 School,57048,33.1
+Seattle,2007,Multifamily Housing,23616,56.6
+Seattle,2008,Multifamily Housing,24865,25.6
+Seattle,2009,Multifamily Housing,20509,27.9
+Seattle,2010,Multifamily Housing,62338,55.1
+Seattle,2011,Multifamily Housing,50356,59.9
+Seattle,2012,Office,27938,47.3
+Seattle,2013,Multifamily Housing,42189,33.8
+Seattle,2014,Multifamily Housing,47241,40.6
+Seattle,2015,Multifamily Housing,66195,33.5
+Seattle,2016,Multifamily Housing,25167,37.1
+Seattle,2017,Multifamily Housing,17006,32.2
+Seattle,2018,K-12 School,30562,55.4
+Seattle,2019,Multifamily Housing,43422,38.5
+Seattle,2020,K-12 School,36825,20.3
+Seattle,2021,Multifamily Housing,31228,30.2
+Seattle,2022,Multifamily Housing,75050,44
+Seattle,2023,Office,25834,54.2
+Seattle,2024,Multifamily Housing,26172,28.3
+Seattle,2025,Multifamily Housing,25920,29.3
+Seattle,2026,Multifamily Housing,26112,19.9
+Seattle,2027,Multifamily Housing,62093,26.2
+Seattle,2028,Multifamily Housing,23856,35.3
+Seattle,2029,Multifamily Housing,69272,44.3
+Seattle,2030,K-12 School,27273,50.8
+Seattle,2031,Multifamily Housing,20366,77.4
+Seattle,2032,Multifamily Housing,23888,24.4
+Seattle,2033,Multifamily Housing,32817,26.6
+Seattle,2034,Multifamily Housing,23175,30.6
+Seattle,2035,Multifamily Housing,62256,62.1
+Seattle,2036,Multifamily Housing,72716,44
+Seattle,2037,Multifamily Housing,37824,40.8
+Seattle,2038,Office,25111,39
+Seattle,2039,Multifamily Housing,18614,30.4
+Seattle,2040,Multifamily Housing,25338,27.9
+Seattle,2041,Multifamily Housing,193700,48.7
+Seattle,2042,Multifamily Housing,22984,28.2
+Seattle,2043,Multifamily Housing,21464,22.8
+Seattle,2044,Multifamily Housing,24329,93
+Seattle,2045,Multifamily Housing,29588,45
+Seattle,2046,Multifamily Housing,82519,42.4
+Seattle,2047,Multifamily Housing,37843,40.3
+Seattle,2048,Multifamily Housing,35787,24.3
+Seattle,2049,K-12 School,20811,65.5
+Seattle,2050,Multifamily Housing,28328,27.1
+Seattle,2051,Multifamily Housing,42188,32.8
+Seattle,2052,Multifamily Housing,36730,28.1
+Seattle,2053,Multifamily Housing,26498,29.3
+Seattle,2054,Multifamily Housing,28683,23.4
+Seattle,2055,Multifamily Housing,96869,27.2
+Seattle,2056,Multifamily Housing,42045,22.3
+Seattle,2057,Multifamily Housing,36278,26.7
+Seattle,2058,Multifamily Housing,38311,22.1
+Seattle,2059,Multifamily Housing,56800,28.3
+Seattle,2060,Office,19232,37.8
+Seattle,2061,Multifamily Housing,42816,32.1
+Seattle,2062,Multifamily Housing,308030,74.7
+Seattle,2063,Office,20535,43.1
+Seattle,2064,Multifamily Housing,70939,35.8
+Seattle,2065,Multifamily Housing,124642,39.8
+Seattle,2066,Multifamily Housing,120520,23.3
+Seattle,2067,Multifamily Housing,102522,134.6
+Seattle,2068,Multifamily Housing,30984,26.4
+Seattle,2069,Multifamily Housing,124930,46.4
+Seattle,2070,Multifamily Housing,139860,114.4
+Seattle,2071,Multifamily Housing,43732,73.6
+Seattle,2072,Multifamily Housing,21200,20.3
+Seattle,2073,Multifamily Housing,21200,19.8
+Seattle,2074,Multifamily Housing,20365,25
+Seattle,2075,Multifamily Housing,97923,103.3
+Seattle,2076,Multifamily Housing,74202,31.2
+Seattle,2077,Office,268130,49.6
+Seattle,2078,Office,68452,54.3
+Seattle,2079,Office,273185,45.4
+Seattle,2080,K-12 School,97500,38.5
+Seattle,2081,Office,54015,48.6
+Seattle,2082,Multifamily Housing,55052,25.3
+Seattle,2083,Multifamily Housing,286644,36.2
+Seattle,2084,Multifamily Housing,32881,104.1
+Seattle,2085,Multifamily Housing,136651,31.3
+Seattle,2086,Multifamily Housing,141084,37.1
+Seattle,2087,Multifamily Housing,54950,27.8
+Seattle,2088,Multifamily Housing,37804,68.5
+Seattle,2089,Multifamily Housing,177741,40.7
+Seattle,2090,Office,119701,70.4
+Seattle,2091,Multifamily Housing,79684,40
+Seattle,2092,Multifamily Housing,22625,44.9
+Seattle,2093,Multifamily Housing,34728,31
+Seattle,2094,Multifamily Housing,34480,24.6
+Seattle,2095,Multifamily Housing,56800,34.5
+Seattle,2096,K-12 School,138705,35.5
+Seattle,2097,Multifamily Housing,20000,23.8
+Seattle,2098,Multifamily Housing,193868,36.8
+Seattle,2099,Office,21931,124.6
+Seattle,2100,Office,73102,53.9
+Seattle,2101,Multifamily Housing,24386,20.8
+Seattle,2102,Multifamily Housing,35796,29.4
+Seattle,2103,Multifamily Housing,43228,28.8
+Seattle,2104,Multifamily Housing,35560,33.1
+Seattle,2105,Multifamily Housing,28624,51.3
+Seattle,2106,Multifamily Housing,290520,33.5
+Seattle,2107,Multifamily Housing,184980,53.7
+Seattle,2108,Office,26263,79.5
+Seattle,2109,Multifamily Housing,88449,39.2
+Seattle,2110,Multifamily Housing,31930,31.6
+Seattle,2111,Multifamily Housing,138121,33.5
+Seattle,2112,Multifamily Housing,39636,41.6
+Seattle,2113,Multifamily Housing,29646,30.4
+Seattle,2114,Multifamily Housing,29656,27.7
+Seattle,2115,Multifamily Housing,30993,178.7
+Seattle,2116,Multifamily Housing,120430,38.1
+Seattle,2117,Multifamily Housing,38264,46.7
+Seattle,2118,Multifamily Housing,75025,34.5
+Seattle,2119,Multifamily Housing,47022,28.5
+Seattle,2120,Multifamily Housing,238441,47.1
+Seattle,2121,Office,335992,39
+Seattle,2122,Multifamily Housing,129219,28.6
+Seattle,2123,K-12 School,116101,45.7
+Seattle,2124,Multifamily Housing,128621,35.8
+Seattle,2125,Multifamily Housing,104664,27.8
+Seattle,2126,Multifamily Housing,32250,27.4
+Seattle,2127,Multifamily Housing,104562,34.6
+Seattle,2128,Multifamily Housing,94933,35
+Seattle,2129,Multifamily Housing,34589,39.5
+Seattle,2130,Multifamily Housing,74964,55.1
+Seattle,2131,Multifamily Housing,11111,41.4
+Seattle,2132,Multifamily Housing,555112,52.2
+Seattle,2133,Multifamily Housing,90995,36.7
+Seattle,2134,Multifamily Housing,259104,34.7
+Seattle,2135,Multifamily Housing,60084,65
+Seattle,2136,Multifamily Housing,120836,42.3
+Seattle,2137,Multifamily Housing,31962,33.8
+Seattle,2138,Multifamily Housing,50466,90.1
+Seattle,2139,Multifamily Housing,22620,98.8
+Seattle,2140,Multifamily Housing,41502,56.1
+Seattle,2141,Multifamily Housing,85772,34.5
+Seattle,2142,Multifamily Housing,120000,34.2
+Seattle,2143,Multifamily Housing,98262,31.4
+Seattle,2144,Office,236995,55.6
+Seattle,2145,Multifamily Housing,21762,36.6
+Seattle,2146,Multifamily Housing,38407,31.1
+Seattle,2147,Multifamily Housing,51287,69.9
+Seattle,2148,Office,52000,15.3
+Seattle,2149,Multifamily Housing,84577,46.4
+Seattle,2150,Multifamily Housing,92007,48.7
+Seattle,2151,Multifamily Housing,56184,33.5
+Seattle,2152,Multifamily Housing,31981,81.1
+Seattle,2153,Multifamily Housing,295754,40.2
+Seattle,2154,Multifamily Housing,24457,34.1
+Seattle,2155,Multifamily Housing,25504,36
+Seattle,2156,Multifamily Housing,198202,29.8
+Seattle,2157,Multifamily Housing,227672,24.1
+Seattle,2158,Office,47673,62.1
+Seattle,2159,Multifamily Housing,83999,45.5
+Seattle,2160,Multifamily Housing,45159,24.9
+Seattle,2161,Multifamily Housing,49970,31.4
+Seattle,2162,Multifamily Housing,161722,25.9
+Seattle,2163,Multifamily Housing,308754,26
+Seattle,2164,Multifamily Housing,61558,19.8
+Seattle,2165,Multifamily Housing,29158,37.7
+Seattle,2166,Multifamily Housing,87958,27
+Seattle,2167,Multifamily Housing,23397,39.5
+Seattle,2168,K-12 School,63500,42.4
+Seattle,2169,Multifamily Housing,229742,33.7
+Seattle,2170,K-12 School,35780,55.3
+Seattle,2171,Office,187027,67
+Seattle,2172,Multifamily Housing,114187,28.2
+Seattle,2173,Multifamily Housing,42064,26.9
+Seattle,2174,Multifamily Housing,145602,20.6
+Seattle,2175,Multifamily Housing,194530,68.1
+Seattle,2176,Multifamily Housing,93179,29.3
+Seattle,2177,Multifamily Housing,292376,44.8
+Seattle,2178,Multifamily Housing,26198,47.4
+Seattle,2179,Multifamily Housing,137068,47.5
+Seattle,2180,Multifamily Housing,99700,39.2
+Seattle,2181,Multifamily Housing,312544,31.3
+Seattle,2182,Multifamily Housing,79554,31
+Seattle,2183,Multifamily Housing,47343,30.6
+Seattle,2184,Multifamily Housing,78756,32.7
+Seattle,2185,Multifamily Housing,439262,32.6
+Seattle,2186,Multifamily Housing,91159,35.4
+Seattle,2187,Multifamily Housing,45167,31.2
+Seattle,2188,Multifamily Housing,434839,49.5
+Seattle,2189,Multifamily Housing,146203,28.9
+Seattle,2190,Multifamily Housing,482600,37.7
+Seattle,2191,Multifamily Housing,153949,53.3
+Seattle,2192,Office,64820,32.7
+Seattle,2193,Multifamily Housing,109745,28.5
+Seattle,2194,Multifamily Housing,31928,35.6
+Seattle,2195,Multifamily Housing,43248,122
+Seattle,2196,Multifamily Housing,66460,98.9
+Seattle,2197,Multifamily Housing,317814,29.9
+Seattle,2198,Multifamily Housing,241130,29.3
+Seattle,2199,Multifamily Housing,100371,21.8
+Seattle,2200,Office,414200,42
+Seattle,2201,Multifamily Housing,69451,35.4
+Seattle,2202,Multifamily Housing,47711,29.7
+Seattle,2203,Multifamily Housing,107556,32.5
+Seattle,2204,Multifamily Housing,20128,30.4
+Seattle,2205,Multifamily Housing,32489,55.2
+Seattle,2206,Multifamily Housing,490593,48.9
+Seattle,2207,Multifamily Housing,193927,38.9
+Seattle,2208,Multifamily Housing,83296,32.4
+Seattle,2209,Multifamily Housing,88304,25.3
+Seattle,2210,Multifamily Housing,67708,39
+Seattle,2211,Multifamily Housing,68131,75.1
+Seattle,2212,Multifamily Housing,88455,59.2
+Seattle,2213,Multifamily Housing,17502,34.2
+Seattle,2214,Multifamily Housing,30649,47.2
+Seattle,2215,Multifamily Housing,39286,54.9
+Seattle,2216,Multifamily Housing,111010,46.9
+Seattle,2217,Multifamily Housing,42905,33.3
+Seattle,2218,Multifamily Housing,72528,61.8
+Seattle,2219,Multifamily Housing,45892,25.8
+Seattle,2220,Multifamily Housing,379494,44.7
+Seattle,2221,Multifamily Housing,289089,30.3
+Seattle,2222,Multifamily Housing,43904,28.4
+Seattle,2223,Multifamily Housing,56893,39.3
+Seattle,2224,Multifamily Housing,31990,34.3
+Seattle,2225,Multifamily Housing,33625,30
+Seattle,2226,Multifamily Housing,22455,44.8
+Seattle,2227,Multifamily Housing,106156,32.9
+Seattle,2228,Multifamily Housing,221280,47.5
+Seattle,2229,Office,37873,76.6
+Seattle,2230,Multifamily Housing,42980,39.5
+Seattle,2231,Multifamily Housing,43566,20.8
+Seattle,2232,Multifamily Housing,123686,38.4
+Seattle,2233,Multifamily Housing,197139,44.7
+Seattle,2234,Office,345992,66.6
+Seattle,2235,Multifamily Housing,69950,39.2
+Seattle,2236,Multifamily Housing,168006,41.8
+Seattle,2237,Office,300115,37.4
+Seattle,2238,Office,317442,40.9
+Seattle,2239,Multifamily Housing,103792,32.2
+Seattle,2240,Multifamily Housing,196788,54
+Seattle,2241,Office,317189,42.3
+Seattle,2242,Multifamily Housing,71739,30.2
+Seattle,2243,Multifamily Housing,236227,30.4
+Seattle,2244,Office,155815,78.7
+Seattle,2245,Multifamily Housing,44650,25.6
+Seattle,2246,Multifamily Housing,80371,42.3
+Seattle,2247,Office,339038,48
+Seattle,2248,Multifamily Housing,42393,33
+Seattle,2249,Multifamily Housing,128460,24.2
+Seattle,2250,Multifamily Housing,277566,54.7
+Seattle,2251,Multifamily Housing,91128,30.1
+Seattle,2252,K-12 School,90000,73.3
+Seattle,2253,Multifamily Housing,85317,39.6
+Seattle,2254,Multifamily Housing,35780,41.6
+Seattle,2255,Office,24990,50.8
+Seattle,2256,Multifamily Housing,26322,0.4
+Seattle,2257,Multifamily Housing,91393,30.8
+Seattle,2258,Multifamily Housing,236739,24.4
+Seattle,2259,Multifamily Housing,36353,44
+Seattle,2260,Multifamily Housing,169548,43.3
+Seattle,2261,Multifamily Housing,187477,25
+Seattle,2262,Multifamily Housing,137753,34.6
+Seattle,2263,K-12 School,45000,24.6
+Seattle,2264,Multifamily Housing,28431,44.5
+Seattle,2265,Multifamily Housing,123799,42.7
+Seattle,2266,Multifamily Housing,162213,29.2
+Seattle,2267,Multifamily Housing,48311,78.5
+Seattle,2268,Multifamily Housing,41403,29.8
+Seattle,2269,Multifamily Housing,24838,67.3
+Seattle,2270,Multifamily Housing,58975,41.8
+Seattle,2271,Multifamily Housing,325000,53.7
+Seattle,2272,Multifamily Housing,77137,25.8
+Seattle,2273,Multifamily Housing,149318,36.1
+Seattle,2274,Office,788000,30.3
+Seattle,2275,Multifamily Housing,23060,30
+Seattle,2276,Multifamily Housing,17666,42
+Seattle,2277,Multifamily Housing,432000,41.9
+Seattle,2278,Multifamily Housing,143460,38.4
+Seattle,2279,Multifamily Housing,22694,26.2
+Seattle,2280,Multifamily Housing,101273,47
+Seattle,2281,Multifamily Housing,40061,51.4
+Seattle,2282,Multifamily Housing,25020,51.7
+Seattle,2283,Multifamily Housing,30669,70.8
+Seattle,2284,Multifamily Housing,161999,40.7
+Seattle,2285,Multifamily Housing,218012,28.3
+Seattle,2286,Multifamily Housing,99043,35.4
+Seattle,2287,Office,1076961,49.1
+Seattle,2288,Multifamily Housing,24556,47.4
+Seattle,2289,Multifamily Housing,245889,30.3
+Seattle,2290,Multifamily Housing,74310,44.3
+Seattle,2291,Office,220902,67.5
+Seattle,2292,Multifamily Housing,96495,49.5
+Seattle,2293,Multifamily Housing,31988,26.3
+Seattle,2294,Multifamily Housing,30106,29.4
+Seattle,2295,Multifamily Housing,37581,31.9
+Seattle,2296,Multifamily Housing,69511,30.2
+Seattle,2297,Multifamily Housing,88028,35.4
+Seattle,2298,Multifamily Housing,273568,26.2
+Seattle,2299,Multifamily Housing,25688,35.6
+Seattle,2300,Multifamily Housing,281300,28.8
+Seattle,2301,Multifamily Housing,44192,55.2
+Seattle,2302,Multifamily Housing,139061,43.6
+Seattle,2303,Multifamily Housing,185611,35.3
+Seattle,2304,Multifamily Housing,50726,31.9
+Seattle,2305,Multifamily Housing,44294,31.2
+Seattle,2306,Multifamily Housing,224326,48.2
+Seattle,2307,Multifamily Housing,344786,41.1
+Seattle,2308,Office,188816,28.6
+Seattle,2309,Multifamily Housing,27424,27.1
+Seattle,2310,Office,71392,46.2
+Seattle,2311,Multifamily Housing,122827,25.4
+Seattle,2312,Multifamily Housing,41008,37.9
+Seattle,2313,Office,361575,48.6
+Seattle,2314,Office,37100,37.3
+Seattle,2315,Office,181456,48.1
+Seattle,2316,Multifamily Housing,161011,23.5
+Seattle,2317,Office,305542,31.9
+Seattle,2318,Office,802928,43.1
+Seattle,2319,Multifamily Housing,67615,27.5
+Seattle,2320,Multifamily Housing,141698,27.3
+Seattle,2321,Multifamily Housing,413366,31.3
+Seattle,2322,Multifamily Housing,208664,72.9
+Seattle,2323,Multifamily Housing,79820,34.6
+Seattle,2324,Multifamily Housing,110405,32.2
+Seattle,2325,Multifamily Housing,113894,55.7
+Seattle,2326,Multifamily Housing,112241,46.5
+Seattle,2327,Multifamily Housing,144267,22.9
+Seattle,2328,Multifamily Housing,101367,42.5
+Seattle,2329,Office,178196,8.2
+Seattle,2330,Multifamily Housing,424177,43.1
+Seattle,2331,Multifamily Housing,185462,47.3
+Seattle,2332,Multifamily Housing,99625,21.4
+Seattle,2333,Multifamily Housing,263015,33.1
+Seattle,2334,Multifamily Housing,995234,37.9
+Seattle,2335,Multifamily Housing,61179,19.1
+Seattle,2336,Multifamily Housing,71685,22.9
+Seattle,2337,Office,292590,41.6
+Seattle,2338,Multifamily Housing,20838,56.5
+Seattle,2339,Multifamily Housing,57575,41.6
+Seattle,2340,Multifamily Housing,412344,42.8
+Seattle,2341,K-12 School,102948,14.1
+Seattle,2342,Multifamily Housing,114062,43
+Seattle,2343,Office,293826,151
+Seattle,2344,Multifamily Housing,81802,42.8
+Seattle,2345,Multifamily Housing,43021,25.4
+Seattle,2346,Multifamily Housing,38701,24.6
+Seattle,2347,Multifamily Housing,512983,33.3
+Seattle,2348,Multifamily Housing,73526,30.8
+Seattle,2349,Office,52475,35
+Seattle,2350,Multifamily Housing,211754,16
+Seattle,2351,Multifamily Housing,145509,29.9
+Seattle,2352,Multifamily Housing,138434,54.1
+Seattle,2353,Multifamily Housing,37434,24.5
+Seattle,2354,Multifamily Housing,82484,31.1
+Seattle,2355,K-12 School,94294,25.9
+Seattle,2356,Multifamily Housing,50393,21.6
+Seattle,2357,Multifamily Housing,44971,106.8
+Seattle,2358,Multifamily Housing,33889,16.4
+Seattle,2359,Multifamily Housing,128210,28.9
+Seattle,2360,Multifamily Housing,41857,26.6
+Seattle,2361,Multifamily Housing,314421,29.9
+Seattle,2362,Multifamily Housing,308662,37.6
+Seattle,2363,Multifamily Housing,33114,27.1
+Seattle,2364,Multifamily Housing,41600,28.3
+Seattle,2365,Multifamily Housing,73449,24
+Seattle,2366,Multifamily Housing,39272,47.2
+Seattle,2367,Multifamily Housing,82544,25.3
+Seattle,2368,Multifamily Housing,126667,22.6
+Seattle,2369,Multifamily Housing,115174,29.7
+Seattle,2370,Multifamily Housing,34618,26.4
+Seattle,2371,Multifamily Housing,37682,20
+Seattle,2372,Multifamily Housing,35990,33.5
+Seattle,2373,Multifamily Housing,17153,33.9
+Seattle,2374,Multifamily Housing,114259,70.6
+Seattle,2375,Multifamily Housing,36356,34.2
+Seattle,2376,Multifamily Housing,74717,27.3
+Seattle,2377,Multifamily Housing,54502,28.6
+Seattle,2378,Multifamily Housing,43459,54.8
+Seattle,2379,Office,181290,27
+Seattle,2380,Multifamily Housing,424994,39.9
+Seattle,2381,Office,55000,61.8
+Seattle,2382,Multifamily Housing,122543,21.1
+Seattle,2383,Multifamily Housing,38797,16.8
+Seattle,2384,Multifamily Housing,39005,26.6
+Seattle,2385,Multifamily Housing,52061,46.2
+Seattle,2386,Multifamily Housing,167777,13.2
+Seattle,2387,Multifamily Housing,132078,35.9
+Seattle,2388,Multifamily Housing,27889,27.8
+Seattle,2389,Multifamily Housing,328779,58.3
+Seattle,2390,Multifamily Housing,375032,19.9
+Seattle,2391,Multifamily Housing,187248,18.6
+Seattle,2392,Multifamily Housing,53709,30.5
+Seattle,2393,Multifamily Housing,448484,21.6
+Seattle,2394,Multifamily Housing,24452,31.6
+Seattle,2395,Multifamily Housing,45472,43
+Seattle,2396,Multifamily Housing,32110,21.9
+Seattle,2397,Multifamily Housing,31600,36.6
+Seattle,2398,Multifamily Housing,52548,18.3
+Seattle,2399,Multifamily Housing,28910,36.2
+Seattle,2400,Multifamily Housing,175870,32.4
+Seattle,2401,Multifamily Housing,133638,23.7
+Seattle,2402,Multifamily Housing,129710,33.1
+Seattle,2403,Multifamily Housing,43828,26.9
+Seattle,2404,Multifamily Housing,44016,76.2
+Seattle,2405,Multifamily Housing,66570,31.2
+Seattle,2406,Multifamily Housing,21583,20.4
+Seattle,2407,Multifamily Housing,24600,41.7
+Seattle,2408,Multifamily Housing,44751,23.5
+Seattle,2409,Multifamily Housing,137401,23.5
+Seattle,2410,Multifamily Housing,477543,35.4
+Seattle,2411,K-12 School,97381,20.7
+Seattle,2412,Multifamily Housing,42520,23.8
+Seattle,2413,Multifamily Housing,126925,26.1
+Seattle,2414,Multifamily Housing,214565,27.9
+Seattle,2415,K-12 School,162182,24
+Seattle,2416,Multifamily Housing,85636,22
+Seattle,2417,Office,195398,43.7
+Seattle,2418,Multifamily Housing,40778,37.5
+Seattle,2419,Multifamily Housing,526520,34.5
+Seattle,2420,Multifamily Housing,61758,31.4
+Seattle,2421,Multifamily Housing,104460,19

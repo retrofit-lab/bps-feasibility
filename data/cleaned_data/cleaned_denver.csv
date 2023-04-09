@@ -1,0 +1,1240 @@
+city,prop_id,facility_type,floor_area,site_eui
+Denver,1,Multifamily Housing,25289,14.8
+Denver,2,Multifamily Housing,25350,59.3
+Denver,3,Multifamily Housing,25402,92
+Denver,4,Multifamily Housing,25411,73.7
+Denver,5,Multifamily Housing,25468,79
+Denver,6,Multifamily Housing,25564,81.8
+Denver,7,Multifamily Housing,25592,102.9
+Denver,8,Multifamily Housing,25620,61.8
+Denver,9,Multifamily Housing,25676,46.5
+Denver,10,Multifamily Housing,25687,87.1
+Denver,11,Multifamily Housing,25813,60.6
+Denver,12,Multifamily Housing,25813,61.4
+Denver,13,Multifamily Housing,26222,111.1
+Denver,14,Multifamily Housing,26425,96.5
+Denver,15,Multifamily Housing,26490,82.4
+Denver,16,Multifamily Housing,26593,116.1
+Denver,17,Multifamily Housing,26725,88.8
+Denver,18,Multifamily Housing,27000,56
+Denver,19,Multifamily Housing,27077,87.1
+Denver,20,Multifamily Housing,27120,57
+Denver,21,Multifamily Housing,27156,64
+Denver,22,Multifamily Housing,27172,60.1
+Denver,23,Multifamily Housing,27958,54.7
+Denver,24,Multifamily Housing,28001,71.1
+Denver,25,Multifamily Housing,28042,71
+Denver,26,Multifamily Housing,28090,97.7
+Denver,27,Multifamily Housing,28090,50.9
+Denver,28,Multifamily Housing,28158,47.2
+Denver,29,Multifamily Housing,28368,75.4
+Denver,30,Multifamily Housing,28372,141.7
+Denver,31,Multifamily Housing,28378,54.6
+Denver,32,Multifamily Housing,28598,39.5
+Denver,33,Multifamily Housing,28600,60.3
+Denver,34,Multifamily Housing,28705,78.2
+Denver,35,Multifamily Housing,28715,23.3
+Denver,36,Multifamily Housing,28715,42.8
+Denver,37,Multifamily Housing,28715,45.4
+Denver,38,Multifamily Housing,28861,43.1
+Denver,39,Multifamily Housing,28861,25
+Denver,40,Multifamily Housing,28861,43.5
+Denver,41,Multifamily Housing,28976,122.8
+Denver,42,Multifamily Housing,29521,54.2
+Denver,43,Multifamily Housing,29959,72.3
+Denver,44,Multifamily Housing,30175,86.3
+Denver,45,Multifamily Housing,30184,95
+Denver,46,Multifamily Housing,30340,71.7
+Denver,47,Multifamily Housing,30720,63.2
+Denver,48,Multifamily Housing,30834,57.7
+Denver,49,Multifamily Housing,31000,76.3
+Denver,50,Multifamily Housing,31266,43.7
+Denver,51,Multifamily Housing,31590,80.8
+Denver,52,Multifamily Housing,31590,86.4
+Denver,53,Multifamily Housing,31590,85.8
+Denver,54,Multifamily Housing,31590,91.8
+Denver,55,Multifamily Housing,31590,87
+Denver,56,Multifamily Housing,31590,86.4
+Denver,57,Multifamily Housing,31924,130.9
+Denver,58,Multifamily Housing,32384,71.2
+Denver,59,Multifamily Housing,32637,124.9
+Denver,60,Multifamily Housing,32808,132.2
+Denver,61,Multifamily Housing,32850,100.2
+Denver,62,Multifamily Housing,32850,122.7
+Denver,63,Multifamily Housing,32850,113.6
+Denver,64,Multifamily Housing,32850,106.7
+Denver,65,Multifamily Housing,32850,128.2
+Denver,66,Multifamily Housing,33000,94.4
+Denver,67,Multifamily Housing,33000,99.5
+Denver,68,Multifamily Housing,33095,58.4
+Denver,69,Multifamily Housing,33210,91.4
+Denver,70,Multifamily Housing,33733,56.3
+Denver,71,Multifamily Housing,33756,114.9
+Denver,72,Multifamily Housing,34031,79.9
+Denver,73,Multifamily Housing,34295,81.4
+Denver,74,Multifamily Housing,34588,101.6
+Denver,75,Multifamily Housing,34736,63.1
+Denver,76,Multifamily Housing,34971,59.6
+Denver,77,Multifamily Housing,35249,99.1
+Denver,78,Multifamily Housing,35422,100.3
+Denver,79,Multifamily Housing,35439,65.5
+Denver,80,Multifamily Housing,35500,113.2
+Denver,81,Multifamily Housing,35632,112.5
+Denver,82,Multifamily Housing,35977,46.2
+Denver,83,Multifamily Housing,36132,56.4
+Denver,84,Multifamily Housing,36412,47.3
+Denver,85,Multifamily Housing,36454,44.4
+Denver,86,Multifamily Housing,36720,62.8
+Denver,87,Multifamily Housing,36750,85.1
+Denver,88,Multifamily Housing,36750,122.7
+Denver,89,Multifamily Housing,36831,106.4
+Denver,90,Multifamily Housing,36854,79.6
+Denver,91,Multifamily Housing,37084,36.3
+Denver,92,Multifamily Housing,37323,41.8
+Denver,93,Multifamily Housing,37586,64
+Denver,94,Multifamily Housing,37620,29
+Denver,95,Multifamily Housing,37660,42.4
+Denver,96,Multifamily Housing,37815,73.6
+Denver,97,Multifamily Housing,37815,75.7
+Denver,98,Multifamily Housing,37882,59.5
+Denver,99,Multifamily Housing,38080,44.2
+Denver,100,Multifamily Housing,38368,65.4
+Denver,101,Multifamily Housing,38371,71.3
+Denver,102,Multifamily Housing,38557,46.2
+Denver,103,Multifamily Housing,39600,89.8
+Denver,104,Multifamily Housing,39944,47.7
+Denver,105,Multifamily Housing,40358,70.9
+Denver,106,Multifamily Housing,40495,53.4
+Denver,107,Multifamily Housing,40668,37
+Denver,108,Multifamily Housing,40880,55.4
+Denver,109,Multifamily Housing,41553,23.2
+Denver,110,Multifamily Housing,41671,80.7
+Denver,111,Multifamily Housing,41740,69.8
+Denver,112,Multifamily Housing,42427,24.5
+Denver,113,Multifamily Housing,42474,33.6
+Denver,114,Multifamily Housing,42479,66.7
+Denver,115,Multifamily Housing,42500,95.8
+Denver,116,Multifamily Housing,42718,29.9
+Denver,117,Multifamily Housing,43162,85
+Denver,118,Multifamily Housing,43168,63.6
+Denver,119,Multifamily Housing,43332,69.2
+Denver,120,Multifamily Housing,43601,100.3
+Denver,121,Multifamily Housing,43601,76.4
+Denver,122,Multifamily Housing,43601,73.1
+Denver,123,Multifamily Housing,43601,86.4
+Denver,124,Multifamily Housing,43735,61.1
+Denver,125,Multifamily Housing,43944,107.6
+Denver,126,Multifamily Housing,44144,69.4
+Denver,127,Multifamily Housing,44223,44.1
+Denver,128,Multifamily Housing,44300,102.6
+Denver,129,Multifamily Housing,44375,69.1
+Denver,130,Multifamily Housing,44392,104
+Denver,131,Multifamily Housing,44655,77
+Denver,132,Multifamily Housing,45000,64.1
+Denver,133,Multifamily Housing,45772,94
+Denver,134,Multifamily Housing,45774,79.3
+Denver,135,Multifamily Housing,45999,57.7
+Denver,136,Multifamily Housing,46353,64.5
+Denver,137,Multifamily Housing,46437,93.4
+Denver,138,Multifamily Housing,46549,74.4
+Denver,139,Multifamily Housing,46772,99
+Denver,140,Multifamily Housing,47400,80.5
+Denver,141,Multifamily Housing,48000,45.2
+Denver,142,Multifamily Housing,48644,86.9
+Denver,143,Multifamily Housing,49147,66.4
+Denver,144,Multifamily Housing,49278,86.6
+Denver,145,Multifamily Housing,49310,64.2
+Denver,146,Multifamily Housing,49341,51.8
+Denver,147,Multifamily Housing,49791,99.5
+Denver,148,Multifamily Housing,49882,63.9
+Denver,149,Multifamily Housing,49932,51.3
+Denver,150,Multifamily Housing,50363,77.2
+Denver,151,Multifamily Housing,50430,48.3
+Denver,152,Multifamily Housing,50485,73.2
+Denver,153,Multifamily Housing,50495,106.1
+Denver,154,Multifamily Housing,50987,72.8
+Denver,155,Multifamily Housing,51450,31
+Denver,156,Multifamily Housing,51730,62.9
+Denver,157,Multifamily Housing,51860,74.2
+Denver,158,Multifamily Housing,51974,97.6
+Denver,159,Multifamily Housing,52000,43.5
+Denver,160,Multifamily Housing,52000,56.9
+Denver,161,Multifamily Housing,52486,63.5
+Denver,162,Multifamily Housing,52900,76.3
+Denver,163,Multifamily Housing,53345,45.8
+Denver,164,Multifamily Housing,53677,56.5
+Denver,165,Multifamily Housing,54602,54
+Denver,166,Multifamily Housing,54682,52.4
+Denver,167,Multifamily Housing,54965,82
+Denver,168,Multifamily Housing,55127,43.1
+Denver,169,Multifamily Housing,55205,50.7
+Denver,170,Multifamily Housing,55482,43.3
+Denver,171,Multifamily Housing,55652,134.6
+Denver,172,Multifamily Housing,56000,53.8
+Denver,173,Multifamily Housing,56118,68.5
+Denver,174,Multifamily Housing,56405,67.1
+Denver,175,Multifamily Housing,56804,157.4
+Denver,176,Multifamily Housing,56969,93.2
+Denver,177,Multifamily Housing,56976,68
+Denver,178,Multifamily Housing,57006,80.7
+Denver,179,Multifamily Housing,57654,68.5
+Denver,180,Multifamily Housing,57993,75.4
+Denver,181,Multifamily Housing,58069,69.6
+Denver,182,Multifamily Housing,58800,54.8
+Denver,183,Multifamily Housing,59216,32.7
+Denver,184,Multifamily Housing,59348,49.5
+Denver,185,Multifamily Housing,59348,56.5
+Denver,186,Multifamily Housing,59348,57.2
+Denver,187,Multifamily Housing,59348,49.1
+Denver,188,Multifamily Housing,59348,43.3
+Denver,189,Multifamily Housing,59348,57.6
+Denver,190,Multifamily Housing,59348,58.9
+Denver,191,Multifamily Housing,59348,51.3
+Denver,192,Multifamily Housing,59348,59.6
+Denver,193,Multifamily Housing,59588,62
+Denver,194,Multifamily Housing,59588,58.5
+Denver,195,Multifamily Housing,59588,45.4
+Denver,196,Multifamily Housing,59588,63.7
+Denver,197,Multifamily Housing,59588,65.8
+Denver,198,Multifamily Housing,59588,58.8
+Denver,199,Multifamily Housing,59800,59.3
+Denver,200,Multifamily Housing,59913,47.4
+Denver,201,Multifamily Housing,59954,71.7
+Denver,202,Multifamily Housing,59983,58.1
+Denver,203,Multifamily Housing,60000,141.9
+Denver,204,Multifamily Housing,60000,74.6
+Denver,205,Multifamily Housing,60000,51.4
+Denver,206,Multifamily Housing,60482,49.1
+Denver,207,Multifamily Housing,60499,41.9
+Denver,208,Multifamily Housing,60579,67.8
+Denver,209,Multifamily Housing,61000,50.3
+Denver,210,Multifamily Housing,61030,61
+Denver,211,Multifamily Housing,61030,50.8
+Denver,212,Multifamily Housing,61030,62.1
+Denver,213,Multifamily Housing,61030,47.4
+Denver,214,Multifamily Housing,61030,47.8
+Denver,215,Multifamily Housing,61030,67
+Denver,216,Multifamily Housing,61030,59.5
+Denver,217,Multifamily Housing,61030,53.7
+Denver,218,Multifamily Housing,61030,61
+Denver,219,Multifamily Housing,61030,47.2
+Denver,220,Multifamily Housing,61030,60.2
+Denver,221,Multifamily Housing,61030,59.4
+Denver,222,Multifamily Housing,61030,59.4
+Denver,223,Multifamily Housing,61030,54.9
+Denver,224,Multifamily Housing,61030,58.6
+Denver,225,Multifamily Housing,61030,49
+Denver,226,Multifamily Housing,61030,61.5
+Denver,227,Multifamily Housing,61030,59.9
+Denver,228,Multifamily Housing,61030,59.3
+Denver,229,Multifamily Housing,61030,54.5
+Denver,230,Multifamily Housing,61030,59.1
+Denver,231,Multifamily Housing,61030,56.7
+Denver,232,Multifamily Housing,61030,49.9
+Denver,233,Multifamily Housing,61030,59.9
+Denver,234,Multifamily Housing,61500,44.5
+Denver,235,Multifamily Housing,62976,114.8
+Denver,236,Multifamily Housing,63358,49.1
+Denver,237,Multifamily Housing,63358,50.6
+Denver,238,Multifamily Housing,63358,52.9
+Denver,239,Multifamily Housing,63358,55
+Denver,240,Multifamily Housing,63380,43.1
+Denver,241,Multifamily Housing,65000,49
+Denver,242,Multifamily Housing,65216,85.7
+Denver,243,Multifamily Housing,65487,119.8
+Denver,244,Multifamily Housing,65700,74.6
+Denver,245,Multifamily Housing,66000,73.3
+Denver,246,Multifamily Housing,67676,60.8
+Denver,247,Multifamily Housing,67800,55.7
+Denver,248,Multifamily Housing,67873,72.6
+Denver,249,Multifamily Housing,68240,80.6
+Denver,250,Multifamily Housing,68295,82.2
+Denver,251,Multifamily Housing,68320,86.1
+Denver,252,Multifamily Housing,68706,67.3
+Denver,253,Multifamily Housing,68964,47.4
+Denver,254,Multifamily Housing,69087,99.4
+Denver,255,Multifamily Housing,69366,74.7
+Denver,256,Multifamily Housing,69600,110.4
+Denver,257,Multifamily Housing,69681,114.5
+Denver,258,Multifamily Housing,70446,39
+Denver,259,Multifamily Housing,70603,36.2
+Denver,260,Multifamily Housing,70672,76.1
+Denver,261,Multifamily Housing,71532,33.2
+Denver,262,Multifamily Housing,72000,65.7
+Denver,263,Multifamily Housing,73200,117.4
+Denver,264,Multifamily Housing,73500,116.8
+Denver,265,Multifamily Housing,74361,66.1
+Denver,266,Multifamily Housing,74449,64.8
+Denver,267,Multifamily Housing,74953,48.1
+Denver,268,Multifamily Housing,75000,66.1
+Denver,269,Multifamily Housing,75319,113
+Denver,270,Multifamily Housing,75427,61.8
+Denver,271,Multifamily Housing,76342,59.2
+Denver,272,Multifamily Housing,76754,48
+Denver,273,Multifamily Housing,78371,37.1
+Denver,274,Multifamily Housing,78402,54.1
+Denver,275,Multifamily Housing,79674,93.2
+Denver,276,Multifamily Housing,80000,62.4
+Denver,277,Multifamily Housing,81354,88.9
+Denver,278,Multifamily Housing,81718,69.3
+Denver,279,Multifamily Housing,82129,77.2
+Denver,280,Multifamily Housing,82475,68.5
+Denver,281,Multifamily Housing,82750,51
+Denver,282,Multifamily Housing,82797,88.9
+Denver,283,Multifamily Housing,84008,157.6
+Denver,284,Multifamily Housing,84326,62.9
+Denver,285,Multifamily Housing,84437,86.9
+Denver,286,Multifamily Housing,85751,77.5
+Denver,287,Multifamily Housing,86760,82.8
+Denver,288,Multifamily Housing,86996,85.8
+Denver,289,Multifamily Housing,87258,46.1
+Denver,290,Multifamily Housing,87588,61.1
+Denver,291,Multifamily Housing,88250,70.8
+Denver,292,Multifamily Housing,88511,82.7
+Denver,293,Multifamily Housing,88549,62.3
+Denver,294,Multifamily Housing,89740,59.4
+Denver,295,Multifamily Housing,89759,76.3
+Denver,296,Multifamily Housing,90000,52
+Denver,297,Multifamily Housing,90283,47.6
+Denver,298,Multifamily Housing,91052,68.5
+Denver,299,Multifamily Housing,91624,66.2
+Denver,300,Multifamily Housing,91900,64.3
+Denver,301,Multifamily Housing,93033,42.4
+Denver,302,Multifamily Housing,93794,52.9
+Denver,303,Multifamily Housing,94000,52.6
+Denver,304,Multifamily Housing,94070,84.2
+Denver,305,Multifamily Housing,94134,73.6
+Denver,306,Multifamily Housing,94269,91
+Denver,307,Multifamily Housing,94485,33.5
+Denver,308,Multifamily Housing,94600,65.4
+Denver,309,Multifamily Housing,96000,46.8
+Denver,310,Multifamily Housing,96271,67.8
+Denver,311,Multifamily Housing,97592,134.4
+Denver,312,Multifamily Housing,97956,60.5
+Denver,313,Multifamily Housing,98041,37.5
+Denver,314,Multifamily Housing,99706,78.2
+Denver,315,Multifamily Housing,100378,107.4
+Denver,316,Multifamily Housing,100485,54.7
+Denver,317,Multifamily Housing,100500,77.5
+Denver,318,Multifamily Housing,103437,105.7
+Denver,319,Multifamily Housing,103693,58.7
+Denver,320,Multifamily Housing,104640,48
+Denver,321,Multifamily Housing,104712,106.5
+Denver,322,Multifamily Housing,104712,103.3
+Denver,323,Multifamily Housing,107059,109.9
+Denver,324,Multifamily Housing,109122,90.2
+Denver,325,Multifamily Housing,109867,55
+Denver,326,Multifamily Housing,110987,87.1
+Denver,327,Multifamily Housing,113456,56.5
+Denver,328,Multifamily Housing,116168,70.3
+Denver,329,Multifamily Housing,117550,62.3
+Denver,330,Multifamily Housing,117649,47.8
+Denver,331,Multifamily Housing,118139,77.1
+Denver,332,Multifamily Housing,118617,75.8
+Denver,333,Multifamily Housing,118668,57.1
+Denver,334,Multifamily Housing,118935,79.1
+Denver,335,Multifamily Housing,119010,43.3
+Denver,336,Multifamily Housing,120250,58.2
+Denver,337,Multifamily Housing,120602,24
+Denver,338,Multifamily Housing,121965,81.7
+Denver,339,Multifamily Housing,122056,72.5
+Denver,340,Multifamily Housing,123042,93.8
+Denver,341,Multifamily Housing,123084,30.6
+Denver,342,Multifamily Housing,123354,79.1
+Denver,343,Multifamily Housing,124813,69.3
+Denver,344,Multifamily Housing,125000,82.4
+Denver,345,Multifamily Housing,125989,36.4
+Denver,346,Multifamily Housing,127228,111.7
+Denver,347,Multifamily Housing,127525,35.5
+Denver,348,Multifamily Housing,128000,60.2
+Denver,349,Multifamily Housing,128315,74.1
+Denver,350,Multifamily Housing,134995,61.8
+Denver,351,Multifamily Housing,136207,55.1
+Denver,352,Multifamily Housing,136675,41.4
+Denver,353,Multifamily Housing,138000,69.9
+Denver,354,Multifamily Housing,138477,51.4
+Denver,355,Multifamily Housing,138915,46.9
+Denver,356,Multifamily Housing,142190,59.1
+Denver,357,Multifamily Housing,143000,57
+Denver,358,Multifamily Housing,143836,60.7
+Denver,359,Multifamily Housing,144093,56.9
+Denver,360,Multifamily Housing,145201,95
+Denver,361,Multifamily Housing,146484,53.9
+Denver,362,Multifamily Housing,147212,46.4
+Denver,363,Multifamily Housing,149374,81.6
+Denver,364,Multifamily Housing,154255,53.6
+Denver,365,Multifamily Housing,154300,66.1
+Denver,366,Multifamily Housing,155586,100.3
+Denver,367,Multifamily Housing,155744,85.9
+Denver,368,Multifamily Housing,156616,41.3
+Denver,369,Multifamily Housing,157637,86.9
+Denver,370,Multifamily Housing,160068,49.7
+Denver,371,Multifamily Housing,163873,72.1
+Denver,372,Multifamily Housing,164182,63.8
+Denver,373,Multifamily Housing,164192,52
+Denver,374,Multifamily Housing,164765,32
+Denver,375,Multifamily Housing,165164,85.9
+Denver,376,Multifamily Housing,165366,72.1
+Denver,377,Multifamily Housing,167468,75.5
+Denver,378,Multifamily Housing,170873,65.2
+Denver,379,Multifamily Housing,171185,88.1
+Denver,380,Multifamily Housing,173338,60.2
+Denver,381,Multifamily Housing,174000,33.6
+Denver,382,Multifamily Housing,175359,85.5
+Denver,383,Multifamily Housing,175833,42.3
+Denver,384,Multifamily Housing,176480,74.6
+Denver,385,Multifamily Housing,177069,61.1
+Denver,386,Multifamily Housing,183360,88.6
+Denver,387,Multifamily Housing,183909,45.5
+Denver,388,Multifamily Housing,187392,44.4
+Denver,389,Multifamily Housing,188758,65.7
+Denver,390,Multifamily Housing,189228,73.8
+Denver,391,Multifamily Housing,189677,59.1
+Denver,392,Multifamily Housing,196247,44.5
+Denver,393,Multifamily Housing,200844,45
+Denver,394,Multifamily Housing,201001,49.8
+Denver,395,Multifamily Housing,202440,41
+Denver,396,Multifamily Housing,202454,71.5
+Denver,397,Multifamily Housing,206006,31
+Denver,398,Multifamily Housing,208537,47.2
+Denver,399,Multifamily Housing,210000,37.5
+Denver,400,Multifamily Housing,213267,67.9
+Denver,401,Multifamily Housing,214193,53.2
+Denver,402,Multifamily Housing,215787,98.2
+Denver,403,Multifamily Housing,217304,83.1
+Denver,404,Multifamily Housing,222977,76.9
+Denver,405,Multifamily Housing,234303,56.9
+Denver,406,Multifamily Housing,234412,42.4
+Denver,407,Multifamily Housing,234900,64.5
+Denver,408,Multifamily Housing,236166,77.2
+Denver,409,Multifamily Housing,236609,44
+Denver,410,Multifamily Housing,239778,65.8
+Denver,411,Multifamily Housing,240537,64
+Denver,412,Multifamily Housing,240607,92.8
+Denver,413,Multifamily Housing,243580,86.8
+Denver,414,Multifamily Housing,244700,39.8
+Denver,415,Multifamily Housing,245762,64.9
+Denver,416,Multifamily Housing,250597,73.5
+Denver,417,Multifamily Housing,250913,78
+Denver,418,Multifamily Housing,252828,59.9
+Denver,419,Multifamily Housing,253174,71
+Denver,420,Multifamily Housing,253857,52.2
+Denver,421,Multifamily Housing,256425,52.7
+Denver,422,Multifamily Housing,256805,74.4
+Denver,423,Multifamily Housing,257477,53
+Denver,424,Multifamily Housing,258660,64.4
+Denver,425,Multifamily Housing,264445,50.1
+Denver,426,Multifamily Housing,265436,39.1
+Denver,427,Multifamily Housing,265615,41.3
+Denver,428,Multifamily Housing,266465,49.9
+Denver,429,Multifamily Housing,268406,92.1
+Denver,430,Multifamily Housing,272199,60.9
+Denver,431,Multifamily Housing,275536,49.7
+Denver,432,Multifamily Housing,275559,62.9
+Denver,433,Multifamily Housing,275643,69.4
+Denver,434,Multifamily Housing,278285,68.1
+Denver,435,Multifamily Housing,293741,53.5
+Denver,436,Multifamily Housing,293888,87.4
+Denver,437,Multifamily Housing,294971,82
+Denver,438,Multifamily Housing,295267,40.6
+Denver,439,Multifamily Housing,297280,58
+Denver,440,Multifamily Housing,298753,61.2
+Denver,441,Multifamily Housing,310301,71.2
+Denver,442,Multifamily Housing,315163,65.1
+Denver,443,Multifamily Housing,317294,36.1
+Denver,444,Multifamily Housing,322000,37.8
+Denver,445,Multifamily Housing,325000,87
+Denver,446,Multifamily Housing,328373,74.2
+Denver,447,Multifamily Housing,329538,57.7
+Denver,448,Multifamily Housing,331480,73.4
+Denver,449,Multifamily Housing,341493,52.8
+Denver,450,Multifamily Housing,342033,61.1
+Denver,451,Multifamily Housing,342682,36.4
+Denver,452,Multifamily Housing,346264,39.3
+Denver,453,Multifamily Housing,350023,29.5
+Denver,454,Multifamily Housing,351081,44
+Denver,455,Multifamily Housing,352056,53.9
+Denver,456,Multifamily Housing,356956,34.6
+Denver,457,Multifamily Housing,358390,51
+Denver,458,Multifamily Housing,362430,43.7
+Denver,459,Multifamily Housing,363062,84.2
+Denver,460,Multifamily Housing,364000,45.8
+Denver,461,Multifamily Housing,364921,49.5
+Denver,462,Multifamily Housing,371073,50.3
+Denver,463,Multifamily Housing,373403,53.1
+Denver,464,Multifamily Housing,375320,48
+Denver,465,Multifamily Housing,389411,81.6
+Denver,466,Multifamily Housing,391543,38.1
+Denver,467,Multifamily Housing,409416,76.1
+Denver,468,Multifamily Housing,412015,93.9
+Denver,469,Multifamily Housing,412856,79.2
+Denver,470,Multifamily Housing,425288,64.3
+Denver,471,Multifamily Housing,427702,32.3
+Denver,472,Multifamily Housing,428106,39.5
+Denver,473,Multifamily Housing,472693,43.2
+Denver,474,Multifamily Housing,476641,41.6
+Denver,475,Multifamily Housing,480668,26.4
+Denver,476,Multifamily Housing,503065,35.9
+Denver,477,Multifamily Housing,516825,68.7
+Denver,478,Multifamily Housing,584398,54.9
+Denver,479,Multifamily Housing,627818,29.6
+Denver,480,Multifamily Housing,634450,73.5
+Denver,481,Multifamily Housing,708773,75
+Denver,482,Multifamily Housing,837250,50.5
+Denver,483,Multifamily Housing,25000,105
+Denver,484,Multifamily Housing,25054,89.9
+Denver,485,Multifamily Housing,25058,46.1
+Denver,486,Multifamily Housing,25058,49.6
+Denver,487,Multifamily Housing,25085,89.1
+Denver,488,Multifamily Housing,25180,47.9
+Denver,489,Multifamily Housing,25180,44
+Denver,490,Multifamily Housing,25180,50.2
+Denver,491,Multifamily Housing,25180,52.5
+Denver,492,Multifamily Housing,25180,43.9
+Denver,493,Multifamily Housing,25314,42.4
+Denver,494,Multifamily Housing,25672,53.6
+Denver,495,Multifamily Housing,25672,49.1
+Denver,496,Multifamily Housing,25672,53.8
+Denver,497,Multifamily Housing,25672,51.9
+Denver,498,Multifamily Housing,26000,53.4
+Denver,499,Multifamily Housing,26048,35.7
+Denver,500,Multifamily Housing,26400,55.6
+Denver,501,Multifamily Housing,26504,49.8
+Denver,502,Multifamily Housing,26736,71.9
+Denver,503,Multifamily Housing,26790,65.7
+Denver,504,Multifamily Housing,27000,65.2
+Denver,505,Multifamily Housing,27136,79.4
+Denver,506,Multifamily Housing,27209,80.9
+Denver,507,Multifamily Housing,27378,31.5
+Denver,508,Multifamily Housing,27483,37.4
+Denver,509,Multifamily Housing,27576,36.1
+Denver,510,Multifamily Housing,27790,65.7
+Denver,511,Multifamily Housing,27800,32.9
+Denver,512,Multifamily Housing,28000,57.3
+Denver,513,Multifamily Housing,28000,73.8
+Denver,514,Multifamily Housing,28134,47.7
+Denver,515,Multifamily Housing,28152,65.4
+Denver,516,Multifamily Housing,29116,56
+Denver,517,Multifamily Housing,29450,74.8
+Denver,518,Multifamily Housing,29495,56.2
+Denver,519,Multifamily Housing,29664,52.7
+Denver,520,Multifamily Housing,29700,66.3
+Denver,521,Multifamily Housing,29766,50.7
+Denver,522,Multifamily Housing,29851,61.3
+Denver,523,Multifamily Housing,30687,39.2
+Denver,524,Multifamily Housing,30687,40.5
+Denver,525,Multifamily Housing,30687,37.6
+Denver,526,Multifamily Housing,30899,60.7
+Denver,527,Multifamily Housing,30941,29
+Denver,528,Multifamily Housing,31166,93.1
+Denver,529,Multifamily Housing,31341,54.7
+Denver,530,Multifamily Housing,31633,81
+Denver,531,Multifamily Housing,31734,47.8
+Denver,532,Multifamily Housing,31876,59.8
+Denver,533,Multifamily Housing,31903,85
+Denver,534,Multifamily Housing,32121,59.1
+Denver,535,Multifamily Housing,32652,35
+Denver,536,Multifamily Housing,33075,52.7
+Denver,537,Multifamily Housing,33208,41.1
+Denver,538,Multifamily Housing,33469,45.4
+Denver,539,Multifamily Housing,33990,39.1
+Denver,540,Multifamily Housing,34220,40.1
+Denver,541,Multifamily Housing,34221,31.9
+Denver,542,Multifamily Housing,35000,49.6
+Denver,543,Multifamily Housing,35516,103.4
+Denver,544,Multifamily Housing,35643,38.4
+Denver,545,Multifamily Housing,35725,41.3
+Denver,546,Multifamily Housing,35780,60
+Denver,547,Multifamily Housing,36100,75.2
+Denver,548,Multifamily Housing,36258,38.5
+Denver,549,Multifamily Housing,36666,51.6
+Denver,550,Multifamily Housing,36700,77.6
+Denver,551,Multifamily Housing,37125,74.6
+Denver,552,Multifamily Housing,37216,107.6
+Denver,553,Multifamily Housing,37350,229.1
+Denver,554,Multifamily Housing,37513,55.8
+Denver,555,Multifamily Housing,37600,87.5
+Denver,556,Multifamily Housing,37903,67.1
+Denver,557,Multifamily Housing,38065,47.7
+Denver,558,Multifamily Housing,38388,70
+Denver,559,Multifamily Housing,38643,67.2
+Denver,560,Multifamily Housing,39235,58.7
+Denver,561,Multifamily Housing,39922,46.7
+Denver,562,Multifamily Housing,40000,50.7
+Denver,563,Multifamily Housing,40170,62.7
+Denver,564,Multifamily Housing,40170,69.2
+Denver,565,Multifamily Housing,40424,51.3
+Denver,566,Multifamily Housing,40485,65.3
+Denver,567,Multifamily Housing,41280,46.9
+Denver,568,Multifamily Housing,41472,86.3
+Denver,569,Multifamily Housing,41620,69
+Denver,570,Multifamily Housing,41660,26.5
+Denver,571,Multifamily Housing,42000,80.2
+Denver,572,Multifamily Housing,42000,44
+Denver,573,Multifamily Housing,42598,59.5
+Denver,574,Multifamily Housing,42857,66
+Denver,575,Multifamily Housing,42924,99.9
+Denver,576,Multifamily Housing,43000,64.5
+Denver,577,Multifamily Housing,43382,54.6
+Denver,578,Multifamily Housing,43440,62.8
+Denver,579,Multifamily Housing,44057,64.7
+Denver,580,Multifamily Housing,44073,86.7
+Denver,581,Multifamily Housing,44208,48.3
+Denver,582,Multifamily Housing,46208,78.9
+Denver,583,Multifamily Housing,46350,122.1
+Denver,584,Multifamily Housing,46445,43.1
+Denver,585,Multifamily Housing,46637,64.7
+Denver,586,Multifamily Housing,46942,46.4
+Denver,587,Multifamily Housing,46980,38.8
+Denver,588,Multifamily Housing,47117,30.6
+Denver,589,Multifamily Housing,47559,39.1
+Denver,590,Multifamily Housing,47987,64.4
+Denver,591,Multifamily Housing,48000,68.1
+Denver,592,Multifamily Housing,48000,59.8
+Denver,593,Multifamily Housing,48000,43.8
+Denver,594,Multifamily Housing,48211,52.9
+Denver,595,Multifamily Housing,48234,50.9
+Denver,596,Multifamily Housing,49000,27.1
+Denver,597,Multifamily Housing,49224,45.5
+Denver,598,Multifamily Housing,49225,54.6
+Denver,599,Multifamily Housing,49274,112.4
+Denver,600,Multifamily Housing,50000,63.6
+Denver,601,Multifamily Housing,50000,74.2
+Denver,602,Multifamily Housing,50317,76.6
+Denver,603,Multifamily Housing,50736,114.9
+Denver,604,Multifamily Housing,50762,48.8
+Denver,605,Multifamily Housing,51000,73.8
+Denver,606,Multifamily Housing,52856,54.1
+Denver,607,Multifamily Housing,52980,29.3
+Denver,608,Multifamily Housing,53094,41.8
+Denver,609,Multifamily Housing,53306,44.9
+Denver,610,Multifamily Housing,53381,69.5
+Denver,611,Multifamily Housing,53662,50.7
+Denver,612,Multifamily Housing,53794,69.1
+Denver,613,Multifamily Housing,53992,30
+Denver,614,Multifamily Housing,54400,47.7
+Denver,615,Multifamily Housing,54650,33
+Denver,616,Multifamily Housing,55102,56.2
+Denver,617,Multifamily Housing,55196,95.7
+Denver,618,Multifamily Housing,55374,70.5
+Denver,619,Multifamily Housing,55650,52.3
+Denver,620,Multifamily Housing,56250,63.9
+Denver,621,Multifamily Housing,56685,50.5
+Denver,622,Multifamily Housing,57377,80.6
+Denver,623,Multifamily Housing,58000,98.3
+Denver,624,Multifamily Housing,59398,76.1
+Denver,625,Multifamily Housing,60000,74.7
+Denver,626,Multifamily Housing,61030,59.4
+Denver,627,Multifamily Housing,62061,53.4
+Denver,628,Multifamily Housing,62120,97.2
+Denver,629,Multifamily Housing,63358,64
+Denver,630,Multifamily Housing,63399,56.9
+Denver,631,Multifamily Housing,63945,46.5
+Denver,632,Multifamily Housing,65000,68.3
+Denver,633,Multifamily Housing,65948,48.9
+Denver,634,Multifamily Housing,66045,55.3
+Denver,635,Multifamily Housing,67000,88
+Denver,636,Multifamily Housing,67360,26
+Denver,637,Multifamily Housing,69159,101.5
+Denver,638,Multifamily Housing,69776,55.6
+Denver,639,Multifamily Housing,72062,52.2
+Denver,640,Multifamily Housing,72407,48.5
+Denver,641,Multifamily Housing,73247,32.8
+Denver,642,Multifamily Housing,73444,22.9
+Denver,643,Multifamily Housing,74000,60.5
+Denver,644,Multifamily Housing,74286,54.5
+Denver,645,Multifamily Housing,75319,45.9
+Denver,646,Multifamily Housing,76479,39.3
+Denver,647,Multifamily Housing,76800,72.6
+Denver,648,Multifamily Housing,78034,102.6
+Denver,649,Multifamily Housing,78214,56.3
+Denver,650,Multifamily Housing,78653,82.9
+Denver,651,Multifamily Housing,80000,43.3
+Denver,652,Multifamily Housing,80000,62.6
+Denver,653,Multifamily Housing,80414,48.2
+Denver,654,Multifamily Housing,82000,80.2
+Denver,655,Multifamily Housing,82316,56.6
+Denver,656,Multifamily Housing,82900,55.1
+Denver,657,Multifamily Housing,83126,38.1
+Denver,658,Multifamily Housing,84597,79.6
+Denver,659,Multifamily Housing,85678,56.3
+Denver,660,Multifamily Housing,86301,39
+Denver,661,Multifamily Housing,86353,66.1
+Denver,662,Multifamily Housing,86400,69.1
+Denver,663,Multifamily Housing,87000,66.6
+Denver,664,Multifamily Housing,88943,67.7
+Denver,665,Multifamily Housing,90000,58.9
+Denver,666,Multifamily Housing,90374,37
+Denver,667,Multifamily Housing,91225,62.2
+Denver,668,Multifamily Housing,91821,33.2
+Denver,669,Multifamily Housing,92370,75.5
+Denver,670,Multifamily Housing,95334,25.4
+Denver,671,Multifamily Housing,96175,50.2
+Denver,672,Multifamily Housing,97000,63.7
+Denver,673,Multifamily Housing,97022,92.3
+Denver,674,Multifamily Housing,100529,39.9
+Denver,675,Multifamily Housing,101000,70
+Denver,676,Multifamily Housing,101264,48.3
+Denver,677,Multifamily Housing,101356,61.4
+Denver,678,Multifamily Housing,102338,63.2
+Denver,679,Multifamily Housing,102361,81.6
+Denver,680,Multifamily Housing,105729,60.2
+Denver,681,Multifamily Housing,105880,50.7
+Denver,682,Multifamily Housing,106278,91.1
+Denver,683,Multifamily Housing,108000,53.3
+Denver,684,Multifamily Housing,109360,45.4
+Denver,685,Multifamily Housing,110473,62.2
+Denver,686,Multifamily Housing,112996,97.3
+Denver,687,Multifamily Housing,115310,73.9
+Denver,688,Multifamily Housing,115798,182
+Denver,689,Multifamily Housing,117847,66.2
+Denver,690,Multifamily Housing,118655,50.8
+Denver,691,Multifamily Housing,120000,144.3
+Denver,692,Multifamily Housing,122413,41.3
+Denver,693,Multifamily Housing,123801,76
+Denver,694,Multifamily Housing,124899,24.1
+Denver,695,Multifamily Housing,125000,71.6
+Denver,696,Multifamily Housing,125345,58.1
+Denver,697,Multifamily Housing,126300,41.4
+Denver,698,Multifamily Housing,127517,56.8
+Denver,699,Multifamily Housing,129709,37.1
+Denver,700,Multifamily Housing,131000,77.3
+Denver,701,Multifamily Housing,135246,94.3
+Denver,702,Multifamily Housing,135408,55.7
+Denver,703,Multifamily Housing,141000,60.8
+Denver,704,Multifamily Housing,143500,35.9
+Denver,705,Multifamily Housing,144082,63.9
+Denver,706,Multifamily Housing,149162,31.9
+Denver,707,Multifamily Housing,157300,61.3
+Denver,708,Multifamily Housing,160638,76.1
+Denver,709,Multifamily Housing,161500,84.4
+Denver,710,Multifamily Housing,168200,54
+Denver,711,Multifamily Housing,173690,52.5
+Denver,712,Multifamily Housing,175590,49.6
+Denver,713,Multifamily Housing,176184,35.1
+Denver,714,Multifamily Housing,176298,38.5
+Denver,715,Multifamily Housing,178136,43.4
+Denver,716,Multifamily Housing,187096,71.9
+Denver,717,Multifamily Housing,190000,56.4
+Denver,718,Multifamily Housing,196796,117.2
+Denver,719,Multifamily Housing,197901,49.4
+Denver,720,Multifamily Housing,203570,54.9
+Denver,721,Multifamily Housing,227670,59.6
+Denver,722,Multifamily Housing,227670,48.1
+Denver,723,Multifamily Housing,228974,72.7
+Denver,724,Multifamily Housing,231622,69.2
+Denver,725,Multifamily Housing,238559,17.5
+Denver,726,Multifamily Housing,253106,53.2
+Denver,727,Multifamily Housing,257325,61.5
+Denver,728,Multifamily Housing,266190,66.2
+Denver,729,Multifamily Housing,274282,36.9
+Denver,730,Multifamily Housing,321318,47.5
+Denver,731,Multifamily Housing,344080,56.9
+Denver,732,Multifamily Housing,348403,78.1
+Denver,733,Multifamily Housing,350030,35.5
+Denver,734,Multifamily Housing,360122,49.8
+Denver,735,Multifamily Housing,363326,55.3
+Denver,736,Multifamily Housing,379410,55.2
+Denver,737,Multifamily Housing,497308,19.2
+Denver,738,Multifamily Housing,507467,62.2
+Denver,739,Multifamily Housing,540551,52.9
+Denver,740,Multifamily Housing,605271,64.9
+Denver,741,Multifamily Housing,690695,53.7
+Denver,742,Multifamily Housing,715347,41
+Denver,743,Multifamily Housing,763287,59.2
+Denver,744,K-12 School,25165,52.7
+Denver,745,K-12 School,25516,57.6
+Denver,746,K-12 School,26328,54.6
+Denver,747,K-12 School,28559,57.8
+Denver,748,K-12 School,31135,65.4
+Denver,749,K-12 School,32128,149.6
+Denver,750,K-12 School,32900,60.5
+Denver,751,K-12 School,33221,65.2
+Denver,752,K-12 School,33228,114.7
+Denver,753,K-12 School,34000,74.2
+Denver,754,K-12 School,34633,41.7
+Denver,755,K-12 School,35430,26.8
+Denver,756,K-12 School,36338,48
+Denver,757,K-12 School,36694,20.4
+Denver,758,K-12 School,36694,27.6
+Denver,759,K-12 School,37225,104.3
+Denver,760,K-12 School,38110,91.4
+Denver,761,K-12 School,39493,128.9
+Denver,762,K-12 School,39787,56.1
+Denver,763,K-12 School,40761,75.4
+Denver,764,K-12 School,40892,81.3
+Denver,765,K-12 School,40992,88.6
+Denver,766,K-12 School,41740,22.5
+Denver,767,K-12 School,42647,60.7
+Denver,768,K-12 School,43156,66.4
+Denver,769,K-12 School,43415,57.7
+Denver,770,K-12 School,43468,95.3
+Denver,771,K-12 School,43651,90.6
+Denver,772,K-12 School,44199,121.5
+Denver,773,K-12 School,44749,77
+Denver,774,K-12 School,44874,110.6
+Denver,775,K-12 School,45355,82.6
+Denver,776,K-12 School,45780,85.9
+Denver,777,K-12 School,45811,12.3
+Denver,778,K-12 School,46293,105.9
+Denver,779,K-12 School,46522,68.1
+Denver,780,K-12 School,47119,117.3
+Denver,781,K-12 School,47493,86.5
+Denver,782,K-12 School,47595,55.2
+Denver,783,K-12 School,48067,88.6
+Denver,784,K-12 School,49833,58.3
+Denver,785,K-12 School,50167,94.2
+Denver,786,K-12 School,51544,75
+Denver,787,K-12 School,51746,112
+Denver,788,K-12 School,51756,94.1
+Denver,789,K-12 School,51846,81.2
+Denver,790,K-12 School,52000,91.5
+Denver,791,K-12 School,52243,120.8
+Denver,792,K-12 School,53310,91.8
+Denver,793,K-12 School,53370,89.2
+Denver,794,K-12 School,53682,107.6
+Denver,795,K-12 School,54264,115.9
+Denver,796,K-12 School,55250,92.5
+Denver,797,K-12 School,55826,55
+Denver,798,K-12 School,56113,68.3
+Denver,799,K-12 School,56844,55.5
+Denver,800,K-12 School,57362,53.3
+Denver,801,K-12 School,57532,91.4
+Denver,802,K-12 School,57795,75.4
+Denver,803,K-12 School,58421,67.1
+Denver,804,K-12 School,58696,119
+Denver,805,K-12 School,59546,105.9
+Denver,806,K-12 School,59760,69.5
+Denver,807,K-12 School,60383,53.6
+Denver,808,K-12 School,60912,97.1
+Denver,809,K-12 School,62290,71.3
+Denver,810,K-12 School,63852,72.2
+Denver,811,K-12 School,63871,61.3
+Denver,812,K-12 School,64121,99.2
+Denver,813,K-12 School,64265,71.3
+Denver,814,K-12 School,64800,69
+Denver,815,K-12 School,65324,85
+Denver,816,K-12 School,65679,71.7
+Denver,817,K-12 School,65993,68.4
+Denver,818,K-12 School,66004,74.8
+Denver,819,K-12 School,66092,56.2
+Denver,820,K-12 School,66404,71.8
+Denver,821,K-12 School,66652,57.4
+Denver,822,K-12 School,66719,44.3
+Denver,823,K-12 School,66812,81.4
+Denver,824,K-12 School,66946,70.6
+Denver,825,K-12 School,67467,80.7
+Denver,826,K-12 School,67803,57.7
+Denver,827,K-12 School,67813,53.2
+Denver,828,K-12 School,68001,71.8
+Denver,829,K-12 School,68213,76.2
+Denver,830,K-12 School,70091,106.6
+Denver,831,K-12 School,70448,73.7
+Denver,832,K-12 School,70507,86.3
+Denver,833,K-12 School,70740,77.6
+Denver,834,K-12 School,70945,68.3
+Denver,835,K-12 School,72243,74.4
+Denver,836,K-12 School,73065,82.6
+Denver,837,K-12 School,73120,91.1
+Denver,838,K-12 School,73744,87.3
+Denver,839,K-12 School,73848,40.7
+Denver,840,K-12 School,73936,80
+Denver,841,K-12 School,74152,81.8
+Denver,842,K-12 School,74210,101
+Denver,843,K-12 School,74225,67.7
+Denver,844,K-12 School,74435,77.1
+Denver,845,K-12 School,74927,54.8
+Denver,846,K-12 School,75996,83.7
+Denver,847,K-12 School,77708,47
+Denver,848,K-12 School,78107,88.3
+Denver,849,K-12 School,78766,60.2
+Denver,850,K-12 School,78829,58.2
+Denver,851,K-12 School,78979,84.4
+Denver,852,K-12 School,80271,78.2
+Denver,853,K-12 School,80599,75.3
+Denver,854,K-12 School,80779,30.4
+Denver,855,K-12 School,80872,62
+Denver,856,K-12 School,80988,63.9
+Denver,857,K-12 School,81405,90.6
+Denver,858,K-12 School,81728,59.7
+Denver,859,K-12 School,82164,63.7
+Denver,860,K-12 School,82431,39.4
+Denver,861,K-12 School,82985,54.6
+Denver,862,K-12 School,83084,88.3
+Denver,863,K-12 School,83342,61
+Denver,864,K-12 School,83587,67.8
+Denver,865,K-12 School,83833,45.8
+Denver,866,K-12 School,84485,45.5
+Denver,867,K-12 School,85063,51.1
+Denver,868,K-12 School,87021,64.5
+Denver,869,K-12 School,87243,69.5
+Denver,870,K-12 School,87459,95.7
+Denver,871,K-12 School,91311,58.2
+Denver,872,K-12 School,93512,57.2
+Denver,873,K-12 School,95623,42.9
+Denver,874,K-12 School,98114,48.2
+Denver,875,K-12 School,103646,42.6
+Denver,876,K-12 School,105875,45.2
+Denver,877,K-12 School,108002,71.7
+Denver,878,K-12 School,110450,70.2
+Denver,879,K-12 School,110849,26.6
+Denver,880,K-12 School,112253,67.9
+Denver,881,K-12 School,113519,95.2
+Denver,882,K-12 School,116245,58.1
+Denver,883,K-12 School,117520,48.6
+Denver,884,K-12 School,120702,63.9
+Denver,885,K-12 School,121237,38.5
+Denver,886,K-12 School,124352,74.1
+Denver,887,K-12 School,126586,38
+Denver,888,K-12 School,128209,39.1
+Denver,889,K-12 School,130669,90.1
+Denver,890,K-12 School,133453,63.8
+Denver,891,K-12 School,137352,83.2
+Denver,892,K-12 School,142973,79.7
+Denver,893,K-12 School,143965,72.1
+Denver,894,K-12 School,148422,45.6
+Denver,895,K-12 School,148821,101.3
+Denver,896,K-12 School,150142,46.9
+Denver,897,K-12 School,151620,72.3
+Denver,898,K-12 School,152942,66.3
+Denver,899,K-12 School,154106,81.1
+Denver,900,K-12 School,156898,74.1
+Denver,901,K-12 School,160162,50.5
+Denver,902,K-12 School,160479,76.4
+Denver,903,K-12 School,165518,84.9
+Denver,904,K-12 School,167942,74
+Denver,905,K-12 School,171950,58.5
+Denver,906,K-12 School,176011,64.9
+Denver,907,K-12 School,185230,62.4
+Denver,908,K-12 School,202718,54.6
+Denver,909,K-12 School,203487,43.3
+Denver,910,K-12 School,264719,63.3
+Denver,911,K-12 School,270987,74.2
+Denver,912,K-12 School,293017,71.5
+Denver,913,K-12 School,303667,45.2
+Denver,914,K-12 School,304137,65.9
+Denver,915,K-12 School,309764,52.4
+Denver,916,K-12 School,317053,78.8
+Denver,917,K-12 School,323143,60.4
+Denver,918,K-12 School,347465,60.2
+Denver,919,K-12 School,467686,47.1
+Denver,920,Office,30875,44.2
+Denver,921,Office,33442,86
+Denver,922,Office,41980,91.1
+Denver,923,Office,45000,78.2
+Denver,924,Office,46037,88
+Denver,925,Multifamily Housing,46121,36.1
+Denver,926,Office,48614,80.6
+Denver,927,Office,53510,71.7
+Denver,928,Multifamily Housing,70244,68
+Denver,929,Office,71232,65.5
+Denver,930,Office,79208,80.7
+Denver,931,Office,139525,89.7
+Denver,932,Multifamily Housing,146637,41.5
+Denver,933,Office,153948,75.1
+Denver,934,Office,307307,48.7
+Denver,935,Office,677832,72.4
+Denver,936,Office,25000,50.4
+Denver,937,Office,25000,83.9
+Denver,938,Office,25216,100.2
+Denver,939,Office,25246,62.5
+Denver,940,Office,25274,45.5
+Denver,941,Office,25314,57.5
+Denver,942,Office,25342,48.2
+Denver,943,Office,25377,147.8
+Denver,944,Office,26367,46
+Denver,945,Office,26400,75.8
+Denver,946,Office,26571,57.2
+Denver,947,Office,26779,39
+Denver,948,Office,26982,96.2
+Denver,949,Office,27000,43.9
+Denver,950,Office,27067,55.6
+Denver,951,Office,27187,91.8
+Denver,952,Office,27393,116.5
+Denver,953,Office,27542,86.8
+Denver,954,Office,27690,76.5
+Denver,955,Office,28162,76.8
+Denver,956,Office,28180,187
+Denver,957,Office,28466,128.4
+Denver,958,Office,29292,56.7
+Denver,959,Office,29413,104.9
+Denver,960,Office,29505,56.5
+Denver,961,Office,29659,55.6
+Denver,962,Office,29661,98.1
+Denver,963,Office,29900,87.8
+Denver,964,Office,30000,98.9
+Denver,965,Office,30000,59.2
+Denver,966,Office,30000,48.9
+Denver,967,Office,30000,113.5
+Denver,968,Office,30156,68.2
+Denver,969,Office,31086,73.7
+Denver,970,Office,31333,132
+Denver,971,Office,31438,113.6
+Denver,972,Office,31955,67.7
+Denver,973,Office,32875,117.9
+Denver,974,Office,32890,34.6
+Denver,975,Office,32926,75
+Denver,976,Office,33000,85.5
+Denver,977,Office,33152,117.8
+Denver,978,Office,33309,51.4
+Denver,979,Office,33683,85.7
+Denver,980,Office,33693,73.1
+Denver,981,Office,33948,97.5
+Denver,982,Office,34000,65.2
+Denver,983,Office,34254,91
+Denver,984,Office,34319,65
+Denver,985,Office,34609,75.5
+Denver,986,Office,34757,77.6
+Denver,987,Office,35200,89.4
+Denver,988,Office,35340,98.4
+Denver,989,Office,35754,137.7
+Denver,990,Office,36005,74.3
+Denver,991,Office,36750,71.5
+Denver,992,Office,36792,154.3
+Denver,993,Office,37000,78.4
+Denver,994,Office,37447,78
+Denver,995,Office,37616,53.8
+Denver,996,Office,37790,86.5
+Denver,997,Office,38108,67.3
+Denver,998,Office,38165,118.2
+Denver,999,Office,38320,85.4
+Denver,1000,Office,38378,124.2
+Denver,1001,Office,38427,96.1
+Denver,1002,Office,38716,87.1
+Denver,1003,Office,38828,69.1
+Denver,1004,Office,39000,69.1
+Denver,1005,Office,39116,49.9
+Denver,1006,Office,39467,74.6
+Denver,1007,Office,39579,149.3
+Denver,1008,Office,39804,79.4
+Denver,1009,Office,40000,85
+Denver,1010,Office,40000,40.2
+Denver,1011,Office,40296,97.9
+Denver,1012,Office,40393,36.9
+Denver,1013,Office,40651,154.3
+Denver,1014,Office,40657,155.4
+Denver,1015,Office,40900,68.1
+Denver,1016,Office,40949,79
+Denver,1017,Office,41000,52.2
+Denver,1018,Office,42000,120.5
+Denver,1019,Office,42222,47.7
+Denver,1020,Office,42315,58.1
+Denver,1021,Office,42920,85.8
+Denver,1022,Office,43836,64.6
+Denver,1023,Office,44181,43.9
+Denver,1024,Office,44358,91.2
+Denver,1025,Office,45000,164.2
+Denver,1026,Office,45000,45.5
+Denver,1027,Office,45092,86.9
+Denver,1028,Office,45099,136.3
+Denver,1029,Office,45119,80.5
+Denver,1030,Office,45196,44
+Denver,1031,Office,45673,42
+Denver,1032,Office,45795,35.7
+Denver,1033,Office,46298,87.5
+Denver,1034,Office,46650,50.4
+Denver,1035,Office,47376,49.2
+Denver,1036,Office,47554,51.8
+Denver,1037,Office,49401,109.4
+Denver,1038,Office,49627,79.5
+Denver,1039,Office,50000,70.9
+Denver,1040,Office,50058,68.4
+Denver,1041,Office,50813,65.5
+Denver,1042,Office,52466,68.6
+Denver,1043,Office,52859,138.7
+Denver,1044,Office,53268,94.8
+Denver,1045,Office,54000,122.2
+Denver,1046,Office,56630,94
+Denver,1047,Office,56897,60.7
+Denver,1048,Office,57600,33.7
+Denver,1049,Office,57620,47.4
+Denver,1050,Office,57914,56.9
+Denver,1051,Office,58390,94.3
+Denver,1052,Office,60000,86.2
+Denver,1053,Office,60000,59.6
+Denver,1054,Office,60169,42.5
+Denver,1055,Office,60948,66.6
+Denver,1056,Office,61024,68.4
+Denver,1057,Office,61762,50.9
+Denver,1058,Office,61932,79.7
+Denver,1059,Office,61958,69.7
+Denver,1060,Office,62255,51.5
+Denver,1061,Office,62825,88.3
+Denver,1062,Office,62907,70.9
+Denver,1063,Office,63170,96.1
+Denver,1064,Office,63927,97.8
+Denver,1065,Office,64110,51.2
+Denver,1066,Office,64170,65.2
+Denver,1067,Office,65000,43.9
+Denver,1068,Office,65617,91.2
+Denver,1069,Office,65689,69.6
+Denver,1070,Office,66120,81.3
+Denver,1071,Office,66713,86
+Denver,1072,Office,67473,96
+Denver,1073,Office,68357,122.9
+Denver,1074,Office,69108,83.5
+Denver,1075,Office,69938,117.3
+Denver,1076,Office,70262,112.7
+Denver,1077,Office,70375,66.9
+Denver,1078,Office,70520,75.6
+Denver,1079,Office,71708,74.3
+Denver,1080,Office,73118,57.4
+Denver,1081,Office,73299,69.9
+Denver,1082,Office,75000,155.5
+Denver,1083,Office,75264,64.1
+Denver,1084,Office,76405,59.4
+Denver,1085,Office,77463,74.5
+Denver,1086,Office,78000,61.3
+Denver,1087,Office,78575,66.1
+Denver,1088,Office,81508,94.3
+Denver,1089,Office,85000,122.8
+Denver,1090,Office,85221,55.1
+Denver,1091,Office,86635,77.5
+Denver,1092,Office,90712,67.6
+Denver,1093,Office,90821,123.7
+Denver,1094,Office,91560,97
+Denver,1095,Office,92000,63.1
+Denver,1096,Office,92217,71.5
+Denver,1097,Office,92226,76.5
+Denver,1098,Office,93095,62.1
+Denver,1099,Office,95430,41.7
+Denver,1100,Office,95902,96.1
+Denver,1101,Office,96160,96.9
+Denver,1102,Office,98481,34.1
+Denver,1103,Office,100560,54.4
+Denver,1104,Office,101583,47.9
+Denver,1105,Office,108717,133.7
+Denver,1106,Office,110000,134.2
+Denver,1107,Office,111787,97.5
+Denver,1108,Office,114945,68.2
+Denver,1109,Office,115000,83.1
+Denver,1110,Office,115296,101
+Denver,1111,Office,116042,53.3
+Denver,1112,Office,116125,131.7
+Denver,1113,Office,117469,60.7
+Denver,1114,Office,117624,67.8
+Denver,1115,Office,117930,106.4
+Denver,1116,Office,118505,71.4
+Denver,1117,Office,119155,80.3
+Denver,1118,Office,120093,47.7
+Denver,1119,Office,121992,72.1
+Denver,1120,Office,123280,76.9
+Denver,1121,Office,125000,93.9
+Denver,1122,Office,126514,68.9
+Denver,1123,Office,126919,173.5
+Denver,1124,Office,128297,55.1
+Denver,1125,Office,128471,85.2
+Denver,1126,Office,129649,71.1
+Denver,1127,Office,130029,53.7
+Denver,1128,Office,133500,108.2
+Denver,1129,Office,134532,91.1
+Denver,1130,Office,135000,115.7
+Denver,1131,Office,135032,75.3
+Denver,1132,Office,135145,78.7
+Denver,1133,Office,136403,98.4
+Denver,1134,Office,136438,203.2
+Denver,1135,Office,136613,67.6
+Denver,1136,Office,136759,132.4
+Denver,1137,Office,137417,112.5
+Denver,1138,Office,139238,81
+Denver,1139,Office,142194,64.9
+Denver,1140,Office,142694,58.1
+Denver,1141,Office,144026,66.2
+Denver,1142,Office,144263,58
+Denver,1143,Office,144493,49
+Denver,1144,Office,145000,45.3
+Denver,1145,Office,151200,73.7
+Denver,1146,Office,151500,75.9
+Denver,1147,Office,151875,89.2
+Denver,1148,Office,154304,50.5
+Denver,1149,Office,154593,87.4
+Denver,1150,Office,157196,66.3
+Denver,1151,Office,160126,138.7
+Denver,1152,Office,160340,85
+Denver,1153,Office,169056,74.1
+Denver,1154,Office,173000,70.3
+Denver,1155,Office,175000,60.3
+Denver,1156,Office,175000,53
+Denver,1157,Office,175786,57.1
+Denver,1158,Office,178252,40.1
+Denver,1159,Office,186460,72
+Denver,1160,Office,187103,437.5
+Denver,1161,Office,187689,54.3
+Denver,1162,Office,191528,54.4
+Denver,1163,Office,192830,99.9
+Denver,1164,Office,194887,68.5
+Denver,1165,Office,195753,168.7
+Denver,1166,Office,195903,60.6
+Denver,1167,Office,197176,73.2
+Denver,1168,Office,199258,45.6
+Denver,1169,Office,202000,45.8
+Denver,1170,Office,203927,51.3
+Denver,1171,Office,204500,54.9
+Denver,1172,Office,210900,51.3
+Denver,1173,Office,212999,49.7
+Denver,1174,Office,217247,75.1
+Denver,1175,Office,219962,68.2
+Denver,1176,Office,220495,135.5
+Denver,1177,Office,224683,45.8
+Denver,1178,Office,225074,111.2
+Denver,1179,Office,227631,64.7
+Denver,1180,Office,228142,63.3
+Denver,1181,Office,229700,182.3
+Denver,1182,Office,230000,69.5
+Denver,1183,Office,235729,46.9
+Denver,1184,Office,236400,48.1
+Denver,1185,Office,253000,52.4
+Denver,1186,Office,256416,79.2
+Denver,1187,Office,265414,61.5
+Denver,1188,Office,268659,82
+Denver,1189,Office,274600,58.6
+Denver,1190,Office,278037,63.5
+Denver,1191,Office,279731,76.1
+Denver,1192,Office,286998,51.5
+Denver,1193,Office,294614,50.3
+Denver,1194,Office,295045,94.6
+Denver,1195,Office,302540,48
+Denver,1196,Office,307333,56.2
+Denver,1197,Office,307457,45.9
+Denver,1198,Office,307814,165.7
+Denver,1199,Office,307819,49.6
+Denver,1200,Office,308238,65.4
+Denver,1201,Office,314599,36.4
+Denver,1202,Office,318057,86.8
+Denver,1203,Office,318874,74.4
+Denver,1204,Office,322063,64.8
+Denver,1205,Office,338779,100.4
+Denver,1206,Office,354828,59.3
+Denver,1207,Office,362371,51.4
+Denver,1208,Office,367125,75.4
+Denver,1209,Office,403626,45.1
+Denver,1210,Office,418630,89
+Denver,1211,Office,436848,53.2
+Denver,1212,Office,444595,79.5
+Denver,1213,Office,459693,71.2
+Denver,1214,Office,479404,49.2
+Denver,1215,Office,501705,108
+Denver,1216,Office,524520,78.7
+Denver,1217,Office,526766,64.4
+Denver,1218,Office,562429,69.3
+Denver,1219,Office,564714,83.9
+Denver,1220,Office,579000,46.4
+Denver,1221,Office,607979,65.3
+Denver,1222,Office,633640,66.5
+Denver,1223,Office,653473,43.5
+Denver,1224,Office,659528,48.4
+Denver,1225,Office,674240,68.4
+Denver,1226,Office,675937,52.1
+Denver,1227,Office,731933,46.2
+Denver,1228,Office,751708,58.2
+Denver,1229,Office,755539,57.2
+Denver,1230,Office,777205,49.6
+Denver,1231,Office,790316,68.1
+Denver,1232,Office,793250,51.6
+Denver,1233,Office,804403,63.9
+Denver,1234,Office,877808,43.7
+Denver,1235,Office,1051200,56.9
+Denver,1236,Office,1188373,60.6
+Denver,1237,Office,1316894,39.9
+Denver,1238,Office,1525288,46.2
+Denver,1239,Office,1542706,47.6

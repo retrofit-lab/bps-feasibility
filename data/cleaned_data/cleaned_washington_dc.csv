@@ -1,0 +1,1218 @@
+city,prop_id,facility_type,floor_area,site_eui
+Washington DC,1,Multifamily Housing,389352,92.7
+Washington DC,2,Multifamily Housing,307722,143
+Washington DC,3,Office,315310,69.6
+Washington DC,4,Multifamily Housing,426755,85.8
+Washington DC,5,Office,207081,58.4
+Washington DC,6,Multifamily Housing,254818,39.3
+Washington DC,7,Multifamily Housing,68360,83
+Washington DC,8,Multifamily Housing,373216,42.3
+Washington DC,9,Multifamily Housing,77638,75.5
+Washington DC,10,Multifamily Housing,113721,107.2
+Washington DC,11,K-12 School,95100,90.4
+Washington DC,12,Office,245627,56.5
+Washington DC,13,Office,178293,72
+Washington DC,14,Office,305149,63.4
+Washington DC,15,Multifamily Housing,271827,55.3
+Washington DC,16,Office,88011,92.5
+Washington DC,17,Multifamily Housing,433100,44.9
+Washington DC,18,Multifamily Housing,112894,47.4
+Washington DC,19,Multifamily Housing,72000,73.5
+Washington DC,20,Multifamily Housing,94500,51
+Washington DC,21,Multifamily Housing,126522,58.5
+Washington DC,22,Multifamily Housing,87115,84.7
+Washington DC,23,Multifamily Housing,107947,76.5
+Washington DC,24,Multifamily Housing,70638,101.9
+Washington DC,25,Multifamily Housing,210000,50.8
+Washington DC,26,Multifamily Housing,316550,45.8
+Washington DC,27,Multifamily Housing,988819,73.4
+Washington DC,28,Multifamily Housing,83924,40.2
+Washington DC,29,Office,304484,33.8
+Washington DC,30,Multifamily Housing,67540,93.6
+Washington DC,31,Office,161222,89.8
+Washington DC,32,Multifamily Housing,67432,60.9
+Washington DC,33,Multifamily Housing,90500,46.6
+Washington DC,34,Multifamily Housing,226803,51.9
+Washington DC,35,Office,358737,45.9
+Washington DC,36,Multifamily Housing,103487,77.2
+Washington DC,37,Office,516737,41.2
+Washington DC,38,Multifamily Housing,396876,88.9
+Washington DC,39,Office,260252,81
+Washington DC,40,Multifamily Housing,65008,64.9
+Washington DC,41,Multifamily Housing,203712,50.9
+Washington DC,42,Office,55474,69.8
+Washington DC,43,Office,304871,102.7
+Washington DC,44,Multifamily Housing,165495,29.2
+Washington DC,45,Multifamily Housing,81630,94.4
+Washington DC,46,Multifamily Housing,225414,49.9
+Washington DC,47,Office,286773,48.9
+Washington DC,48,Office,381518,68
+Washington DC,49,Multifamily Housing,161623,70.5
+Washington DC,50,Office,235326,54.6
+Washington DC,51,Office,193537,57.9
+Washington DC,52,Office,145743,46.5
+Washington DC,53,Multifamily Housing,103906,41.9
+Washington DC,54,Office,221647,109.6
+Washington DC,55,Office,71543,73.5
+Washington DC,56,Office,134457,61.8
+Washington DC,57,Office,411505,34.5
+Washington DC,58,Office,419988,54.4
+Washington DC,59,Office,231164,57.5
+Washington DC,60,K-12 School,66404,62.2
+Washington DC,61,Office,102080,87.1
+Washington DC,62,Multifamily Housing,103790,62.6
+Washington DC,63,Multifamily Housing,112000,49.2
+Washington DC,64,Office,242937,43.5
+Washington DC,65,Office,115080,58.4
+Washington DC,66,Office,101978,78.9
+Washington DC,67,Office,99469,73.9
+Washington DC,68,Office,266515,54
+Washington DC,69,Office,270860,61.7
+Washington DC,70,Office,379324,55.9
+Washington DC,71,Office,102480,38.2
+Washington DC,72,Office,173970,51.7
+Washington DC,73,Office,59283,72.4
+Washington DC,74,Office,71380,33.3
+Washington DC,75,Office,73700,17.8
+Washington DC,76,Office,84894,75.8
+Washington DC,77,Multifamily Housing,158375,49.7
+Washington DC,78,Multifamily Housing,175321,71.9
+Washington DC,79,Multifamily Housing,211160,69.8
+Washington DC,80,Office,193095,88.4
+Washington DC,81,Office,312115,24.1
+Washington DC,82,Multifamily Housing,187468,58.6
+Washington DC,83,Office,81032,41.4
+Washington DC,84,Office,887499,64.3
+Washington DC,85,Office,169727,62.8
+Washington DC,86,Office,251620,93.5
+Washington DC,87,Office,122553,365.9
+Washington DC,88,Multifamily Housing,85600,77.1
+Washington DC,89,Multifamily Housing,260157,49.9
+Washington DC,90,Multifamily Housing,66528,84.1
+Washington DC,91,Multifamily Housing,61824,220.3
+Washington DC,92,Office,205741,72.2
+Washington DC,93,Office,354331,43.9
+Washington DC,94,Office,214997,69.1
+Washington DC,95,Office,60917,62.2
+Washington DC,96,Office,235914,32.7
+Washington DC,97,Office,1343643,55.2
+Washington DC,98,Office,254527,63.2
+Washington DC,99,Office,338520,91.8
+Washington DC,100,Office,620265,56.9
+Washington DC,101,Office,206247,63
+Washington DC,102,Multifamily Housing,86166,56.1
+Washington DC,103,Office,45065,43.4
+Washington DC,104,Office,232957,73.1
+Washington DC,105,Office,51424,100.4
+Washington DC,106,Office,55818,105.1
+Washington DC,107,Office,133338,49.5
+Washington DC,108,Office,325215,67.7
+Washington DC,109,Multifamily Housing,93684,76.3
+Washington DC,110,Office,269071,61.4
+Washington DC,111,Office,103501,55.4
+Washington DC,112,Office,354926,57.1
+Washington DC,113,Office,167330,43.8
+Washington DC,114,Office,57523,48.4
+Washington DC,115,Office,182220,55.8
+Washington DC,116,Office,107102,88.5
+Washington DC,117,Office,116140,69.9
+Washington DC,118,Office,119549,69.9
+Washington DC,119,Office,78643,79.4
+Washington DC,120,Office,169111,72.3
+Washington DC,121,Office,128261,71.5
+Washington DC,122,Office,265243,66.8
+Washington DC,123,Office,109909,43.2
+Washington DC,124,Office,51261,97
+Washington DC,125,Office,213067,63.4
+Washington DC,126,Office,180086,50.6
+Washington DC,127,Office,101195,61.5
+Washington DC,128,Office,198893,60.1
+Washington DC,129,Office,264000,76.4
+Washington DC,130,Office,401661,57.4
+Washington DC,131,Office,111980,62.1
+Washington DC,132,Office,160109,43.8
+Washington DC,133,Office,72545,54.8
+Washington DC,134,Office,180564,58.9
+Washington DC,135,Office,46363,65.8
+Washington DC,136,Office,248690,48.1
+Washington DC,137,Office,390731,48
+Washington DC,138,Office,307989,60.1
+Washington DC,139,Office,117042,68.8
+Washington DC,140,Multifamily Housing,102490,59.5
+Washington DC,141,Office,160898,43.6
+Washington DC,142,Office,217543,42.2
+Washington DC,143,Office,186119,82.6
+Washington DC,144,Office,335991,47.4
+Washington DC,145,Office,134864,56.2
+Washington DC,146,Office,108209,49.6
+Washington DC,147,Office,185000,70.4
+Washington DC,148,Office,178185,56.6
+Washington DC,149,Office,73168,94.4
+Washington DC,150,Office,159817,67.1
+Washington DC,151,Office,290398,52.7
+Washington DC,152,Office,254980,51.9
+Washington DC,153,Office,222847,71.4
+Washington DC,154,Office,196796,56.1
+Washington DC,155,Office,590928,61.8
+Washington DC,156,Office,52873,35.9
+Washington DC,157,Office,206900,107.7
+Washington DC,158,Office,737365,57.2
+Washington DC,159,K-12 School,22400,46.9
+Washington DC,160,Multifamily Housing,100250,77.3
+Washington DC,161,Multifamily Housing,50000,40.4
+Washington DC,162,Multifamily Housing,85251,70.4
+Washington DC,163,Multifamily Housing,171760,52.2
+Washington DC,164,Multifamily Housing,59544,53.8
+Washington DC,165,Multifamily Housing,62164,79.2
+Washington DC,166,Office,122460,67.6
+Washington DC,167,Office,112278,69.8
+Washington DC,168,Office,67068,90.6
+Washington DC,169,Office,89223,49.7
+Washington DC,170,Multifamily Housing,100799,60
+Washington DC,171,Multifamily Housing,101476,80.1
+Washington DC,172,Multifamily Housing,209012,76.2
+Washington DC,173,Office,55000,93.9
+Washington DC,174,Office,96447,50.7
+Washington DC,175,Office,43000,74.7
+Washington DC,176,Office,65273,78.4
+Washington DC,177,Multifamily Housing,195480,40
+Washington DC,178,Office,159083,72.2
+Washington DC,179,Office,202675,44.9
+Washington DC,180,Office,182134,67.4
+Washington DC,181,Office,171255,55.5
+Washington DC,182,Office,182213,78
+Washington DC,183,Office,75234,95.6
+Washington DC,184,Office,195835,63.8
+Washington DC,185,Office,369441,58.9
+Washington DC,186,Office,204011,65.6
+Washington DC,187,Office,221437,56.6
+Washington DC,188,Office,151599,57.1
+Washington DC,189,Office,94968,245.9
+Washington DC,190,Office,107967,53.5
+Washington DC,191,Office,190957,48.7
+Washington DC,192,Office,109926,55.2
+Washington DC,193,Office,81625,82.3
+Washington DC,194,Office,214784,38
+Washington DC,195,Office,100147,76.8
+Washington DC,196,Office,654156,144.8
+Washington DC,197,Office,406131,48.5
+Washington DC,198,Office,64425,84.6
+Washington DC,199,Office,142750,64.1
+Washington DC,200,Office,353236,55.7
+Washington DC,201,Office,143739,54.8
+Washington DC,202,Office,245597,63.6
+Washington DC,203,Office,125938,75.9
+Washington DC,204,Office,65245,85.2
+Washington DC,205,Office,93189,67.8
+Washington DC,206,Office,164692,71.4
+Washington DC,207,Office,153527,60.4
+Washington DC,208,Office,200430,88
+Washington DC,209,Office,122193,57.5
+Washington DC,210,Office,136452,57.5
+Washington DC,211,Office,176716,94.8
+Washington DC,212,Office,259062,68.9
+Washington DC,213,Office,297909,66.9
+Washington DC,214,Office,273870,59.5
+Washington DC,215,Office,67330,58.7
+Washington DC,216,Office,149255,98.3
+Washington DC,217,Office,184573,75.4
+Washington DC,218,Office,123017,59.5
+Washington DC,219,Multifamily Housing,84582,50.2
+Washington DC,220,Multifamily Housing,64042,67.9
+Washington DC,221,Multifamily Housing,74360,46.5
+Washington DC,222,Multifamily Housing,69192,55
+Washington DC,223,Multifamily Housing,63633,84.1
+Washington DC,224,Multifamily Housing,86244,37.6
+Washington DC,225,Multifamily Housing,88648,52
+Washington DC,226,Multifamily Housing,53532,18.6
+Washington DC,227,Multifamily Housing,68680,61.7
+Washington DC,228,Multifamily Housing,112000,68.9
+Washington DC,229,Office,129780,57.8
+Washington DC,230,Office,64843,59.8
+Washington DC,231,Office,273886,51.3
+Washington DC,232,Multifamily Housing,121261,89.7
+Washington DC,233,Multifamily Housing,95532,54
+Washington DC,234,Office,120274,58.7
+Washington DC,235,Office,228520,60.9
+Washington DC,236,Office,62100,67.5
+Washington DC,237,Office,95981,53.9
+Washington DC,238,Office,75033,56.9
+Washington DC,239,Office,223218,90
+Washington DC,240,Office,414675,56
+Washington DC,241,Office,746237,76.8
+Washington DC,242,Office,105891,68.7
+Washington DC,243,Office,214759,48.3
+Washington DC,244,Office,231860,40.6
+Washington DC,245,Office,109300,96.1
+Washington DC,246,Office,63510,71.7
+Washington DC,247,Multifamily Housing,56145,66.7
+Washington DC,248,Office,134672,62.9
+Washington DC,249,Office,293912,65.9
+Washington DC,250,Office,93176,43.6
+Washington DC,251,Office,79495,42.9
+Washington DC,252,Office,419302,53.6
+Washington DC,253,Office,118244,37.4
+Washington DC,254,Office,117509,72.6
+Washington DC,255,Office,185000,60.2
+Washington DC,256,Office,231784,49.3
+Washington DC,257,Multifamily Housing,105000,69.3
+Washington DC,258,Multifamily Housing,169532,32.3
+Washington DC,259,Multifamily Housing,104390,2.3
+Washington DC,260,Multifamily Housing,91382,61.6
+Washington DC,261,Multifamily Housing,72451,73.4
+Washington DC,262,Multifamily Housing,72000,30.2
+Washington DC,263,Multifamily Housing,272450,46.4
+Washington DC,264,Office,51761,65
+Washington DC,265,Multifamily Housing,97595,109.3
+Washington DC,266,Office,394087,59.9
+Washington DC,267,Multifamily Housing,452897,67
+Washington DC,268,Office,195421,58.4
+Washington DC,269,Office,177404,63.8
+Washington DC,270,Office,115470,67
+Washington DC,271,Office,85277,44.5
+Washington DC,272,Office,425566,54.3
+Washington DC,273,Office,352256,44.3
+Washington DC,274,Office,437222,62
+Washington DC,275,Office,231152,49.9
+Washington DC,276,Office,286667,53.6
+Washington DC,277,Multifamily Housing,133225,30
+Washington DC,278,Office,212338,76
+Washington DC,279,Office,309502,87
+Washington DC,280,Multifamily Housing,149210,42.3
+Washington DC,281,Multifamily Housing,178277,93.6
+Washington DC,282,Office,79279,248.3
+Washington DC,283,Multifamily Housing,121250,43.7
+Washington DC,284,Multifamily Housing,57992,73.1
+Washington DC,285,Multifamily Housing,51449,44.2
+Washington DC,286,Multifamily Housing,77809,74.7
+Washington DC,287,Multifamily Housing,99909,138.3
+Washington DC,288,Multifamily Housing,116324,53
+Washington DC,289,Multifamily Housing,112000,52.1
+Washington DC,290,Multifamily Housing,92663,33.3
+Washington DC,291,Multifamily Housing,115656,86.6
+Washington DC,292,Multifamily Housing,139901,63.5
+Washington DC,293,Multifamily Housing,118512,109.4
+Washington DC,294,Multifamily Housing,101376,100.5
+Washington DC,295,Multifamily Housing,73800,64.3
+Washington DC,296,Multifamily Housing,237796,60.7
+Washington DC,297,Multifamily Housing,191474,45.9
+Washington DC,298,Multifamily Housing,57887,116
+Washington DC,299,Multifamily Housing,146229,41
+Washington DC,300,Office,279791,49.2
+Washington DC,301,Office,192804,6.5
+Washington DC,302,Office,207696,66.5
+Washington DC,303,Office,285264,31.3
+Washington DC,304,Office,171350,62.1
+Washington DC,305,Office,318497,55.4
+Washington DC,306,Office,528536,73.1
+Washington DC,307,Office,67935,67.6
+Washington DC,308,Office,238444,60.4
+Washington DC,309,Office,186367,67.3
+Washington DC,310,Office,68988,82.8
+Washington DC,311,Office,193006,66.1
+Washington DC,312,Office,163045,62
+Washington DC,313,Office,51153,95.1
+Washington DC,314,Office,89609,50.1
+Washington DC,315,Office,80488,65
+Washington DC,316,Office,109878,52.8
+Washington DC,317,Office,239478,51.9
+Washington DC,318,Office,129594,44.8
+Washington DC,319,Office,172557,84
+Washington DC,320,Office,51024,58.5
+Washington DC,321,Office,67220,42.9
+Washington DC,322,Office,51400,43.7
+Washington DC,323,Office,228001,68.9
+Washington DC,324,Office,212651,48.6
+Washington DC,325,Office,319388,54.8
+Washington DC,326,Office,58020,83.1
+Washington DC,327,Office,78000,88.3
+Washington DC,328,Office,181949,64.3
+Washington DC,329,Office,175760,66.2
+Washington DC,330,Office,74756,53.4
+Washington DC,331,Office,374817,43.7
+Washington DC,332,Office,258777,83.7
+Washington DC,333,Office,207654,54.4
+Washington DC,334,Office,78495,56
+Washington DC,335,Multifamily Housing,230129,40.8
+Washington DC,336,Office,233081,40.5
+Washington DC,337,Office,284845,51.8
+Washington DC,338,Office,205656,44.8
+Washington DC,339,Office,173576,58.1
+Washington DC,340,Office,226742,55.2
+Washington DC,341,Office,259162,54
+Washington DC,342,Office,718241,48.2
+Washington DC,343,Office,343755,60.4
+Washington DC,344,Office,262770,41.9
+Washington DC,345,Multifamily Housing,190036,150
+Washington DC,346,Multifamily Housing,68190,11.1
+Washington DC,347,Multifamily Housing,233792,59
+Washington DC,348,Multifamily Housing,128000,48.2
+Washington DC,349,Multifamily Housing,97000,68.4
+Washington DC,350,Multifamily Housing,125929,42.8
+Washington DC,351,Multifamily Housing,70406,73.5
+Washington DC,352,Multifamily Housing,86917,7.6
+Washington DC,353,Multifamily Housing,120786,66.9
+Washington DC,354,Multifamily Housing,339406,32.1
+Washington DC,355,Multifamily Housing,75955,94.3
+Washington DC,356,Multifamily Housing,124416,55.4
+Washington DC,357,Office,67394,52.9
+Washington DC,358,Multifamily Housing,100441,52.2
+Washington DC,359,Office,119963,53.1
+Washington DC,360,Office,82682,72
+Washington DC,361,Office,125000,45.7
+Washington DC,362,Office,198452,69.1
+Washington DC,363,Office,89372,61.5
+Washington DC,364,Multifamily Housing,89649,76.8
+Washington DC,365,Office,153800,50.4
+Washington DC,366,Office,92054,74.7
+Washington DC,367,Office,538084,41.5
+Washington DC,368,Office,643325,65.1
+Washington DC,369,Office,274041,65.3
+Washington DC,370,Office,207599,56.6
+Washington DC,371,Office,74898,77.2
+Washington DC,372,Office,517464,59.5
+Washington DC,373,Office,131330,55.3
+Washington DC,374,Office,399907,52.3
+Washington DC,375,Office,149720,52.1
+Washington DC,376,Office,124368,44.5
+Washington DC,377,Office,333484,57.4
+Washington DC,378,Office,258655,62.3
+Washington DC,379,Office,121733,130.2
+Washington DC,380,Office,273111,59.6
+Washington DC,381,Office,64160,76.4
+Washington DC,382,Office,41619,84
+Washington DC,383,Office,61320,76
+Washington DC,384,Office,227165,84
+Washington DC,385,Office,257943,71
+Washington DC,386,Office,488727,92.7
+Washington DC,387,Office,594315,50.4
+Washington DC,388,Office,328760,61.4
+Washington DC,389,Office,519213,51.6
+Washington DC,390,Multifamily Housing,178156,33.5
+Washington DC,391,Office,34400,75.6
+Washington DC,392,K-12 School,60200,59.7
+Washington DC,393,Multifamily Housing,103516,24
+Washington DC,394,Multifamily Housing,198000,98
+Washington DC,395,Multifamily Housing,128560,45.9
+Washington DC,396,Multifamily Housing,81461,85.2
+Washington DC,397,Multifamily Housing,105370,88.1
+Washington DC,398,Multifamily Housing,177359,63.3
+Washington DC,399,Multifamily Housing,208720,46.4
+Washington DC,400,Multifamily Housing,243130,60.3
+Washington DC,401,Office,321980,51.2
+Washington DC,402,Office,198814,152.9
+Washington DC,403,K-12 School,125000,55.8
+Washington DC,404,Office,248131,56.4
+Washington DC,405,Office,305868,39.6
+Washington DC,406,Office,429455,56.6
+Washington DC,407,Office,193051,43.3
+Washington DC,408,Office,510400,44.7
+Washington DC,409,Office,231089,61.1
+Washington DC,410,Office,109335,52.5
+Washington DC,411,Office,209728,81.8
+Washington DC,412,Office,120044,193.5
+Washington DC,413,Office,77041,576.8
+Washington DC,414,Office,54700,56.6
+Washington DC,415,Office,425344,81.9
+Washington DC,416,Office,604301,46.6
+Washington DC,417,Office,196325,78.7
+Washington DC,418,Office,240578,70.1
+Washington DC,419,Office,769685,50.4
+Washington DC,420,Office,674553,62.8
+Washington DC,421,Office,429348,45
+Washington DC,422,Office,169065,59.6
+Washington DC,423,Office,583876,58.2
+Washington DC,424,Office,652702,75.5
+Washington DC,425,Multifamily Housing,133735,33
+Washington DC,426,Multifamily Housing,95656,61
+Washington DC,427,Multifamily Housing,95792,99.4
+Washington DC,428,Office,345115,59.5
+Washington DC,429,Office,313852,52.8
+Washington DC,430,Office,322448,58.9
+Washington DC,431,Office,392374,68.6
+Washington DC,432,Multifamily Housing,98618,40.4
+Washington DC,433,Office,153440,43.8
+Washington DC,434,Office,580706,48.4
+Washington DC,435,Office,146986,89.2
+Washington DC,436,Office,347864,80.7
+Washington DC,437,Office,250692,54.3
+Washington DC,438,Office,143997,114.2
+Washington DC,439,Office,109959,66.1
+Washington DC,440,Office,864085,39
+Washington DC,441,Office,366128,83.8
+Washington DC,442,Office,244160,57.6
+Washington DC,443,Office,504155,68.4
+Washington DC,444,Office,443078,47.5
+Washington DC,445,Office,233173,61.3
+Washington DC,446,Multifamily Housing,80258,59.5
+Washington DC,447,Multifamily Housing,80492,47.8
+Washington DC,448,Office,75977,72.7
+Washington DC,449,Multifamily Housing,212593,34.6
+Washington DC,450,Office,181363,109.2
+Washington DC,451,Office,366607,63.9
+Washington DC,452,Office,414101,69.7
+Washington DC,453,Office,876744,58.7
+Washington DC,454,Multifamily Housing,124036,58.8
+Washington DC,455,Office,57165,25.4
+Washington DC,456,K-12 School,69000,48.3
+Washington DC,457,Office,27760,41.2
+Washington DC,458,Multifamily Housing,233217,45.9
+Washington DC,459,Multifamily Housing,177379,48.8
+Washington DC,460,Office,274148,54.4
+Washington DC,461,Office,160514,53.7
+Washington DC,462,Office,604549,53.4
+Washington DC,463,Multifamily Housing,374625,85.8
+Washington DC,464,Multifamily Housing,581548,67.7
+Washington DC,465,Office,344081,44.2
+Washington DC,466,Office,200969,60.9
+Washington DC,467,Office,112635,70.6
+Washington DC,468,Office,118044,52.9
+Washington DC,469,Office,187954,52.1
+Washington DC,470,Office,174072,93
+Washington DC,471,Office,260064,66.1
+Washington DC,472,Office,270818,79.7
+Washington DC,473,Multifamily Housing,120274,61.9
+Washington DC,474,Office,407321,41.9
+Washington DC,475,Office,314276,62
+Washington DC,476,Office,326513,99.6
+Washington DC,477,Office,120838,68.1
+Washington DC,478,Multifamily Housing,80000,43.9
+Washington DC,479,Multifamily Housing,87604,41.7
+Washington DC,480,Office,342799,91.7
+Washington DC,481,Office,473143,34.8
+Washington DC,482,Office,318853,61.9
+Washington DC,483,Office,238127,59.1
+Washington DC,484,Office,62466,43.7
+Washington DC,485,Office,398837,56.8
+Washington DC,486,Office,210645,47.5
+Washington DC,487,Office,475190,53.3
+Washington DC,488,Multifamily Housing,99672,64.3
+Washington DC,489,Office,532128,56.4
+Washington DC,490,K-12 School,109000,80.1
+Washington DC,491,K-12 School,53000,68.7
+Washington DC,492,Multifamily Housing,124702,56.2
+Washington DC,493,Multifamily Housing,266168,43.3
+Washington DC,494,Multifamily Housing,145200,75.2
+Washington DC,495,Multifamily Housing,85571,9.9
+Washington DC,496,Office,282901,67.1
+Washington DC,497,Office,154799,52.1
+Washington DC,498,Multifamily Housing,507385,74.9
+Washington DC,499,Office,98425,73.7
+Washington DC,500,Multifamily Housing,119316,86.2
+Washington DC,501,Multifamily Housing,262000,30.9
+Washington DC,502,Multifamily Housing,82800,14.7
+Washington DC,503,Multifamily Housing,235784,3.6
+Washington DC,504,Office,346459,44.1
+Washington DC,505,Office,61230,43.8
+Washington DC,506,Office,119468,69
+Washington DC,507,Office,514474,65.5
+Washington DC,508,Office,511302,34.8
+Washington DC,509,Office,74468,42.4
+Washington DC,510,Office,541518,67.2
+Washington DC,511,Office,356387,45.8
+Washington DC,512,Multifamily Housing,161624,1.1
+Washington DC,513,Multifamily Housing,341643,6.5
+Washington DC,514,Office,163747,72.2
+Washington DC,515,Office,153031,88.6
+Washington DC,516,Office,56651,80.9
+Washington DC,517,Office,244003,57.3
+Washington DC,518,Office,572811,55.4
+Washington DC,519,Office,145187,76.4
+Washington DC,520,Office,1582262,59.8
+Washington DC,521,Multifamily Housing,316212,57.4
+Washington DC,522,Multifamily Housing,381600,90.6
+Washington DC,523,Multifamily Housing,53000,75.8
+Washington DC,524,Multifamily Housing,100326,83.2
+Washington DC,525,Multifamily Housing,378400,38.9
+Washington DC,526,Office,502968,49.6
+Washington DC,527,Office,202092,59.2
+Washington DC,528,Multifamily Housing,233968,59.2
+Washington DC,529,Office,363095,189.2
+Washington DC,530,Office,543682,55.6
+Washington DC,531,Multifamily Housing,145435,44.5
+Washington DC,532,Office,329549,89.2
+Washington DC,533,Office,422684,80.8
+Washington DC,534,Office,475932,14.8
+Washington DC,535,Office,252289,48.1
+Washington DC,536,Office,83620,46.8
+Washington DC,537,Office,62789,82.1
+Washington DC,538,Office,280118,60.5
+Washington DC,539,K-12 School,71900,65.8
+Washington DC,540,Multifamily Housing,237168,45.6
+Washington DC,541,Multifamily Housing,315832,79.4
+Washington DC,542,Multifamily Housing,737786,74.6
+Washington DC,543,Multifamily Housing,173070,48.9
+Washington DC,544,Multifamily Housing,115493,59.9
+Washington DC,545,Multifamily Housing,239465,57.8
+Washington DC,546,Multifamily Housing,125000,50.7
+Washington DC,547,Multifamily Housing,225665,37.8
+Washington DC,548,Multifamily Housing,324296,41.8
+Washington DC,549,Multifamily Housing,336540,35.7
+Washington DC,550,Multifamily Housing,337838,21.6
+Washington DC,551,Office,376559,39.2
+Washington DC,552,Multifamily Housing,223804,60.9
+Washington DC,553,Multifamily Housing,605405,61.1
+Washington DC,554,Office,247330,62.3
+Washington DC,555,Multifamily Housing,197648,75.6
+Washington DC,556,Multifamily Housing,407710,53.5
+Washington DC,557,Multifamily Housing,178700,64.6
+Washington DC,558,Multifamily Housing,112378,36.2
+Washington DC,559,Multifamily Housing,68989,62.5
+Washington DC,560,Multifamily Housing,208767,58.6
+Washington DC,561,Multifamily Housing,363927,36.9
+Washington DC,562,Multifamily Housing,79933,42.5
+Washington DC,563,Office,345776,65
+Washington DC,564,Office,850354,80.9
+Washington DC,565,Office,533545,81.9
+Washington DC,566,Office,431263,81.6
+Washington DC,567,Office,252361,116.8
+Washington DC,568,Office,294130,52.6
+Washington DC,569,Office,336246,81.7
+Washington DC,570,Office,414177,49.7
+Washington DC,571,Office,378045,37.9
+Washington DC,572,Office,659773,58.9
+Washington DC,573,Multifamily Housing,289750,69.1
+Washington DC,574,Multifamily Housing,546234,70.6
+Washington DC,575,Multifamily Housing,256484,71.5
+Washington DC,576,Multifamily Housing,305520,81.8
+Washington DC,577,Multifamily Housing,100000,174.5
+Washington DC,578,Office,296748,64.4
+Washington DC,579,Office,340000,46.1
+Washington DC,580,Multifamily Housing,102743,80
+Washington DC,581,Multifamily Housing,102743,130.2
+Washington DC,582,Multifamily Housing,550000,71.6
+Washington DC,583,Multifamily Housing,486912,70.4
+Washington DC,584,Multifamily Housing,281958,47.3
+Washington DC,585,K-12 School,170547,10
+Washington DC,586,K-12 School,252384,62.8
+Washington DC,587,K-12 School,122200,111.3
+Washington DC,588,Multifamily Housing,143518,45.4
+Washington DC,589,Multifamily Housing,174591,66.3
+Washington DC,590,Office,310129,56.3
+Washington DC,591,Office,217705,81.1
+Washington DC,592,Office,134435,69.9
+Washington DC,593,Office,138711,52.1
+Washington DC,594,Office,117932,75.5
+Washington DC,595,Office,527366,67.8
+Washington DC,596,Office,87757,44.9
+Washington DC,597,Multifamily Housing,115323,148.3
+Washington DC,598,Multifamily Housing,23876,120.4
+Washington DC,599,Multifamily Housing,35992,10.4
+Washington DC,600,Multifamily Housing,196736,117.6
+Washington DC,601,Multifamily Housing,151944,89.7
+Washington DC,602,Multifamily Housing,325984,13.2
+Washington DC,603,Multifamily Housing,63444,44.3
+Washington DC,604,Multifamily Housing,196645,109.3
+Washington DC,605,Multifamily Housing,80034,33.1
+Washington DC,606,Multifamily Housing,136141,32.8
+Washington DC,607,Office,336820,48.9
+Washington DC,608,Multifamily Housing,367526,40.4
+Washington DC,609,Office,195276,48.7
+Washington DC,610,Office,402012,47.2
+Washington DC,611,Office,343324,58.7
+Washington DC,612,Office,272238,48.7
+Washington DC,613,Office,104358,63.2
+Washington DC,614,Office,231958,45.8
+Washington DC,615,Multifamily Housing,58300,96.2
+Washington DC,616,Office,149722,83.6
+Washington DC,617,Office,133000,44.3
+Washington DC,618,Office,212247,73.1
+Washington DC,619,Office,178148,49.3
+Washington DC,620,Office,606193,59.2
+Washington DC,621,Office,75472,73.4
+Washington DC,622,Office,82300,113.6
+Washington DC,623,Office,205580,111.5
+Washington DC,624,Office,221313,105.8
+Washington DC,625,Office,275905,379.2
+Washington DC,626,Multifamily Housing,223284,88.6
+Washington DC,627,Multifamily Housing,384480,28.7
+Washington DC,628,Office,500203,31.8
+Washington DC,629,Multifamily Housing,389663,49.3
+Washington DC,630,Office,293884,53.8
+Washington DC,631,Office,119015,107.1
+Washington DC,632,Office,343979,67.1
+Washington DC,633,Multifamily Housing,398500,27.6
+Washington DC,634,Multifamily Housing,475268,45.3
+Washington DC,635,Office,435400,52.1
+Washington DC,636,Office,280363,31.3
+Washington DC,637,Office,338929,46.7
+Washington DC,638,Office,232126,50.5
+Washington DC,639,Office,558620,61.6
+Washington DC,640,Office,252992,71.5
+Washington DC,641,Office,275617,63.8
+Washington DC,642,Office,321544,43.6
+Washington DC,643,Office,314317,43.4
+Washington DC,644,Office,244307,82.3
+Washington DC,645,Office,280169,49.1
+Washington DC,646,Office,391971,54.9
+Washington DC,647,Multifamily Housing,277005,35.3
+Washington DC,648,Multifamily Housing,460453,41.3
+Washington DC,649,Office,424076,33.6
+Washington DC,650,Office,196545,62
+Washington DC,651,Office,319955,54.7
+Washington DC,652,Multifamily Housing,244289,43
+Washington DC,653,Office,295059,46.7
+Washington DC,654,Office,623532,51.3
+Washington DC,655,Office,377803,28
+Washington DC,656,Multifamily Housing,496052,77.1
+Washington DC,657,Multifamily Housing,185341,44.6
+Washington DC,658,Office,338645,41
+Washington DC,659,Office,436178,56.1
+Washington DC,660,Office,84540,70.8
+Washington DC,661,Office,788412,64.5
+Washington DC,662,Office,391885,57.8
+Washington DC,663,Multifamily Housing,60842,65.4
+Washington DC,664,Multifamily Housing,214137,39.6
+Washington DC,665,Multifamily Housing,425000,37.4
+Washington DC,666,Office,303517,73
+Washington DC,667,Office,256777,59.2
+Washington DC,668,Multifamily Housing,236905,33.7
+Washington DC,669,Multifamily Housing,62786,31.8
+Washington DC,670,Multifamily Housing,548941,71.4
+Washington DC,671,Multifamily Housing,398103,44.2
+Washington DC,672,K-12 School,55013,46.9
+Washington DC,673,Office,75954,75.1
+Washington DC,674,Office,67749,70.7
+Washington DC,675,Office,1583819,64.1
+Washington DC,676,Multifamily Housing,331165,124.5
+Washington DC,677,Multifamily Housing,208969,42.2
+Washington DC,678,Multifamily Housing,40000,23.8
+Washington DC,679,Office,56433,978.4
+Washington DC,680,Multifamily Housing,206574,56.5
+Washington DC,681,K-12 School,49702,35.3
+Washington DC,682,Office,299132,67.2
+Washington DC,683,K-12 School,114724,60.9
+Washington DC,684,K-12 School,39334,73.4
+Washington DC,685,Multifamily Housing,48064,81.7
+Washington DC,686,K-12 School,98900,91
+Washington DC,687,Office,77158,31.2
+Washington DC,688,Office,88886,49.1
+Washington DC,689,K-12 School,66900,75.2
+Washington DC,690,Office,87630,74.3
+Washington DC,691,Multifamily Housing,54781,9.3
+Washington DC,692,Multifamily Housing,55178,49.1
+Washington DC,693,K-12 School,59200,63.5
+Washington DC,694,K-12 School,69600,64.8
+Washington DC,695,K-12 School,65000,49.4
+Washington DC,696,K-12 School,69300,65.5
+Washington DC,697,Multifamily Housing,349266,92.6
+Washington DC,698,Multifamily Housing,140276,103.7
+Washington DC,699,Office,207338,55.3
+Washington DC,700,Office,202273,56.9
+Washington DC,701,Office,158913,57.7
+Washington DC,702,Office,158053,58.3
+Washington DC,703,K-12 School,61113,66.6
+Washington DC,704,Multifamily Housing,53883,37.6
+Washington DC,705,Multifamily Housing,87350,83.3
+Washington DC,706,K-12 School,83800,36.8
+Washington DC,707,K-12 School,155100,62.9
+Washington DC,708,K-12 School,288800,50.6
+Washington DC,709,Multifamily Housing,135000,35.7
+Washington DC,710,Office,68884,93.4
+Washington DC,711,Multifamily Housing,134036,85.9
+Washington DC,712,Office,129791,67.2
+Washington DC,713,Multifamily Housing,89348,137.8
+Washington DC,714,Office,100255,55.6
+Washington DC,715,Office,207863,77.8
+Washington DC,716,Office,154807,79.8
+Washington DC,717,Office,206542,44
+Washington DC,718,Office,244850,45.6
+Washington DC,719,Office,365917,47.9
+Washington DC,720,Multifamily Housing,155200,25.3
+Washington DC,721,Office,89058,106.4
+Washington DC,722,Office,98333,87.3
+Washington DC,723,Multifamily Housing,127263,53.6
+Washington DC,724,Multifamily Housing,52581,19
+Washington DC,725,K-12 School,75128,78.8
+Washington DC,726,K-12 School,41329,25.1
+Washington DC,727,K-12 School,110100,6.1
+Washington DC,728,Multifamily Housing,244000,93
+Washington DC,729,Multifamily Housing,118500,61.7
+Washington DC,730,K-12 School,116872,72.6
+Washington DC,731,Office,123068,57
+Washington DC,732,Office,122884,53
+Washington DC,733,Office,208052,47.7
+Washington DC,734,Multifamily Housing,93269,38.9
+Washington DC,735,Multifamily Housing,129773,57.7
+Washington DC,736,Multifamily Housing,330646,75
+Washington DC,737,Multifamily Housing,55159,76.3
+Washington DC,738,Multifamily Housing,122850,68.2
+Washington DC,739,Multifamily Housing,70000,59.5
+Washington DC,740,Multifamily Housing,54884,59.2
+Washington DC,741,Multifamily Housing,55000,60.6
+Washington DC,742,Multifamily Housing,61000,74.2
+Washington DC,743,K-12 School,72243,101.4
+Washington DC,744,Multifamily Housing,51800,39.7
+Washington DC,745,K-12 School,50000,63.1
+Washington DC,746,Office,84264,62.3
+Washington DC,747,Office,82525,71.4
+Washington DC,748,Multifamily Housing,210807,169.3
+Washington DC,749,Multifamily Housing,660200,67.6
+Washington DC,750,Multifamily Housing,255301,36
+Washington DC,751,Multifamily Housing,358569,50.4
+Washington DC,752,K-12 School,60969,54.8
+Washington DC,753,Office,88651,59.8
+Washington DC,754,Office,89000,136.1
+Washington DC,755,Office,204621,40.3
+Washington DC,756,Office,185198,67.1
+Washington DC,757,Office,61855,52.9
+Washington DC,758,Office,104325,62.4
+Washington DC,759,Office,75706,22.6
+Washington DC,760,Multifamily Housing,113755,71.5
+Washington DC,761,Multifamily Housing,166906,62.3
+Washington DC,762,Multifamily Housing,74874,45.6
+Washington DC,763,Multifamily Housing,51118,85.8
+Washington DC,764,Multifamily Housing,54937,44.1
+Washington DC,765,Multifamily Housing,336000,34.4
+Washington DC,766,Multifamily Housing,706306,54.4
+Washington DC,767,K-12 School,85039,92
+Washington DC,768,Multifamily Housing,323671,25.7
+Washington DC,769,Multifamily Housing,71372,42.1
+Washington DC,770,K-12 School,181000,182.5
+Washington DC,771,Office,110485,22.3
+Washington DC,772,K-12 School,357563,46
+Washington DC,773,Office,54819,220.4
+Washington DC,774,Multifamily Housing,844829,23.5
+Washington DC,775,Multifamily Housing,569467,53
+Washington DC,776,Multifamily Housing,97580,98.5
+Washington DC,777,Multifamily Housing,195417,62.3
+Washington DC,778,Multifamily Housing,989860,56.6
+Washington DC,779,Multifamily Housing,131400,91.2
+Washington DC,780,Multifamily Housing,230360,71.4
+Washington DC,781,Multifamily Housing,422437,96.7
+Washington DC,782,K-12 School,67450,74.9
+Washington DC,783,K-12 School,59272,93
+Washington DC,784,Multifamily Housing,128700,39.5
+Washington DC,785,Multifamily Housing,57453,53.9
+Washington DC,786,Multifamily Housing,151318,22.9
+Washington DC,787,Office,491311,229.5
+Washington DC,788,K-12 School,343797,59.3
+Washington DC,789,Multifamily Housing,55896,67.1
+Washington DC,790,Multifamily Housing,53298,42.7
+Washington DC,791,Multifamily Housing,131061,59.4
+Washington DC,792,Multifamily Housing,71469,66.7
+Washington DC,793,Multifamily Housing,100044,52.3
+Washington DC,794,Multifamily Housing,50153,75.7
+Washington DC,795,Multifamily Housing,264500,57.3
+Washington DC,796,Multifamily Housing,113486,94.6
+Washington DC,797,Multifamily Housing,108616,77.2
+Washington DC,798,Multifamily Housing,57708,43.4
+Washington DC,799,K-12 School,46484,79.3
+Washington DC,800,Multifamily Housing,105023,42.8
+Washington DC,801,Multifamily Housing,81996,55.7
+Washington DC,802,Multifamily Housing,92070,72.7
+Washington DC,803,Multifamily Housing,60984,87.2
+Washington DC,804,Multifamily Housing,56076,79.5
+Washington DC,805,Multifamily Housing,72900,16.5
+Washington DC,806,Multifamily Housing,71970,71.6
+Washington DC,807,Multifamily Housing,118550,59.3
+Washington DC,808,Multifamily Housing,345169,65.1
+Washington DC,809,Multifamily Housing,77242,63.2
+Washington DC,810,Multifamily Housing,62269,25.8
+Washington DC,811,Multifamily Housing,50000,88.7
+Washington DC,812,Multifamily Housing,99990,66.4
+Washington DC,813,Multifamily Housing,69522,59.5
+Washington DC,814,Multifamily Housing,50880,86.4
+Washington DC,815,Multifamily Housing,85332,41.7
+Washington DC,816,Multifamily Housing,192638,60.8
+Washington DC,817,Multifamily Housing,78518,58.1
+Washington DC,818,Multifamily Housing,113164,70.7
+Washington DC,819,Multifamily Housing,168367,47.9
+Washington DC,820,Multifamily Housing,299840,52.2
+Washington DC,821,Multifamily Housing,170143,81.1
+Washington DC,822,Multifamily Housing,73555,71.8
+Washington DC,823,Multifamily Housing,315088,92.8
+Washington DC,824,K-12 School,113600,32.3
+Washington DC,825,Multifamily Housing,206304,88.2
+Washington DC,826,Multifamily Housing,200000,57
+Washington DC,827,Multifamily Housing,67836,74.8
+Washington DC,828,Multifamily Housing,91232,39.5
+Washington DC,829,Multifamily Housing,264562,52.8
+Washington DC,830,Multifamily Housing,187490,40.8
+Washington DC,831,Multifamily Housing,347040,70
+Washington DC,832,Multifamily Housing,347393,44.6
+Washington DC,833,Multifamily Housing,179395,52.1
+Washington DC,834,Multifamily Housing,496441,63.3
+Washington DC,835,Multifamily Housing,912615,45.4
+Washington DC,836,Multifamily Housing,260732,96.5
+Washington DC,837,Office,68640,66.4
+Washington DC,838,Multifamily Housing,86928,17.7
+Washington DC,839,Multifamily Housing,264773,34.4
+Washington DC,840,Multifamily Housing,76634,19.1
+Washington DC,841,Multifamily Housing,65014,18.4
+Washington DC,842,Multifamily Housing,144882,53.2
+Washington DC,843,Multifamily Housing,76000,54.4
+Washington DC,844,K-12 School,49100,75.6
+Washington DC,845,Multifamily Housing,185551,60.7
+Washington DC,846,Multifamily Housing,172570,64
+Washington DC,847,Multifamily Housing,250000,56.9
+Washington DC,848,Multifamily Housing,143708,45.5
+Washington DC,849,Multifamily Housing,131294,67.4
+Washington DC,850,Multifamily Housing,83580,50.9
+Washington DC,851,Multifamily Housing,240528,82.5
+Washington DC,852,Multifamily Housing,168467,88.3
+Washington DC,853,Multifamily Housing,98663,73.2
+Washington DC,854,Multifamily Housing,315129,46.5
+Washington DC,855,K-12 School,47984,60
+Washington DC,856,Multifamily Housing,397870,43.9
+Washington DC,857,Multifamily Housing,144922,34
+Washington DC,858,Multifamily Housing,223693,55.4
+Washington DC,859,Multifamily Housing,206688,53.4
+Washington DC,860,Multifamily Housing,94602,67.5
+Washington DC,861,Multifamily Housing,75000,71.6
+Washington DC,862,Multifamily Housing,66780,35.7
+Washington DC,863,Multifamily Housing,51541,25.9
+Washington DC,864,Multifamily Housing,82350,99.7
+Washington DC,865,Multifamily Housing,54786,24.3
+Washington DC,866,Multifamily Housing,69329,27.9
+Washington DC,867,Multifamily Housing,60596,28
+Washington DC,868,Multifamily Housing,253234,48.4
+Washington DC,869,Multifamily Housing,204600,43.4
+Washington DC,870,Multifamily Housing,353727,63.9
+Washington DC,871,Multifamily Housing,288969,51.1
+Washington DC,872,Multifamily Housing,177723,63.2
+Washington DC,873,Multifamily Housing,182195,82.3
+Washington DC,874,Multifamily Housing,85154,63
+Washington DC,875,Multifamily Housing,134003,34.2
+Washington DC,876,Multifamily Housing,266382,36.5
+Washington DC,877,Multifamily Housing,83663,57.7
+Washington DC,878,Multifamily Housing,65964,107.3
+Washington DC,879,Multifamily Housing,90762,56.4
+Washington DC,880,Multifamily Housing,120000,57.9
+Washington DC,881,Multifamily Housing,65514,36
+Washington DC,882,Multifamily Housing,61000,73.4
+Washington DC,883,Multifamily Housing,54144,33.8
+Washington DC,884,K-12 School,70480,48.4
+Washington DC,885,Multifamily Housing,59312,16.2
+Washington DC,886,Multifamily Housing,87955,42.3
+Washington DC,887,Multifamily Housing,84667,47.4
+Washington DC,888,Multifamily Housing,127257,70.6
+Washington DC,889,Multifamily Housing,127257,35
+Washington DC,890,K-12 School,59400,82.6
+Washington DC,891,Office,404202,71.3
+Washington DC,892,Office,319977,70.7
+Washington DC,893,Multifamily Housing,122062,74
+Washington DC,894,Multifamily Housing,73652,95.5
+Washington DC,895,Multifamily Housing,87737,39
+Washington DC,896,Multifamily Housing,236646,36.3
+Washington DC,897,Multifamily Housing,73188,67
+Washington DC,898,Multifamily Housing,71791,52.7
+Washington DC,899,Multifamily Housing,68079,43.4
+Washington DC,900,Multifamily Housing,58745,61.6
+Washington DC,901,Multifamily Housing,50000,48.6
+Washington DC,902,Multifamily Housing,57223,86.9
+Washington DC,903,Multifamily Housing,168000,46.3
+Washington DC,904,Multifamily Housing,102541,6.8
+Washington DC,905,Multifamily Housing,72968,71.7
+Washington DC,906,Multifamily Housing,120650,84
+Washington DC,907,Multifamily Housing,78600,73.3
+Washington DC,908,Multifamily Housing,206478,47.5
+Washington DC,909,Multifamily Housing,63712,55.3
+Washington DC,910,Multifamily Housing,63767,58.8
+Washington DC,911,Multifamily Housing,13722,43.7
+Washington DC,912,Multifamily Housing,66417,69.7
+Washington DC,913,Multifamily Housing,74072,56.5
+Washington DC,914,Multifamily Housing,276092,34.8
+Washington DC,915,Multifamily Housing,118686,46.5
+Washington DC,916,Multifamily Housing,63170,61.1
+Washington DC,917,Multifamily Housing,68627,65
+Washington DC,918,Multifamily Housing,439502,39.1
+Washington DC,919,Multifamily Housing,81167,49.1
+Washington DC,920,Multifamily Housing,55818,72
+Washington DC,921,Multifamily Housing,77367,57.4
+Washington DC,922,Multifamily Housing,72924,37.2
+Washington DC,923,K-12 School,85708,62.3
+Washington DC,924,Multifamily Housing,114441,57.8
+Washington DC,925,Multifamily Housing,104040,78.1
+Washington DC,926,Multifamily Housing,81080,70.9
+Washington DC,927,Multifamily Housing,59353,63.9
+Washington DC,928,Multifamily Housing,55350,70.9
+Washington DC,929,Multifamily Housing,54862,44.2
+Washington DC,930,Multifamily Housing,198381,38.4
+Washington DC,931,Multifamily Housing,110000,26.4
+Washington DC,932,Multifamily Housing,78084,50.8
+Washington DC,933,Multifamily Housing,67313,62.9
+Washington DC,934,Multifamily Housing,157320,88.6
+Washington DC,935,Multifamily Housing,295600,59.5
+Washington DC,936,Multifamily Housing,86709,62.2
+Washington DC,937,Multifamily Housing,52000,40.9
+Washington DC,938,Multifamily Housing,70831,78.2
+Washington DC,939,Multifamily Housing,174971,65.3
+Washington DC,940,Multifamily Housing,202589,61.7
+Washington DC,941,Multifamily Housing,67964,30.9
+Washington DC,942,Multifamily Housing,50000,43.7
+Washington DC,943,Multifamily Housing,122458,46.7
+Washington DC,944,Multifamily Housing,126238,79.6
+Washington DC,945,Multifamily Housing,105291,57.5
+Washington DC,946,Multifamily Housing,64410,66.1
+Washington DC,947,Multifamily Housing,82830,79.1
+Washington DC,948,Multifamily Housing,51069,36.8
+Washington DC,949,Multifamily Housing,61155,35.9
+Washington DC,950,Multifamily Housing,94298,61.7
+Washington DC,951,Multifamily Housing,937684,56.7
+Washington DC,952,Multifamily Housing,53425,20.3
+Washington DC,953,Multifamily Housing,49888,207.5
+Washington DC,954,Multifamily Housing,255728,45.8
+Washington DC,955,Multifamily Housing,93388,42.6
+Washington DC,956,Multifamily Housing,86232,47.5
+Washington DC,957,Multifamily Housing,181870,46.9
+Washington DC,958,Multifamily Housing,63023,82.2
+Washington DC,959,Multifamily Housing,84000,39.7
+Washington DC,960,Multifamily Housing,64536,62.8
+Washington DC,961,Multifamily Housing,84000,23.2
+Washington DC,962,Multifamily Housing,71013,54.9
+Washington DC,963,Multifamily Housing,57308,88.4
+Washington DC,964,K-12 School,71576,94.1
+Washington DC,965,Multifamily Housing,146730,48.9
+Washington DC,966,Multifamily Housing,55000,47.8
+Washington DC,967,Multifamily Housing,26010,54
+Washington DC,968,Multifamily Housing,288311,22.3
+Washington DC,969,Multifamily Housing,148440,21.5
+Washington DC,970,K-12 School,325217,71.4
+Washington DC,971,Office,16098,8.4
+Washington DC,972,Multifamily Housing,149140,51.6
+Washington DC,973,Multifamily Housing,76772,60
+Washington DC,974,Multifamily Housing,269053,44.8
+Washington DC,975,Multifamily Housing,69619,36.8
+Washington DC,976,Multifamily Housing,235994,63.3
+Washington DC,977,Multifamily Housing,90652,70.4
+Washington DC,978,Multifamily Housing,90652,86.6
+Washington DC,979,Multifamily Housing,156632,62.6
+Washington DC,980,Multifamily Housing,54701,81.7
+Washington DC,981,Multifamily Housing,97377,133.3
+Washington DC,982,Multifamily Housing,149776,36.1
+Washington DC,983,K-12 School,59771,82.3
+Washington DC,984,Multifamily Housing,17755,52.9
+Washington DC,985,Multifamily Housing,63224,56.5
+Washington DC,986,Multifamily Housing,65000,93.5
+Washington DC,987,Multifamily Housing,77000,41.3
+Washington DC,988,Multifamily Housing,371045,35
+Washington DC,989,Multifamily Housing,390470,33.4
+Washington DC,990,Multifamily Housing,138199,33.1
+Washington DC,991,K-12 School,79700,69
+Washington DC,992,K-12 School,85587,66.9
+Washington DC,993,Multifamily Housing,65416,71.7
+Washington DC,994,Multifamily Housing,64692,63.4
+Washington DC,995,Multifamily Housing,57925,88.3
+Washington DC,996,K-12 School,86120,87.6
+Washington DC,997,Multifamily Housing,135000,69.5
+Washington DC,998,Multifamily Housing,66218,65.1
+Washington DC,999,Multifamily Housing,50739,63.5
+Washington DC,1000,K-12 School,69600,91.9
+Washington DC,1001,K-12 School,80500,69.1
+Washington DC,1002,K-12 School,76848,73.6
+Washington DC,1003,Multifamily Housing,82702,95.1
+Washington DC,1004,Multifamily Housing,142012,68.1
+Washington DC,1005,K-12 School,66600,69.8
+Washington DC,1006,Multifamily Housing,66640,34.7
+Washington DC,1007,Multifamily Housing,204796,84.5
+Washington DC,1008,Multifamily Housing,101814,11.3
+Washington DC,1009,Multifamily Housing,15909,73.6
+Washington DC,1010,Multifamily Housing,173751,53.8
+Washington DC,1011,Multifamily Housing,88913,29.6
+Washington DC,1012,Multifamily Housing,58856,36.3
+Washington DC,1013,Multifamily Housing,230989,73.6
+Washington DC,1014,Multifamily Housing,62455,72.4
+Washington DC,1015,Multifamily Housing,63000,64.4
+Washington DC,1016,Multifamily Housing,276542,52.5
+Washington DC,1017,Multifamily Housing,111224,17.3
+Washington DC,1018,Multifamily Housing,60766,33.1
+Washington DC,1019,K-12 School,394000,48.8
+Washington DC,1020,Multifamily Housing,100401,62.9
+Washington DC,1021,Multifamily Housing,221780,58.5
+Washington DC,1022,K-12 School,180000,52
+Washington DC,1023,Multifamily Housing,101117,37.6
+Washington DC,1024,Multifamily Housing,98174,40.7
+Washington DC,1025,K-12 School,45484,82.8
+Washington DC,1026,Multifamily Housing,67104,59.5
+Washington DC,1027,Multifamily Housing,209572,43
+Washington DC,1028,Multifamily Housing,145890,40.5
+Washington DC,1029,Multifamily Housing,93200,43.1
+Washington DC,1030,Office,93166,26.8
+Washington DC,1031,K-12 School,331900,58.7
+Washington DC,1032,Multifamily Housing,52680,31.1
+Washington DC,1033,Multifamily Housing,98122,30.5
+Washington DC,1034,Multifamily Housing,72204,64.8
+Washington DC,1035,Multifamily Housing,59616,107.5
+Washington DC,1036,Multifamily Housing,91752,78.1
+Washington DC,1037,K-12 School,69600,77.1
+Washington DC,1038,Office,65411,139.7
+Washington DC,1039,Multifamily Housing,56680,31.5
+Washington DC,1040,K-12 School,82200,38.3
+Washington DC,1041,Multifamily Housing,134100,100.7
+Washington DC,1042,Office,110000,59.6
+Washington DC,1043,Office,90157,97.1
+Washington DC,1044,K-12 School,49500,71
+Washington DC,1045,Multifamily Housing,162712,94.9
+Washington DC,1046,Multifamily Housing,83706,96.4
+Washington DC,1047,K-12 School,70437,91
+Washington DC,1048,K-12 School,117050,39
+Washington DC,1049,Multifamily Housing,131426,49.6
+Washington DC,1050,Multifamily Housing,56610,38.1
+Washington DC,1051,K-12 School,72500,68.8
+Washington DC,1052,K-12 School,66600,66.9
+Washington DC,1053,K-12 School,271300,44.5
+Washington DC,1054,Office,67199,17.9
+Washington DC,1055,Multifamily Housing,180471,43.8
+Washington DC,1056,Multifamily Housing,68000,12.7
+Washington DC,1057,Multifamily Housing,346210,39.5
+Washington DC,1058,Multifamily Housing,55860,62.3
+Washington DC,1059,Office,174150,332.4
+Washington DC,1060,Multifamily Housing,22813,107.4
+Washington DC,1061,K-12 School,285822,62.1
+Washington DC,1062,K-12 School,110100,52.6
+Washington DC,1063,Multifamily Housing,280000,36.2
+Washington DC,1064,Multifamily Housing,70145,78.1
+Washington DC,1065,Multifamily Housing,77160,18.9
+Washington DC,1066,Multifamily Housing,130989,33.5
+Washington DC,1067,Multifamily Housing,562172,35.5
+Washington DC,1068,Multifamily Housing,355707,41.8
+Washington DC,1069,Office,162514,235.3
+Washington DC,1070,Multifamily Housing,345574,55.9
+Washington DC,1071,Multifamily Housing,383900,44.3
+Washington DC,1072,K-12 School,72208,33.7
+Washington DC,1073,Multifamily Housing,154532,104.6
+Washington DC,1074,Multifamily Housing,181328,28.9
+Washington DC,1075,Multifamily Housing,51376,39.4
+Washington DC,1076,Multifamily Housing,60776,41.8
+Washington DC,1077,Multifamily Housing,57000,20.9
+Washington DC,1078,K-12 School,80623,47.1
+Washington DC,1079,Multifamily Housing,256888,37.8
+Washington DC,1080,Multifamily Housing,55328,45.2
+Washington DC,1081,Multifamily Housing,401517,27.1
+Washington DC,1082,Office,51707,123.7
+Washington DC,1083,K-12 School,65751,83.9
+Washington DC,1084,Multifamily Housing,60872,70.7
+Washington DC,1085,Multifamily Housing,535000,65.5
+Washington DC,1086,K-12 School,142305,61
+Washington DC,1087,K-12 School,87200,70.5
+Washington DC,1088,Office,80000,7.5
+Washington DC,1089,Multifamily Housing,80000,75.6
+Washington DC,1090,K-12 School,63900,161.3
+Washington DC,1091,K-12 School,101400,49.4
+Washington DC,1092,Multifamily Housing,60516,144.7
+Washington DC,1093,Multifamily Housing,62664,86.6
+Washington DC,1094,Multifamily Housing,52944,42.1
+Washington DC,1095,Multifamily Housing,62901,39.6
+Washington DC,1096,Multifamily Housing,64365,170.9
+Washington DC,1097,Multifamily Housing,38320,138
+Washington DC,1098,Multifamily Housing,216759,32.9
+Washington DC,1099,Multifamily Housing,181010,28.8
+Washington DC,1100,Multifamily Housing,78475,36.4
+Washington DC,1101,Multifamily Housing,94098,31.1
+Washington DC,1102,K-12 School,76900,54.7
+Washington DC,1103,Multifamily Housing,89423,38.1
+Washington DC,1104,Multifamily Housing,67167,46
+Washington DC,1105,Office,34400,316.3
+Washington DC,1106,Multifamily Housing,400000,79
+Washington DC,1107,Multifamily Housing,373509,43
+Washington DC,1108,Office,229000,58.7
+Washington DC,1109,K-12 School,79612,55.7
+Washington DC,1110,Multifamily Housing,472535,48.1
+Washington DC,1111,Multifamily Housing,417812,42.2
+Washington DC,1112,Multifamily Housing,222956,32.7
+Washington DC,1113,Multifamily Housing,50796,107.6
+Washington DC,1114,Multifamily Housing,470052,67
+Washington DC,1115,K-12 School,43000,72
+Washington DC,1116,Multifamily Housing,90094,42.8
+Washington DC,1117,K-12 School,57100,57
+Washington DC,1118,Multifamily Housing,77767,92.9
+Washington DC,1119,K-12 School,100000,62.2
+Washington DC,1120,K-12 School,59900,58.9
+Washington DC,1121,Multifamily Housing,460885,70.5
+Washington DC,1122,K-12 School,115000,56.6
+Washington DC,1123,Multifamily Housing,50098,67
+Washington DC,1124,K-12 School,95000,58.5
+Washington DC,1125,K-12 School,235000,61.2
+Washington DC,1126,K-12 School,72800,63.4
+Washington DC,1127,Multifamily Housing,195956,127
+Washington DC,1128,K-12 School,107097,60.2
+Washington DC,1129,K-12 School,56000,68
+Washington DC,1130,K-12 School,83900,86.7
+Washington DC,1131,Multifamily Housing,109256,74.8
+Washington DC,1132,K-12 School,69400,41.1
+Washington DC,1133,Multifamily Housing,274781,97.4
+Washington DC,1134,K-12 School,84681,70.9
+Washington DC,1135,Multifamily Housing,81264,39.3
+Washington DC,1136,Multifamily Housing,231517,27.2
+Washington DC,1137,Multifamily Housing,18352,101.8
+Washington DC,1138,Multifamily Housing,177520,102.1
+Washington DC,1139,Multifamily Housing,50000,53.2
+Washington DC,1140,Multifamily Housing,93828,86.8
+Washington DC,1141,K-12 School,83400,45.9
+Washington DC,1142,Multifamily Housing,98353,41.5
+Washington DC,1143,K-12 School,110100,82.5
+Washington DC,1144,K-12 School,154000,40
+Washington DC,1145,Multifamily Housing,54724,94
+Washington DC,1146,Office,64000,87.2
+Washington DC,1147,K-12 School,247900,62.4
+Washington DC,1148,Multifamily Housing,81324,73
+Washington DC,1149,Multifamily Housing,52127,26.9
+Washington DC,1150,Multifamily Housing,870359,63.2
+Washington DC,1151,K-12 School,45057,133.1
+Washington DC,1152,K-12 School,77500,72.6
+Washington DC,1153,Multifamily Housing,13740,160.8
+Washington DC,1154,K-12 School,58908,93.6
+Washington DC,1155,Multifamily Housing,224000,41.2
+Washington DC,1156,Multifamily Housing,76420,77.2
+Washington DC,1157,Multifamily Housing,77399,33.8
+Washington DC,1158,Multifamily Housing,71745,84.7
+Washington DC,1159,Multifamily Housing,113703,51.5
+Washington DC,1160,Multifamily Housing,277729,122.3
+Washington DC,1161,Multifamily Housing,106336,58.8
+Washington DC,1162,K-12 School,88300,96.9
+Washington DC,1163,Office,74968,52.1
+Washington DC,1164,Office,81610,78.4
+Washington DC,1165,Office,71350,91.8
+Washington DC,1166,Office,84496,86.5
+Washington DC,1167,Office,82184,63.6
+Washington DC,1168,K-12 School,99975,77.2
+Washington DC,1169,K-12 School,110000,50.2
+Washington DC,1170,Office,23903,77.3
+Washington DC,1171,Multifamily Housing,452797,65.3
+Washington DC,1172,Multifamily Housing,72917,43.2
+Washington DC,1173,Multifamily Housing,96030,30.7
+Washington DC,1174,Multifamily Housing,80425,62.8
+Washington DC,1175,Multifamily Housing,279872,52.6
+Washington DC,1176,Multifamily Housing,88082,42.2
+Washington DC,1177,Multifamily Housing,127736,114.9
+Washington DC,1178,Multifamily Housing,27956,61.2
+Washington DC,1179,Multifamily Housing,70568,56.7
+Washington DC,1180,K-12 School,182500,57
+Washington DC,1181,K-12 School,94500,72.6
+Washington DC,1182,Multifamily Housing,130400,35.2
+Washington DC,1183,Multifamily Housing,319582,37.8
+Washington DC,1184,Multifamily Housing,179232,96.4
+Washington DC,1185,K-12 School,65500,75
+Washington DC,1186,K-12 School,142172,12.2
+Washington DC,1187,K-12 School,5982,527.7
+Washington DC,1188,Multifamily Housing,97506,56
+Washington DC,1189,Multifamily Housing,61642,318.9
+Washington DC,1190,K-12 School,73200,56.6
+Washington DC,1191,Multifamily Housing,301896,79.1
+Washington DC,1192,Multifamily Housing,200839,47.4
+Washington DC,1193,K-12 School,78300,109.5
+Washington DC,1194,K-12 School,65431,34.9
+Washington DC,1195,Multifamily Housing,426944,17
+Washington DC,1196,Multifamily Housing,223196,154.2
+Washington DC,1197,Office,350000,60.6
+Washington DC,1198,Multifamily Housing,55280,83.2
+Washington DC,1199,Multifamily Housing,50048,41.1
+Washington DC,1200,Multifamily Housing,90400,35.5
+Washington DC,1201,K-12 School,73600,68.8
+Washington DC,1202,K-12 School,51500,102.1
+Washington DC,1203,Office,194131,62.3
+Washington DC,1204,K-12 School,83000,74.7
+Washington DC,1205,Office,99037,126.5
+Washington DC,1206,Office,57836,197.3
+Washington DC,1207,K-12 School,69400,104.2
+Washington DC,1208,Multifamily Housing,183854,125
+Washington DC,1209,K-12 School,87600,64.5
+Washington DC,1210,Office,123000,80.8
+Washington DC,1211,K-12 School,158000,70.6
+Washington DC,1212,Multifamily Housing,97084,65.4
+Washington DC,1213,K-12 School,83800,56.9
+Washington DC,1214,K-12 School,210700,50.2
+Washington DC,1215,K-12 School,66200,54.6
+Washington DC,1216,K-12 School,356000,71.6
+Washington DC,1217,K-12 School,65000,90.6
