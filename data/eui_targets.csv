@@ -1,0 +1,31 @@
+city,facility_type,target
+Boston,Office,53
+Denver,Office,46
+Los Angeles,Office,36
+New York City,Office,51
+Orlando,Office,44
+Philadelphia,Office,51
+San Francisco,Office,37
+Seattle,Office,45
+St. Louis,Office,51
+Washington DC,Office,51
+Boston,Multifamily Housing,53
+Denver,Multifamily Housing,44
+Los Angeles,Multifamily Housing,25
+New York City,Multifamily Housing,46
+Orlando,Multifamily Housing,34
+Philadelphia,Multifamily Housing,46
+San Francisco,Multifamily Housing,32
+Seattle,Multifamily Housing,43
+St. Louis,Multifamily Housing,46
+Washington DC,Multifamily Housing,46
+Boston,K-12 School,50
+Denver,K-12 School,43
+Los Angeles,K-12 School,32
+New York City,K-12 School,47
+Orlando,K-12 School,41
+Philadelphia,K-12 School,47
+San Francisco,K-12 School,35
+Seattle,K-12 School,42
+St. Louis,K-12 School,47
+Washington DC,K-12 School,47

@@ -1,0 +1,16 @@
+percentage_target_cat5,facility_type,cost_per_ft2
+<5%,Office,0.5
+5-15%,Office,2.75
+15-25%,Office,6.5
+25-35%,Office,11.5
+>35%,Office,16.5
+<5%,Multifamily Housing,0.2
+5-15%,Multifamily Housing,1.63
+15-25%,Multifamily Housing,3.13
+25-35%,Multifamily Housing,5
+>35%,Multifamily Housing,9.5
+<5%,K-12 School,0.5
+5-15%,K-12 School,2.75
+15-25%,K-12 School,6.5
+25-35%,K-12 School,11.5
+>35%,K-12 School,16.5
