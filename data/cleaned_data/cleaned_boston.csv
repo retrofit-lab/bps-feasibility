@@ -1,0 +1,1053 @@
+city,prop_id,facility_type,floor_area,site_eui
+Boston,1,Office,44464,76.2
+Boston,2,Office,44000,105.9
+Boston,3,Office,438392,74.3
+Boston,4,Office,38000,55.2
+Boston,5,Office,261168,118.4
+Boston,6,Multifamily Housing,203204,51.6
+Boston,7,Office,123678,142.2
+Boston,8,Office,1498161,74.2
+Boston,9,Office,124055,60.6
+Boston,10,Office,296176,110.2
+Boston,11,Office,550326,62
+Boston,12,Office,572998,78.2
+Boston,13,Office,473906,61.7
+Boston,14,Multifamily Housing,800238,124.4
+Boston,15,Office,585345,78.4
+Boston,16,Office,159272,69.9
+Boston,17,Office,620642,53.8
+Boston,18,Office,48905,64.3
+Boston,19,Office,80344,64.3
+Boston,20,Office,195000,39.8
+Boston,21,Multifamily Housing,66456,88.9
+Boston,22,Multifamily Housing,34821,78.6
+Boston,23,Office,134789,65.5
+Boston,24,Office,40696,50.8
+Boston,25,Multifamily Housing,199545,176.9
+Boston,26,Office,75500,50.3
+Boston,27,Multifamily Housing,571440,88
+Boston,28,Multifamily Housing,279963,104.4
+Boston,29,Office,285556,157
+Boston,30,Multifamily Housing,19161,150.6
+Boston,31,Office,146388,74.4
+Boston,32,Multifamily Housing,21779,1.1
+Boston,33,Office,1034179,80.3
+Boston,34,Multifamily Housing,108472,62.6
+Boston,35,Multifamily Housing,389949,85.9
+Boston,36,Multifamily Housing,49283,347.3
+Boston,37,Office,56025,57.9
+Boston,38,Multifamily Housing,60000,82.9
+Boston,39,Office,287141,64.8
+Boston,40,Office,140388,37.1
+Boston,41,Multifamily Housing,588634,93
+Boston,42,Office,57108,147.8
+Boston,43,Multifamily Housing,37522,63.4
+Boston,44,Multifamily Housing,33824,53
+Boston,45,Multifamily Housing,859162,151.9
+Boston,46,Multifamily Housing,334068,98.3
+Boston,47,Office,37495,105.5
+Boston,48,Office,1511250,54.1
+Boston,49,Office,8100,57.9
+Boston,50,Multifamily Housing,4284,78.4
+Boston,51,Office,521903,59.4
+Boston,52,Multifamily Housing,63287,35.6
+Boston,53,Multifamily Housing,4284,65.3
+Boston,54,Multifamily Housing,66400,63.3
+Boston,55,Office,130751,159.7
+Boston,56,Office,379000,17.9
+Boston,57,Multifamily Housing,37182,8.4
+Boston,58,Multifamily Housing,350714,51.9
+Boston,59,Multifamily Housing,56239,43.7
+Boston,60,Office,57986,70.1
+Boston,61,Multifamily Housing,31092,2.3
+Boston,62,Office,88203,51.2
+Boston,63,Multifamily Housing,121944,31.9
+Boston,64,Multifamily Housing,50220,82.7
+Boston,65,Office,64884,82.8
+Boston,66,Office,120000,81.8
+Boston,67,Multifamily Housing,33492,3.3
+Boston,68,Multifamily Housing,34944,67.9
+Boston,69,Office,42007,37.8
+Boston,70,Multifamily Housing,24573,51.5
+Boston,71,Office,52337,102.2
+Boston,72,Office,3200,83.4
+Boston,73,Office,83845,74.4
+Boston,74,Office,115551,44
+Boston,75,Office,129800,67.5
+Boston,76,Multifamily Housing,35778,159.5
+Boston,77,Office,190941,22.5
+Boston,78,Multifamily Housing,22386,76.4
+Boston,79,Multifamily Housing,108000,60.2
+Boston,80,Multifamily Housing,33828,246.8
+Boston,81,Multifamily Housing,24000,87.3
+Boston,82,Multifamily Housing,30456,55.5
+Boston,83,Multifamily Housing,29049,104.1
+Boston,84,Multifamily Housing,96696,73.5
+Boston,85,Multifamily Housing,11200,64.2
+Boston,86,Office,522349,65.3
+Boston,87,Office,227365,62.7
+Boston,88,Office,76323,105.2
+Boston,89,Office,247733,152.9
+Boston,90,Office,73339,86.5
+Boston,91,Office,50600,119
+Boston,92,Multifamily Housing,35308,65.6
+Boston,93,Office,236461,69.8
+Boston,94,Multifamily Housing,180000,53.1
+Boston,95,Multifamily Housing,32955,3
+Boston,96,Multifamily Housing,465238,64.2
+Boston,97,Office,74160,49.3
+Boston,98,Multifamily Housing,402572,116
+Boston,99,Multifamily Housing,24000,111.8
+Boston,100,Multifamily Housing,12685,246.5
+Boston,101,Multifamily Housing,44954,98.9
+Boston,102,Multifamily Housing,141204,96.3
+Boston,103,Office,60000,88.7
+Boston,104,Multifamily Housing,14861,64.7
+Boston,105,Office,68035,138.8
+Boston,106,Multifamily Housing,14400,81.7
+Boston,107,Office,233763,38.8
+Boston,108,Office,9680,137.3
+Boston,109,Office,96032,119.3
+Boston,110,Multifamily Housing,50000,49.8
+Boston,111,Office,218104,49.6
+Boston,112,Multifamily Housing,36552,59.8
+Boston,113,Office,118000,79.3
+Boston,114,Office,2039467,97.5
+Boston,115,Office,96393,107.3
+Boston,116,Office,365702,78.1
+Boston,117,Multifamily Housing,66858,51.1
+Boston,118,Office,85103,62.5
+Boston,119,Multifamily Housing,8640,79.5
+Boston,120,Multifamily Housing,8640,79.4
+Boston,121,Multifamily Housing,19824,13.3
+Boston,122,Multifamily Housing,21440,84.6
+Boston,123,Office,105197,78.8
+Boston,124,Office,78101,89.5
+Boston,125,Multifamily Housing,35036,61.8
+Boston,126,Multifamily Housing,12702,84.5
+Boston,127,Multifamily Housing,105949,69.3
+Boston,128,Office,1045851,75.7
+Boston,129,Multifamily Housing,28000,187.8
+Boston,130,Multifamily Housing,57800,81.4
+Boston,131,Multifamily Housing,21600,270.3
+Boston,132,Multifamily Housing,63162,155.2
+Boston,133,Multifamily Housing,84224,88.5
+Boston,134,Multifamily Housing,36000,48.6
+Boston,135,Multifamily Housing,15716,86.9
+Boston,136,Multifamily Housing,30600,34.1
+Boston,137,Multifamily Housing,39204,208.5
+Boston,138,Multifamily Housing,73000,99.9
+Boston,139,Multifamily Housing,54100,127.8
+Boston,140,Multifamily Housing,29984,127.5
+Boston,141,Multifamily Housing,95200,91.5
+Boston,142,Multifamily Housing,104748,70.4
+Boston,143,Multifamily Housing,121640,86
+Boston,144,Multifamily Housing,55472,84.2
+Boston,145,Multifamily Housing,156000,75
+Boston,146,Multifamily Housing,88600,48.3
+Boston,147,Multifamily Housing,72000,49.1
+Boston,148,Multifamily Housing,128250,85.2
+Boston,149,Office,96215,122.5
+Boston,150,Multifamily Housing,60000,77
+Boston,151,Multifamily Housing,61678,55.7
+Boston,152,Office,111338,101.1
+Boston,153,Multifamily Housing,26150,23.8
+Boston,154,Multifamily Housing,47460,64.5
+Boston,155,Office,104728,47.2
+Boston,156,Office,150097,58.1
+Boston,157,Multifamily Housing,64230,153.6
+Boston,158,Multifamily Housing,278674,60.5
+Boston,159,Multifamily Housing,90944,68.2
+Boston,160,Office,216012,82.8
+Boston,161,Multifamily Housing,64830,109.2
+Boston,162,Multifamily Housing,110110,85.1
+Boston,163,Multifamily Housing,30303,79.2
+Boston,164,Office,57593,46.1
+Boston,165,Office,372562,62.1
+Boston,166,Multifamily Housing,97300,63
+Boston,167,Multifamily Housing,60440,85
+Boston,168,Office,64564,110.7
+Boston,169,Office,65016,130.9
+Boston,170,Office,364493,57
+Boston,171,Office,45673,62.6
+Boston,172,Office,281600,84.4
+Boston,173,Office,56742,57.2
+Boston,174,Multifamily Housing,76800,38.7
+Boston,175,Multifamily Housing,271704,55.3
+Boston,176,Multifamily Housing,130920,73.7
+Boston,177,Office,68201,70.9
+Boston,178,Multifamily Housing,85000,56.5
+Boston,179,Multifamily Housing,24830,80.4
+Boston,180,Office,656894,68.8
+Boston,181,Multifamily Housing,47810,31.9
+Boston,182,Office,138350,55.4
+Boston,183,Office,168408,51.2
+Boston,184,Multifamily Housing,73200,64.3
+Boston,185,Multifamily Housing,100000,43.6
+Boston,186,Multifamily Housing,82800,94.6
+Boston,187,Office,225294,66.1
+Boston,188,Multifamily Housing,71938,56.6
+Boston,189,Multifamily Housing,55472,80.4
+Boston,190,Multifamily Housing,55472,91.6
+Boston,191,Multifamily Housing,28116,77.2
+Boston,192,Multifamily Housing,260000,45.2
+Boston,193,Multifamily Housing,19200,77.4
+Boston,194,Office,50000,45.7
+Boston,195,Office,11683,762.7
+Boston,196,Office,79056,51
+Boston,197,Office,71898,21.1
+Boston,198,Office,57865,73.8
+Boston,199,Office,72912,63.3
+Boston,200,Multifamily Housing,42548,62.3
+Boston,201,Multifamily Housing,207496,65.6
+Boston,202,Office,115331,81.2
+Boston,203,Office,91482,50.8
+Boston,204,Office,41818,85.5
+Boston,205,Office,648403,57.9
+Boston,206,Office,40933,116.9
+Boston,207,Office,94381,83.3
+Boston,208,Multifamily Housing,138000,57.3
+Boston,209,Office,36394,54.2
+Boston,210,Office,36192,58.4
+Boston,211,Office,117801,44.2
+Boston,212,Office,25000,95.9
+Boston,213,Office,111535,120.1
+Boston,214,Office,91520,95.2
+Boston,215,Multifamily Housing,60000,42.6
+Boston,216,Multifamily Housing,125000,51.6
+Boston,217,Multifamily Housing,51784,69.1
+Boston,218,Multifamily Housing,48000,13.2
+Boston,219,Office,199000,7.6
+Boston,220,Office,95855,106.1
+Boston,221,Office,139733,46.2
+Boston,222,Multifamily Housing,35100,98.8
+Boston,223,Office,149000,17.6
+Boston,224,Multifamily Housing,44010,99.1
+Boston,225,Office,40398,57.3
+Boston,226,Multifamily Housing,14400,86.9
+Boston,227,Office,309915,56.1
+Boston,228,Office,107216,98.1
+Boston,229,Multifamily Housing,50000,56.2
+Boston,230,Multifamily Housing,78100,63.9
+Boston,231,Office,42911,43.6
+Boston,232,Office,128641,56.9
+Boston,233,Office,38000,39.2
+Boston,234,Office,93824,78.9
+Boston,235,Multifamily Housing,76038,43.9
+Boston,236,Office,58921,46.6
+Boston,237,Office,164124,58.1
+Boston,238,Office,82925,54.4
+Boston,239,Multifamily Housing,195022,88.6
+Boston,240,Office,497530,118.5
+Boston,241,Multifamily Housing,24850,69.8
+Boston,242,Multifamily Housing,30565,52.5
+Boston,243,Office,180096,78.9
+Boston,244,Multifamily Housing,48392,19.9
+Boston,245,Multifamily Housing,49900,5.5
+Boston,246,Multifamily Housing,36493,96.9
+Boston,247,Multifamily Housing,32350,3.6
+Boston,248,Multifamily Housing,50000,57.8
+Boston,249,Office,71880,88.3
+Boston,250,Office,290759,67.4
+Boston,251,Office,813721,46.2
+Boston,252,Multifamily Housing,200755,63.7
+Boston,253,Office,682117,82
+Boston,254,Multifamily Housing,580000,107.1
+Boston,255,Multifamily Housing,52974,213.2
+Boston,256,Multifamily Housing,19824,9.1
+Boston,257,Multifamily Housing,225372,198.4
+Boston,258,Multifamily Housing,180000,134.8
+Boston,259,Multifamily Housing,306414,98.3
+Boston,260,Multifamily Housing,122456,97.5
+Boston,261,Office,99000,60.6
+Boston,262,Office,193662,40
+Boston,263,Multifamily Housing,241144,148.8
+Boston,264,Multifamily Housing,124863,121.7
+Boston,265,Multifamily Housing,39225,4.4
+Boston,266,Office,1321219,51.7
+Boston,267,Office,104036,99.9
+Boston,268,Office,97790,70.4
+Boston,269,Office,141961,107.7
+Boston,270,Multifamily Housing,17839,93.1
+Boston,271,Office,36801,57
+Boston,272,Office,424121,116.2
+Boston,273,Multifamily Housing,126333,77.2
+Boston,274,Multifamily Housing,14400,96.9
+Boston,275,Multifamily Housing,180000,71.5
+Boston,276,Multifamily Housing,19200,87.2
+Boston,277,Office,49336,27.2
+Boston,278,Office,958470,76.1
+Boston,279,Multifamily Housing,36000,348.8
+Boston,280,Multifamily Housing,46420,29.8
+Boston,281,Multifamily Housing,40500,92.3
+Boston,282,Office,58275,70.2
+Boston,283,Multifamily Housing,18568,80.4
+Boston,284,Multifamily Housing,406928,12.1
+Boston,285,Multifamily Housing,15500,11.7
+Boston,286,Office,63423,87.4
+Boston,287,Multifamily Housing,611442,65
+Boston,288,Office,187000,69.9
+Boston,289,Office,211351,51.9
+Boston,290,Multifamily Housing,45000,63.7
+Boston,291,Multifamily Housing,50000,59.8
+Boston,292,Office,71872,83.4
+Boston,293,Office,85072,72.9
+Boston,294,Office,91464,55.9
+Boston,295,Multifamily Housing,32640,74.4
+Boston,296,Office,62246,64
+Boston,297,Multifamily Housing,61020,29.4
+Boston,298,Multifamily Housing,41814,80.8
+Boston,299,Office,65240,23.8
+Boston,300,Multifamily Housing,30000,54.7
+Boston,301,Multifamily Housing,33000,46.3
+Boston,302,Office,105332,81.3
+Boston,303,Office,194417,47.9
+Boston,304,Multifamily Housing,33000,32
+Boston,305,Office,36000,60.7
+Boston,306,Multifamily Housing,48855,34.4
+Boston,307,Multifamily Housing,46100,40.5
+Boston,308,Office,226320,101.9
+Boston,309,Office,888478,66.3
+Boston,310,Multifamily Housing,107117,122.5
+Boston,311,Multifamily Housing,14400,78.8
+Boston,312,Multifamily Housing,15776,93.4
+Boston,313,Multifamily Housing,14400,78.4
+Boston,314,Multifamily Housing,50000,60.2
+Boston,315,Office,36000,57.9
+Boston,316,Multifamily Housing,102283,74.9
+Boston,317,Multifamily Housing,80000,12.5
+Boston,318,Office,133208,42.9
+Boston,319,Multifamily Housing,406928,52.9
+Boston,320,Office,155775,51.3
+Boston,321,Multifamily Housing,35364,109.2
+Boston,322,Office,28119,67.9
+Boston,323,Office,376675,79.1
+Boston,324,Multifamily Housing,59992,24.9
+Boston,325,Multifamily Housing,33000,41
+Boston,326,Office,107773,98
+Boston,327,Multifamily Housing,59746,6.5
+Boston,328,Office,436969,58.7
+Boston,329,Multifamily Housing,46250,55.8
+Boston,330,Office,85199,126.1
+Boston,331,Multifamily Housing,38950,50.2
+Boston,332,Office,114000,40.6
+Boston,333,Multifamily Housing,25038,79.9
+Boston,334,Multifamily Housing,30348,101.1
+Boston,335,Office,36865,141
+Boston,336,Office,93779,65.8
+Boston,337,Office,108106,59.3
+Boston,338,Multifamily Housing,37000,64.9
+Boston,339,Office,731205,75.4
+Boston,340,Office,291332,70
+Boston,341,K-12 School,80364,73.1
+Boston,342,Multifamily Housing,232026,101.9
+Boston,343,K-12 School,41336,53.7
+Boston,344,Multifamily Housing,29920,54.1
+Boston,345,Multifamily Housing,15936,60.4
+Boston,346,Multifamily Housing,40060,40.8
+Boston,347,Multifamily Housing,34705,53.2
+Boston,348,Multifamily Housing,41395,56.5
+Boston,349,K-12 School,115400,72.8
+Boston,350,Multifamily Housing,56610,37.3
+Boston,351,Multifamily Housing,25000,216.3
+Boston,352,K-12 School,169748,62.3
+Boston,353,Office,110087,85.1
+Boston,354,Multifamily Housing,32879,223.6
+Boston,355,Multifamily Housing,64085,53.9
+Boston,356,Multifamily Housing,25737,91.6
+Boston,357,Multifamily Housing,115000,79.7
+Boston,358,Multifamily Housing,86006,84.5
+Boston,359,Multifamily Housing,22953,118.6
+Boston,360,Multifamily Housing,150172,128.1
+Boston,361,Office,63054,70.1
+Boston,362,Multifamily Housing,85000,44.6
+Boston,363,K-12 School,129800,48.6
+Boston,364,Office,42000,49.2
+Boston,365,Multifamily Housing,224000,115.6
+Boston,366,Multifamily Housing,43400,44.8
+Boston,367,Office,965371,83.6
+Boston,368,Multifamily Housing,278852,32.8
+Boston,369,Multifamily Housing,84310,31.9
+Boston,370,Multifamily Housing,335514,49.8
+Boston,371,Multifamily Housing,119531,58
+Boston,372,Multifamily Housing,177230,41.5
+Boston,373,Multifamily Housing,229178,41.9
+Boston,374,K-12 School,27777,50.7
+Boston,375,Multifamily Housing,30600,139.2
+Boston,376,Multifamily Housing,26614,114.7
+Boston,377,Multifamily Housing,27200,108.8
+Boston,378,Multifamily Housing,18000,182.6
+Boston,379,K-12 School,14700,91.4
+Boston,380,Multifamily Housing,280000,24.9
+Boston,381,K-12 School,27936,74.3
+Boston,382,Multifamily Housing,88226,321.9
+Boston,383,Office,54893,51.5
+Boston,384,Multifamily Housing,40461,102.2
+Boston,385,Office,90645,78.2
+Boston,386,Multifamily Housing,288433,49.8
+Boston,387,Multifamily Housing,239667,57.6
+Boston,388,Office,68729,44.6
+Boston,389,Multifamily Housing,104278,61
+Boston,390,Office,127689,116.7
+Boston,391,Multifamily Housing,56000,102.2
+Boston,392,Multifamily Housing,70000,80.7
+Boston,393,K-12 School,37452,77.5
+Boston,394,Multifamily Housing,43716,56.8
+Boston,395,Multifamily Housing,193000,47.8
+Boston,396,Multifamily Housing,165000,31.6
+Boston,397,Multifamily Housing,43803,45.1
+Boston,398,Multifamily Housing,43066,42.4
+Boston,399,Office,221299,114.2
+Boston,400,K-12 School,194260,87.5
+Boston,401,Multifamily Housing,132000,65.8
+Boston,402,Multifamily Housing,65350,64.5
+Boston,403,Multifamily Housing,14860,78.1
+Boston,404,Multifamily Housing,40782,109.1
+Boston,405,Multifamily Housing,72186,63.5
+Boston,406,Multifamily Housing,117921,11.5
+Boston,407,Office,34075,60.8
+Boston,408,Office,49494,129
+Boston,409,K-12 School,320000,94.9
+Boston,410,Multifamily Housing,14640,59.6
+Boston,411,Multifamily Housing,14640,57
+Boston,412,Multifamily Housing,15068,87.6
+Boston,413,Multifamily Housing,15068,87.9
+Boston,414,Multifamily Housing,209103,6.1
+Boston,415,Multifamily Housing,112888,3.6
+Boston,416,Multifamily Housing,35000,96.9
+Boston,417,Multifamily Housing,174700,121.3
+Boston,418,Multifamily Housing,29682,52.1
+Boston,419,Multifamily Housing,30241,62.1
+Boston,420,Multifamily Housing,33332,48.5
+Boston,421,K-12 School,33128,64.4
+Boston,422,Multifamily Housing,873348,33.4
+Boston,423,Multifamily Housing,86900,68.6
+Boston,424,K-12 School,216213,42.3
+Boston,425,Multifamily Housing,270000,71
+Boston,426,Multifamily Housing,39006,87.7
+Boston,427,Multifamily Housing,108260,70.4
+Boston,428,Multifamily Housing,45111,69.4
+Boston,429,Office,53500,144.9
+Boston,430,Multifamily Housing,4814,74.6
+Boston,431,Office,184032,42.3
+Boston,432,K-12 School,202304,94.4
+Boston,433,Multifamily Housing,49542,83.5
+Boston,434,Multifamily Housing,106921,42.6
+Boston,435,Multifamily Housing,24000,4.5
+Boston,436,Multifamily Housing,137291,48.2
+Boston,437,Multifamily Housing,113315,120.4
+Boston,438,K-12 School,97349,76.7
+Boston,439,Multifamily Housing,26070,116.7
+Boston,440,Multifamily Housing,50000,54.2
+Boston,441,Multifamily Housing,147560,73.2
+Boston,442,K-12 School,14435,65.7
+Boston,443,Multifamily Housing,79136,85.9
+Boston,444,Multifamily Housing,95760,39.5
+Boston,445,Multifamily Housing,531506,73.2
+Boston,446,Multifamily Housing,74185,100
+Boston,447,Office,741231,69.9
+Boston,448,Multifamily Housing,49588,70.2
+Boston,449,K-12 School,53270,393.2
+Boston,450,Office,57800,80.5
+Boston,451,K-12 School,32582,56.8
+Boston,452,Multifamily Housing,33551,71.5
+Boston,453,Multifamily Housing,43463,41.1
+Boston,454,Multifamily Housing,210000,60.8
+Boston,455,Office,46916,44.1
+Boston,456,Multifamily Housing,151892,161.4
+Boston,457,Multifamily Housing,71919,17.3
+Boston,458,K-12 School,226822,71.5
+Boston,459,Multifamily Housing,28820,28.7
+Boston,460,Multifamily Housing,211834,73.6
+Boston,461,Multifamily Housing,58874,67.4
+Boston,462,Multifamily Housing,43174,84.1
+Boston,463,Multifamily Housing,79367,49.2
+Boston,464,Multifamily Housing,89071,94.2
+Boston,465,Multifamily Housing,268192,89.7
+Boston,466,Multifamily Housing,40236,65.7
+Boston,467,Multifamily Housing,94068,58.1
+Boston,468,K-12 School,48697,52.1
+Boston,469,Multifamily Housing,174895,58.9
+Boston,470,Multifamily Housing,60000,16.9
+Boston,471,Multifamily Housing,650000,59.8
+Boston,472,Office,513000,114.1
+Boston,473,Multifamily Housing,94970,59.3
+Boston,474,Office,64540,63.8
+Boston,475,Multifamily Housing,309959,67.6
+Boston,476,K-12 School,29448,50.2
+Boston,477,Multifamily Housing,444893,54.6
+Boston,478,Multifamily Housing,82000,29.9
+Boston,479,K-12 School,91562,65.8
+Boston,480,K-12 School,80472,112.7
+Boston,481,Multifamily Housing,223184,252.9
+Boston,482,Multifamily Housing,84410,98.8
+Boston,483,Multifamily Housing,26444,66.1
+Boston,484,Multifamily Housing,31548,63.8
+Boston,485,Multifamily Housing,41632,73.5
+Boston,486,Multifamily Housing,64946,34.4
+Boston,487,Office,76315,79
+Boston,488,Office,80000,70.6
+Boston,489,Multifamily Housing,26000,72.6
+Boston,490,Multifamily Housing,65738,14.1
+Boston,491,Multifamily Housing,18000,111.2
+Boston,492,Multifamily Housing,117241,79.7
+Boston,493,Multifamily Housing,62000,84
+Boston,494,Multifamily Housing,103823,68.1
+Boston,495,Multifamily Housing,36800,124.2
+Boston,496,Multifamily Housing,32568,103.1
+Boston,497,Multifamily Housing,27000,123.1
+Boston,498,Multifamily Housing,39921,82.6
+Boston,499,Multifamily Housing,27080,98
+Boston,500,Multifamily Housing,24555,132.7
+Boston,501,Multifamily Housing,82350,83.4
+Boston,502,Multifamily Housing,75000,83.4
+Boston,503,Multifamily Housing,80000,90.9
+Boston,504,K-12 School,140426,83.4
+Boston,505,K-12 School,25281,59.8
+Boston,506,Office,6067,31.1
+Boston,507,Multifamily Housing,177451,5.1
+Boston,508,Multifamily Housing,58304,94.9
+Boston,509,Multifamily Housing,416976,35.8
+Boston,510,Office,1232000,94.4
+Boston,511,Office,16747,41.6
+Boston,512,Multifamily Housing,110566,81
+Boston,513,Office,152532,47
+Boston,514,Multifamily Housing,100000,19.6
+Boston,515,Multifamily Housing,140316,107.7
+Boston,516,Multifamily Housing,66410,2.9
+Boston,517,Multifamily Housing,206955,40.1
+Boston,518,Office,26137,71.1
+Boston,519,K-12 School,34445,62.6
+Boston,520,K-12 School,122183,46.4
+Boston,521,Multifamily Housing,50634,88
+Boston,522,Multifamily Housing,191967,0.7
+Boston,523,Multifamily Housing,69645,56.5
+Boston,524,K-12 School,113400,106.6
+Boston,525,Multifamily Housing,728652,43.7
+Boston,526,Office,5674,107.3
+Boston,527,Multifamily Housing,94000,45.4
+Boston,528,Multifamily Housing,40000,38.2
+Boston,529,Multifamily Housing,35503,79.7
+Boston,530,Multifamily Housing,59400,49.3
+Boston,531,K-12 School,143173,63.8
+Boston,532,K-12 School,10287,135.8
+Boston,533,Multifamily Housing,35873,83.2
+Boston,534,Multifamily Housing,50985,55.4
+Boston,535,K-12 School,212505,78.5
+Boston,536,Multifamily Housing,24455,75.4
+Boston,537,Multifamily Housing,67527,47.4
+Boston,538,Multifamily Housing,64079,49.6
+Boston,539,Multifamily Housing,17029,97.1
+Boston,540,K-12 School,100500,67.9
+Boston,541,Multifamily Housing,89096,3.1
+Boston,542,K-12 School,81668,53.7
+Boston,543,K-12 School,36400,76.1
+Boston,544,K-12 School,36820,72.8
+Boston,545,K-12 School,35000,83.3
+Boston,546,K-12 School,30000,6.6
+Boston,547,Multifamily Housing,55719,69.5
+Boston,548,Multifamily Housing,77303,48.5
+Boston,549,Multifamily Housing,108163,15.5
+Boston,550,K-12 School,34603,60.8
+Boston,551,K-12 School,51123,52.4
+Boston,552,K-12 School,23320,78.1
+Boston,553,Multifamily Housing,509460,64.3
+Boston,554,K-12 School,225560,97.7
+Boston,555,Multifamily Housing,30053,52.9
+Boston,556,K-12 School,31410,72.1
+Boston,557,K-12 School,67527,26.3
+Boston,558,Multifamily Housing,114305,47.9
+Boston,559,Office,2400,33
+Boston,560,Multifamily Housing,75648,50.6
+Boston,561,Office,51781,54.6
+Boston,562,K-12 School,35055,57.6
+Boston,563,Multifamily Housing,37792,84.7
+Boston,564,Multifamily Housing,107517,113.4
+Boston,565,Multifamily Housing,13507,53.6
+Boston,566,Multifamily Housing,49150,92.5
+Boston,567,Multifamily Housing,476309,109.3
+Boston,568,Multifamily Housing,43281,77.6
+Boston,569,Multifamily Housing,60500,57.2
+Boston,570,Multifamily Housing,51400,64.8
+Boston,571,Multifamily Housing,50544,46
+Boston,572,K-12 School,31654,61.3
+Boston,573,Office,761594,47.8
+Boston,574,Multifamily Housing,590000,54.5
+Boston,575,Multifamily Housing,237984,37.7
+Boston,576,Multifamily Housing,145643,90.7
+Boston,577,Multifamily Housing,323789,32.6
+Boston,578,Multifamily Housing,72800,80.5
+Boston,579,Multifamily Housing,98205,80.8
+Boston,580,Multifamily Housing,100000,60.7
+Boston,581,Multifamily Housing,16357,71.3
+Boston,582,Multifamily Housing,29706,72.7
+Boston,583,Office,1400,157.7
+Boston,584,Multifamily Housing,193816,80.7
+Boston,585,K-12 School,19887,91.4
+Boston,586,Multifamily Housing,100800,29.2
+Boston,587,K-12 School,59196,48.7
+Boston,588,K-12 School,47314,58.5
+Boston,589,Multifamily Housing,73000,66.4
+Boston,590,Multifamily Housing,155892,51.5
+Boston,591,Multifamily Housing,117921,67.6
+Boston,592,K-12 School,108387,49
+Boston,593,Multifamily Housing,187656,101.5
+Boston,594,Multifamily Housing,52350,71
+Boston,595,Multifamily Housing,42420,53.2
+Boston,596,Multifamily Housing,1540954,21.2
+Boston,597,Multifamily Housing,200928,43.1
+Boston,598,Office,7563,79.3
+Boston,599,Multifamily Housing,91557,54.1
+Boston,600,Multifamily Housing,36352,76.2
+Boston,601,Multifamily Housing,25200,79.3
+Boston,602,Multifamily Housing,209882,82.9
+Boston,603,Office,50400,52.1
+Boston,604,Office,5940,95.1
+Boston,605,Multifamily Housing,38370,0.2
+Boston,606,K-12 School,51128,41.3
+Boston,607,K-12 School,58452,19.2
+Boston,608,K-12 School,32216,76.2
+Boston,609,K-12 School,36628,55.9
+Boston,610,K-12 School,23084,89.9
+Boston,611,K-12 School,38993,64.2
+Boston,612,K-12 School,31570,55.3
+Boston,613,Multifamily Housing,181399,62.8
+Boston,614,Multifamily Housing,26010,245.4
+Boston,615,Multifamily Housing,236023,122.8
+Boston,616,Multifamily Housing,76200,49.5
+Boston,617,Multifamily Housing,23667,50.5
+Boston,618,Multifamily Housing,476544,74.3
+Boston,619,Multifamily Housing,138710,72.3
+Boston,620,Multifamily Housing,59580,41.1
+Boston,621,K-12 School,15077,91.7
+Boston,622,Multifamily Housing,70300,108.6
+Boston,623,Multifamily Housing,33360,28.8
+Boston,624,Multifamily Housing,30720,35.6
+Boston,625,K-12 School,137800,133.3
+Boston,626,K-12 School,64313,68.1
+Boston,627,K-12 School,22968,94.7
+Boston,628,Multifamily Housing,93252,129.4
+Boston,629,K-12 School,11212,7.1
+Boston,630,K-12 School,138585,98.4
+Boston,631,K-12 School,60280,55.2
+Boston,632,K-12 School,118893,52.4
+Boston,633,Multifamily Housing,16475,47.6
+Boston,634,Office,64450,52.4
+Boston,635,Multifamily Housing,35502,102.3
+Boston,636,Multifamily Housing,44320,62.2
+Boston,637,Office,87751,114
+Boston,638,K-12 School,42043,78.3
+Boston,639,K-12 School,186589,81
+Boston,640,Multifamily Housing,393839,76.4
+Boston,641,K-12 School,110370,59.1
+Boston,642,K-12 School,207798,110
+Boston,643,Multifamily Housing,15120,80.8
+Boston,644,Multifamily Housing,42519,38.3
+Boston,645,Multifamily Housing,25400,107.2
+Boston,646,Multifamily Housing,445701,16.7
+Boston,647,Multifamily Housing,160836,91
+Boston,648,Office,746766,87.1
+Boston,649,Multifamily Housing,34825,10.2
+Boston,650,Multifamily Housing,44892,57
+Boston,651,Multifamily Housing,72608,60
+Boston,652,Multifamily Housing,155251,80.7
+Boston,653,K-12 School,49194,58.1
+Boston,654,K-12 School,36190,47
+Boston,655,K-12 School,37578,51.3
+Boston,656,K-12 School,93350,105
+Boston,657,Multifamily Housing,18560,71.3
+Boston,658,K-12 School,25068,45.9
+Boston,659,K-12 School,113462,53.1
+Boston,660,Office,222018,75.8
+Boston,661,Multifamily Housing,96000,62.6
+Boston,662,Office,621792,1.3
+Boston,663,Multifamily Housing,51488,17
+Boston,664,Office,1003987,75.7
+Boston,665,Multifamily Housing,204157,76.5
+Boston,666,Multifamily Housing,107340,66
+Boston,667,K-12 School,336545,60.4
+Boston,668,K-12 School,332366,42.1
+Boston,669,Multifamily Housing,79599,100.7
+Boston,670,Multifamily Housing,24662,90.7
+Boston,671,K-12 School,153460,71.7
+Boston,672,Multifamily Housing,158387,98.3
+Boston,673,K-12 School,120944,55.2
+Boston,674,K-12 School,76220,52.9
+Boston,675,Office,757241,68.9
+Boston,676,K-12 School,144008,76.5
+Boston,677,Multifamily Housing,52865,78
+Boston,678,Office,107432,55.8
+Boston,679,Multifamily Housing,121500,50.3
+Boston,680,Multifamily Housing,51000,69.8
+Boston,681,Multifamily Housing,47624,68.4
+Boston,682,Multifamily Housing,40320,66.2
+Boston,683,Multifamily Housing,21235,17.9
+Boston,684,Office,6067,38
+Boston,685,Multifamily Housing,44990,70
+Boston,686,Multifamily Housing,100000,45.7
+Boston,687,Office,236688,69.7
+Boston,688,Multifamily Housing,253788,58
+Boston,689,Office,9611,27.9
+Boston,690,K-12 School,24708,70
+Boston,691,K-12 School,13336,71.7
+Boston,692,Office,776861,42
+Boston,693,Office,971779,66.6
+Boston,694,Office,773445,38.3
+Boston,695,Multifamily Housing,268850,50.9
+Boston,696,Multifamily Housing,291222,102.5
+Boston,697,Multifamily Housing,287111,89.4
+Boston,698,Multifamily Housing,286043,94.7
+Boston,699,Multifamily Housing,498885,72.7
+Boston,700,Multifamily Housing,536912,55.6
+Boston,701,Multifamily Housing,39180,68.1
+Boston,702,Multifamily Housing,452336,141.1
+Boston,703,Multifamily Housing,186929,34.5
+Boston,704,Multifamily Housing,109642,127.3
+Boston,705,K-12 School,22336,72.3
+Boston,706,Multifamily Housing,27344,90.3
+Boston,707,Multifamily Housing,144181,57.4
+Boston,708,Multifamily Housing,186285,40.8
+Boston,709,K-12 School,141091,91.5
+Boston,710,K-12 School,27642,85.1
+Boston,711,Multifamily Housing,134915,63.1
+Boston,712,K-12 School,72200,37.5
+Boston,713,K-12 School,76974,61.7
+Boston,714,K-12 School,171035,94.5
+Boston,715,Multifamily Housing,66308,95.7
+Boston,716,Multifamily Housing,40000,111.2
+Boston,717,Multifamily Housing,52970,51.4
+Boston,718,Multifamily Housing,116200,117.7
+Boston,719,Multifamily Housing,50000,99.7
+Boston,720,Multifamily Housing,80731,62.1
+Boston,721,K-12 School,79082,38.8
+Boston,722,K-12 School,78258,69.9
+Boston,723,K-12 School,19819,78.4
+Boston,724,K-12 School,17299,60.8
+Boston,725,Multifamily Housing,63538,65.9
+Boston,726,Multifamily Housing,12534,114.5
+Boston,727,K-12 School,31892,77.9
+Boston,728,Multifamily Housing,230000,55.4
+Boston,729,Multifamily Housing,42998,136.6
+Boston,730,Multifamily Housing,109288,70.5
+Boston,731,Multifamily Housing,229047,48.3
+Boston,732,Multifamily Housing,123956,45.3
+Boston,733,Multifamily Housing,203500,41.7
+Boston,734,K-12 School,214093,65
+Boston,735,Multifamily Housing,280000,93.6
+Boston,736,Multifamily Housing,362409,59.4
+Boston,737,Multifamily Housing,758542,63.7
+Boston,738,Multifamily Housing,30425,55.2
+Boston,739,Multifamily Housing,98577,61.3
+Boston,740,K-12 School,64400,74.9
+Boston,741,Multifamily Housing,97272,39.9
+Boston,742,Multifamily Housing,88509,61
+Boston,743,Multifamily Housing,102513,50.9
+Boston,744,Multifamily Housing,80222,55.6
+Boston,745,Multifamily Housing,89047,81.2
+Boston,746,Multifamily Housing,102879,47.2
+Boston,747,Multifamily Housing,54950,43.9
+Boston,748,Multifamily Housing,11265,115.8
+Boston,749,Multifamily Housing,86480,58.5
+Boston,750,Multifamily Housing,786880,95.4
+Boston,751,Multifamily Housing,55517,60.5
+Boston,752,Office,117707,39.5
+Boston,753,Multifamily Housing,152987,71.2
+Boston,754,Multifamily Housing,66954,10.2
+Boston,755,Office,2400,24.5
+Boston,756,Multifamily Housing,84000,30.4
+Boston,757,Multifamily Housing,35800,69.2
+Boston,758,K-12 School,16248,71.2
+Boston,759,K-12 School,909764,84.3
+Boston,760,Multifamily Housing,32503,105.9
+Boston,761,Multifamily Housing,26000,87.1
+Boston,762,Multifamily Housing,64204,74.7
+Boston,763,K-12 School,147548,96.4
+Boston,764,Multifamily Housing,40830,67.6
+Boston,765,Office,49247,290.8
+Boston,766,Office,86951,71.8
+Boston,767,K-12 School,76000,90.4
+Boston,768,Multifamily Housing,144479,98.1
+Boston,769,Multifamily Housing,86760,94.9
+Boston,770,Multifamily Housing,184496,122.6
+Boston,771,Multifamily Housing,232496,106.8
+Boston,772,Multifamily Housing,28066,73.2
+Boston,773,Multifamily Housing,35545,103.5
+Boston,774,Multifamily Housing,74156,91
+Boston,775,Multifamily Housing,202996,5.6
+Boston,776,Multifamily Housing,63942,77.5
+Boston,777,Multifamily Housing,9568,548.2
+Boston,778,Multifamily Housing,39048,80.8
+Boston,779,Multifamily Housing,45570,76.6
+Boston,780,Multifamily Housing,31104,81.3
+Boston,781,Office,182653,145.6
+Boston,782,Multifamily Housing,110224,66.4
+Boston,783,K-12 School,24648,49.9
+Boston,784,K-12 School,30381,114.9
+Boston,785,K-12 School,111592,194.7
+Boston,786,Office,97230,67.5
+Boston,787,Multifamily Housing,80754,49.1
+Boston,788,Multifamily Housing,36195,79.4
+Boston,789,Multifamily Housing,17000,46.9
+Boston,790,Office,40000,43.5
+Boston,791,Office,1136283,112.3
+Boston,792,Office,837940,94.6
+Boston,793,Office,156378,60.7
+Boston,794,Office,82876,262.5
+Boston,795,Multifamily Housing,273110,74.2
+Boston,796,Multifamily Housing,326000,109.7
+Boston,797,Office,44287,75.8
+Boston,798,Office,1119373,99.9
+Boston,799,Office,1194138,62.2
+Boston,800,Multifamily Housing,377960,34.4
+Boston,801,Multifamily Housing,301507,55.7
+Boston,802,Multifamily Housing,77529,62.9
+Boston,803,Multifamily Housing,130838,102.7
+Boston,804,Office,1171211,72.3
+Boston,805,Office,173600,48.3
+Boston,806,Office,831283,66.1
+Boston,807,Office,64428,6.8
+Boston,808,Office,114257,64.3
+Boston,809,K-12 School,141872,75.5
+Boston,810,Multifamily Housing,75000,62.9
+Boston,811,K-12 School,35100,49.8
+Boston,812,Multifamily Housing,58320,11.7
+Boston,813,Office,43000,53.9
+Boston,814,Multifamily Housing,58002,94.1
+Boston,815,Multifamily Housing,427586,51.9
+Boston,816,Office,507664,92.6
+Boston,817,Multifamily Housing,61930,68.3
+Boston,818,K-12 School,39586,100.6
+Boston,819,Multifamily Housing,146400,17
+Boston,820,Multifamily Housing,50857,67.8
+Boston,821,Multifamily Housing,320568,73.1
+Boston,822,Multifamily Housing,170531,100.6
+Boston,823,Multifamily Housing,115487,87
+Boston,824,Multifamily Housing,74715,54.5
+Boston,825,K-12 School,28407,69.1
+Boston,826,Multifamily Housing,129236,91.5
+Boston,827,K-12 School,38774,59.5
+Boston,828,Multifamily Housing,23803,93.8
+Boston,829,Multifamily Housing,24432,127.1
+Boston,830,Multifamily Housing,57061,108.3
+Boston,831,Multifamily Housing,75770,70.4
+Boston,832,Multifamily Housing,83148,89
+Boston,833,K-12 School,20062,62.2
+Boston,834,Office,39000,98.9
+Boston,835,Office,64925,77.4
+Boston,836,Office,192000,110.3
+Boston,837,Multifamily Housing,177600,83
+Boston,838,Office,43518,74.9
+Boston,839,Multifamily Housing,50297,87.1
+Boston,840,Multifamily Housing,159661,45
+Boston,841,Multifamily Housing,234934,22.1
+Boston,842,Multifamily Housing,48273,80.3
+Boston,843,Office,1518646,103.1
+Boston,844,Multifamily Housing,48000,104.5
+Boston,845,Multifamily Housing,80000,25.3
+Boston,846,Multifamily Housing,37148,68.7
+Boston,847,K-12 School,212079,72.6
+Boston,848,K-12 School,17640,48.7
+Boston,849,Multifamily Housing,49650,48.1
+Boston,850,Multifamily Housing,32472,97.8
+Boston,851,K-12 School,16960,46.7
+Boston,852,Multifamily Housing,123197,65.1
+Boston,853,Multifamily Housing,253701,47.8
+Boston,854,Office,210669,65.8
+Boston,855,Office,157421,107.4
+Boston,856,Multifamily Housing,225370,61.7
+Boston,857,Multifamily Housing,157450,24.4
+Boston,858,Multifamily Housing,47300,207.2
+Boston,859,Multifamily Housing,291380,28.6
+Boston,860,Multifamily Housing,46834,61
+Boston,861,Multifamily Housing,64400,125
+Boston,862,Multifamily Housing,35500,137.7
+Boston,863,Office,60000,48.7
+Boston,864,Multifamily Housing,43425,52.1
+Boston,865,Office,27782,77.5
+Boston,866,Multifamily Housing,71450,60.8
+Boston,867,Multifamily Housing,71450,55.3
+Boston,868,Multifamily Housing,32980,61.7
+Boston,869,K-12 School,108832,50.6
+Boston,870,Multifamily Housing,376000,55
+Boston,871,K-12 School,40268,77.5
+Boston,872,Multifamily Housing,82142,85.1
+Boston,873,Multifamily Housing,47437,77.9
+Boston,874,Multifamily Housing,34700,64.9
+Boston,875,Multifamily Housing,132744,64.9
+Boston,876,Multifamily Housing,231152,60.7
+Boston,877,Multifamily Housing,124719,92.8
+Boston,878,Multifamily Housing,35355,203.6
+Boston,879,Multifamily Housing,27516,71.4
+Boston,880,Multifamily Housing,40425,59.1
+Boston,881,K-12 School,53585,128.1
+Boston,882,Multifamily Housing,102004,83.4
+Boston,883,Office,86000,71.5
+Boston,884,K-12 School,60000,52.6
+Boston,885,K-12 School,61000,15.4
+Boston,886,K-12 School,60000,43.2
+Boston,887,Multifamily Housing,310000,33.8
+Boston,888,Multifamily Housing,34484,119.7
+Boston,889,Multifamily Housing,117715,57
+Boston,890,K-12 School,37680,9.4
+Boston,891,Office,613624,61.7
+Boston,892,Multifamily Housing,13146,147.9
+Boston,893,Office,50300,83
+Boston,894,Multifamily Housing,205000,45.1
+Boston,895,Multifamily Housing,71027,29.3
+Boston,896,Multifamily Housing,60077,59.9
+Boston,897,K-12 School,32706,48.7
+Boston,898,K-12 School,93374,58.4
+Boston,899,Multifamily Housing,91379,4.8
+Boston,900,Multifamily Housing,80255,31.5
+Boston,901,Multifamily Housing,62562,26.8
+Boston,902,Multifamily Housing,58562,34.7
+Boston,903,Multifamily Housing,12000,7.8
+Boston,904,Multifamily Housing,83815,33
+Boston,905,Office,90000,53.3
+Boston,906,Multifamily Housing,103792,65.2
+Boston,907,K-12 School,36400,36.8
+Boston,908,Multifamily Housing,318600,74.4
+Boston,909,Multifamily Housing,155880,65
+Boston,910,Multifamily Housing,51000,104.3
+Boston,911,K-12 School,160270,16.5
+Boston,912,Multifamily Housing,85986,26
+Boston,913,Multifamily Housing,135160,26.2
+Boston,914,Multifamily Housing,51897,62.9
+Boston,915,Multifamily Housing,172770,68.8
+Boston,916,Multifamily Housing,159042,24.6
+Boston,917,Multifamily Housing,140932,64.7
+Boston,918,Multifamily Housing,46200,108.6
+Boston,919,Multifamily Housing,85828,61
+Boston,920,Multifamily Housing,13510,35.3
+Boston,921,Multifamily Housing,25701,68.4
+Boston,922,Multifamily Housing,459000,75.2
+Boston,923,Multifamily Housing,77407,73
+Boston,924,Multifamily Housing,51700,79.1
+Boston,925,K-12 School,49105,52.2
+Boston,926,Multifamily Housing,95501,45.4
+Boston,927,Multifamily Housing,72000,46.5
+Boston,928,Multifamily Housing,154105,66.5
+Boston,929,Multifamily Housing,174779,76.9
+Boston,930,K-12 School,113199,57.1
+Boston,931,Multifamily Housing,249026,113.7
+Boston,932,Multifamily Housing,45883,69.4
+Boston,933,Multifamily Housing,42336,88.4
+Boston,934,K-12 School,51389,51.7
+Boston,935,Office,52688,64.4
+Boston,936,Multifamily Housing,327174,53.6
+Boston,937,Office,87228,60.7
+Boston,938,Multifamily Housing,21976,104.1
+Boston,939,Multifamily Housing,18322,95.9
+Boston,940,Office,104690,65.2
+Boston,941,Multifamily Housing,42860,81.2
+Boston,942,Multifamily Housing,298470,109.8
+Boston,943,Multifamily Housing,102966,78.4
+Boston,944,Multifamily Housing,36187,50.7
+Boston,945,Multifamily Housing,186139,58.2
+Boston,946,Office,68000,39.2
+Boston,947,Multifamily Housing,172000,140.2
+Boston,948,Multifamily Housing,53000,65.8
+Boston,949,Office,212515,81.6
+Boston,950,Multifamily Housing,104829,26.5
+Boston,951,Multifamily Housing,33324,93.5
+Boston,952,Multifamily Housing,246242,54.1
+Boston,953,Multifamily Housing,786432,28.3
+Boston,954,Multifamily Housing,189800,46.1
+Boston,955,Multifamily Housing,315480,63.1
+Boston,956,Office,366650,45.9
+Boston,957,Multifamily Housing,167113,99.4
+Boston,958,Office,83307,126.2
+Boston,959,Multifamily Housing,350000,60.3
+Boston,960,Multifamily Housing,35000,82.2
+Boston,961,Multifamily Housing,165000,30.4
+Boston,962,Multifamily Housing,92720,49
+Boston,963,K-12 School,220700,87.7
+Boston,964,Multifamily Housing,66863,42.2
+Boston,965,Multifamily Housing,47454,44.2
+Boston,966,Multifamily Housing,135344,73.9
+Boston,967,Multifamily Housing,45000,63.3
+Boston,968,Multifamily Housing,98982,52.2
+Boston,969,Multifamily Housing,231139,66.9
+Boston,970,Multifamily Housing,272845,56.7
+Boston,971,K-12 School,75508,63.5
+Boston,972,Office,117469,57.6
+Boston,973,Office,33942,67.3
+Boston,974,Office,53100,89.6
+Boston,975,Office,32384,11.6
+Boston,976,Office,73363,70
+Boston,977,Multifamily Housing,27300,3.9
+Boston,978,K-12 School,83120,43
+Boston,979,K-12 School,64091,77.1
+Boston,980,Office,156510,82.8
+Boston,981,Multifamily Housing,994177,40.8
+Boston,982,Multifamily Housing,517000,45.6
+Boston,983,Multifamily Housing,156534,46.6
+Boston,984,Multifamily Housing,125000,55.2
+Boston,985,Multifamily Housing,94855,59.9
+Boston,986,Multifamily Housing,74698,49.2
+Boston,987,Multifamily Housing,177636,124.6
+Boston,988,K-12 School,79600,79.7
+Boston,989,Multifamily Housing,361800,45.6
+Boston,990,Multifamily Housing,60000,49.3
+Boston,991,Multifamily Housing,222191,65.1
+Boston,992,Multifamily Housing,94785,167.6
+Boston,993,Office,234475,89.8
+Boston,994,Office,96393,92.6
+Boston,995,Office,851195,77
+Boston,996,Office,579016,47.5
+Boston,997,K-12 School,120000,73.6
+Boston,998,Multifamily Housing,38720,82.3
+Boston,999,Multifamily Housing,140889,86.9
+Boston,1000,K-12 School,169000,147.9
+Boston,1001,Multifamily Housing,228988,86.5
+Boston,1002,Multifamily Housing,250000,14.7
+Boston,1003,Office,74500,96.3
+Boston,1004,Multifamily Housing,60843,42.1
+Boston,1005,Multifamily Housing,60348,47.1
+Boston,1006,K-12 School,91425,63
+Boston,1007,Multifamily Housing,66383,51.5
+Boston,1008,Multifamily Housing,35772,55.3
+Boston,1009,Multifamily Housing,330550,113.3
+Boston,1010,Multifamily Housing,78545,49.4
+Boston,1011,Multifamily Housing,63968,87.2
+Boston,1012,Multifamily Housing,24700,179.3
+Boston,1013,Multifamily Housing,29096,48.6
+Boston,1014,Multifamily Housing,27261,69.3
+Boston,1015,Multifamily Housing,80055,85.1
+Boston,1016,K-12 School,59330,53
+Boston,1017,Multifamily Housing,22400,113.1
+Boston,1018,Multifamily Housing,79766,33.8
+Boston,1019,Office,118094,67.1
+Boston,1020,Multifamily Housing,52416,82.1
+Boston,1021,Multifamily Housing,154240,11.9
+Boston,1022,Office,251464,91.3
+Boston,1023,Multifamily Housing,342500,42.6
+Boston,1024,Multifamily Housing,41739,61.7
+Boston,1025,Multifamily Housing,187885,44.2
+Boston,1026,Multifamily Housing,61123,38.8
+Boston,1027,Multifamily Housing,96236,98
+Boston,1028,Multifamily Housing,35624,60.2
+Boston,1029,Multifamily Housing,78266,76.2
+Boston,1030,Multifamily Housing,371580,79.8
+Boston,1031,Multifamily Housing,253957,60
+Boston,1032,Multifamily Housing,40752,55.8
+Boston,1033,K-12 School,227030,136.6
+Boston,1034,Multifamily Housing,351089,32.7
+Boston,1035,Multifamily Housing,114949,49.7
+Boston,1036,Multifamily Housing,41760,23.8
+Boston,1037,K-12 School,55351,48.5
+Boston,1038,Multifamily Housing,696351,66.1
+Boston,1039,Multifamily Housing,70756,70.6
+Boston,1040,Office,6377,60.6
+Boston,1041,Multifamily Housing,287000,52.5
+Boston,1042,K-12 School,97130,68.7
+Boston,1043,Multifamily Housing,120295,76
+Boston,1044,K-12 School,41016,62.6
+Boston,1045,K-12 School,43456,64.9
+Boston,1046,Multifamily Housing,49064,85.5
+Boston,1047,Office,130000,44.4
+Boston,1048,Office,486760,72.8
+Boston,1049,Office,551185,91.2
+Boston,1050,Office,6290,58.8
+Boston,1051,Multifamily Housing,118301,27.6
+Boston,1052,Multifamily Housing,39384,94.3
